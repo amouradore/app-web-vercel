@@ -32,6 +32,4 @@ jobs:
         git config user.email "actions@github.com"
         git add lista.m3u
         git diff --quiet --exit-code || git commit -m "Automated: Update lista.m3u"
-        git push # Utilise le token par défaut configuré par checkout
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        git push
