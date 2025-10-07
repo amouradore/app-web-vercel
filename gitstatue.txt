@@ -1,47 +1,47 @@
-(base) PS C:\Users\DELL\Desktop\app2> git status
+git add webapp/package.json
+fatal: Pathspec 'webapp/package.json' is in submodule 'webapp'
+(base) PS C:\Users\DELL\Desktop\app2>  git commit -m "Fix: Add prebuild script to copy lista.m3u to
+>>   webapp/public"
 On branch main
 Your branch is up to date with 'origin/main'.
 
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+        modified:   gitstatue.txt
+        modified:   lista.m3u
+        modified:   webapp (modified content, untracked content)
+
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
-        .gitattributes
-        .github/
-        LOGOS-CANALES-TV.xml
-        LOGOS-LIGAS.xml
-        arriereplan.png
-        canales_acestream.m3u
-        eventos_livetv_sx.xml
-        eventos_livetv_sx_con_reproductores.xml
-        lista.m3u
-        lista_agenda_DEPORTE-LIBRE.FANS.xml
-        lista_canales_DEPORTE-LIBRE.FANS.xml
-        lista_icastresana.m3u
-        lista_reproductor_web.m3u
-        lista_reproductor_web.xml
-        lista_scraper_acestream_api.m3u
-        lista_sportsonlineci.xml
-        listas_con_logos_google.xml
-        logos.xml
-        logos_icastresana.xml
-        openmoji_logos.txt
-        requirements.txt
-        resumen_procesamiento.json
-        script.py
-        script_agenda_DEPORTE-LIBRE.FANS.py
-        script_canales_DEPORTE-LIBRE.FANS.py
-        script_canales_acestream.py
-        script_detector_deportes.py
-        script_detector_mistral.py
-        script_lista_icastresana.py
-        script_lista_livetv_sx.py
-        script_lista_livetv_sx_reproductores.py
-        script_lista_sportsonlineci.py
-        script_logo.py
-        script_logo_icastresana.py
-        script_reproductor_web.py
-        script_scraper_acestream_api.py
-        vercel.txt
-        webapp/
+        action1.png
+        action2.png
+        allworkf.jpg
+        branche.jpg
+        image.png
+        lista.png
+        logs.png
+        mondepot.png
+        page.png
 
-nothing added to commit but untracked files present (use "git add" to track)
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) PS C:\Users\DELL\Desktop\app2>  git push -u origin main
+To https://github.com/amouradore/app-web-vercel.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/amouradore/app-web-vercel.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+(base) PS C:\Users\DELL\Desktop\app2> git push
+To https://github.com/amouradore/app-web-vercel.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/amouradore/app-web-vercel.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 (base) PS C:\Users\DELL\Desktop\app2>
