@@ -27,9 +27,11 @@ jobs:
       run: python script.py
 
     - name: Commit and push changes
-      run: |
-        git config user.name "GitHub Actions"
-        git config user.email "actions@github.com"
-        git add lista.m3u
-        git diff --quiet --exit-code || git commit -m "Automated: Update lista.m3u"
-        git push
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Automated: Update lista.m3u
+        file_pattern: lista.m3u
+        commit_user_name: GitHub Actions
+        commit_user_email: actions@github.com
+        commit_author: GitHub Actions <actions@github.com>
+        push_options: --force # Utilise --force pour s'assurer que le push passe si l'historique diverge légèrement
