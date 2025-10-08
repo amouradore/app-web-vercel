@@ -15,7 +15,6 @@
   },
   "scripts": {
     "postinstall": "npm install --prefix webapp",
-    "prebuild": "cp ../lista.m3u public/lista.m3u",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
