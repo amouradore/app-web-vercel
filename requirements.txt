@@ -2,7 +2,7 @@ requests
 transformers
 torch
 transformers>=4.36.0
-protobuf
+protobuf>=4.21.0
 sentencepiece
 tiktoken
 beautifulsoup4
