@@ -43,7 +43,7 @@ function App() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch('/lista.m3u')
+    fetch('https://raw.githubusercontent.com/amouradore/app-web-vercel/main/lista.m3u')
       .then(response => response.text())
       .then(data => {
         const lines = data.split('\n');
