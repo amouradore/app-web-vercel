@@ -534,11 +534,9 @@ function App() {
                       <h3 className="competition-title">{selectedGroupName}</h3>
                       <div className="tv-channels-grid">
                         {selectedTvGroup.map((channel, index) => (
-                          <div key={channel.contentId || index} className="match-card" onClick={() => handleChannelClick(channel)}>
-                            <div className="match-card-content">
-                              <img src={channel.logo} className="channel-logo-large" alt={channel.name} onError={(e) => { e.target.onerror = null; e.target.src='https://via.placeholder.com/80' }}/>
-                              <div className="info-text-large">{channel.name}</div>
-                            </div>
+                          <div key={channel.contentId || index} className="tv-channel-card" onClick={() => handleChannelClick(channel)}>
+                            <img src={channel.logo} className="tv-channel-logo" alt={channel.name} onError={(e) => { e.target.onerror = null; e.target.src='https://via.placeholder.com/80' }}/>
+                            <div className="tv-channel-name">{channel.name}</div>
                             <a 
                               href={channel.acestreamUrl} 
                               className="play-link"

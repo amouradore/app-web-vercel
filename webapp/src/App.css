@@ -195,7 +195,7 @@ body {
 /* Styles pour les groupes de chaînes TV */
 .tv-channels-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 1rem;
   margin-top: 1rem;
 }
@@ -300,6 +300,104 @@ body {
   box-shadow: 0 4px 10px rgba(33, 150, 243, 0.4);
 }
 
+.tabs-navigation {
+  margin-bottom: 1rem;
+}
+
+.tabs-navigation .nav-tabs {
+  border-bottom: 1px solid #444;
+}
+
+.tabs-navigation .nav-link {
+  border: 1px solid transparent;
+  border-top-left-radius: 0.375rem;
+  border-top-right-radius: 0.375rem;
+  color: #adb5bd;
+  background-color: #2d2d2d;
+  cursor: pointer;
+}
+
+.tabs-navigation .nav-link:hover {
+  border-color: #444;
+  background-color: #333;
+}
+
+.tabs-navigation .nav-link.active {
+  color: #e0e0e0;
+  background-color: #1a1a1a;
+  border-color: #444 #444 #1a1a1a;
+  font-weight: bold;
+}
+
+.ad-space {
+  min-height: 100vh;
+  color: #e0e0e0;
+}
+
+.alert-info {
+  background-color: #282c34;
+  color: #e0e0e0;
+  border-color: #444;
+}
+
+.alert-link {
+  color: #87ceeb;
+}
+
+/* Styles pour la vue des chaînes individuelles */
+.tv-channel-card {
+  background-color: #2d2d2d;
+  border-radius: 12px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between; /* Change to space-between */
+  text-decoration: none;
+  border: 1px solid #444;
+  transition: transform 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  height: 100%; /* Make cards of equal height */
+}
+
+.tv-channel-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  background-color: #333333;
+}
+
+.tv-channel-logo {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  margin-bottom: 0.75rem;
+  border-radius: 8px;
+}
+
+.tv-channel-name {
+  color: #e0e0e0;
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  flex-grow: 1; /* Allow name to take available space */
+  /* Gérer les noms longs */
+  white-space: normal; /* Allow wrapping */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* Limit to 2 lines */
+  -webkit-box-orient: vertical;
+  width: 100%;
+}
+
+/* Ajuster le bouton play pour ce contexte */
+.tv-channel-card .play-link {
+  width: 80%;
+  margin-top: auto; /* Pousse le bouton vers le bas */
+}
+
 /* Adaptation pour mobile */
 @media (min-width: 769px) {
   .match-card {
@@ -322,296 +420,6 @@ body {
   }
 }
 
-/* Styles pour les chaînes TV */
-.tv-channels-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 1rem;
-  margin-top: 1rem;
-}
-
-.tv-channel-card {
-  background-color: #f8f8f8;
-  color: #333;
-  border-radius: 12px;
-  padding: 1rem;
-  display: flex;
-  align-items: center;
-  text-decoration: none;
-  border: 1px solid #444;
-  transition: transform 0.2s, box-shadow 0.2s;
-  cursor: pointer;
-  position: relative;
-}
-
-.tv-channel-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-  background-color: #333333;
-  color: #333;
-}
-
-.tv-channel-content {
-  display: flex;
-  align-items: center;
-  flex: 1;
-}
-
-.tv-channel-logo {
-  width: 50px;
-  height: 50px;
-  object-fit: contain;
-  border-radius: 50%;
-  border: 1px solid #ccc;
-  margin-right: 1rem;
-}
-
-.tv-channel-info {
-  display: flex;
-  flex-direction: column;
-  flex: 1;
-}
-
-.tv-channel-name {
-  font-size: 1.1rem;
-  font-weight: bold;
-  margin-bottom: 0.25rem;
-}
-
-.tv-channel-details {
-  display: flex;
-  gap: 0.5rem;
-  font-size: 0.8rem;
-  color: #666;
-}
-
-.tv-channel-language,
-.tv-channel-country {
-  background-color: #e9ecef;
-  padding: 0.1rem 0.4rem;
-  border-radius: 4px;
-}
-
-.tv-play-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  background-color: #007bff;
-  color: white;
-  text-decoration: none;
-  padding: 0.5rem 1rem;
-  border-radius: 4px;
-  font-weight: bold;
-  transition: background-color 0.2s;
-  margin-left: 1rem;
-}
-
-.tv-play-link:hover {
-  background-color: #0056b3;
-  color: white;
-  text-decoration: none;
-}
-
-.tabs-navigation {
-  margin-bottom: 1rem;
-}
-
-.tabs-navigation .nav-tabs {
-  border-bottom: 1px solid #dee2e6;
-}
-
-.tabs-navigation .nav-link {
-  border: 1px solid transparent;
-  border-top-left-radius: 0.375rem;
-  border-top-right-radius: 0.375rem;
-  color: #495057;
-  background-color: #f8f9fa;
-  cursor: pointer;
-}
-
-.tabs-navigation .nav-link:hover {
-  border-color: #e9ecef #e9ecef #dee2e6;
-  background-color: #e9ecef;
-}
-
-.tabs-navigation .nav-link.active {
-  color: #495057;
-  background-color: #fff;
-  border-color: #dee2e6 #dee2e6 #fff;
-  font-weight: bold;
-}
-
-.competition-section {
-  margin-bottom: 2rem;
-  border-bottom: 1px solid #dee2e6;
-  padding-bottom: 1rem;
-}
-
-.competition-title {
-  color: #FFC107;
-  font-size: 1.4rem;
-  margin-bottom: 0.75rem;
-  padding-bottom: 0.25rem;
-  border-bottom: 2px solid #FFC107;
-  text-align: center;
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-}
-
-.match-card {
-  background-color: #f8f8f8;
-  color: #333;
-  border-radius: 12px;
-  margin-bottom: 0.75rem;
-  padding: 1rem;
-  display: flex;
-  align-items: center;
-  text-decoration: none;
-  border: 1px solid #444;
-  transition: transform 0.2s, box-shadow 0.2s;
-  cursor: pointer;
-  position: relative;
-}
-
-.match-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-  background-color: #333333;
-  color: #333;
-}
-
-.match-card-content {
-  display: flex;
-  align-items: center;
-  flex: 1;
-}
-
-.team-section {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  min-width: 80px;
-  flex: 1;
-  text-align: center;
-}
-
-.team-section.left {
-  align-items: flex-end;
-  text-align: right;
-  order: 1;
-}
-
-.vs-divider {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  order: 2;
-  margin: 0 0.25rem;
-  min-width: 30px;
-}
-
-.vs-text {
-  font-size: 0.9rem;
-  font-weight: bold;
-  color: #FFC107;
-  text-align: center;
-}
-
-.team-section.right {
-  align-items: flex-start;
-  text-align: left;
-  order: 3;
-}
-
-.team-name {
-  font-size: 0.95rem;
-  font-weight: 600;
-  margin-bottom: 0.25rem;
-  text-align: center;
-  max-width: 100px;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.info-section {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  min-width: 80px;
-  margin: 0 1rem;
-  text-align: center;
-}
-
-.info-text {
-  text-align: center;
-  margin-bottom: 0.25rem;
-}
-
-.match-time {
-  font-size: 0.9rem;
-  font-weight: bold;
-  color: #4CAF50;
-  margin-bottom: 0.25rem;
-}
-
-.match-competition {
-  font-size: 0.75rem;
-  color: #FF9800;
-  margin-bottom: 0.25rem;
-}
-
-.match-channel {
-  font-size: 0.75rem;
-  color: #9E9E9E;
-  text-align: center;
-}
-
-.channel-logo {
-  width: 35px;
-  height: 35px;
-  object-fit: contain;
-  border-radius: 50%;
-  border: 1px solid #ccc;
-  margin-bottom: 0.25rem;
-}
-
-.play-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  background-color: #007bff;
-  color: white;
-  text-decoration: none;
-  padding: 0.5rem 1rem;
-  border-radius: 4px;
-  font-weight: bold;
-  transition: background-color 0.2s;
-  margin-left: 1rem;
-}
-
-.play-link:hover {
-  background-color: #0056b3;
-  color: white;
-  text-decoration: none;
-}
-
-.ad-space {
-  min-height: 100vh;
-  color: #e0e0e0;
-}
-
-.alert-info {
-  background-color: #282c34;
-  color: #e0e0e0;
-  border-color: #444;
-}
-
-.alert-link {
-  color: #87ceeb;
-}
-
-/* Adaptation pour mobile */
 @media (max-width: 768px) {
   .match-card {
     flex-direction: column;
