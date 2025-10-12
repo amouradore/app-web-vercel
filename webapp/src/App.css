@@ -1,56 +1,570 @@
 body {
-  background-color: #1a1a1a; /* Fond gris très foncé */
-  color: #e0e0e0; /* Texte clair pour contraster */
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }
 
 .match-card {
-  background-color: #f8f8f8; /* Gris très clair inspiré de l'image */
-  color: #333; /* Texte sombre pour contraster avec le fond clair de la carte */
+  background-color: #2d2d2d;
+  color: #ffffff;
   border-radius: 12px;
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
   padding: 1rem;
   display: flex;
   align-items: center;
-  justify-content: space-between;
   text-decoration: none;
-  border: 1px solid #444; /* Bordure plus foncée pour le contraste */
+  border: 1px solid #444;
   transition: transform 0.2s, box-shadow 0.2s;
   cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.match-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  background-color: #333333;
+}
+
+.match-card-content {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 0.5rem;
+  justify-content: space-around;
+  margin-bottom: 0.5rem;
+}
+
+.team-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 80px;
+  flex: 1;
+  text-align: center;
+}
+
+.team-section.left {
+  align-items: flex-end;
+  text-align: right;
+  order: 1;
+}
+
+.vs-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  order: 2;
+  margin: 0 0.25rem;
+  min-width: 30px;
+}
+
+.vs-text {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #FFC107;
+  text-align: center;
+}
+
+.team-section.right {
+  align-items: flex-start;
+  text-align: left;
+  order: 3;
+}
+
+.team-name {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+  text-align: center;
+  max-width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.info-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 80px;
+  width: 100%;
+  margin: 0.5rem 0;
+}
+
+.info-text {
+  text-align: center;
+  margin-bottom: 0.25rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.match-time {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #4CAF50;
+  margin-bottom: 0.25rem;
+}
+
+.match-competition {
+  font-size: 0.75rem;
+  color: #FF9800;
+  margin-bottom: 0.25rem;
+}
+
+.match-channel {
+  font-size: 0.75rem;
+  color: #9E9E9E;
+  text-align: center;
+}
+
+.play-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(45deg, #2196F3, #21CBF3);
+  color: white;
+  text-decoration: none;
+  padding: 0.6rem 1rem;
+  border-radius: 25px;
+  font-weight: bold;
+  transition: all 0.3s ease;
+  font-size: 0.85rem;
+  min-width: 80px;
+  box-shadow: 0 2px 5px rgba(33, 150, 243, 0.3);
+  width: 100%;
+  margin-top: 0.5rem;
+  max-width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.play-link:hover {
+  background: linear-gradient(45deg, #1976D2, #03A9F4);
+  color: white;
+  text-decoration: none;
+  transform: scale(1.05);
+  box-shadow: 0 4px 10px rgba(33, 150, 243, 0.4);
+}
+
+.channel-logo {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  border-radius: 50%;
+  border: 1px solid #666;
+  margin-bottom: 0.25rem;
+}
+
+.competition-section {
+  margin-bottom: 1.5rem;
+}
+
+.competition-title {
+  color: #FFC107;
+  font-size: 1.1rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid #FFC107;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.competition-logo {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  border-radius: 50%;
+}
+
+.ad-space {
+  display: none;
+}
+
+/* Styles pour les groupes de chaînes TV */
+.tv-channels-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.tv-group-card {
+  background-color: #2d2d2d;
+  color: #ffffff;
+  border-radius: 12px;
+  margin-bottom: 0.75rem;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  border: 1px solid #444;
+  transition: transform 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  position: relative;
+}
+
+.tv-group-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.tv-group-content {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 0.5rem;
+}
+
+.tv-group-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+}
+
+.tv-group-name {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+  text-align: center;
+  color: #FFC107;
+}
+
+.tv-group-count {
+  font-size: 0.9rem;
+  color: #9E9E9E;
+  text-align: center;
+}
+
+.tv-group-channels-preview {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin: 0.5rem 0;
+  width: 100%;
+}
+
+.tv-group-channel-logo {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+}
+
+.tv-group-more {
+  font-size: 0.8rem;
+  color: #FFC107;
+  font-weight: bold;
+}
+
+.tv-group-play-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: linear-gradient(45deg, #2196F3, #21CBF3);
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  font-weight: bold;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+  min-width: 120px;
+  box-shadow: 0 2px 5px rgba(33, 150, 243, 0.3);
+  margin-top: 0.5rem;
+}
+
+.tv-group-play-link:hover {
+  background: linear-gradient(45deg, #1976D2, #03A9F4);
+  color: white;
+  text-decoration: none;
+  transform: scale(1.05);
+  box-shadow: 0 4px 10px rgba(33, 150, 243, 0.4);
+}
+
+/* Adaptation pour mobile */
+@media (min-width: 769px) {
+  .match-card {
+    flex-direction: row;
+  }
+  
+  .match-card-content {
+    margin-bottom: 0;
+  }
+  
+  .info-section {
+    margin: 0 1rem;
+    width: auto;
+  }
+  
+  .play-link {
+    width: auto;
+    margin: 0 0 0 auto;
+    max-width: none;
+  }
+}
+
+/* Styles pour les chaînes TV */
+.tv-channels-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.tv-channel-card {
+  background-color: #f8f8f8;
+  color: #333;
+  border-radius: 12px;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  border: 1px solid #444;
+  transition: transform 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+  position: relative;
+}
+
+.tv-channel-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  background-color: #333333;
+  color: #333;
+}
+
+.tv-channel-content {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+
+.tv-channel-logo {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  margin-right: 1rem;
+}
+
+.tv-channel-info {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.tv-channel-name {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+}
+
+.tv-channel-details {
+  display: flex;
+  gap: 0.5rem;
+  font-size: 0.8rem;
+  color: #666;
+}
+
+.tv-channel-language,
+.tv-channel-country {
+  background-color: #e9ecef;
+  padding: 0.1rem 0.4rem;
+  border-radius: 4px;
+}
+
+.tv-play-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: background-color 0.2s;
+  margin-left: 1rem;
+}
+
+.tv-play-link:hover {
+  background-color: #0056b3;
+  color: white;
+  text-decoration: none;
+}
+
+.tabs-navigation {
+  margin-bottom: 1rem;
+}
+
+.tabs-navigation .nav-tabs {
+  border-bottom: 1px solid #dee2e6;
+}
+
+.tabs-navigation .nav-link {
+  border: 1px solid transparent;
+  border-top-left-radius: 0.375rem;
+  border-top-right-radius: 0.375rem;
+  color: #495057;
+  background-color: #f8f9fa;
+  cursor: pointer;
+}
+
+.tabs-navigation .nav-link:hover {
+  border-color: #e9ecef #e9ecef #dee2e6;
+  background-color: #e9ecef;
+}
+
+.tabs-navigation .nav-link.active {
+  color: #495057;
+  background-color: #fff;
+  border-color: #dee2e6 #dee2e6 #fff;
+  font-weight: bold;
+}
+
+.competition-section {
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #dee2e6;
+  padding-bottom: 1rem;
+}
+
+.competition-title {
+  color: #FFC107;
+  font-size: 1.4rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 2px solid #FFC107;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.match-card {
+  background-color: #f8f8f8;
+  color: #333;
+  border-radius: 12px;
+  margin-bottom: 0.75rem;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  border: 1px solid #444;
+  transition: transform 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+  position: relative;
 }
 
 .match-card:hover {
   transform: translateY(-3px);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  background-color: #333333;
   color: #333;
 }
 
-.team-section {
-  flex: 1;
+.match-card-content {
   display: flex;
   align-items: center;
+  flex: 1;
+}
+
+.team-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 80px;
+  flex: 1;
+  text-align: center;
+}
+
+.team-section.left {
+  align-items: flex-end;
+  text-align: right;
+  order: 1;
+}
+
+.vs-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  order: 2;
+  margin: 0 0.25rem;
+  min-width: 30px;
+}
+
+.vs-text {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #FFC107;
+  text-align: center;
 }
 
 .team-section.right {
-  justify-content: flex-end;
+  align-items: flex-start;
+  text-align: left;
+  order: 3;
 }
 
 .team-name {
-  font-size: 1.3rem; /* Taille plus grande */
-  font-weight: bold;
-  margin: 0 1rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+  text-align: center;
+  max-width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .info-section {
-  flex-basis: 220px;
   display: flex;
-  flex-direction: column; /* Empiler verticalement */
-  align-items: center; /* Centrer horizontalement */
-  justify-content: center;
-  gap: 5px; /* Espacement réduit entre les éléments */
+  flex-direction: column;
+  align-items: center;
+  min-width: 80px;
+  margin: 0 1rem;
+  text-align: center;
 }
 
 .info-text {
-  text-align: center; /* Centrer le texte */
+  text-align: center;
+  margin-bottom: 0.25rem;
+}
+
+.match-time {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #4CAF50;
+  margin-bottom: 0.25rem;
+}
+
+.match-competition {
+  font-size: 0.75rem;
+  color: #FF9800;
+  margin-bottom: 0.25rem;
+}
+
+.match-channel {
+  font-size: 0.75rem;
+  color: #9E9E9E;
+  text-align: center;
 }
 
 .channel-logo {
@@ -59,30 +573,112 @@ body {
   object-fit: contain;
   border-radius: 50%;
   border: 1px solid #ccc;
+  margin-bottom: 0.25rem;
 }
 
-.match-time {
-  font-size: 1.2rem;
+.play-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
   font-weight: bold;
+  transition: background-color 0.2s;
+  margin-left: 1rem;
 }
 
-.match-channel {
-  font-size: 0.8rem;
-  color: #666;
-  margin-top: 0; /* Ajustement de la marge */
+.play-link:hover {
+  background-color: #0056b3;
+  color: white;
+  text-decoration: none;
 }
 
 .ad-space {
   min-height: 100vh;
-  color: #e0e0e0; /* Texte clair pour les pubs */
+  color: #e0e0e0;
 }
 
 .alert-info {
-    background-color: #282c34; /* Fond sombre pour l'alerte */
-    color: #e0e0e0; /* Texte clair */
-    border-color: #444; /* Bordure sombre */
+  background-color: #282c34;
+  color: #e0e0e0;
+  border-color: #444;
 }
 
 .alert-link {
-    color: #87ceeb; /* Couleur de lien plus visible */
+  color: #87ceeb;
+}
+
+/* Adaptation pour mobile */
+@media (max-width: 768px) {
+  .match-card {
+    flex-direction: column;
+    align-items: stretch;
+    padding: 0.75rem;
+  }
+  
+  .match-card-content {
+    margin-bottom: 0.5rem;
+  }
+  
+  .team-section {
+    justify-content: center;
+    margin-bottom: 0.25rem;
+  }
+  
+  .team-section.right {
+    margin-top: 0.25rem;
+  }
+  
+  .info-section {
+    margin: 0.5rem 0;
+  }
+  
+  .play-link {
+    align-self: center;
+    margin: 0.5rem auto;
+  }
+  
+  .team-name {
+    font-size: 0.9rem;
+    margin: 0 0.1rem;
+  }
+  
+  .match-time {
+    font-size: 0.85rem;
+  }
+  
+  .match-channel {
+    font-size: 0.7rem;
+  }
+  
+  .channel-logo {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .competition-title {
+    font-size: 1.2rem;
+  }
+  
+  .container {
+    padding: 0 0.5rem;
+  }
+  
+  .match-card-content {
+    margin-bottom: 0;
+  }
+  
+  .info-section {
+    margin: 0 1rem;
+    width: auto;
+  }
+  
+  .play-link {
+    width: auto;
+    margin: 0 0 0 auto;
+    max-width: none;
+  }
 }
