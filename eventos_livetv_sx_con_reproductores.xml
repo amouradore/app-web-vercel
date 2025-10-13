@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2025-10-13 23:30:05" total="45">
+<eventos generado="2025-10-13 23:41:04" total="45">
   <evento id="1">
     <nombre>Volta Redonda –  Atlético-GO</nombre>
     <deporte>Fútbol</deporte>
@@ -10,16 +10,16 @@
     <datetime_iso>2025-10-13T00:00:00</datetime_iso>
     <streams total="3">
       <stream id="1">
-        <url>https://daddylive3.com/my/stream-81.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/9.png</idioma>
-        <idioma_nombre>Holandés</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2847886&amp;lang=es&amp;eid=302971898&amp;lid=2847886&amp;ci=260&amp;si=1</enlace_original>
-      </stream>
-      <stream id="2">
         <url>https://voodc.com/embed/1/85818c919f909b8c847a8597a289988c8b.html</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/9.png</idioma>
         <idioma_nombre>Holandés</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848549&amp;lang=es&amp;eid=302971898&amp;lid=2848549&amp;ci=260&amp;si=1</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://daddylive3.com/my/stream-81.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/9.png</idioma>
+        <idioma_nombre>Holandés</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2847886&amp;lang=es&amp;eid=302971898&amp;lid=2847886&amp;ci=260&amp;si=1</enlace_original>
       </stream>
       <stream id="3">
         <url>https://dovkembed.pw/livetv/ex8309497</url>
@@ -73,16 +73,16 @@
         <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848547&amp;lang=es&amp;eid=302973256&amp;lid=2848547&amp;ci=2821&amp;si=3</enlace_original>
       </stream>
       <stream id="5">
-        <url>https://daddylive3.com/my/stream-404.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2847905&amp;lang=es&amp;eid=302973256&amp;lid=2847905&amp;ci=2821&amp;si=3</enlace_original>
-      </stream>
-      <stream id="6">
         <url>https://dovkembed.pw/livetv/NBATV[USA]</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848166&amp;lang=es&amp;eid=302973256&amp;lid=2848166&amp;ci=2821&amp;si=3</enlace_original>
+      </stream>
+      <stream id="6">
+        <url>https://daddylive3.com/my/stream-404.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2847905&amp;lang=es&amp;eid=302973256&amp;lid=2847905&amp;ci=2821&amp;si=3</enlace_original>
       </stream>
       <stream id="7">
         <url>https://streamhd247.world/frame0024.html</url>
@@ -152,7 +152,26 @@
     <hora>00:15</hora>
     <url>https://livetv.sx/es/eventinfo/303462922_orsomarso_internacional_palmira/</url>
     <datetime_iso>2025-10-13T00:15:00</datetime_iso>
-    <streams total="0" />
+    <streams total="3">
+      <stream id="1">
+        <url>https://voodc.com/embed/1/85818c919f909c8b847a8597a28b988c8d.html</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848551&amp;lang=es&amp;eid=303462922&amp;lid=2848551&amp;ci=896&amp;si=1</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://dovkembed.pw/livetv/ex8723743</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848170&amp;lang=es&amp;eid=303462922&amp;lid=2848170&amp;ci=896&amp;si=1</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dpassive&amp;hl=en</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>http://tinyurl.com/2jnz4vp8</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="7">
     <nombre>Luiza Fullana (M) –   Miriana Tona (M)</nombre>
@@ -238,7 +257,56 @@
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/302985005_filadelfia_florida/</url>
     <datetime_iso>2025-10-13T01:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="8">
+      <stream id="1">
+        <url>https://flixxlive.pro/live/ch4_english.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2661175&amp;lang=es&amp;eid=302985005&amp;lid=2661175&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://voodc.com/embed/1/85818c919f909f88847a85959c8a988d88.html</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848556&amp;lang=es&amp;eid=302985005&amp;lid=2848556&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://voodc.com/embed/1/85818c919f909f88847a85959c89988d86.html</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848555&amp;lang=es&amp;eid=302985005&amp;lid=2848555&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://voodc.com/embed/1/85818c919f909f88847a85959c8b988d87.html</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848554&amp;lang=es&amp;eid=302985005&amp;lid=2848554&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://flixxlive.pro/live/nhl2_english.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848064&amp;lang=es&amp;eid=302985005&amp;lid=2848064&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+      <stream id="6">
+        <url>https://antenasport.org/nhl6.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2847979&amp;lang=es&amp;eid=302985005&amp;lid=2847979&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+      <stream id="7">
+        <url>https://daddylive3.com/my/stream-777.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2847923&amp;lang=es&amp;eid=302985005&amp;lid=2847923&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+      <stream id="8">
+        <url>https://daddylive3.com/my/stream-10.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/28.png</idioma>
+        <idioma_nombre>Búlgaro</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2847856&amp;lang=es&amp;eid=302985005&amp;lid=2847856&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="10">
     <nombre>Independiente –  Univ Católica Quito</nombre>
@@ -265,7 +333,14 @@
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/307023229_gremio_u17_atletico_mg_u17/</url>
     <datetime_iso>2025-10-13T01:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://voodc.com/embed/1/85818c919f909f88847a85959c8e988d8b.html</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848559&amp;lang=es&amp;eid=307023229&amp;lid=2848559&amp;ci=2794&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="12">
     <nombre>Indiana –  San Antonio</nombre>
@@ -275,7 +350,38 @@
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/302984863_indiana_san_antonio/</url>
     <datetime_iso>2025-10-13T01:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="5">
+      <stream id="1">
+        <url>https://flixxlive.pro/live/nba2_english.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2661171&amp;lang=es&amp;eid=302984863&amp;lid=2661171&amp;ci=2821&amp;si=3</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://voodc.com/embed/1/85818c919f909f88847a85959c87988d84.html</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848553&amp;lang=es&amp;eid=302984863&amp;lid=2848553&amp;ci=2821&amp;si=3</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://e2link.link/ch.php?id=6</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848223&amp;lang=es&amp;eid=302984863&amp;lid=2848223&amp;ci=2821&amp;si=3</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://dovkembed.pw/livetv/ex8597390</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848171&amp;lang=es&amp;eid=302984863&amp;lid=2848171&amp;ci=2821&amp;si=3</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://daddylive3.com/my/stream-6.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
+        <idioma_nombre>Coreano</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2847852&amp;lang=es&amp;eid=302984863&amp;lid=2847852&amp;ci=2821&amp;si=3</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="13">
     <nombre>Olle Wallin –  Michael Mmoh</nombre>
@@ -319,7 +425,26 @@
     <hora>20:15</hora>
     <url>https://livetv.sx/es/eventinfo/306861120_atp_challenger_lincoln/</url>
     <datetime_iso>2025-10-13T20:15:00</datetime_iso>
-    <streams total="0" />
+    <streams total="3">
+      <stream id="1">
+        <url>https://dovkembed.pw/livetv/ex8794598</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848154&amp;lang=es&amp;eid=306861120&amp;lid=2848154&amp;ci=7862&amp;si=4</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://dovkembed.pw/livetv/ex8794368</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848164&amp;lang=es&amp;eid=306861120&amp;lid=2848164&amp;ci=7862&amp;si=4</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://dovkembed.pw/livetv/ex8794600</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848155&amp;lang=es&amp;eid=306861120&amp;lid=2848155&amp;ci=7862&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="16">
     <nombre>Irene-Burillo Escorihuela (M) –   Sofia Da Cruz Mendonca (M)</nombre>
@@ -349,26 +474,7 @@
     <hora>20:45</hora>
     <url>https://livetv.sx/es/eventinfo/306427772_leo_borg_sebastian_ofner/</url>
     <datetime_iso>2025-10-13T20:45:00</datetime_iso>
-    <streams total="3">
-      <stream id="1">
-        <url>https://dovkembed.pw/livetv/ex8792477</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848112&amp;lang=es&amp;eid=306427772&amp;lid=2848112&amp;ci=4788&amp;si=4</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://wikisport.wiki/court/t9.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848184&amp;lang=es&amp;eid=306427772&amp;lid=2848184&amp;ci=4788&amp;si=4</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://wikisport.wiki/court/wik9.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848183&amp;lang=es&amp;eid=306427772&amp;lid=2848183&amp;ci=4788&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="19">
     <nombre>Leo Borg – Sebastian Ofner</nombre>
@@ -378,26 +484,7 @@
     <hora>20:45</hora>
     <url>https://livetv.sx/es/eventinfo/306427772__/</url>
     <datetime_iso>2025-10-13T20:45:00</datetime_iso>
-    <streams total="3">
-      <stream id="1">
-        <url>https://dovkembed.pw/livetv/ex8792477</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848112&amp;lang=es&amp;eid=306427772&amp;lid=2848112&amp;ci=4788&amp;si=4</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://wikisport.wiki/court/t9.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848184&amp;lang=es&amp;eid=306427772&amp;lid=2848184&amp;ci=4788&amp;si=4</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://wikisport.wiki/court/wik9.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848183&amp;lang=es&amp;eid=306427772&amp;lid=2848183&amp;ci=4788&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="20">
     <nombre>Collarini / Kicker –  Pereira / Saraiva</nombre>
@@ -407,7 +494,14 @@
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/306427690_collarini__kicker_pereira__saraiva/</url>
     <datetime_iso>2025-10-13T21:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg3OTMzMTc=</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848675&amp;lang=es&amp;eid=306427690&amp;lid=2848675&amp;ci=7175&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="21">
     <nombre>Collarini / Kicker – Pereira / Saraiva</nombre>
@@ -434,7 +528,14 @@
     <hora>21:35</hora>
     <url>https://livetv.sx/es/eventinfo/306579144_emilio_nava_adolfo_daniel_vallejo/</url>
     <datetime_iso>2025-10-13T21:35:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://dovkembed.pw/livetv/ex8794370</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848153&amp;lang=es&amp;eid=306579144&amp;lid=2848153&amp;ci=7173&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="23">
     <nombre>Emilio Nava – Adolfo Daniel Vallejo</nombre>
@@ -637,7 +738,7 @@
     <hora>23:03</hora>
     <url>https://livetv.sx/es/eventinfo/306271187_toronto_seattle/</url>
     <datetime_iso>2025-10-13T23:03:00</datetime_iso>
-    <streams total="5">
+    <streams total="6">
       <stream id="1">
         <url>https://voodc.com/embed/1/85818c919f8fa2878c7a8597a18c988c86.html</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
@@ -657,12 +758,18 @@
         <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848542&amp;lang=es&amp;eid=306271187&amp;lid=2848542&amp;ci=14&amp;si=19</enlace_original>
       </stream>
       <stream id="4">
+        <url>https://voodc.com/embed/1/85818c919f8fa2878c7a8597a18f988c87.html</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848541&amp;lang=es&amp;eid=306271187&amp;lid=2848541&amp;ci=14&amp;si=19</enlace_original>
+      </stream>
+      <stream id="5">
         <url>https://streamhd247.world/frame021.html</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2847960&amp;lang=es&amp;eid=306271187&amp;lid=2847960&amp;ci=14&amp;si=19</enlace_original>
       </stream>
-      <stream id="5">
+      <stream id="6">
         <url>https://scobor.net/acd/cal4/box.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
@@ -686,16 +793,16 @@
         <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848545&amp;lang=es&amp;eid=306271187&amp;lid=2848545&amp;ci=14&amp;si=19</enlace_original>
       </stream>
       <stream id="2">
-        <url>https://voodc.com/embed/1/85818c919f8fa2878c7a8597a18e988c84.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848542&amp;lang=es&amp;eid=306271187&amp;lid=2848542&amp;ci=14&amp;si=19</enlace_original>
-      </stream>
-      <stream id="3">
         <url>https://voodc.com/embed/1/85818c919f8fa2878c7a8597a18d988c85.html</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848544&amp;lang=es&amp;eid=306271187&amp;lid=2848544&amp;ci=14&amp;si=19</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://voodc.com/embed/1/85818c919f8fa2878c7a8597a18e988c84.html</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848542&amp;lang=es&amp;eid=306271187&amp;lid=2848542&amp;ci=14&amp;si=19</enlace_original>
       </stream>
       <stream id="4">
         <url>https://voodc.com/embed/1/85818c919f8fa2878c7a8597a18f988c87.html</url>
@@ -725,20 +832,7 @@
     <hora>23:30</hora>
     <url>https://livetv.sx/es/eventinfo/302965723_atl__tico_platense_deportivo_riestra/</url>
     <datetime_iso>2025-10-13T23:30:00</datetime_iso>
-    <streams total="2">
-      <stream id="1">
-        <url>https://e2link.link/ch.php?id=26</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/7.png</idioma>
-        <idioma_nombre>Francés</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2843589&amp;lang=es&amp;eid=302965723&amp;lid=2843589&amp;ci=16&amp;si=1</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://dovkembed.pw/livetv/ex8701487</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2848162&amp;lang=es&amp;eid=302965723&amp;lid=2848162&amp;ci=16&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="39">
     <nombre>Atlético Platense – Deportivo Riestra</nombre>
