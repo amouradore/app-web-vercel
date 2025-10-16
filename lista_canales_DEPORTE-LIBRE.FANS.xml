@@ -89,13 +89,6 @@
     <url>https://deporte-libre.click/en-vivo-online/fox-sports-3/embed3.php</url>
     <url>/en-vivo-online/fox-sports-3/embed2.php</url>
   </channel>
-  <channel name="TYC Sports Argentina">
-    <url>https://deporte-libre.click/en-vivo-online/tyc-sports/embed2.php</url>
-    <url>https://deporte-libre.click/en-vivo-online/tyc-sports/embed.php</url>
-    <url>https://miztv.top/total/stream-746.php</url>
-    <url>https://deporte-libre.click/en-vivo-online/tyc-sports/embed4.php</url>
-    <url>/en-vivo-online/tyc-sports/embed2.php</url>
-  </channel>
   <channel name="TYC Sports Internacional">
     <url>https://la14hd.com/vivo/canales.php?stream=tycinternacional</url>
     <url>https://la14hd.com/vivo/canales.php?stream=tycinternacional</url>
@@ -214,12 +207,6 @@
     <url>https://deporte-libre.click/en-vivo-online/laliga/embed3.php</url>
     <url>https://miztv.top/total/stream-84.php</url>
   </channel>
-  <channel name="LaLigaTV Spain">
-    <url>https://miztv.top/total/stream-276.php</url>
-  </channel>
-  <channel name="SuperSport LaLiga">
-    <url>https://miztv.top/total/stream-415.php</url>
-  </channel>
   <channel name="LaLiga SmartBank TV Spain">
     <url>https://miztv.top/total/stream-539.php</url>
     <url>https://deporte-libre.click/en-vivo-online/liga-hipermotion/embed2.php</url>
@@ -259,12 +246,6 @@
     <url>https://miztv.top/total/stream-448.php</url>
     <url>https://deporte-libre.click/en-vivo-online/dazn-4-es/embed2.php</url>
     <url>https://miztv.top/total/stream-448.php</url>
-  </channel>
-  <channel name="DAZN F1 Spain">
-    <url>https://miztv.top/total/stream-537.php</url>
-    <url>https://deporte-libre.click/en-vivo-online/dazn-formula-1-es/embed2.php</url>
-    <url>https://deporte-libre.click/en-vivo-online/dazn-formula-1-es/embed3.php</url>
-    <url>https://miztv.top/total/stream-537.php</url>
   </channel>
   <channel name="Movistar Deportes Spain">
     <url>https://miztv.top/total/stream-436.php</url>
@@ -1795,6 +1776,9 @@
   <channel name="SuperSport Premier league">
     <url>https://miztv.top/total/stream-414.php</url>
   </channel>
+  <channel name="SuperSport LaLiga">
+    <url>https://miztv.top/total/stream-415.php</url>
+  </channel>
   <channel name="SuperSport Variety 1">
     <url>https://miztv.top/total/stream-416.php</url>
   </channel>
@@ -2094,6 +2078,13 @@
   </channel>
   <channel name="Smithsonian Channel">
     <url>https://miztv.top/total/stream-601.php</url>
+  </channel>
+  <channel name="TYC Sports Argentina">
+    <url>https://deporte-libre.click/en-vivo-online/tyc-sports/embed2.php</url>
+    <url>https://deporte-libre.click/en-vivo-online/tyc-sports/embed.php</url>
+    <url>https://miztv.top/total/stream-746.php</url>
+    <url>https://deporte-libre.click/en-vivo-online/tyc-sports/embed4.php</url>
+    <url>/en-vivo-online/tyc-sports/embed2.php</url>
   </channel>
   <channel name="TVC Deportes">
     <url>https://miztv.top/total/stream-932.php</url>
