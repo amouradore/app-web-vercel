@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-10-22 07:24:37" total="1869">
+<eventos generado="2025-10-22 08:35:46" total="1882">
   <evento>
     <nombre>WTA. Tokyo</nombre>
     <deporte>Fútbol</deporte>
@@ -17,20 +17,20 @@
     <url>https://livetv.sx/es/eventinfo/309265460_atp_challenger_suzhou/</url>
   </evento>
   <evento>
+    <nombre>Indonesia Masters 3</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>BWF World Tour</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>06:30</hora>
+    <url>https://livetv.sx/es/eventinfo/309527335_indonesia_masters_3/</url>
+  </evento>
+  <evento>
     <nombre>Pakistán –  Sudáfrica</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Test</competicion>
     <fecha>22 de octubre</fecha>
     <hora>07:00</hora>
     <url>https://livetv.sx/es/eventinfo/309728628_pakistandaacute_n_sudandaacute_frica/</url>
-  </evento>
-  <evento>
-    <nombre>Kato (M) /  Ninomiya (M) –   Kenin (M) /  Dabrowski (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Tokyo. Doubles</competicion>
-    <fecha>22 de octubre</fecha>
-    <hora>07:10</hora>
-    <url>https://livetv.sx/es/eventinfo/308654568__kato_m___ninomiya_m__kenin_m___dabrowski_m/</url>
   </evento>
   <evento>
     <nombre>WTA. Canton</nombre>
@@ -41,27 +41,11 @@
     <url>https://livetv.sx/es/eventinfo/309065790_wta_canton/</url>
   </evento>
   <evento>
-    <nombre>Diana Shnaider (M) –   Anna Kalinskaya (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Tokyo</competicion>
-    <fecha>22 de octubre</fecha>
-    <hora>07:15</hora>
-    <url>https://livetv.sx/es/eventinfo/309661470__diana_shnaider_m__anna_kalinskaya_m/</url>
-  </evento>
-  <evento>
-    <nombre>Silva / Rocha –  Rojer / Lammons</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Suzhou. Dobles</competicion>
-    <fecha>22 de octubre</fecha>
-    <hora>07:15</hora>
-    <url>https://livetv.sx/es/eventinfo/309270303_silva__rocha_rojer__lammons/</url>
-  </evento>
-  <evento>
     <nombre>Wang / Isomura –  Reynolds / Watt</nombre>
     <deporte>Fútbol</deporte>
     <competicion>ATP Challenger. Suzhou. Dobles</competicion>
     <fecha>22 de octubre</fecha>
-    <hora>08:15</hora>
+    <hora>08:10</hora>
     <url>https://livetv.sx/es/eventinfo/309270301_wang__isomura_reynolds__watt/</url>
   </evento>
   <evento>
@@ -137,14 +121,6 @@
     <url>https://livetv.sx/es/eventinfo/309527329_french_open/</url>
   </evento>
   <evento>
-    <nombre>Maya Joint (M) –   Karolina Muchova (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Tokyo</competicion>
-    <fecha>22 de octubre</fecha>
-    <hora>10:00</hora>
-    <url>https://livetv.sx/es/eventinfo/309458043__maya_joint_m__karolina_muchova_m/</url>
-  </evento>
-  <evento>
     <nombre>Lions –  North West</nombre>
     <deporte>Fútbol</deporte>
     <competicion>CSA 4-Day Franchise Series</competicion>
@@ -159,6 +135,70 @@
     <fecha>22 de octubre</fecha>
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/309527066_titans_warriors/</url>
+  </evento>
+  <evento>
+    <nombre>Western Province –  Dolphins</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>CSA 4-Day Franchise Series</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309527067_western_province_dolphins/</url>
+  </evento>
+  <evento>
+    <nombre>Maya Joint (M) –   Karolina Muchova (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>WTA. Tokyo</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>10:15</hora>
+    <url>https://livetv.sx/es/eventinfo/309458043__maya_joint_m__karolina_muchova_m/</url>
+  </evento>
+  <evento>
+    <nombre>Camila Osorio (M) –   Ann Li (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>WTA. Cantón</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>10:15</hora>
+    <url>https://livetv.sx/es/eventinfo/309684393__camila_osorio_m__ann_li_m/</url>
+  </evento>
+  <evento>
+    <nombre>Lulu Sun (M) –   Wang Yafan (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>WTA. Cantón</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>10:15</hora>
+    <url>https://livetv.sx/es/eventinfo/309706912__lulu_sun_m__wang_yafan_m/</url>
+  </evento>
+  <evento>
+    <nombre>Cairns Taipans –  Perth Wildcats</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NBL</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>10:30</hora>
+    <url>https://livetv.sx/es/eventinfo/305450434_cairns_taipans_perth_wildcats/</url>
+  </evento>
+  <evento>
+    <nombre>Tigers –  Tobol Pharm</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>10:30</hora>
+    <url>https://livetv.sx/es/eventinfo/309807979_tigers_tobol_pharm/</url>
+  </evento>
+  <evento>
+    <nombre>Grecia (M) Sub-19 –    Austria (M) Sub-19</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Calificación</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>10:30</hora>
+    <url>https://livetv.sx/es/eventinfo/305466214___grecia_m_sub_19___austria_m_sub_19/</url>
+  </evento>
+  <evento>
+    <nombre>Kaliyanda Poonacha / Isaro –  Hsiou Hsu / Huang</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Suzhou. Dobles</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>10:35</hora>
+    <url>https://livetv.sx/es/eventinfo/309270306_kaliyanda_poonacha__isaro_hsiou_hsu__huang/</url>
   </evento>
   <evento>
     <nombre>Athletic de Bilbao – Qarabag</nombre>
@@ -449,14 +489,6 @@
     <url>https://livetv.sx/es/eventinfo/305500826__/</url>
   </evento>
   <evento>
-    <nombre>Andorra (M) –  Gibraltar (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Partido amistoso. Selecciones</competicion>
-    <fecha>22 de octubre</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/305497798__/</url>
-  </evento>
-  <evento>
     <nombre>Namibia (M) –  Zambia (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. Copa Africana de Naciones</competicion>
@@ -551,6 +583,14 @@
     <fecha>22 de octubre</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/309801582_abff_u19_niva_dolbizno/</url>
+  </evento>
+  <evento>
+    <nombre>Andorra (M) –  Gibraltar (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. Partido amistoso. Selecciones</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/305497798__/</url>
   </evento>
   <evento>
     <nombre>Al-Ahly El Cairo – Al-Ittihad</nombre>
@@ -4305,6 +4345,14 @@
     <url>https://livetv.sx/es/eventinfo/307698151__/</url>
   </evento>
   <evento>
+    <nombre>Kryzhynka – Sokil</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Ucrania. UHL</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/310039274__/</url>
+  </evento>
+  <evento>
     <nombre>Frydek Mistek – Vsetin</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 1 Liga</competicion>
@@ -6345,6 +6393,14 @@
     <url>https://livetv.sx/es/eventinfo/306299598__/</url>
   </evento>
   <evento>
+    <nombre>RoKi Sub-20 –  TPS Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
+    <fecha>25 de octubre</fecha>
+    <hora>11:40</hora>
+    <url>https://livetv.sx/es/eventinfo/310028542__/</url>
+  </evento>
+  <evento>
     <nombre>Shakhtyor Sl – Brest</nombre>
     <deporte>Hockey</deporte>
     <competicion>Bielorrusia. Extraliga</competicion>
@@ -6495,6 +6551,14 @@
     <fecha>25 de octubre</fecha>
     <hora>15:00</hora>
     <url>https://livetv.sx/es/eventinfo/306347961__/</url>
+  </evento>
+  <evento>
+    <nombre>Karpat Sub-20 –  Sport Vaasan Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
+    <fecha>25 de octubre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/310028543__/</url>
   </evento>
   <evento>
     <nombre>Brynas – Farjestad</nombre>
@@ -8137,14 +8201,6 @@
     <url>https://livetv.sx/es/eventinfo/306930989__/</url>
   </evento>
   <evento>
-    <nombre>Vancouver – Edmonton</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>27 de octubre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/306951078__/</url>
-  </evento>
-  <evento>
     <nombre>Nueva York – Cleveland</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>No especificado</competicion>
@@ -8223,14 +8279,6 @@
     <fecha>23 de octubre</fecha>
     <hora>03:30</hora>
     <url>https://livetv.sx/es/eventinfo/305664260__/</url>
-  </evento>
-  <evento>
-    <nombre>Tigers – Tobol Pharm</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
-    <fecha>22 de octubre</fecha>
-    <hora>10:30</hora>
-    <url>https://livetv.sx/es/eventinfo/309807979_tigers_tobol_pharm/</url>
   </evento>
   <evento>
     <nombre>Cairns Taipans – Perth Wildcats</nombre>
@@ -9073,6 +9121,22 @@
     <url>https://livetv.sx/es/eventinfo/309797042__/</url>
   </evento>
   <evento>
+    <nombre>Soedertalje – Luleaa</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Suecia. Basketligan</competicion>
+    <fecha>23 de octubre</fecha>
+    <hora>19:04</hora>
+    <url>https://livetv.sx/es/eventinfo/310029130__/</url>
+  </evento>
+  <evento>
+    <nombre>Hoegsbo – Umeaa</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Suecia. Basketligan</competicion>
+    <fecha>23 de octubre</fecha>
+    <hora>19:04</hora>
+    <url>https://livetv.sx/es/eventinfo/310029131__/</url>
+  </evento>
+  <evento>
     <nombre>ASVEL – Dubai</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Euroliga</competicion>
@@ -9367,6 +9431,30 @@
     <fecha>24 de octubre</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/306079085__/</url>
+  </evento>
+  <evento>
+    <nombre>Boraas – Jamtland</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Suecia. Basketligan</competicion>
+    <fecha>24 de octubre</fecha>
+    <hora>19:04</hora>
+    <url>https://livetv.sx/es/eventinfo/310029132__/</url>
+  </evento>
+  <evento>
+    <nombre>Naessjoe – Sloga Uppsala</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Suecia. Basketligan</competicion>
+    <fecha>24 de octubre</fecha>
+    <hora>19:04</hora>
+    <url>https://livetv.sx/es/eventinfo/310029133__/</url>
+  </evento>
+  <evento>
+    <nombre>Koeping – Norrkoeping</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Suecia. Basketligan</competicion>
+    <fecha>24 de octubre</fecha>
+    <hora>19:04</hora>
+    <url>https://livetv.sx/es/eventinfo/310029134__/</url>
   </evento>
   <evento>
     <nombre>Slovanka (M) –  USK Praga (M)</nombre>
@@ -11265,20 +11353,20 @@
     <url>https://livetv.sx/es/eventinfo/309065790_wta_guangzhou/</url>
   </evento>
   <evento>
-    <nombre>Diana Shnaider (M) –  Anna Kalinskaya (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Tokyo</competicion>
-    <fecha>22 de octubre</fecha>
-    <hora>07:15</hora>
-    <url>https://livetv.sx/es/eventinfo/309661470__/</url>
-  </evento>
-  <evento>
     <nombre>Maya Joint (M) –  Karolina Muchova (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Tokyo</competicion>
     <fecha>22 de octubre</fecha>
-    <hora>10:00</hora>
+    <hora>10:15</hora>
     <url>https://livetv.sx/es/eventinfo/309458043__/</url>
+  </evento>
+  <evento>
+    <nombre>Lulu Sun (M) –  Wang Yafan (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Cantón</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>10:15</hora>
+    <url>https://livetv.sx/es/eventinfo/309706912__/</url>
   </evento>
   <evento>
     <nombre>Camila Osorio (M) –  Ann Li (M)</nombre>
@@ -11293,32 +11381,32 @@
     <deporte>Tenis</deporte>
     <competicion>WTA. Cantón</competicion>
     <fecha>22 de octubre</fecha>
-    <hora>12:00</hora>
+    <hora>11:45</hora>
     <url>https://livetv.sx/es/eventinfo/309499357__/</url>
+  </evento>
+  <evento>
+    <nombre>Shuai Zhang (M) –  Veronika Erjavec (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Cantón</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>13:15</hora>
+    <url>https://livetv.sx/es/eventinfo/309752578__/</url>
+  </evento>
+  <evento>
+    <nombre>Felix Auger-Aliassime – Gabriel Diallo</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Basilea</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/308691435__/</url>
   </evento>
   <evento>
     <nombre>Belinda Bencic (M) –  Varvara Gracheva (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Tokyo</competicion>
     <fecha>23 de octubre</fecha>
-    <hora>03:00</hora>
+    <hora>03:30</hora>
     <url>https://livetv.sx/es/eventinfo/309406319__/</url>
-  </evento>
-  <evento>
-    <nombre>Leylah-Annie  Fernandez (M) –  Elena Rybakina (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Tokyo</competicion>
-    <fecha>23 de octubre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/309672901__/</url>
-  </evento>
-  <evento>
-    <nombre>Ekaterina Alexandrova (M) –  Jaqueline Cristian (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Tokyo</competicion>
-    <fecha>23 de octubre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/309684424__/</url>
   </evento>
   <evento>
     <nombre>WTA. Tokyo</nombre>
@@ -11329,19 +11417,11 @@
     <url>https://livetv.sx/es/eventinfo/308590541_wta_tokyo/</url>
   </evento>
   <evento>
-    <nombre>Kato (M) /  Ninomiya (M) –  Kenin (M) /  Dabrowski (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Tokyo. Doubles</competicion>
-    <fecha>22 de octubre</fecha>
-    <hora>07:10</hora>
-    <url>https://livetv.sx/es/eventinfo/308654568__/</url>
-  </evento>
-  <evento>
     <nombre>Wang / Isomura – Reynolds / Watt</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Suzhou. Dobles</competicion>
     <fecha>22 de octubre</fecha>
-    <hora>08:15</hora>
+    <hora>08:10</hora>
     <url>https://livetv.sx/es/eventinfo/309270301__/</url>
   </evento>
   <evento>
@@ -11369,52 +11449,12 @@
     <url>https://livetv.sx/es/eventinfo/309270302__/</url>
   </evento>
   <evento>
-    <nombre>Lansere (M) /  Ibragimova (M) –  Jakupovic (M) /  Radisic (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Rovereto. Dobles</competicion>
-    <fecha>22 de octubre</fecha>
-    <hora>10:00</hora>
-    <url>https://livetv.sx/es/eventinfo/309270414__/</url>
-  </evento>
-  <evento>
     <nombre>Kaliyanda Poonacha / Isaro – Hsiou Hsu / Huang</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Suzhou. Dobles</competicion>
     <fecha>22 de octubre</fecha>
-    <hora>10:15</hora>
+    <hora>10:35</hora>
     <url>https://livetv.sx/es/eventinfo/309270306__/</url>
-  </evento>
-  <evento>
-    <nombre>Lulu Sun (M) –  Wang Yafan (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Cantón</competicion>
-    <fecha>22 de octubre</fecha>
-    <hora>10:30</hora>
-    <url>https://livetv.sx/es/eventinfo/309706912__/</url>
-  </evento>
-  <evento>
-    <nombre>Maxim Mrva – Chris Rodesch</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Hamburgo</competicion>
-    <fecha>22 de octubre</fecha>
-    <hora>10:30</hora>
-    <url>https://livetv.sx/es/eventinfo/308847555__/</url>
-  </evento>
-  <evento>
-    <nombre>Qianhui (M) /  Appleton (M) –  Kichenok (M) /  Eala (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Cantón. Doubles</competicion>
-    <fecha>22 de octubre</fecha>
-    <hora>10:30</hora>
-    <url>https://livetv.sx/es/eventinfo/308654531__/</url>
-  </evento>
-  <evento>
-    <nombre>Petr Brunclik – Tom Gentzsch</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Hamburgo</competicion>
-    <fecha>22 de octubre</fecha>
-    <hora>10:30</hora>
-    <url>https://livetv.sx/es/eventinfo/308847556__/</url>
   </evento>
   <evento>
     <nombre>ATP Challenger. Hamburgo</nombre>
@@ -11425,20 +11465,20 @@
     <url>https://livetv.sx/es/eventinfo/309066425_atp_challenger_hamburg/</url>
   </evento>
   <evento>
-    <nombre>Sachko / Cukierman – Olivetti / Arribage</nombre>
+    <nombre>Maxim Mrva – Chris Rodesch</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Brest. Doubles</competicion>
+    <competicion>ATP Challenger. Hamburgo</competicion>
     <fecha>22 de octubre</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/308712932__/</url>
+    <hora>10:40</hora>
+    <url>https://livetv.sx/es/eventinfo/308847555__/</url>
   </evento>
   <evento>
-    <nombre>Hilderbrand / Seggerman – Reymond / Sanchez</nombre>
+    <nombre>Petr Brunclik – Tom Gentzsch</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Brest. Doubles</competicion>
+    <competicion>ATP Challenger. Hamburgo</competicion>
     <fecha>22 de octubre</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/308712935__/</url>
+    <hora>10:40</hora>
+    <url>https://livetv.sx/es/eventinfo/308847556__/</url>
   </evento>
   <evento>
     <nombre>ATP Challenger. Brest</nombre>
@@ -11449,12 +11489,20 @@
     <url>https://livetv.sx/es/eventinfo/309065916_atp_challenger_brest/</url>
   </evento>
   <evento>
-    <nombre>ATP Tour. Basilea</nombre>
+    <nombre>Sachko / Cukierman – Olivetti / Arribage</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP. Basilea</competicion>
+    <competicion>ATP Challenger. Brest. Doubles</competicion>
     <fecha>22 de octubre</fecha>
     <hora>11:10</hora>
-    <url>https://livetv.sx/es/eventinfo/308590298_atp_basel/</url>
+    <url>https://livetv.sx/es/eventinfo/308712932__/</url>
+  </evento>
+  <evento>
+    <nombre>Hilderbrand / Seggerman – Reymond / Sanchez</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Brest. Doubles</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>11:10</hora>
+    <url>https://livetv.sx/es/eventinfo/308712935__/</url>
   </evento>
   <evento>
     <nombre>Mladenovic (M) /  Jeanjean (M) –  Piter (M) /  Tjen (M)</nombre>
@@ -11481,14 +11529,6 @@
     <url>https://livetv.sx/es/eventinfo/309190336__/</url>
   </evento>
   <evento>
-    <nombre>Gleason (M) /  Pridankina  (M) –  Yafan (M) /  Osorio (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Cantón. Doubles</competicion>
-    <fecha>22 de octubre</fecha>
-    <hora>12:00</hora>
-    <url>https://livetv.sx/es/eventinfo/308654533__/</url>
-  </evento>
-  <evento>
     <nombre>Stevenson / Agostini – Walkow / Latinovic</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Hamburg. Doubles</competicion>
@@ -11513,12 +11553,12 @@
     <url>https://livetv.sx/es/eventinfo/309510121__/</url>
   </evento>
   <evento>
-    <nombre>ATP. Viena</nombre>
+    <nombre>ATP Tour. Basilea</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP. Viena</competicion>
+    <competicion>ATP. Basilea</competicion>
     <fecha>22 de octubre</fecha>
     <hora>12:10</hora>
-    <url>https://livetv.sx/es/eventinfo/308590422_atp_vienna/</url>
+    <url>https://livetv.sx/es/eventinfo/308590298_atp_basel/</url>
   </evento>
   <evento>
     <nombre>Francesco Maestrelli – Harry Wendelken</nombre>
@@ -11561,12 +11601,20 @@
     <url>https://livetv.sx/es/eventinfo/309789253__/</url>
   </evento>
   <evento>
-    <nombre>Shuai Zhang (M) –  Veronika Erjavec (M)</nombre>
+    <nombre>ATP. Viena</nombre>
     <deporte>Tenis</deporte>
-    <competicion>WTA. Cantón</competicion>
+    <competicion>ATP. Viena</competicion>
     <fecha>22 de octubre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/309752578__/</url>
+    <hora>13:10</hora>
+    <url>https://livetv.sx/es/eventinfo/308590422_atp_vienna/</url>
+  </evento>
+  <evento>
+    <nombre>Qianhui (M) /  Appleton (M) –  Kichenok (M) /  Eala (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Cantón. Doubles</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>13:15</hora>
+    <url>https://livetv.sx/es/eventinfo/308654531__/</url>
   </evento>
   <evento>
     <nombre>Alexei Popyrin – Matteo Berrettini</nombre>
@@ -11649,6 +11697,14 @@
     <url>https://livetv.sx/es/eventinfo/309190365__/</url>
   </evento>
   <evento>
+    <nombre>Gleason (M) /  Pridankina  (M) –  Yafan (M) /  Osorio (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Cantón. Doubles</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>14:45</hora>
+    <url>https://livetv.sx/es/eventinfo/308654533__/</url>
+  </evento>
+  <evento>
     <nombre>Daniil Medvedev – Nuno Borges</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Viena</competicion>
@@ -11679,14 +11735,6 @@
     <fecha>22 de octubre</fecha>
     <hora>15:00</hora>
     <url>https://livetv.sx/es/eventinfo/309816831__/</url>
-  </evento>
-  <evento>
-    <nombre>Felix Auger-Aliassime – Gabriel Diallo</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Basilea</competicion>
-    <fecha>22 de octubre</fecha>
-    <hora>15:30</hora>
-    <url>https://livetv.sx/es/eventinfo/308691435__/</url>
   </evento>
   <evento>
     <nombre>Verbeek / Gille – Blancaneaux / Hemery</nombre>
@@ -12225,36 +12273,12 @@
     <url>https://livetv.sx/es/eventinfo/309270260__/</url>
   </evento>
   <evento>
-    <nombre>Wakana Sonobe (M) –  Sofia Kenin (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Tokyo</competicion>
-    <fecha>23 de octubre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/309740890__/</url>
-  </evento>
-  <evento>
-    <nombre>Townsend (M) /  Perez (M) –  Jiang (M) /  Hao-ching (M)</nombre>
+    <nombre>Babos (M) /  Stefani (M) –  Kenin (M) /  Dabrowski (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Tokyo. Doubles</competicion>
     <fecha>23 de octubre</fecha>
     <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/309990752__/</url>
-  </evento>
-  <evento>
-    <nombre>Andreescu (M) /  Mboko (M) –  Bucsa (M) /  Aoyama (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Tokyo. Doubles</competicion>
-    <fecha>23 de octubre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/309729413__/</url>
-  </evento>
-  <evento>
-    <nombre>Melichar (M) /  Yifan (M) –  Krunic (M) /  Danilina (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Tokyo. Doubles</competicion>
-    <fecha>23 de octubre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/310002148__/</url>
+    <url>https://livetv.sx/es/eventinfo/310035572__/</url>
   </evento>
   <evento>
     <nombre>Yoshihito Nishioka – Renta Tokuda</nombre>
@@ -12287,6 +12311,22 @@
     <fecha>23 de octubre</fecha>
     <hora>04:00</hora>
     <url>https://livetv.sx/es/eventinfo/309684317__/</url>
+  </evento>
+  <evento>
+    <nombre>Townsend (M) /  Perez (M) –  Jiang (M) /  Hao-ching (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Tokyo. Doubles</competicion>
+    <fecha>23 de octubre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309990752__/</url>
+  </evento>
+  <evento>
+    <nombre>Samrej / Matsuda – Rojer / Lammons</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Suzhou. Dobles</competicion>
+    <fecha>23 de octubre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/310024611__/</url>
   </evento>
   <evento>
     <nombre>Shimizu / Tajima – Agafonov / Simakin</nombre>
@@ -12353,12 +12393,36 @@
     <url>https://livetv.sx/es/eventinfo/309706911__/</url>
   </evento>
   <evento>
+    <nombre>Leylah-Annie  Fernandez (M) –  Elena Rybakina (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Tokyo</competicion>
+    <fecha>23 de octubre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309672901__/</url>
+  </evento>
+  <evento>
     <nombre>WTA. Canton</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Cantón</competicion>
     <fecha>23 de octubre</fecha>
     <hora>05:10</hora>
     <url>https://livetv.sx/es/eventinfo/309065791_wta_guangzhou/</url>
+  </evento>
+  <evento>
+    <nombre>Andreescu (M) /  Mboko (M) –  Bucsa (M) /  Aoyama (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Tokyo. Doubles</competicion>
+    <fecha>23 de octubre</fecha>
+    <hora>05:30</hora>
+    <url>https://livetv.sx/es/eventinfo/309729413__/</url>
+  </evento>
+  <evento>
+    <nombre>Ekaterina Alexandrova (M) –  Jaqueline Cristian (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Tokyo</competicion>
+    <fecha>23 de octubre</fecha>
+    <hora>06:30</hora>
+    <url>https://livetv.sx/es/eventinfo/309684424__/</url>
   </evento>
   <evento>
     <nombre>Sabanov / Sabanov – Niklas-Salminen / Karol</nombre>
@@ -12383,6 +12447,14 @@
     <fecha>23 de octubre</fecha>
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/309844288__/</url>
+  </evento>
+  <evento>
+    <nombre>Wakana Sonobe (M) –  Sofia Kenin (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Tokyo</competicion>
+    <fecha>23 de octubre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309740890__/</url>
   </evento>
   <evento>
     <nombre>Silvia Ambrosio (M) –  Oksana Selekhmeteva (M)</nombre>
@@ -12649,12 +12721,28 @@
     <url>https://livetv.sx/es/eventinfo/309265010_atp_challenger_costa_do_saupe/</url>
   </evento>
   <evento>
+    <nombre>Melichar (M) /  Yifan (M) –  Krunic (M) /  Danilina (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Tokyo. Doubles</competicion>
+    <fecha>24 de octubre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/310002148__/</url>
+  </evento>
+  <evento>
     <nombre>ATP Challenger. Suzhou</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Suzhou</competicion>
     <fecha>24 de octubre</fecha>
     <hora>04:10</hora>
     <url>https://livetv.sx/es/eventinfo/309265462_atp_challenger_suzhou/</url>
+  </evento>
+  <evento>
+    <nombre>Anna Kalinskaya (M) –  Linda Noskova (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Tokyo</competicion>
+    <fecha>24 de octubre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/310035567__/</url>
   </evento>
   <evento>
     <nombre>WTA. Canton</nombre>
@@ -12961,6 +13049,14 @@
     <url>https://livetv.sx/es/eventinfo/309981482__/</url>
   </evento>
   <evento>
+    <nombre>Benfica (M) –  Heidelberg (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Mujeres. Liga de Campeones. Calificación</competicion>
+    <fecha>23 de octubre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/310031296__/</url>
+  </evento>
+  <evento>
     <nombre>Guarulhos – Minas</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Brasil. Superliga</competicion>
@@ -13151,6 +13247,14 @@
     <fecha>25 de octubre</fecha>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/306381249__/</url>
+  </evento>
+  <evento>
+    <nombre>Scuola Grottazzolina – Verona</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Italia. Serie A</competicion>
+    <fecha>25 de octubre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/306799694__/</url>
   </evento>
   <evento>
     <nombre>Sav Trebaseleghe – Belluno</nombre>
@@ -13417,6 +13521,14 @@
     <url>https://livetv.sx/es/eventinfo/309814352_negrini_cte_acqui_terme_sarlux_sarroch/</url>
   </evento>
   <evento>
+    <nombre>Trentino – Padova</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Italia. Serie A</competicion>
+    <fecha>26 de octubre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/306799697__/</url>
+  </evento>
+  <evento>
     <nombre>Nilufer Belediyespor (M) –  Zeren Spor (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Turquía. Mujeres. Sultanlar Ligi</competicion>
@@ -13481,44 +13593,12 @@
     <url>https://livetv.sx/es/eventinfo/306799693__/</url>
   </evento>
   <evento>
-    <nombre>Scuola Grottazzolina – Verona</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Italia. Serie A</competicion>
-    <fecha>26 de octubre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/306799694__/</url>
-  </evento>
-  <evento>
     <nombre>Piacenza – Power Volley</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Italia. Serie A</competicion>
     <fecha>26 de octubre</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/306799695__/</url>
-  </evento>
-  <evento>
-    <nombre>Perugia – Lube</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Italia. Serie A</competicion>
-    <fecha>26 de octubre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/306799696__/</url>
-  </evento>
-  <evento>
-    <nombre>Trentino – Padova</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Italia. Serie A</competicion>
-    <fecha>26 de octubre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/306799697__/</url>
-  </evento>
-  <evento>
-    <nombre>Modena – Monza</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Italia. Serie A</competicion>
-    <fecha>26 de octubre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/306799698__/</url>
   </evento>
   <evento>
     <nombre>Fenerbahce (M) –  Besiktas (M)</nombre>
@@ -13593,6 +13673,14 @@
     <url>https://livetv.sx/es/eventinfo/309814353_green_volley_galatone_domotek_reggio_calabria/</url>
   </evento>
   <evento>
+    <nombre>Modena – Monza</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Italia. Serie A</competicion>
+    <fecha>26 de octubre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/306799698__/</url>
+  </evento>
+  <evento>
     <nombre>Sabaudia – Terni Volley Academy</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Italia. Serie A3</competicion>
@@ -13631,6 +13719,14 @@
     <fecha>26 de octubre</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/309814358_erm_group_san_giustino_reggio_emilia/</url>
+  </evento>
+  <evento>
+    <nombre>Perugia – Lube</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Italia. Serie A</competicion>
+    <fecha>26 de octubre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/306799696__/</url>
   </evento>
   <evento>
     <nombre>CHKS Chelm – Cuprum Lubin</nombre>
@@ -14847,6 +14943,14 @@
     <fecha>26 de octubre</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/306837023__/</url>
+  </evento>
+  <evento>
+    <nombre>Maxim Mrva –  Chris Rodesch</nombre>
+    <deporte>Deporte_15</deporte>
+    <competicion>ATP Challenger. Hamburgo</competicion>
+    <fecha>22 de octubre</fecha>
+    <hora>10:40</hora>
+    <url>https://livetv.sx/es/eventinfo/308847555_maxim_mrva_chris_rodesch/</url>
   </evento>
   <evento>
     <nombre>Cup of ChinaMujer</nombre>
