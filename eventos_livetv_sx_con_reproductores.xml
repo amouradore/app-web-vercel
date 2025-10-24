@@ -1,16 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2025-10-24 05:45:58" total="477">
+<eventos generado="2025-10-24 06:52:59" total="477">
   <evento id="1">
-    <nombre>Thiago Monteiro – Juan Carlos Prado Angelo</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Costa do Sauípe</competicion>
-    <fecha>24 de octubre</fecha>
-    <hora>02:25</hora>
-    <url>https://livetv.sx/es/eventinfo/309270254__/</url>
-    <datetime_iso>2025-10-24T02:25:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="2">
     <nombre>Gran Premio de Malasia</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Moto GP</competicion>
@@ -74,7 +64,7 @@ player/live.php?id=242379&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="3">
+  <evento id="2">
     <nombre>Campeonato Mundial 2025</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Taekwondo</competicion>
@@ -115,7 +105,7 @@ player/live.php?id=242379&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="4">
+  <evento id="3">
     <nombre>Gran Premio de Malasia</nombre>
     <deporte>Automovilismo</deporte>
     <competicion>Moto GP</competicion>
@@ -179,7 +169,7 @@ player/live.php?id=242379&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="5">
+  <evento id="4">
     <nombre>Anna Kalinskaya (M) –   Linda Noskova (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>WTA. Tokyo</competicion>
@@ -187,62 +177,9 @@ player/live.php?id=242379&amp;w=700&amp;h=480</url>
     <hora>03:40</hora>
     <url>https://livetv.sx/es/eventinfo/310035567__anna_kalinskaya_m__linda_noskova_m/</url>
     <datetime_iso>2025-10-24T03:40:00</datetime_iso>
-    <streams total="8">
-      <stream id="1">
-        <url>https://emb.apl382.me/
-player/live.php?id=239138&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=239138&amp;lang=es&amp;eid=310035567&amp;lid=2796268&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl382.me/
-player/live.php?id=239731&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=239731&amp;lang=es&amp;eid=310035567&amp;lid=2786800&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://emb.apl382.me/
-player/live.php?id=241785&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/29.png</idioma>
-        <idioma_nombre>Croata</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=241785&amp;lang=es&amp;eid=310035567&amp;lid=2806888&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://emb.apl382.me/
-player/live.php?id=242368&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/11.png</idioma>
-        <idioma_nombre>Alemán</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=242368&amp;lang=es&amp;eid=310035567&amp;lid=2847779&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://wikisport.wiki/court/wik1.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/8.png</idioma>
-        <idioma_nombre>Portugués (Portugal)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2853863&amp;lang=es&amp;eid=310035567&amp;lid=2853863&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-      <stream id="6">
-        <url>https://dovkembed.pw/livetv/DigiSport2[Romania]</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/14.png</idioma>
-        <idioma_nombre>Árabe</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2853251&amp;lang=es&amp;eid=310035567&amp;lid=2853251&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-      <stream id="7">
-        <url>https://dovkembed.pw/livetv/ex8857244</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858341&amp;lang=es&amp;eid=310035567&amp;lid=2858341&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-      <stream id="8">
-        <url>https://wikisport.wiki/court/wik24.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2855434&amp;lang=es&amp;eid=310035567&amp;lid=2855434&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
-  <evento id="6">
+  <evento id="5">
     <nombre>Anna Kalinskaya (M) –  Linda Noskova (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Tokyo</competicion>
@@ -250,62 +187,9 @@ player/live.php?id=242368&amp;w=700&amp;h=480</url>
     <hora>03:40</hora>
     <url>https://livetv.sx/es/eventinfo/310035567__/</url>
     <datetime_iso>2025-10-24T03:40:00</datetime_iso>
-    <streams total="8">
-      <stream id="1">
-        <url>https://emb.apl382.me/
-player/live.php?id=239138&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=239138&amp;lang=es&amp;eid=310035567&amp;lid=2796268&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl382.me/
-player/live.php?id=239731&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=239731&amp;lang=es&amp;eid=310035567&amp;lid=2786800&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://emb.apl382.me/
-player/live.php?id=241785&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/29.png</idioma>
-        <idioma_nombre>Croata</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=241785&amp;lang=es&amp;eid=310035567&amp;lid=2806888&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://emb.apl382.me/
-player/live.php?id=242368&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/11.png</idioma>
-        <idioma_nombre>Alemán</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=242368&amp;lang=es&amp;eid=310035567&amp;lid=2847779&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://wikisport.wiki/court/wik1.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/8.png</idioma>
-        <idioma_nombre>Portugués (Portugal)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2853863&amp;lang=es&amp;eid=310035567&amp;lid=2853863&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-      <stream id="6">
-        <url>https://dovkembed.pw/livetv/DigiSport2[Romania]</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/14.png</idioma>
-        <idioma_nombre>Árabe</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2853251&amp;lang=es&amp;eid=310035567&amp;lid=2853251&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-      <stream id="7">
-        <url>https://dovkembed.pw/livetv/ex8857244</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858341&amp;lang=es&amp;eid=310035567&amp;lid=2858341&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-      <stream id="8">
-        <url>https://wikisport.wiki/court/wik24.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2855434&amp;lang=es&amp;eid=310035567&amp;lid=2855434&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
-  <evento id="7">
+  <evento id="6">
     <nombre>Rodrigo Pacheco Mendez –  Emilio Nava</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Costa do Sauípe</competicion>
@@ -322,7 +206,7 @@ player/live.php?id=242368&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="8">
+  <evento id="7">
     <nombre>Rodrigo Pacheco Mendez – Emilio Nava</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Costa do Sauípe</competicion>
@@ -330,16 +214,9 @@ player/live.php?id=242368&amp;w=700&amp;h=480</url>
     <hora>03:45</hora>
     <url>https://livetv.sx/es/eventinfo/309270252__/</url>
     <datetime_iso>2025-10-24T03:45:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://dovkembed.pw/livetv/ex8837527</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2855793&amp;lang=es&amp;eid=309270252&amp;lid=2855793&amp;ci=8597&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
-  <evento id="9">
+  <evento id="8">
     <nombre>International Crown</nombre>
     <deporte>Fútbol</deporte>
     <competicion>LPGA Tour</competicion>
@@ -356,17 +233,7 @@ player/live.php?id=242368&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="10">
-    <nombre>Golden State – Denver</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>24 de octubre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/305932219__/</url>
-    <datetime_iso>2025-10-24T04:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="11">
+  <evento id="9">
     <nombre>Melichar (M) /  Yifan (M) –   Krunic (M) /  Danilina (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>WTA. Tokyo. Doubles</competicion>
@@ -395,7 +262,7 @@ player/live.php?id=242368&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="12">
+  <evento id="10">
     <nombre>Melichar (M) /  Yifan (M) –  Krunic (M) /  Danilina (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Tokyo. Doubles</competicion>
@@ -424,7 +291,7 @@ player/live.php?id=242368&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="13">
+  <evento id="11">
     <nombre>Carlos Taberner –  Gonzalo Villanueva</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Costa do Sauípe</competicion>
@@ -441,7 +308,7 @@ player/live.php?id=242368&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="14">
+  <evento id="12">
     <nombre>Carlos Taberner – Gonzalo Villanueva</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Costa do Sauípe</competicion>
@@ -458,7 +325,7 @@ player/live.php?id=242368&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="15">
+  <evento id="13">
     <nombre>Victoria Mboko (M) –   Elena Rybakina (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>WTA. Tokyo</competicion>
@@ -522,7 +389,7 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="16">
+  <evento id="14">
     <nombre>Victoria Mboko (M) –  Elena Rybakina (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Tokyo</competicion>
@@ -586,7 +453,7 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="17">
+  <evento id="15">
     <nombre>Gonzalo Bueno –  Mateus Alves</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Costa do Sauípe</competicion>
@@ -603,7 +470,7 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="18">
+  <evento id="16">
     <nombre>Gonzalo Bueno – Mateus Alves</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Costa do Sauípe</competicion>
@@ -620,7 +487,7 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="19">
+  <evento id="17">
     <nombre>Campeonato de Corea</nombre>
     <deporte>Fútbol</deporte>
     <competicion>DP World Tour</competicion>
@@ -637,17 +504,7 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="20">
-    <nombre>FFC 97</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>24 de octubre</fecha>
-    <hora>05:00</hora>
-    <url>https://livetv.sx/es/eventinfo/310489723_ffc_97/</url>
-    <datetime_iso>2025-10-24T05:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="21">
+  <evento id="18">
     <nombre>ATP Challenger. Suzhou</nombre>
     <deporte>Fútbol</deporte>
     <competicion>ATP Challenger. Suzhou</competicion>
@@ -694,7 +551,7 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="22">
+  <evento id="19">
     <nombre>Duje Ajdukovic –  Lloyd Harris</nombre>
     <deporte>Fútbol</deporte>
     <competicion>ATP Challenger. Suzhou</competicion>
@@ -711,7 +568,7 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="23">
+  <evento id="20">
     <nombre>James McCabe –  Yu Hsiou Hsu</nombre>
     <deporte>Fútbol</deporte>
     <competicion>ATP Challenger. Suzhou</competicion>
@@ -728,7 +585,7 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="24">
+  <evento id="21">
     <nombre>Duje Ajdukovic – Lloyd Harris</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Suzhou</competicion>
@@ -745,7 +602,7 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="25">
+  <evento id="22">
     <nombre>James McCabe – Yu Hsiou Hsu</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Suzhou</competicion>
@@ -762,7 +619,7 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="26">
+  <evento id="23">
     <nombre>Geelong United (M) –   Adelaide Lightning (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Australia. Mujeres. WNBL</competicion>
@@ -772,7 +629,7 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-24T06:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="27">
+  <evento id="24">
     <nombre>Geelong United (M) –  Adelaide Lightning (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Australia. Mujeres. WNBL</competicion>
@@ -782,41 +639,14 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-24T06:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="28">
-    <nombre>Babos (M) /  Stefani (M) –   Kenin (M) /  Dabrowski (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Tokyo. Doubles</competicion>
-    <fecha>24 de octubre</fecha>
-    <hora>06:20</hora>
-    <url>https://livetv.sx/es/eventinfo/310035572__babos_m___stefani_m__kenin_m___dabrowski_m/</url>
-    <datetime_iso>2025-10-24T06:20:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4NTcyNTU=</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858676&amp;lang=es&amp;eid=310035572&amp;lid=2858676&amp;ci=6372&amp;si=4</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="29">
-    <nombre>Babos (M) /  Stefani (M) –  Kenin (M) /  Dabrowski (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Tokyo. Doubles</competicion>
-    <fecha>24 de octubre</fecha>
-    <hora>06:20</hora>
-    <url>https://livetv.sx/es/eventinfo/310035572__/</url>
-    <datetime_iso>2025-10-24T06:20:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="30">
+  <evento id="25">
     <nombre>Ekaterina Alexandrova (M) –   Sofia Kenin (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>WTA. Tokyo</competicion>
     <fecha>24 de octubre</fecha>
-    <hora>06:30</hora>
+    <hora>06:35</hora>
     <url>https://livetv.sx/es/eventinfo/310401566__ekaterina_alexandrova_m__sofia_kenin_m/</url>
-    <datetime_iso>2025-10-24T06:30:00</datetime_iso>
+    <datetime_iso>2025-10-24T06:35:00</datetime_iso>
     <streams total="8">
       <stream id="1">
         <url>https://emb.apl382.me/
@@ -834,71 +664,56 @@ player/live.php?id=239731&amp;w=700&amp;h=480</url>
       </stream>
       <stream id="3">
         <url>https://emb.apl382.me/
+player/live.php?id=241785&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/29.png</idioma>
+        <idioma_nombre>Croata</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=241785&amp;lang=es&amp;eid=310401566&amp;lid=2806888&amp;ci=3685&amp;si=4</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://emb.apl382.me/
+player/live.php?id=243137&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=243137&amp;lang=es&amp;eid=310401566&amp;lid=2842248&amp;ci=3685&amp;si=4</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://emb.apl382.me/
 player/live.php?id=243147&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
         <idioma_nombre>Inglés</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=243147&amp;lang=es&amp;eid=310401566&amp;lid=2842847&amp;ci=3685&amp;si=4</enlace_original>
       </stream>
-      <stream id="4">
+      <stream id="6">
         <url>https://emb.apl382.me/
 player/live.php?id=241480&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
         <idioma_nombre>Inglés</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=241480&amp;lang=es&amp;eid=310401566&amp;lid=2855383&amp;ci=3685&amp;si=4</enlace_original>
       </stream>
-      <stream id="5">
+      <stream id="7">
         <url>https://emb.apl382.me/
 player/live.php?id=241815&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
         <idioma_nombre>Inglés</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=241815&amp;lang=es&amp;eid=310401566&amp;lid=2855384&amp;ci=3685&amp;si=4</enlace_original>
       </stream>
-      <stream id="6">
+      <stream id="8">
         <url>https://emb.apl382.me/
 player/live.php?id=241816&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=241816&amp;lang=es&amp;eid=310401566&amp;lid=2822880&amp;ci=3685&amp;si=4</enlace_original>
       </stream>
-      <stream id="7">
-        <url>https://wikisport.wiki/court/wik24.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2855434&amp;lang=es&amp;eid=310401566&amp;lid=2855434&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-      <stream id="8">
-        <url>https://wikisport.wiki/court/t1.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/8.png</idioma>
-        <idioma_nombre>Portugués (Portugal)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2853864&amp;lang=es&amp;eid=310401566&amp;lid=2853864&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
     </streams>
   </evento>
-  <evento id="31">
-    <nombre>Harold Mayot –  Yuta Shimizu</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Suzhou</competicion>
-    <fecha>24 de octubre</fecha>
-    <hora>06:30</hora>
-    <url>https://livetv.sx/es/eventinfo/310345204_harold_mayot_yuta_shimizu/</url>
-    <datetime_iso>2025-10-24T06:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://dovkembed.pw/livetv/ex8862620</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858680&amp;lang=es&amp;eid=310345204&amp;lid=2858680&amp;ci=8596&amp;si=4</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="32">
+  <evento id="26">
     <nombre>Yoshihito Nishioka –  Frederico-Ferreira Silva</nombre>
     <deporte>Fútbol</deporte>
     <competicion>ATP Challenger. Suzhou</competicion>
     <fecha>24 de octubre</fecha>
-    <hora>06:30</hora>
+    <hora>06:35</hora>
     <url>https://livetv.sx/es/eventinfo/310368174_yoshihito_nishioka_frederico_ferreira_silva/</url>
-    <datetime_iso>2025-10-24T06:30:00</datetime_iso>
+    <datetime_iso>2025-10-24T06:35:00</datetime_iso>
     <streams total="1">
       <stream id="1">
         <url>https://dovkembed.pw/livetv/ex8862811</url>
@@ -908,14 +723,14 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="33">
+  <evento id="27">
     <nombre>Ekaterina Alexandrova (M) –  Sofia Kenin (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Tokyo</competicion>
     <fecha>24 de octubre</fecha>
-    <hora>06:30</hora>
+    <hora>06:35</hora>
     <url>https://livetv.sx/es/eventinfo/310401566__/</url>
-    <datetime_iso>2025-10-24T06:30:00</datetime_iso>
+    <datetime_iso>2025-10-24T06:35:00</datetime_iso>
     <streams total="8">
       <stream id="1">
         <url>https://emb.apl382.me/
@@ -933,54 +748,56 @@ player/live.php?id=239731&amp;w=700&amp;h=480</url>
       </stream>
       <stream id="3">
         <url>https://emb.apl382.me/
+player/live.php?id=241785&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/29.png</idioma>
+        <idioma_nombre>Croata</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=241785&amp;lang=es&amp;eid=310401566&amp;lid=2806888&amp;ci=3685&amp;si=4</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://emb.apl382.me/
+player/live.php?id=243137&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=243137&amp;lang=es&amp;eid=310401566&amp;lid=2842248&amp;ci=3685&amp;si=4</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://emb.apl382.me/
 player/live.php?id=243147&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
         <idioma_nombre>Inglés</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=243147&amp;lang=es&amp;eid=310401566&amp;lid=2842847&amp;ci=3685&amp;si=4</enlace_original>
       </stream>
-      <stream id="4">
+      <stream id="6">
         <url>https://emb.apl382.me/
 player/live.php?id=241480&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
         <idioma_nombre>Inglés</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=241480&amp;lang=es&amp;eid=310401566&amp;lid=2855383&amp;ci=3685&amp;si=4</enlace_original>
       </stream>
-      <stream id="5">
+      <stream id="7">
         <url>https://emb.apl382.me/
 player/live.php?id=241815&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
         <idioma_nombre>Inglés</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=241815&amp;lang=es&amp;eid=310401566&amp;lid=2855384&amp;ci=3685&amp;si=4</enlace_original>
       </stream>
-      <stream id="6">
+      <stream id="8">
         <url>https://emb.apl382.me/
 player/live.php?id=241816&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=241816&amp;lang=es&amp;eid=310401566&amp;lid=2822880&amp;ci=3685&amp;si=4</enlace_original>
       </stream>
-      <stream id="7">
-        <url>https://wikisport.wiki/court/wik24.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2855434&amp;lang=es&amp;eid=310401566&amp;lid=2855434&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
-      <stream id="8">
-        <url>https://wikisport.wiki/court/t1.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/8.png</idioma>
-        <idioma_nombre>Portugués (Portugal)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2853864&amp;lang=es&amp;eid=310401566&amp;lid=2853864&amp;ci=3685&amp;si=4</enlace_original>
-      </stream>
     </streams>
   </evento>
-  <evento id="34">
+  <evento id="28">
     <nombre>Yoshihito Nishioka – Frederico-Ferreira Silva</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Suzhou</competicion>
     <fecha>24 de octubre</fecha>
-    <hora>06:30</hora>
+    <hora>06:35</hora>
     <url>https://livetv.sx/es/eventinfo/310368174__/</url>
-    <datetime_iso>2025-10-24T06:30:00</datetime_iso>
+    <datetime_iso>2025-10-24T06:35:00</datetime_iso>
     <streams total="1">
       <stream id="1">
         <url>https://dovkembed.pw/livetv/ex8862811</url>
@@ -990,144 +807,7 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="35">
-    <nombre>Harold Mayot – Yuta Shimizu</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Suzhou</competicion>
-    <fecha>24 de octubre</fecha>
-    <hora>06:30</hora>
-    <url>https://livetv.sx/es/eventinfo/310345204__/</url>
-    <datetime_iso>2025-10-24T06:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://dovkembed.pw/livetv/ex8862620</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858680&amp;lang=es&amp;eid=310345204&amp;lid=2858680&amp;ci=8596&amp;si=4</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="36">
-    <nombre>Lulu Sun (M) –   Caty McNally (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Cantón</competicion>
-    <fecha>24 de octubre</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/310390390__lulu_sun_m__caty_mcnally_m/</url>
-    <datetime_iso>2025-10-24T07:00:00</datetime_iso>
-    <streams total="5">
-      <stream id="1">
-        <url>https://emb.apl382.me/
-player/live.php?id=239731&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=239731&amp;lang=es&amp;eid=310390390&amp;lid=2786800&amp;ci=7060&amp;si=4</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl382.me/
-player/live.php?id=241785&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/29.png</idioma>
-        <idioma_nombre>Croata</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=241785&amp;lang=es&amp;eid=310390390&amp;lid=2806888&amp;ci=7060&amp;si=4</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://wikisport.wiki/court/wik4.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858683&amp;lang=es&amp;eid=310390390&amp;lid=2858683&amp;ci=7060&amp;si=4</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://wikisport.wiki/court/t4.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858682&amp;lang=es&amp;eid=310390390&amp;lid=2858682&amp;ci=7060&amp;si=4</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://dovkembed.pw/livetv/ex8863315</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858681&amp;lang=es&amp;eid=310390390&amp;lid=2858681&amp;ci=7060&amp;si=4</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="37">
-    <nombre>Kichenok (M) /  Eala (M) –   Rakhimova (M) /  Kudermetova (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Cantón. Doubles</competicion>
-    <fecha>24 de octubre</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/310345254__kichenok_m___eala_m__rakhimova_m___kudermetova_m/</url>
-    <datetime_iso>2025-10-24T07:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4NjI1OTc=</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858684&amp;lang=es&amp;eid=310345254&amp;lid=2858684&amp;ci=7062&amp;si=4</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="38">
-    <nombre>Lulu Sun (M) –  Caty McNally (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Cantón</competicion>
-    <fecha>24 de octubre</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/310390390__/</url>
-    <datetime_iso>2025-10-24T07:00:00</datetime_iso>
-    <streams total="5">
-      <stream id="1">
-        <url>https://emb.apl382.me/
-player/live.php?id=239731&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=239731&amp;lang=es&amp;eid=310390390&amp;lid=2786800&amp;ci=7060&amp;si=4</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl382.me/
-player/live.php?id=241785&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/29.png</idioma>
-        <idioma_nombre>Croata</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=241785&amp;lang=es&amp;eid=310390390&amp;lid=2806888&amp;ci=7060&amp;si=4</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://wikisport.wiki/court/wik4.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858683&amp;lang=es&amp;eid=310390390&amp;lid=2858683&amp;ci=7060&amp;si=4</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://wikisport.wiki/court/t4.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858682&amp;lang=es&amp;eid=310390390&amp;lid=2858682&amp;ci=7060&amp;si=4</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://dovkembed.pw/livetv/ex8863315</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858681&amp;lang=es&amp;eid=310390390&amp;lid=2858681&amp;ci=7060&amp;si=4</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="39">
-    <nombre>Kichenok (M) /  Eala (M) –  Rakhimova (M) /  Kudermetova (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Cantón. Doubles</competicion>
-    <fecha>24 de octubre</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/310345254__/</url>
-    <datetime_iso>2025-10-24T07:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4NjI1OTc=</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858684&amp;lang=es&amp;eid=310345254&amp;lid=2858684&amp;ci=7062&amp;si=4</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="40">
+  <evento id="29">
     <nombre>WTA. Canton</nombre>
     <deporte>Fútbol</deporte>
     <competicion>WTA. Cantón</competicion>
@@ -1174,7 +854,53 @@ player/live.php?id=241785&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="41">
+  <evento id="30">
+    <nombre>Lulu Sun (M) –   Caty McNally (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>WTA. Cantón</competicion>
+    <fecha>24 de octubre</fecha>
+    <hora>07:10</hora>
+    <url>https://livetv.sx/es/eventinfo/310390390__lulu_sun_m__caty_mcnally_m/</url>
+    <datetime_iso>2025-10-24T07:10:00</datetime_iso>
+    <streams total="3">
+      <stream id="1">
+        <url>https://dovkembed.pw/livetv/ex8863315</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858681&amp;lang=es&amp;eid=310390390&amp;lid=2858681&amp;ci=7060&amp;si=4</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://wikisport.wiki/court/wik4.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858683&amp;lang=es&amp;eid=310390390&amp;lid=2858683&amp;ci=7060&amp;si=4</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://wikisport.wiki/court/t4.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858682&amp;lang=es&amp;eid=310390390&amp;lid=2858682&amp;ci=7060&amp;si=4</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="31">
+    <nombre>Kichenok (M) /  Eala (M) –   Rakhimova (M) /  Kudermetova (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>WTA. Cantón. Doubles</competicion>
+    <fecha>24 de octubre</fecha>
+    <hora>07:10</hora>
+    <url>https://livetv.sx/es/eventinfo/310345254__kichenok_m___eala_m__rakhimova_m___kudermetova_m/</url>
+    <datetime_iso>2025-10-24T07:10:00</datetime_iso>
+    <streams total="1">
+      <stream id="1">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4NjI1OTc=</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858684&amp;lang=es&amp;eid=310345254&amp;lid=2858684&amp;ci=7062&amp;si=4</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="32">
     <nombre>WTA. Canton</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Cantón</competicion>
@@ -1182,38 +908,44 @@ player/live.php?id=241785&amp;w=700&amp;h=480</url>
     <hora>07:10</hora>
     <url>https://livetv.sx/es/eventinfo/309065792_wta_guangzhou/</url>
     <datetime_iso>2025-10-24T07:10:00</datetime_iso>
-    <streams total="6">
+    <streams total="7">
       <stream id="1">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4NjM3OTU=</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858697&amp;lang=es&amp;eid=309065792&amp;lid=2858697&amp;ci=7060&amp;si=4</enlace_original>
+      </stream>
+      <stream id="2">
         <url>https://dovkembed.pw/livetv/ex8863315</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858681&amp;lang=es&amp;eid=309065792&amp;lid=2858681&amp;ci=7060&amp;si=4</enlace_original>
       </stream>
-      <stream id="2">
+      <stream id="3">
         <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4NjMzNTE=</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858689&amp;lang=es&amp;eid=309065792&amp;lid=2858689&amp;ci=7060&amp;si=4</enlace_original>
       </stream>
-      <stream id="3">
+      <stream id="4">
         <url>https://dovkembed.pw/livetv/ex8863403</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858688&amp;lang=es&amp;eid=309065792&amp;lid=2858688&amp;ci=7060&amp;si=4</enlace_original>
       </stream>
-      <stream id="4">
+      <stream id="5">
         <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4NjI1OTc=</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858684&amp;lang=es&amp;eid=309065792&amp;lid=2858684&amp;ci=7060&amp;si=4</enlace_original>
       </stream>
-      <stream id="5">
+      <stream id="6">
         <url>https://wikisport.wiki/court/wik4.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858683&amp;lang=es&amp;eid=309065792&amp;lid=2858683&amp;ci=7060&amp;si=4</enlace_original>
       </stream>
-      <stream id="6">
+      <stream id="7">
         <url>https://wikisport.wiki/court/t4.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
@@ -1221,17 +953,162 @@ player/live.php?id=241785&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="42">
-    <nombre>Ho / Bayldon – Shimizu / Tajima</nombre>
+  <evento id="33">
+    <nombre>Lulu Sun (M) –  Caty McNally (M)</nombre>
     <deporte>Tenis</deporte>
+    <competicion>WTA. Cantón</competicion>
+    <fecha>24 de octubre</fecha>
+    <hora>07:10</hora>
+    <url>https://livetv.sx/es/eventinfo/310390390__/</url>
+    <datetime_iso>2025-10-24T07:10:00</datetime_iso>
+    <streams total="3">
+      <stream id="1">
+        <url>https://dovkembed.pw/livetv/ex8863315</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858681&amp;lang=es&amp;eid=310390390&amp;lid=2858681&amp;ci=7060&amp;si=4</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://wikisport.wiki/court/wik4.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858683&amp;lang=es&amp;eid=310390390&amp;lid=2858683&amp;ci=7060&amp;si=4</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://wikisport.wiki/court/t4.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858682&amp;lang=es&amp;eid=310390390&amp;lid=2858682&amp;ci=7060&amp;si=4</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="34">
+    <nombre>Kichenok (M) /  Eala (M) –  Rakhimova (M) /  Kudermetova (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Cantón. Doubles</competicion>
+    <fecha>24 de octubre</fecha>
+    <hora>07:10</hora>
+    <url>https://livetv.sx/es/eventinfo/310345254__/</url>
+    <datetime_iso>2025-10-24T07:10:00</datetime_iso>
+    <streams total="1">
+      <stream id="1">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4NjI1OTc=</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858684&amp;lang=es&amp;eid=310345254&amp;lid=2858684&amp;ci=7062&amp;si=4</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="35">
+    <nombre>Harold Mayot –  Yuta Shimizu</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Suzhou</competicion>
+    <fecha>24 de octubre</fecha>
+    <hora>07:20</hora>
+    <url>https://livetv.sx/es/eventinfo/310345204_harold_mayot_yuta_shimizu/</url>
+    <datetime_iso>2025-10-24T07:20:00</datetime_iso>
+    <streams total="1">
+      <stream id="1">
+        <url>https://dovkembed.pw/livetv/ex8862620</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858680&amp;lang=es&amp;eid=310345204&amp;lid=2858680&amp;ci=8596&amp;si=4</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="36">
+    <nombre>Harold Mayot – Yuta Shimizu</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Suzhou</competicion>
+    <fecha>24 de octubre</fecha>
+    <hora>07:20</hora>
+    <url>https://livetv.sx/es/eventinfo/310345204__/</url>
+    <datetime_iso>2025-10-24T07:20:00</datetime_iso>
+    <streams total="1">
+      <stream id="1">
+        <url>https://dovkembed.pw/livetv/ex8862620</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858680&amp;lang=es&amp;eid=310345204&amp;lid=2858680&amp;ci=8596&amp;si=4</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="37">
+    <nombre>Copa de Ucrania</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>National Event</competicion>
+    <fecha>24 de octubre</fecha>
+    <hora>08:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309794322_copa_de_ucrania/</url>
+    <datetime_iso>2025-10-24T08:00:00</datetime_iso>
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/4GuoKtoVhLo?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=youtube&amp;c=4GuoKtoVhLo&amp;lang=es&amp;eid=309794322&amp;lid=2856008&amp;ci=785&amp;si=72</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="38">
+    <nombre>Wistron Open</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. European Tour</competicion>
+    <fecha>24 de octubre</fecha>
+    <hora>08:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309828308_wistron_open/</url>
+    <datetime_iso>2025-10-24T08:00:00</datetime_iso>
+    <streams total="2">
+      <stream id="1">
+        <url>https://emb.apl382.me/
+player/live.php?id=243152&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/9.png</idioma>
+        <idioma_nombre>Holandés</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=alieztv&amp;c=243152&amp;lang=es&amp;eid=309828308&amp;lid=2843216&amp;ci=936&amp;si=37</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://www.youtube.com/embed/I19DAFhrpkk?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=youtube&amp;c=I19DAFhrpkk&amp;lang=es&amp;eid=309828308&amp;lid=2856361&amp;ci=936&amp;si=37</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="39">
+    <nombre>Esil SK –  Ushkyn-Kokshetau</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Kazajistán. Liga Nacional</competicion>
+    <fecha>24 de octubre</fecha>
+    <hora>08:00</hora>
+    <url>https://livetv.sx/es/eventinfo/310403174_esil_sk_ushkyn_kokshetau/</url>
+    <datetime_iso>2025-10-24T08:00:00</datetime_iso>
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/suiyWqsKfRw?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=youtube&amp;c=suiyWqsKfRw&amp;lang=es&amp;eid=310403174&amp;lid=2858685&amp;ci=2469&amp;si=5</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="40">
+    <nombre>Rojer / Lammons –  Dev / Sinha</nombre>
+    <deporte>Fútbol</deporte>
     <competicion>ATP Challenger. Suzhou. Dobles</competicion>
     <fecha>24 de octubre</fecha>
     <hora>08:00</hora>
-    <url>https://livetv.sx/es/eventinfo/310401504__/</url>
+    <url>https://livetv.sx/es/eventinfo/310379238_rojer__lammons_dev__sinha/</url>
     <datetime_iso>2025-10-24T08:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4NjMwMjQ=</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858687&amp;lang=es&amp;eid=310379238&amp;lid=2858687&amp;ci=8595&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
-  <evento id="43">
+  <evento id="41">
     <nombre>Rojer / Lammons – Dev / Sinha</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Suzhou. Dobles</competicion>
@@ -1248,7 +1125,7 @@ player/live.php?id=241785&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="44">
+  <evento id="42">
     <nombre>Esil SK – Ushkyn-Kokshetau</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Kazajistán. Liga Nacional</competicion>
@@ -1265,7 +1142,7 @@ player/live.php?id=241785&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="45">
+  <evento id="43">
     <nombre>Mainland Pouakai (M) –  Tokomanawa Queens (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Nueva Zelanda. Mujeres. Campeonato</competicion>
@@ -1288,7 +1165,7 @@ player/live.php?id=241785&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="46">
+  <evento id="44">
     <nombre>Bars – ChelGU</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Kazajistán. Vysheyshaya Liga</competicion>
@@ -1296,16 +1173,9 @@ player/live.php?id=241785&amp;w=700&amp;h=480</url>
     <hora>08:30</hora>
     <url>https://livetv.sx/es/eventinfo/310429091_bars_chelgu/</url>
     <datetime_iso>2025-10-24T08:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/qUr8_zrqOjM?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv868.me/webplayer2.php?t=youtube&amp;c=qUr8_zrqOjM&amp;lang=es&amp;eid=310429091&amp;lid=2858074&amp;ci=1482&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
-  <evento id="47">
+  <evento id="45">
     <nombre>CHAMP1ON – Shymkent</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Kazajistán. Vysheyshaya Liga</competicion>
@@ -1322,7 +1192,7 @@ player/live.php?id=241785&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="48">
+  <evento id="46">
     <nombre>Claire Liu (M) –  Ella Seidel (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Cantón</competicion>
@@ -1351,7 +1221,7 @@ player/live.php?id=241785&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="49">
+  <evento id="47">
     <nombre>Gleason (M) /  Pridankina  (M) –  Piter (M) /  Tjen (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Cantón. Doubles</competicion>
@@ -1365,6 +1235,40 @@ player/live.php?id=241785&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858689&amp;lang=es&amp;eid=310401552&amp;lid=2858689&amp;ci=7062&amp;si=4</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="48">
+    <nombre>Babos (M) /  Stefani (M) –  Kenin (M) /  Dabrowski (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Tokyo. Doubles</competicion>
+    <fecha>24 de octubre</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/310035572__/</url>
+    <datetime_iso>2025-10-24T09:00:00</datetime_iso>
+    <streams total="1">
+      <stream id="1">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4NTcyNTU=</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858676&amp;lang=es&amp;eid=310035572&amp;lid=2858676&amp;ci=6372&amp;si=4</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="49">
+    <nombre>Ho / Bayldon – Shimizu / Tajima</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Suzhou. Dobles</competicion>
+    <fecha>24 de octubre</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/310401504__/</url>
+    <datetime_iso>2025-10-24T09:00:00</datetime_iso>
+    <streams total="1">
+      <stream id="1">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4NjMzNzI=</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv868.me/webplayer.php?t=ifr&amp;c=2858686&amp;lang=es&amp;eid=310401504&amp;lid=2858686&amp;ci=8595&amp;si=4</enlace_original>
       </stream>
     </streams>
   </evento>
