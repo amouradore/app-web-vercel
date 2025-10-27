@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2025-10-27 22:20:42" total="58">
+<eventos generado="2025-10-27 22:44:59" total="58">
   <evento id="1">
     <nombre>Chapecoense –  Operário FEC</nombre>
     <deporte>Fútbol</deporte>
@@ -50,28 +50,28 @@
     <datetime_iso>2025-10-27T16:10:00</datetime_iso>
     <streams total="4">
       <stream id="1">
-        <url>https://dovkembed.pw/livetv/ex8881506</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2862898&amp;lang=es&amp;eid=311545751&amp;lid=2862898&amp;ci=4733&amp;si=4</enlace_original>
-      </stream>
-      <stream id="2">
         <url>https://dovkembed.pw/livetv/ex8881513</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
         <idioma_nombre>Polaco</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2862903&amp;lang=es&amp;eid=311545751&amp;lid=2862903&amp;ci=4733&amp;si=4</enlace_original>
       </stream>
-      <stream id="3">
+      <stream id="2">
         <url>https://dovkembed.pw/livetv/ex8881511</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
         <idioma_nombre>Polaco</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2862902&amp;lang=es&amp;eid=311545751&amp;lid=2862902&amp;ci=4733&amp;si=4</enlace_original>
       </stream>
-      <stream id="4">
+      <stream id="3">
         <url>https://dovkembed.pw/livetv/ex8881515</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
         <idioma_nombre>Polaco</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2862899&amp;lang=es&amp;eid=311545751&amp;lid=2862899&amp;ci=4733&amp;si=4</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://dovkembed.pw/livetv/ex8881506</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2862898&amp;lang=es&amp;eid=311545751&amp;lid=2862898&amp;ci=4733&amp;si=4</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -710,20 +710,7 @@ player/live.php?id=242379&amp;w=700&amp;h=480</url>
     <hora>22:15</hora>
     <url>https://livetv.sx/es/eventinfo/307156053_moreirense_porto/</url>
     <datetime_iso>2025-10-27T22:15:00</datetime_iso>
-    <streams total="2">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c92a1909f85847a8597a090988c86.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/9.png</idioma>
-        <idioma_nombre>Holandés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2863114&amp;lang=es&amp;eid=307156053&amp;lid=2863114&amp;ci=28&amp;si=1</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://dovkembed.pw/livetv/exmoreirto</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/9.png</idioma>
-        <idioma_nombre>Holandés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2863294&amp;lang=es&amp;eid=307156053&amp;lid=2863294&amp;ci=28&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="35">
     <nombre>Oliver Tarvet –  Nicolas Mejia</nombre>
@@ -750,20 +737,7 @@ player/live.php?id=242379&amp;w=700&amp;h=480</url>
     <hora>22:15</hora>
     <url>https://livetv.sx/es/eventinfo/307156053__/</url>
     <datetime_iso>2025-10-27T22:15:00</datetime_iso>
-    <streams total="2">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c92a1909f85847a8597a090988c86.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/9.png</idioma>
-        <idioma_nombre>Holandés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2863114&amp;lang=es&amp;eid=307156053&amp;lid=2863114&amp;ci=28&amp;si=1</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://dovkembed.pw/livetv/exmoreirto</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/9.png</idioma>
-        <idioma_nombre>Holandés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2863294&amp;lang=es&amp;eid=307156053&amp;lid=2863294&amp;ci=28&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="37">
     <nombre>Oliver Tarvet – Nicolas Mejia</nombre>
@@ -790,26 +764,7 @@ player/live.php?id=242379&amp;w=700&amp;h=480</url>
     <hora>22:30</hora>
     <url>https://livetv.sx/es/eventinfo/308405170_ameliano_general_caballero/</url>
     <datetime_iso>2025-10-27T22:30:00</datetime_iso>
-    <streams total="3">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c92a190a084847a8597a187988c87.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2863115&amp;lang=es&amp;eid=308405170&amp;lid=2863115&amp;ci=442&amp;si=1</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://dovkembed.pw/livetv/ex8726142</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2863297&amp;lang=es&amp;eid=308405170&amp;lid=2863297&amp;ci=442&amp;si=1</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://dovkembed.pw/livetv/examelijlm</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2863296&amp;lang=es&amp;eid=308405170&amp;lid=2863296&amp;ci=442&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="39">
     <nombre>Timofey Skatov –  Gonzalo Villanueva</nombre>
@@ -853,26 +808,7 @@ player/live.php?id=242379&amp;w=700&amp;h=480</url>
     <hora>22:30</hora>
     <url>https://livetv.sx/es/eventinfo/308405170__/</url>
     <datetime_iso>2025-10-27T22:30:00</datetime_iso>
-    <streams total="3">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c92a190a084847a8597a187988c87.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2863115&amp;lang=es&amp;eid=308405170&amp;lid=2863115&amp;ci=442&amp;si=1</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://dovkembed.pw/livetv/ex8726142</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2863297&amp;lang=es&amp;eid=308405170&amp;lid=2863297&amp;ci=442&amp;si=1</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://dovkembed.pw/livetv/examelijlm</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2863296&amp;lang=es&amp;eid=308405170&amp;lid=2863296&amp;ci=442&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="42">
     <nombre>Timofey Skatov – Gonzalo Villanueva</nombre>
@@ -916,26 +852,7 @@ player/live.php?id=242379&amp;w=700&amp;h=480</url>
     <hora>22:40</hora>
     <url>https://livetv.sx/es/eventinfo/310695051_regatas_pinheiros/</url>
     <datetime_iso>2025-10-27T22:40:00</datetime_iso>
-    <streams total="3">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c92a190a08a847a8597a188988c88.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/7.png</idioma>
-        <idioma_nombre>Francés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2863116&amp;lang=es&amp;eid=310695051&amp;lid=2863116&amp;ci=808&amp;si=3</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://www.youtube.com/embed/QhPPLrZxhl0?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=QhPPLrZxhl0&amp;lang=es&amp;eid=310695051&amp;lid=2859008&amp;ci=808&amp;si=3</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://dovkembed.pw/livetv/ex8780312</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2863298&amp;lang=es&amp;eid=310695051&amp;lid=2863298&amp;ci=808&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="45">
     <nombre>Colo Colo –  Deportes Limache</nombre>
