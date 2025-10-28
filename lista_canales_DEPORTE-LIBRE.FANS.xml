@@ -52,6 +52,12 @@
     <url>https://deporte-libre.click/en-vivo-online/espn-5/embed3.php</url>
     <url>/en-vivo-online/espn-5/embed2.php</url>
   </channel>
+  <channel name="ESPN 6 Argentina/Colombia">
+    <url>https://deporte-libre.click/en-vivo-online/espn-6/embed.php</url>
+    <url>https://deporte-libre.click/en-vivo-online/espn-6/embed2.php</url>
+    <url>https://deporte-libre.click/en-vivo-online/espn-6/embed3.php</url>
+    <url>/en-vivo-online/espn-6/embed2.php</url>
+  </channel>
   <channel name="ESPN 7 Argentina/Colombia">
     <url>https://deporte-libre.click/en-vivo-online/espn-7/embed.php</url>
     <url>https://deporte-libre.click/en-vivo-online/espn-7/embed2.php</url>
@@ -150,6 +156,12 @@
     <url>https://deporte-libre.click/en-vivo-online/fox-sportsmx/fox-sports3-op2.php</url>
     <url>/en-vivo-online/fox-sportsmx/fox-sports3.php</url>
   </channel>
+  <channel name="Fox Sports Premium MX">
+    <url>https://deporte-libre.click/en-vivo-online/fox-sports-premium/embed.php</url>
+    <url>https://deporte-libre.click/en-vivo-online/fox-sports-premium/embed2.php</url>
+    <url>https://deporte-libre.click/en-vivo-online/fox-sports-premium/embed3.php</url>
+    <url>/en-vivo-online/fox-sports-premium/embed.php</url>
+  </channel>
   <channel name="TUDN MX">
     <url>https://deporte-libre.click/en-vivo-online/tudnmx/embed.php</url>
     <url>https://deporte-libre.click/en-vivo-online/tudnmx/embed2.php</url>
@@ -235,6 +247,9 @@
   <channel name="LaLigaTV Spain">
     <url>https://deportelibres.shop/total/stream-276.php</url>
   </channel>
+  <channel name="SuperSport LaLiga">
+    <url>https://deportelibres.shop/total/stream-415.php</url>
+  </channel>
   <channel name="LaLiga SmartBank TV Spain">
     <url>https://deporte-libre.click/en-vivo-online/liga-hipermotion/embed.php</url>
     <url>https://deporte-libre.click/en-vivo-online/liga-hipermotion/embed2.php</url>
@@ -319,6 +334,11 @@
   </channel>
   <channel name="Real Madrid TV Spain">
     <url>https://deportelibres.shop/total/stream-523.php</url>
+  </channel>
+  <channel name="Teledeporte Spain">
+    <url>https://deporte-libre.click/en-vivo-online/teledeporte/embed.php</url>
+    <url>https://deporte-libre.click/en-vivo-online/teledeporte/embed2.php</url>
+    <url>/en-vivo-online/teledeporte/embed.php</url>
   </channel>
   <channel name="GOL PLAY Spain">
     <url>https://deporte-libre.click/en-vivo-online/goltv-es/embed.php</url>
@@ -1131,12 +1151,6 @@
   <channel name="E4 Channel">
     <url>https://deportelibres.shop/total/stream-363.php</url>
   </channel>
-  <channel name="Fox Sports Premium MX">
-    <url>https://deporte-libre.click/en-vivo-online/fox-sports-premium/embed.php</url>
-    <url>https://deporte-libre.click/en-vivo-online/fox-sports-premium/embed2.php</url>
-    <url>https://deporte-libre.click/en-vivo-online/fox-sports-premium/embed3.php</url>
-    <url>/en-vivo-online/fox-sports-premium/embed.php</url>
-  </channel>
   <channel name="FOX Soccer Plus">
     <url>https://deportelibres.shop/total/stream-756.php</url>
   </channel>
@@ -1822,9 +1836,6 @@
   </channel>
   <channel name="SuperSport Premier league">
     <url>https://deportelibres.shop/total/stream-414.php</url>
-  </channel>
-  <channel name="SuperSport LaLiga">
-    <url>https://deportelibres.shop/total/stream-415.php</url>
   </channel>
   <channel name="SuperSport Variety 1">
     <url>https://deportelibres.shop/total/stream-416.php</url>
