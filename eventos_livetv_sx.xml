@@ -1,60 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-10-29 20:30:06" total="2072">
+<eventos generado="2025-10-29 21:23:53" total="2015">
   <evento>
-    <nombre>Ebro –  Tarazona</nombre>
+    <nombre>Simulcast</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
+    <competicion>Francia. Ligue 1</competicion>
     <fecha>29 de octubre</fecha>
     <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312051248_ebro_tarazona/</url>
+    <url>https://livetv.sx/es/eventinfo/312235954_simulcast/</url>
   </evento>
   <evento>
-    <nombre>Náxara –  Eibar</nombre>
+    <nombre>Sant Andreu –  Teruel</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
     <fecha>29 de octubre</fecha>
     <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312051253_n__xara_eibar/</url>
-  </evento>
-  <evento>
-    <nombre>Caudal Deportivo –  Sporting Gijon</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312629952_caudal_deportivo_sporting_gijon/</url>
-  </evento>
-  <evento>
-    <nombre>Navalcarnero –  Mérida</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312629953_navalcarnero_m__rida/</url>
-  </evento>
-  <evento>
-    <nombre>Torrente –  Juventud de Torremolinos</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312629954_torrente_juventud_de_torremolinos/</url>
-  </evento>
-  <evento>
-    <nombre>Cieza –  Córdoba</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312629955_cieza_c__rdoba/</url>
-  </evento>
-  <evento>
-    <nombre>Numancia –  Arenas Getxo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312629956_numancia_arenas_getxo/</url>
+    <url>https://livetv.sx/es/eventinfo/312051251_sant_andreu_teruel/</url>
   </evento>
   <evento>
     <nombre>Atlético Astorga –  Mirandés</nombre>
@@ -63,14 +23,6 @@
     <fecha>29 de octubre</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/312629957_atl__tico_astorga_mirand__s/</url>
-  </evento>
-  <evento>
-    <nombre>Portugalete –  Real Valladolid</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:15</hora>
-    <url>https://livetv.sx/es/eventinfo/312051254_portugalete_real_valladolid/</url>
   </evento>
   <evento>
     <nombre>UD Orense –  Pontevedra</nombre>
@@ -89,12 +41,12 @@
     <url>https://livetv.sx/es/eventinfo/312629958_puente_genil_cartagena/</url>
   </evento>
   <evento>
-    <nombre>Reus Deportiu –  Europa</nombre>
+    <nombre>Swansea City –  Manchester City</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
+    <competicion>Inglaterra. Copa de la Liga</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/312629959_reus_deportiu_europa/</url>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/307758699_swansea_city_manchester_city/</url>
   </evento>
   <evento>
     <nombre>Ciudad de Lucena –  Villarreal</nombre>
@@ -129,44 +81,60 @@
     <url>https://livetv.sx/es/eventinfo/312629961_real_ja__n_eldense/</url>
   </evento>
   <evento>
+    <nombre>Newcastle United –  Tottenham</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Copa de la Liga</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/307758701_newcastle_united_tottenham/</url>
+  </evento>
+  <evento>
+    <nombre>Toulouse –  Rennes</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 1</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>22:05</hora>
+    <url>https://livetv.sx/es/eventinfo/307770627_toulouse_rennes/</url>
+  </evento>
+  <evento>
+    <nombre>Estrasburgo –  Auxerre</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 1</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>22:05</hora>
+    <url>https://livetv.sx/es/eventinfo/307770628_estrasburgo_auxerre/</url>
+  </evento>
+  <evento>
+    <nombre>París –  Lyon</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 1</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>22:05</hora>
+    <url>https://livetv.sx/es/eventinfo/307770629_par__s_lyon/</url>
+  </evento>
+  <evento>
+    <nombre>Nantes –  AS Mónaco</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 1</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>22:05</hora>
+    <url>https://livetv.sx/es/eventinfo/307770630_nantes_as_m__naco/</url>
+  </evento>
+  <evento>
+    <nombre>Marsella –  Angers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 1</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>22:05</hora>
+    <url>https://livetv.sx/es/eventinfo/307770631_marsella_angers/</url>
+  </evento>
+  <evento>
     <nombre>ATP Challenger. Charlottesville</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Charlottesville</competicion>
     <fecha>29 de octubre</fecha>
     <hora>16:10</hora>
     <url>https://livetv.sx/es/eventinfo/311545753_atp_challenger_charlottesville/</url>
-  </evento>
-  <evento>
-    <nombre>Gonzalez / Molteni –  Cerundolo / Darderi</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP. Paris. Doubles</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312295348_gonzalez__molteni_cerundolo__darderi/</url>
-  </evento>
-  <evento>
-    <nombre>Alex Molcan –  Titouan Droguet</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Bratislava 2</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>18:25</hora>
-    <url>https://livetv.sx/es/eventinfo/312026053_alex_molcan_titouan_droguet/</url>
-  </evento>
-  <evento>
-    <nombre>Zizou Bergs –  Jannik Sinner</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP. París</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/312026178_zizou_bergs_jannik_sinner/</url>
-  </evento>
-  <evento>
-    <nombre>Alexander Blockx –  Billy Harris</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Bratislava 2</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/312254774_alexander_blockx_billy_harris/</url>
   </evento>
   <evento>
     <nombre>Perez / Vance –  Rosenkranz / Wiskandt</nombre>
@@ -273,492 +241,12 @@
     <url>https://livetv.sx/es/eventinfo/312343630__anastasia_zolotareva_m__selena_janicijevic_m/</url>
   </evento>
   <evento>
-    <nombre>Esbjerg –  Randers</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Dinamarca. Copa</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307728011_esbjerg_randers/</url>
-  </evento>
-  <evento>
-    <nombre>Niza –  Lille</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Ligue 1</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307730882_niza_lille/</url>
-  </evento>
-  <evento>
-    <nombre>Metz –  Lens</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Ligue 1</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307730883_metz_lens/</url>
-  </evento>
-  <evento>
-    <nombre>Lorient –  PSG</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Ligue 1</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307730884_lorient_psg/</url>
-  </evento>
-  <evento>
-    <nombre>El Havre –  Brest</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Ligue 1</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307730885_el_havre_brest/</url>
-  </evento>
-  <evento>
-    <nombre>Simulcast</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Ligue 1</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312235954_simulcast/</url>
-  </evento>
-  <evento>
-    <nombre>Hapoel T-A –  Partizan</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Euroliga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307728146_hapoel_t_a_partizan/</url>
-  </evento>
-  <evento>
-    <nombre>CD Sant Jordi –  Osasuna</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/311970065_cd_sant_jordi_osasuna/</url>
-  </evento>
-  <evento>
-    <nombre>Los Garres –  Elche</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312051247_los_garres_elche/</url>
-  </evento>
-  <evento>
-    <nombre>Mutilvera –  Real Zaragoza</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312051249_mutilvera_real_zaragoza/</url>
-  </evento>
-  <evento>
-    <nombre>Brann –  Bodoe/Glimt</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Noruega. Eliteserien</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307729612_brann_bodoeglimt/</url>
-  </evento>
-  <evento>
-    <nombre>Mjoendalen –  Stabaek</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Noruega. 1. Divisjon</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/298565960_mjoendalen_stabaek/</url>
-  </evento>
-  <evento>
-    <nombre>USK Praga (M) –   Bourges (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Euroliga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312336141__usk_praga_m__bourges_m/</url>
-  </evento>
-  <evento>
-    <nombre>Flammes Carolo (M) –   Sopron (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Euroliga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312336142__flammes_carolo_m__sopron_m/</url>
-  </evento>
-  <evento>
-    <nombre>Chemnitz –  Ulm</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa Europea</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307728111_chemnitz_ulm/</url>
-  </evento>
-  <evento>
-    <nombre>Slask Breslavia –  Venecia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa Europea</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307728112_slask_breslavia_venecia/</url>
-  </evento>
-  <evento>
-    <nombre>Amstetten –  WAC</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Copa</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307727153_amstetten_wac/</url>
-  </evento>
-  <evento>
-    <nombre>Bregenz –  Ried</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Copa</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307727154_bregenz_ried/</url>
-  </evento>
-  <evento>
-    <nombre>Dimona –  Maccabi Ironi Amishav</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Israel. Copa del Estado</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312675972_dimona_maccabi_ironi_amishav/</url>
-  </evento>
-  <evento>
-    <nombre>Bashkimi –  Dijon</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>FIBA Europe Cup</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307729002_bashkimi_dijon/</url>
-  </evento>
-  <evento>
-    <nombre>Cedevita Junior –  Prievidza</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>FIBA Europe Cup</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307729003_cedevita_junior_prievidza/</url>
-  </evento>
-  <evento>
-    <nombre>Oskarshamn –  Oestersund</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731452_oskarshamn_oestersund/</url>
-  </evento>
-  <evento>
-    <nombre>Vimmerby –  Mora</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731453_vimmerby_mora/</url>
-  </evento>
-  <evento>
-    <nombre>Almtuna –  Troja/Ljungby</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731454_almtuna_trojaljungby/</url>
-  </evento>
-  <evento>
-    <nombre>MODO –  AIK</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731455_modo_aik/</url>
-  </evento>
-  <evento>
-    <nombre>Vasteras –  Sodertalje</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731456_vasteras_sodertalje/</url>
-  </evento>
-  <evento>
-    <nombre>Bjorkloven –  Nybro Vikings</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731457_bjorkloven_nybro_vikings/</url>
-  </evento>
-  <evento>
-    <nombre>Karlskoga –  Kalmar</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731458_karlskoga_kalmar/</url>
-  </evento>
-  <evento>
-    <nombre>Frederikshavn –  Rungsted</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Dinamarca. Metal Ligaen</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307728029_frederikshavn_rungsted/</url>
-  </evento>
-  <evento>
-    <nombre>Peja 03 (M) –   Levharti Chomutov (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Copa Europea</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312225653__peja_03_m__levharti_chomutov_m/</url>
-  </evento>
-  <evento>
-    <nombre>Independiente II –  Rosario Central II</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Argentina. Liga Reserva</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312686223_independiente_ii_rosario_central_ii/</url>
-  </evento>
-  <evento>
-    <nombre>Esquimo Dos Hermanas (M) –   VKP Bratislava (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Copa Challenge</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312548488__esquimo_dos_hermanas_m__vkp_bratislava_m/</url>
-  </evento>
-  <evento>
-    <nombre>AO Thiras (M) –   Panionios (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Copa Challenge</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312548489__ao_thiras_m__panionios_m/</url>
-  </evento>
-  <evento>
-    <nombre>FK Riga –  Luxol St Andrews</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga de Campeones</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/311941144_fk_riga_luxol_st_andrews/</url>
-  </evento>
-  <evento>
-    <nombre>Araz –  United Galati</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga de Campeones</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/311941145_araz_united_galati/</url>
-  </evento>
-  <evento>
-    <nombre>Buba Mara –  Lucenec</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga de Campeones</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/311941146_buba_mara_lucenec/</url>
-  </evento>
-  <evento>
-    <nombre>Lindloeven –  Vallentuna</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Norte</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731551_lindloeven_vallentuna/</url>
-  </evento>
-  <evento>
-    <nombre>Hudiksvall –  Wings</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Norte</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731552_hudiksvall_wings/</url>
-  </evento>
-  <evento>
-    <nombre>Enkoeping –  Sollentuna</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Norte</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731553_enkoeping_sollentuna/</url>
-  </evento>
-  <evento>
-    <nombre>Norrtalje –  Surahammar</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Norte</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312247156_norrtalje_surahammar/</url>
-  </evento>
-  <evento>
-    <nombre>Tranaas –  Vasterviks</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731582_tranaas_vasterviks/</url>
-  </evento>
-  <evento>
-    <nombre>Mjoelby –  Graestorp</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731583_mjoelby_graestorp/</url>
-  </evento>
-  <evento>
-    <nombre>Boraas –  Dalen</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731584_boraas_dalen/</url>
-  </evento>
-  <evento>
-    <nombre>Ski Elite –  Kongsvinger Knights</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Noruega. 1. Divisjon</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307729594_ski_elite_kongsvinger_knights/</url>
-  </evento>
-  <evento>
-    <nombre>Gruener –  Manglerud Star</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Noruega. 1. Divisjon</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307729595_gruener_manglerud_star/</url>
-  </evento>
-  <evento>
-    <nombre>Djurgarden (M) –   Brynas (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Mujeres. SDHL</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/311690135__djurgarden_m__brynas_m/</url>
-  </evento>
-  <evento>
-    <nombre>Skelleftea (M) –   Lulea (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Mujeres. SDHL</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/311690136__skelleftea_m__lulea_m/</url>
-  </evento>
-  <evento>
-    <nombre>Independiente Juniors –  San Antonio Cotacachi</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Ecuador. Serie B</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307779708_independiente_juniors_san_antonio_cotacachi/</url>
-  </evento>
-  <evento>
-    <nombre>Gualaceo –  9 de Octubre</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Ecuador. Serie B</competicion>
-    <fecha>9 de Octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307779709_gualaceo_9_de_octubre/</url>
-  </evento>
-  <evento>
-    <nombre>Fortaleza Sub-20 –   Bahia Sub-20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Copa de Brasil Sub-20</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312679135__fortaleza_sub_20__bahia_sub_20/</url>
-  </evento>
-  <evento>
-    <nombre>Viena –  Oberwart Gunners</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Superliga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307727171_viena_oberwart_gunners/</url>
-  </evento>
-  <evento>
-    <nombre>Chipre –  Turquía</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificatoria</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731086_chipre_turqu__a/</url>
-  </evento>
-  <evento>
-    <nombre>Gimle –  Keila Basket</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ENBL</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312214150_gimle_keila_basket/</url>
-  </evento>
-  <evento>
-    <nombre>Slovan Bratislava –  Pristina</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ENBL</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312262547_slovan_bratislava_pristina/</url>
-  </evento>
-  <evento>
     <nombre>Mark Lajal –  Norbert Gombos</nombre>
     <deporte>Fútbol</deporte>
     <competicion>ATP Challenger. Bratislava 2</competicion>
     <fecha>29 de octubre</fecha>
     <hora>20:10</hora>
     <url>https://livetv.sx/es/eventinfo/311223987_mark_lajal_norbert_gombos/</url>
-  </evento>
-  <evento>
-    <nombre>Puszcza –  Lechia Gdansk</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Polonia. Copa</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/312677553_puszcza_lechia_gdansk/</url>
-  </evento>
-  <evento>
-    <nombre>Innsbruck –  Linz</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/307734864_innsbruck_linz/</url>
-  </evento>
-  <evento>
-    <nombre>Fehervar AV19 –  Viena</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/307734865_fehervar_av19_viena/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Wehdat –  Al-Muharraq</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga de Campeones de la AFC 2</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/307736873_al_wehdat_al_muharraq/</url>
-  </evento>
-  <evento>
-    <nombre>Trefl Sopot –  Kalev</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>FIBA Europe Cup</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/307736679_trefl_sopot_kalev/</url>
-  </evento>
-  <evento>
-    <nombre>SBS Ostrava (M) –   Zaglebie Sosnowiec (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Copa Europea</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/312225654__sbs_ostrava_m__zaglebie_sosnowiec_m/</url>
   </evento>
   <evento>
     <nombre>Soto / Siddhant –  Boulais / Kiger</nombre>
@@ -769,100 +257,12 @@
     <url>https://livetv.sx/es/eventinfo/311254823_soto__siddhant_boulais__kiger/</url>
   </evento>
   <evento>
-    <nombre>La Unión Atlético –  Ceuta</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/312629951_la_uni__n_atl__tico_ceuta/</url>
-  </evento>
-  <evento>
-    <nombre>Cedevita Olimpija –  Neptunas</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa Europea</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>84:89</hora>
-    <url>https://livetv.sx/es/eventinfo/307735786_cedevita_olimpija_neptunas/</url>
-  </evento>
-  <evento>
-    <nombre>Straubing Tigers –  Ingolstadt</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. DEL</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/307735570_straubing_tigers_ingolstadt/</url>
-  </evento>
-  <evento>
-    <nombre>Schwenninger –  Loeven Fráncfort</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. DEL</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/307735571_schwenninger_loeven_fr__ncfort/</url>
-  </evento>
-  <evento>
-    <nombre>Eisbaeren Berlín –  Adler Mannheim</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. DEL</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/307735572_eisbaeren_berl__n_adler_mannheim/</url>
-  </evento>
-  <evento>
-    <nombre>Dresdner Eisloewen –  Núremberg</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. DEL</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/307735573_dresdner_eisloewen_n__remberg/</url>
-  </evento>
-  <evento>
-    <nombre>Pioneers Vorarlberg –  Salzburgo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/307734866_pioneers_vorarlberg_salzburgo/</url>
-  </evento>
-  <evento>
-    <nombre>Brda (M) –   Olympiada Neapolis (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Copa Challenge</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/312548490__brda_m__olympiada_neapolis_m/</url>
-  </evento>
-  <evento>
-    <nombre>Etoile Lavalloise –  Palma</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga de Campeones</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/311941147_etoile_lavalloise_palma/</url>
-  </evento>
-  <evento>
     <nombre>Corentin Moutet –  Alexandr Bublik</nombre>
     <deporte>Fútbol</deporte>
     <competicion>ATP. París</competicion>
     <fecha>29 de octubre</fecha>
     <hora>20:35</hora>
     <url>https://livetv.sx/es/eventinfo/312267853_corentin_moutet_alexandr_bublik/</url>
-  </evento>
-  <evento>
-    <nombre>Lausanne –  Davos</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suiza. National League</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/307746672_lausanne_davos/</url>
-  </evento>
-  <evento>
-    <nombre>Bolzano –  Klagenfurt</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/307742534_bolzano_klagenfurt/</url>
   </evento>
   <evento>
     <nombre>Justo / Roncadelli –  Arias / Ingildsen</nombre>
@@ -889,20 +289,60 @@
     <url>https://livetv.sx/es/eventinfo/312051250_lorca_deportiva_almer__a/</url>
   </evento>
   <evento>
-    <nombre>Sant Andreu –  Teruel</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312051251_sant_andreu_teruel/</url>
-  </evento>
-  <evento>
     <nombre>Azuaga –  Leganés</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
     <fecha>29 de octubre</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/312051252_azuaga_legan__s/</url>
+  </evento>
+  <evento>
+    <nombre>Náxara –  Eibar</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312051253_n__xara_eibar/</url>
+  </evento>
+  <evento>
+    <nombre>Caudal Deportivo –  Sporting Gijon</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312629952_caudal_deportivo_sporting_gijon/</url>
+  </evento>
+  <evento>
+    <nombre>Navalcarnero –  Mérida</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312629953_navalcarnero_m__rida/</url>
+  </evento>
+  <evento>
+    <nombre>Torrente –  Juventud de Torremolinos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312629954_torrente_juventud_de_torremolinos/</url>
+  </evento>
+  <evento>
+    <nombre>Cieza –  Córdoba</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312629955_cieza_c__rdoba/</url>
+  </evento>
+  <evento>
+    <nombre>Numancia –  Arenas Getxo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312629956_numancia_arenas_getxo/</url>
   </evento>
   <evento>
     <nombre>Gloria Bistrita –  FCSB</nombre>
@@ -917,7 +357,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. Euroliga</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>49:56</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/312336143__zaragoza_m__landes_m/</url>
   </evento>
   <evento>
@@ -925,7 +365,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. Euroliga</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>85:51</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/312336144__valencia_m__olympiakos_m/</url>
   </evento>
   <evento>
@@ -933,7 +373,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. Euroliga</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>48:51</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/312336145__pf_schio_m__galatasaray_m/</url>
   </evento>
   <evento>
@@ -957,7 +397,7 @@
     <deporte>Fútbol</deporte>
     <competicion>FIBA Europe Cup</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>45:53</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/307744349_reggiana_cibona/</url>
   </evento>
   <evento>
@@ -965,7 +405,7 @@
     <deporte>Fútbol</deporte>
     <competicion>FIBA Europe Cup</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>02:65</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/307744350_antwerp_giants_tartu_ulikool/</url>
   </evento>
   <evento>
@@ -989,7 +429,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Francia. Mujeres. D1</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>26:30</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/312450293__jda_dijon_m__brest_bretagne_m/</url>
   </evento>
   <evento>
@@ -1005,7 +445,7 @@
     <deporte>Fútbol</deporte>
     <competicion>División de Honor</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>18:23</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/312186389__elche_m__elda_prestigio_m/</url>
   </evento>
   <evento>
@@ -1013,7 +453,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. Copa Europea</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>66:44</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/312225655__villeneuve_dascq_m__elfic_friburgo_m/</url>
   </evento>
   <evento>
@@ -1021,7 +461,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. Copa Europea</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>66:48</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/312225656__montpellier_m__kp_brno_m/</url>
   </evento>
   <evento>
@@ -1029,7 +469,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. Copa Europea</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>53:61</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/312225657__charnay_bourgogne_sud_m__athinaikos_m/</url>
   </evento>
   <evento>
@@ -1037,7 +477,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. Copa Europea</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>67:72</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/312225658__angers_m__estudiantes_m/</url>
   </evento>
   <evento>
@@ -1045,7 +485,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Liga de Campeones</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>62:55</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/307744625_elan_chalon_sabah/</url>
   </evento>
   <evento>
@@ -1125,7 +565,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Liga del Adriático. Liga 2</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>24:18</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/312310779_jahorina_mornar/</url>
   </evento>
   <evento>
@@ -1197,8 +637,16 @@
     <deporte>Fútbol</deporte>
     <competicion>Euroliga</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>49:46</hora>
+    <hora>86:89</hora>
     <url>https://livetv.sx/es/eventinfo/307751367_olympiacos_as_m__naco/</url>
+  </evento>
+  <evento>
+    <nombre>Portugalete –  Real Valladolid</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/312051254_portugalete_real_valladolid/</url>
   </evento>
   <evento>
     <nombre>Oliveirense –  Porto B</nombre>
@@ -1221,7 +669,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. Copa Europea</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>76:39</hora>
+    <hora>21:15</hora>
     <url>https://livetv.sx/es/eventinfo/312225659__ferrol_m__benfica_m/</url>
   </evento>
   <evento>
@@ -1237,7 +685,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Islandia. Mujeres. Urvalsdeild</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>76:59</hora>
+    <hora>21:15</hora>
     <url>https://livetv.sx/es/eventinfo/312269234__haukar_m__hamar_m/</url>
   </evento>
   <evento>
@@ -1245,7 +693,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Islandia. Mujeres. Urvalsdeild</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>58:55</hora>
+    <hora>21:15</hora>
     <url>https://livetv.sx/es/eventinfo/312275718__stjarnan_m__keflavik_m/</url>
   </evento>
   <evento>
@@ -1253,7 +701,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Islandia. Mujeres. Urvalsdeild</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>42:68</hora>
+    <hora>21:15</hora>
     <url>https://livetv.sx/es/eventinfo/312311928__armann_m__valur_m/</url>
   </evento>
   <evento>
@@ -1261,7 +709,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Islandia. Mujeres. Urvalsdeild</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>63:64</hora>
+    <hora>21:15</hora>
     <url>https://livetv.sx/es/eventinfo/312336317__njardvik_m__grindavik_m/</url>
   </evento>
   <evento>
@@ -1303,6 +751,14 @@
     <fecha>29 de octubre</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/307647495_paok_ael/</url>
+  </evento>
+  <evento>
+    <nombre>Reus Deportiu –  Europa</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/312629959_reus_deportiu_europa/</url>
   </evento>
   <evento>
     <nombre>Rakow –  Cracovie</nombre>
@@ -1381,7 +837,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Copa Europea</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>42:45</hora>
+    <hora>71:84</hora>
     <url>https://livetv.sx/es/eventinfo/307751332_london_lions_turk_telekom/</url>
   </evento>
   <evento>
@@ -1445,7 +901,7 @@
     <deporte>Fútbol</deporte>
     <competicion>FIBA Europe Cup</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>39:53</hora>
+    <hora>05:94</hora>
     <url>https://livetv.sx/es/eventinfo/307752245_dinamo_s__cer_rasta_vechta/</url>
   </evento>
   <evento>
@@ -1453,7 +909,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Liga de Campeones</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>07:10</hora>
+    <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/311922072_cnab_marsella/</url>
   </evento>
   <evento>
@@ -1469,7 +925,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Liga de Campeones</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>12:12</hora>
+    <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/311922074_havk_mladost_radnicki/</url>
   </evento>
   <evento>
@@ -1517,7 +973,7 @@
     <deporte>Fútbol</deporte>
     <competicion>División de Honor</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>14:14</hora>
+    <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/312186390__granollers_m__san_jose_obrero_m/</url>
   </evento>
   <evento>
@@ -1533,7 +989,7 @@
     <deporte>Fútbol</deporte>
     <competicion>División de Honor</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>20:15</hora>
+    <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/312186392__gran_canaria_m__porri__o_m/</url>
   </evento>
   <evento>
@@ -1549,7 +1005,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. Copa Europea</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>42:40</hora>
+    <hora>70:76</hora>
     <url>https://livetv.sx/es/eventinfo/312225661__avenida_m__panathinaikos_m/</url>
   </evento>
   <evento>
@@ -1565,7 +1021,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Liga de Campeones</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>54:41</hora>
+    <hora>02:80</hora>
     <url>https://livetv.sx/es/eventinfo/307752521_m__laga_ostende/</url>
   </evento>
   <evento>
@@ -1573,7 +1029,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Italia. Serie A2</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>43:36</hora>
+    <hora>83:74</hora>
     <url>https://livetv.sx/es/eventinfo/307751849_rinascita_rimini_roseto/</url>
   </evento>
   <evento>
@@ -1581,7 +1037,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Italia. Serie A2</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>51:46</hora>
+    <hora>85:80</hora>
     <url>https://livetv.sx/es/eventinfo/307751850_forli_mestre/</url>
   </evento>
   <evento>
@@ -1589,7 +1045,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Italia. Serie A2</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>34:35</hora>
+    <hora>76:70</hora>
     <url>https://livetv.sx/es/eventinfo/307751851_cividale_scafati/</url>
   </evento>
   <evento>
@@ -1597,7 +1053,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Italia. Serie A2</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>45:34</hora>
+    <hora>89:72</hora>
     <url>https://livetv.sx/es/eventinfo/307751852_cento_juvi_cremona/</url>
   </evento>
   <evento>
@@ -1613,7 +1069,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Italia. Serie A2</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>34:36</hora>
+    <hora>82:73</hora>
     <url>https://livetv.sx/es/eventinfo/307751854_vl_p__saro_pistoia/</url>
   </evento>
   <evento>
@@ -1809,14 +1265,6 @@
     <url>https://livetv.sx/es/eventinfo/307758698_liverpool_crystal_palace/</url>
   </evento>
   <evento>
-    <nombre>Swansea City –  Manchester City</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. Copa de la Liga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:45</hora>
-    <url>https://livetv.sx/es/eventinfo/307758699_swansea_city_manchester_city/</url>
-  </evento>
-  <evento>
     <nombre>Arsenal –  Brighton</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Inglaterra. Copa de la Liga</competicion>
@@ -1837,7 +1285,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Copa Europea</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>20:33</hora>
+    <hora>44:61</hora>
     <url>https://livetv.sx/es/eventinfo/307759513_manresa_bahcesehir_koleji/</url>
   </evento>
   <evento>
@@ -1845,7 +1293,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Italia. Serie A2</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>41:35</hora>
+    <hora>79:57</hora>
     <url>https://livetv.sx/es/eventinfo/307760040_libertas_livorno_urania_mil__n/</url>
   </evento>
   <evento>
@@ -1855,14 +1303,6 @@
     <fecha>29 de octubre</fecha>
     <hora>21:45</hora>
     <url>https://livetv.sx/es/eventinfo/312709750_triglav_kranj_lth_castings/</url>
-  </evento>
-  <evento>
-    <nombre>Karen Jachánov –  Joao Fonseca</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP. París</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:45</hora>
-    <url>https://livetv.sx/es/eventinfo/312281134_karen_jach__nov_joao_fonseca/</url>
   </evento>
   <evento>
     <nombre>Gabriel Diallo –  Alex De Minaur</nombre>
@@ -1881,28 +1321,12 @@
     <url>https://livetv.sx/es/eventinfo/299667854_shamrock_rovers_galway_united/</url>
   </evento>
   <evento>
-    <nombre>Excelsior M –  Excelsior</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Países Bajos. KNVB Copa</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/311999320_excelsior_m_excelsior/</url>
-  </evento>
-  <evento>
     <nombre>Rosenborg –  Sandefjord</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Noruega. Eliteserien</competicion>
     <fecha>29 de octubre</fecha>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/310749725_rosenborg_sandefjord/</url>
-  </evento>
-  <evento>
-    <nombre>Newcastle United –  Tottenham</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. Copa de la Liga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307758701_newcastle_united_tottenham/</url>
   </evento>
   <evento>
     <nombre>Lanzarote Zonzamas (M) –   Beti Onak (M)</nombre>
@@ -1917,7 +1341,7 @@
     <deporte>Fútbol</deporte>
     <competicion>División de Honor</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>22:00</hora>
+    <hora>30:20</hora>
     <url>https://livetv.sx/es/eventinfo/312186394__atl__tico_guard__s_m__alimentos_de_valladolid_m/</url>
   </evento>
   <evento>
@@ -1925,7 +1349,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Italia. Serie A2</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>34:23</hora>
+    <hora>78:66</hora>
     <url>https://livetv.sx/es/eventinfo/307760041_real_sebastiani_ruvo_di_puglia/</url>
   </evento>
   <evento>
@@ -1937,46 +1361,6 @@
     <url>https://livetv.sx/es/eventinfo/307779707_leones_del_norte_guayaquil_city/</url>
   </evento>
   <evento>
-    <nombre>Toulouse –  Rennes</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Ligue 1</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>22:05</hora>
-    <url>https://livetv.sx/es/eventinfo/307770627_toulouse_rennes/</url>
-  </evento>
-  <evento>
-    <nombre>Estrasburgo –  Auxerre</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Ligue 1</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>22:05</hora>
-    <url>https://livetv.sx/es/eventinfo/307770628_estrasburgo_auxerre/</url>
-  </evento>
-  <evento>
-    <nombre>París –  Lyon</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Ligue 1</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>22:05</hora>
-    <url>https://livetv.sx/es/eventinfo/307770629_par__s_lyon/</url>
-  </evento>
-  <evento>
-    <nombre>Nantes –  AS Mónaco</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Ligue 1</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>22:05</hora>
-    <url>https://livetv.sx/es/eventinfo/307770630_nantes_as_m__naco/</url>
-  </evento>
-  <evento>
-    <nombre>Marsella –  Angers</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Ligue 1</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>22:05</hora>
-    <url>https://livetv.sx/es/eventinfo/307770631_marsella_angers/</url>
-  </evento>
-  <evento>
     <nombre>Clarke / Hands –  Ilagan / Kumar</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Doubles</competicion>
@@ -1985,44 +1369,84 @@
     <url>https://livetv.sx/es/eventinfo/311254827_clarke__hands_ilagan__kumar/</url>
   </evento>
   <evento>
-    <nombre>Kolar / Matuszewski –  Collarini / Dutra da Silva</nombre>
+    <nombre>Excelsior M –  Excelsior</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Doubles</competicion>
+    <competicion>Países Bajos. KNVB Copa</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>22:30</hora>
-    <url>https://livetv.sx/es/eventinfo/311254794_kolar__matuszewski_collarini__dutra_da_silva/</url>
+    <hora>22:10</hora>
+    <url>https://livetv.sx/es/eventinfo/311999320_excelsior_m_excelsior/</url>
+  </evento>
+  <evento>
+    <nombre>Karen Jachánov –  Joao Fonseca</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP. París</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>22:35</hora>
+    <url>https://livetv.sx/es/eventinfo/312281134_karen_jach__nov_joao_fonseca/</url>
+  </evento>
+  <evento>
+    <nombre>Pinheiros –  Colegio Los Leones</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga Sudamericana</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>43:23</hora>
+    <url>https://livetv.sx/es/eventinfo/312649992_pinheiros_colegio_los_leones/</url>
+  </evento>
+  <evento>
+    <nombre>Markus (M) /  Mediorreal Arias (M) –   Smith (M) /  Lee (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>WTA. Cali. Doubles</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>22:40</hora>
+    <url>https://livetv.sx/es/eventinfo/311732695__markus_m___mediorreal_arias_m__smith_m___lee_m/</url>
+  </evento>
+  <evento>
+    <nombre>Benfica –  Tondela</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Copa de la Liga</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>22:45</hora>
+    <url>https://livetv.sx/es/eventinfo/307777947_benfica_tondela/</url>
   </evento>
   <evento>
     <nombre>Ortenzi (M) /  Pereira (M) –   Pigossi (M) /  Candiotto (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>WTA. Cali. Doubles</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>22:30</hora>
+    <hora>22:45</hora>
     <url>https://livetv.sx/es/eventinfo/311732694__ortenzi_m___pereira_m__pigossi_m___candiotto_m/</url>
   </evento>
   <evento>
-    <nombre>Ebro – Tarazona</nombre>
+    <nombre>La Equidad –  Fortaleza CEIF</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
+    <competicion>Colombia. Primera A</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312051248__/</url>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/307776969_la_equidad_fortaleza_ceif/</url>
   </evento>
   <evento>
-    <nombre>La Unión Atlético – Ceuta</nombre>
+    <nombre>Andrade / Meza –  Villanueva / Midon</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
+    <competicion>Doubles</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/312629951__/</url>
+    <hora>23:10</hora>
+    <url>https://livetv.sx/es/eventinfo/311254793_andrade__meza_villanueva__midon/</url>
   </evento>
   <evento>
-    <nombre>Lorca Deportiva – Almería</nombre>
+    <nombre>Kolar / Matuszewski –  Collarini / Dutra da Silva</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
+    <competicion>Doubles</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312051250__/</url>
+    <hora>23:10</hora>
+    <url>https://livetv.sx/es/eventinfo/311254794_kolar__matuszewski_collarini__dutra_da_silva/</url>
+  </evento>
+  <evento>
+    <nombre>Uniao Sportiva (M) –   Gernika Bizkaia (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. Copa Europea</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>23:30</hora>
+    <url>https://livetv.sx/es/eventinfo/312231572__uniao_sportiva_m__gernika_bizkaia_m/</url>
   </evento>
   <evento>
     <nombre>Sant Andreu – Teruel</nombre>
@@ -2033,20 +1457,12 @@
     <url>https://livetv.sx/es/eventinfo/312051251__/</url>
   </evento>
   <evento>
-    <nombre>Azuaga – Leganés</nombre>
+    <nombre>Atlético Astorga – Mirandés</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
     <fecha>29 de octubre</fecha>
     <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312051252__/</url>
-  </evento>
-  <evento>
-    <nombre>Náxara – Eibar</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312051253__/</url>
+    <url>https://livetv.sx/es/eventinfo/312629957__/</url>
   </evento>
   <evento>
     <nombre>Portugalete – Real Valladolid</nombre>
@@ -2065,6 +1481,22 @@
     <url>https://livetv.sx/es/eventinfo/312051255__/</url>
   </evento>
   <evento>
+    <nombre>Puente Genil – Cartagena</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/312629958__/</url>
+  </evento>
+  <evento>
+    <nombre>Reus Deportiu – Europa</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/312629959__/</url>
+  </evento>
+  <evento>
     <nombre>Yuncos – Rayo Vallecano</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
@@ -2081,84 +1513,20 @@
     <url>https://livetv.sx/es/eventinfo/307966828__/</url>
   </evento>
   <evento>
-    <nombre>Bregenz – Ried</nombre>
+    <nombre>Quintanar del Rey – UD Ibiza</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Austria. Copa</competicion>
+    <competicion>España. Copa del Rey</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307727154__/</url>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312629960__/</url>
   </evento>
   <evento>
-    <nombre>Al-Wehdat – Al-Muharraq</nombre>
+    <nombre>Real Jaén – Eldense</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Liga de Campeones de la AFC 2</competicion>
+    <competicion>España. Copa del Rey</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/307736873__/</url>
-  </evento>
-  <evento>
-    <nombre>Puszcza – Lechia Gdansk</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Polonia. Copa</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/312677553__/</url>
-  </evento>
-  <evento>
-    <nombre>Lisen – Sparta Praga</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>República Checa. Coppa</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/307966831__/</url>
-  </evento>
-  <evento>
-    <nombre>Real Oruro – Universitario de VintoUniversitario de Vinto</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bolivia. Copa de la Liga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312037660_real_oruro_universitario_de_vinto/</url>
-  </evento>
-  <evento>
-    <nombre>El Salvador (M) – Costa Rica (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Partido amistoso. Selecciones</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312697116_salvador_w_costa_rica_w/</url>
-  </evento>
-  <evento>
-    <nombre>NAC Breda – Heracles Almelo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Países Bajos. KNVB Copa</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/311999319__/</url>
-  </evento>
-  <evento>
-    <nombre>Chad (M) –  Libia (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Partido amistoso. Selecciones</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/311051394__/</url>
-  </evento>
-  <evento>
-    <nombre>Túnez (M) –  Afganistán (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Partido amistoso. Selecciones</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/311051395__/</url>
-  </evento>
-  <evento>
-    <nombre>Gloria Bistrita – FCSB</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rumania. Copa</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312096664__/</url>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312629961__/</url>
   </evento>
   <evento>
     <nombre>WAC – Raja CA</nombre>
@@ -2167,70 +1535,6 @@
     <fecha>29 de octubre</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/307744666__/</url>
-  </evento>
-  <evento>
-    <nombre>Canadá U17 (M) – Zambia U17 (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Copa Mundial Sub-17</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312241071_canada_u17_w_zambia_u17_w/</url>
-  </evento>
-  <evento>
-    <nombre>Japón U17 (M) – Colombia U17 (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Copa Mundial Sub-17</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312241074_japan_u17_w_colombia_u17_w/</url>
-  </evento>
-  <evento>
-    <nombre>Caudal Deportivo – Sporting Gijon</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312629952__/</url>
-  </evento>
-  <evento>
-    <nombre>Navalcarnero – Mérida</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312629953__/</url>
-  </evento>
-  <evento>
-    <nombre>Torrente – Juventud de Torremolinos</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312629954__/</url>
-  </evento>
-  <evento>
-    <nombre>Cieza – Córdoba</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312629955__/</url>
-  </evento>
-  <evento>
-    <nombre>Numancia – Arenas Getxo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312629956__/</url>
-  </evento>
-  <evento>
-    <nombre>Atlético Astorga – Mirandés</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312629957__/</url>
   </evento>
   <evento>
     <nombre>Braga – Santa Clara</nombre>
@@ -2375,22 +1679,6 @@
     <fecha>29 de octubre</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/311999122__/</url>
-  </evento>
-  <evento>
-    <nombre>Puente Genil – Cartagena</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/312629958__/</url>
-  </evento>
-  <evento>
-    <nombre>Reus Deportiu – Europa</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/312629959__/</url>
   </evento>
   <evento>
     <nombre>St Poelten – Rapid de Viena</nombre>
@@ -2561,14 +1849,6 @@
     <url>https://livetv.sx/es/eventinfo/310749725__/</url>
   </evento>
   <evento>
-    <nombre>Excelsior M – Excelsior</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Países Bajos. KNVB Copa</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/311999320__/</url>
-  </evento>
-  <evento>
     <nombre>Newcastle United – Tottenham</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Inglaterra. Copa de la Liga</competicion>
@@ -2591,22 +1871,6 @@
     <fecha>29 de octubre</fecha>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/299667854__/</url>
-  </evento>
-  <evento>
-    <nombre>Quintanar del Rey – UD Ibiza</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312629960__/</url>
-  </evento>
-  <evento>
-    <nombre>Real Jaén – Eldense</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312629961__/</url>
   </evento>
   <evento>
     <nombre>Toulouse – Rennes</nombre>
@@ -2647,6 +1911,14 @@
     <fecha>29 de octubre</fecha>
     <hora>22:05</hora>
     <url>https://livetv.sx/es/eventinfo/307770631__/</url>
+  </evento>
+  <evento>
+    <nombre>Excelsior M – Excelsior</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. KNVB Copa</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>22:10</hora>
+    <url>https://livetv.sx/es/eventinfo/311999320__/</url>
   </evento>
   <evento>
     <nombre>Benfica – Tondela</nombre>
@@ -2791,14 +2063,6 @@
     <fecha>30 de octubre</fecha>
     <hora>13:00</hora>
     <url>https://livetv.sx/es/eventinfo/311999123__/</url>
-  </evento>
-  <evento>
-    <nombre>LDU Quito – CD Cuenca</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Ecuador. Copa</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307966116__/</url>
   </evento>
   <evento>
     <nombre>Rajasthan United – Kerala Blasters</nombre>
@@ -3681,6 +2945,14 @@
     <url>https://livetv.sx/es/eventinfo/305488846__/</url>
   </evento>
   <evento>
+    <nombre>NK Opatija – Croatia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Croacia. Prva NL</competicion>
+    <fecha>31 de octubre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312731664__/</url>
+  </evento>
+  <evento>
     <nombre>Bani Yas – Dibba Al-Fujairah</nombre>
     <deporte>Fútbol</deporte>
     <competicion>EÁU. Pro League</competicion>
@@ -3847,6 +3119,14 @@
     <fecha>31 de octubre</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/312591041__/</url>
+  </evento>
+  <evento>
+    <nombre>Fratria – Vihren</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bulgaria. Vtora PFL</competicion>
+    <fecha>31 de octubre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/312731663__/</url>
   </evento>
   <evento>
     <nombre>Suecia Sub-17 –  Escocia Sub-17</nombre>
@@ -5969,228 +5249,172 @@
     <url>https://livetv.sx/es/eventinfo/308696160__/</url>
   </evento>
   <evento>
-    <nombre>Bjorkloven – Nybro Vikings</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731457__/</url>
+    <nombre>Jonkoping – Ariana</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. División 1. Sur</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308696161__/</url>
   </evento>
   <evento>
-    <nombre>Karlskoga – Kalmar</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731458__/</url>
+    <nombre>IFK Skoevde – Eskilsminne</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. División 1. Sur</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308696162__/</url>
   </evento>
   <evento>
-    <nombre>Vimmerby – Mora</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731453__/</url>
+    <nombre>Zulte Waregem – Union Saint-Gilloise</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Pro League</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308692079__/</url>
   </evento>
   <evento>
-    <nombre>Almtuna – Troja/Ljungby</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731454__/</url>
+    <nombre>Nottingham Forest – Manchester Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308691835__/</url>
   </evento>
   <evento>
-    <nombre>MODO – AIK</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731455__/</url>
+    <nombre>Fulham – Wolverhampton</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308691836__/</url>
   </evento>
   <evento>
-    <nombre>Straubing Tigers – Ingolstadt</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Alemania. DEL</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/307735570__/</url>
+    <nombre>Crystal Palace – Brentford</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308691837__/</url>
   </evento>
   <evento>
-    <nombre>Schwenninger – Loeven Fráncfort</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Alemania. DEL</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/307735571__/</url>
+    <nombre>Burnley – Arsenal</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308691838__/</url>
   </evento>
   <evento>
-    <nombre>Eisbaeren Berlín – Adler Mannheim</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Alemania. DEL</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/307735572__/</url>
+    <nombre>Brighton – Leeds Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308691839__/</url>
   </evento>
   <evento>
-    <nombre>Dresdner Eisloewen – Núremberg</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Alemania. DEL</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/307735573__/</url>
-  </evento>
-  <evento>
-    <nombre>Columbus – Toronto</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>01:30</hora>
-    <url>https://livetv.sx/es/eventinfo/307819144__/</url>
-  </evento>
-  <evento>
-    <nombre>Vasteras – Sodertalje</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731456__/</url>
-  </evento>
-  <evento>
-    <nombre>Lindloeven – Vallentuna</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Norte</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731551__/</url>
-  </evento>
-  <evento>
-    <nombre>Hudiksvall – Wings</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Norte</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731552__/</url>
-  </evento>
-  <evento>
-    <nombre>Enkoeping – Sollentuna</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Norte</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731553__/</url>
-  </evento>
-  <evento>
-    <nombre>Norrtalje – Surahammar</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Norte</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312247156__/</url>
-  </evento>
-  <evento>
-    <nombre>Tranaas – Vasterviks</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731582__/</url>
-  </evento>
-  <evento>
-    <nombre>Mjoelby – Graestorp</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731583__/</url>
-  </evento>
-  <evento>
-    <nombre>Boraas – Dalen</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731584__/</url>
-  </evento>
-  <evento>
-    <nombre>Djurgarden (M) –  Brynas (M)</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Mujeres. SDHL</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/311690135__/</url>
-  </evento>
-  <evento>
-    <nombre>Skelleftea (M) –  Lulea (M)</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Mujeres. SDHL</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/311690136__/</url>
-  </evento>
-  <evento>
-    <nombre>Frederikshavn – Rungsted</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Dinamarca. Metal Ligaen</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307728029__/</url>
-  </evento>
-  <evento>
-    <nombre>Ski Elite – Kongsvinger Knights</nombre>
-    <deporte>Hockey</deporte>
+    <nombre>Aalesund – Asane</nombre>
+    <deporte>Fútbol</deporte>
     <competicion>Noruega. 1. Divisjon</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307729594__/</url>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308694157__/</url>
   </evento>
   <evento>
-    <nombre>Gruener – Manglerud Star</nombre>
-    <deporte>Hockey</deporte>
+    <nombre>Start – Moss</nombre>
+    <deporte>Fútbol</deporte>
     <competicion>Noruega. 1. Divisjon</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307729595__/</url>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308694158__/</url>
   </evento>
   <evento>
-    <nombre>Oskarshamn – Oestersund</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307731452__/</url>
+    <nombre>Ranheim – Skeid</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Noruega. 1. Divisjon</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308694159__/</url>
   </evento>
   <evento>
-    <nombre>Innsbruck – Linz</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/307734864__/</url>
+    <nombre>Odd – Sogndal</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Noruega. 1. Divisjon</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308694160__/</url>
   </evento>
   <evento>
-    <nombre>Fehervar AV19 – Viena</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/307734865__/</url>
+    <nombre>Kongsvinger – Lillestroem</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Noruega. 1. Divisjon</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308694161__/</url>
   </evento>
   <evento>
-    <nombre>Pioneers Vorarlberg – Salzburgo</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/307734866__/</url>
+    <nombre>Egersund – Hoedd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Noruega. 1. Divisjon</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308694162__/</url>
   </evento>
   <evento>
-    <nombre>Bolzano – Klagenfurt</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/307742534__/</url>
+    <nombre>Vaalerenga – Bodoe/Glimt</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Noruega. Eliteserien</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308694180__/</url>
+  </evento>
+  <evento>
+    <nombre>Watford – Middlesbrough</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Championship</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308691897__/</url>
+  </evento>
+  <evento>
+    <nombre>Stoke City – Bristol City</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Championship</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308691898__/</url>
+  </evento>
+  <evento>
+    <nombre>Southampton – Preston</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Championship</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308691899__/</url>
+  </evento>
+  <evento>
+    <nombre>Sheffield Utd – Derby County</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Championship</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308691900__/</url>
+  </evento>
+  <evento>
+    <nombre>Queens Park Rangers – Ipswich Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Championship</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308691901__/</url>
+  </evento>
+  <evento>
+    <nombre>Oxford Utd – Millwall</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Championship</competicion>
+    <fecha>1 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308691902__/</url>
   </evento>
   <evento>
     <nombre>Lausanne – Davos</nombre>
@@ -6199,38 +5423,6 @@
     <fecha>29 de octubre</fecha>
     <hora>20:45</hora>
     <url>https://livetv.sx/es/eventinfo/307746672__/</url>
-  </evento>
-  <evento>
-    <nombre>Belfast Giants – Cardiff Devils</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Reino Unido. EIHL</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307743070__/</url>
-  </evento>
-  <evento>
-    <nombre>Unterland Cavaliers – Asiago</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Alps Hockey League</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/308056824__/</url>
-  </evento>
-  <evento>
-    <nombre>Bellinzona Snakes – Winterthur</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suiza. Swiss League</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:15</hora>
-    <url>https://livetv.sx/es/eventinfo/307754600__/</url>
-  </evento>
-  <evento>
-    <nombre>Guildford Flames – Sheffield Steelers</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Reino Unido. EIHL</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/307750945__/</url>
   </evento>
   <evento>
     <nombre>Toronto Marlies – Syracuse Crunch</nombre>
@@ -6281,6 +5473,14 @@
     <url>https://livetv.sx/es/eventinfo/307819926__/</url>
   </evento>
   <evento>
+    <nombre>Columbus – Toronto</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>01:30</hora>
+    <url>https://livetv.sx/es/eventinfo/307819144__/</url>
+  </evento>
+  <evento>
     <nombre>Milwaukee – Chicago Wolves</nombre>
     <deporte>Hockey</deporte>
     <competicion>EUA. AHL</competicion>
@@ -6289,12 +5489,68 @@
     <url>https://livetv.sx/es/eventinfo/307828119__/</url>
   </evento>
   <evento>
+    <nombre>Tucson Roadrunners – Manitoba Moose</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>EUA. AHL</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>03:30</hora>
+    <url>https://livetv.sx/es/eventinfo/307851605__/</url>
+  </evento>
+  <evento>
+    <nombre>Belfast Giants – Cardiff Devils</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Reino Unido. EIHL</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/307743070__/</url>
+  </evento>
+  <evento>
+    <nombre>Unterland Cavaliers – Asiago</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Alps Hockey League</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/308056824__/</url>
+  </evento>
+  <evento>
+    <nombre>Bellinzona Snakes – Winterthur</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suiza. Swiss League</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/307754600__/</url>
+  </evento>
+  <evento>
+    <nombre>Guildford Flames – Sheffield Steelers</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Reino Unido. EIHL</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/307750945__/</url>
+  </evento>
+  <evento>
+    <nombre>South Carolina Stingrays – Orlando Solar Bears</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>EUA. ECHL</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>01:05</hora>
+    <url>https://livetv.sx/es/eventinfo/312728680__/</url>
+  </evento>
+  <evento>
     <nombre>Calgary Hitmen – Red Deer Rebels</nombre>
     <deporte>Hockey</deporte>
     <competicion>Canadá. WHL</competicion>
     <fecha>30 de octubre</fecha>
     <hora>02:00</hora>
     <url>https://livetv.sx/es/eventinfo/307826371__/</url>
+  </evento>
+  <evento>
+    <nombre>Allen Americans – Rapid City Rush</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>EUA. ECHL</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>02:10</hora>
+    <url>https://livetv.sx/es/eventinfo/312728681__/</url>
   </evento>
   <evento>
     <nombre>Regina Pats – Brandon Wheat Kings</nombre>
@@ -6319,14 +5575,6 @@
     <fecha>30 de octubre</fecha>
     <hora>03:05</hora>
     <url>https://livetv.sx/es/eventinfo/307851604__/</url>
-  </evento>
-  <evento>
-    <nombre>Tucson Roadrunners – Manitoba Moose</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>EUA. AHL</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>03:30</hora>
-    <url>https://livetv.sx/es/eventinfo/307851605__/</url>
   </evento>
   <evento>
     <nombre>Abbotsford Canucks – Stockton Heat</nombre>
@@ -9777,12 +9025,20 @@
     <url>https://livetv.sx/es/eventinfo/309512196__/</url>
   </evento>
   <evento>
-    <nombre>Elan Chalon – Sabah</nombre>
+    <nombre>Finlandia U17 – Estados Unidos U17</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Desafío Mundial Sub-17</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>22:30</hora>
+    <url>https://livetv.sx/es/eventinfo/312615650_finland_u17_usa_u17/</url>
+  </evento>
+  <evento>
+    <nombre>London Lions – Turk Telekom</nombre>
     <deporte>Baloncesto</deporte>
-    <competicion>Liga de Campeones</competicion>
+    <competicion>Copa Europea</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307744625__/</url>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/307751332__/</url>
   </evento>
   <evento>
     <nombre>Toronto – Houston</nombre>
@@ -9857,70 +9113,6 @@
     <url>https://livetv.sx/es/eventinfo/307850581__/</url>
   </evento>
   <evento>
-    <nombre>Bashkimi – Dijon</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>FIBA Europe Cup</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307729002__/</url>
-  </evento>
-  <evento>
-    <nombre>Chemnitz – Ulm</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Copa Europea</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307728111__/</url>
-  </evento>
-  <evento>
-    <nombre>Trefl Sopot – Kalev</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>FIBA Europe Cup</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/307736679__/</url>
-  </evento>
-  <evento>
-    <nombre>SBS Ostrava (M) –  Zaglebie Sosnowiec (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Mujeres. Copa Europea</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/312225654__/</url>
-  </evento>
-  <evento>
-    <nombre>Cedevita Olimpija – Neptunas</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Copa Europea</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/307735786__/</url>
-  </evento>
-  <evento>
-    <nombre>Zaragoza (M) –  Landes (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Mujeres. Euroliga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312336143__/</url>
-  </evento>
-  <evento>
-    <nombre>Valencia (M) –  Olympiakos (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Mujeres. Euroliga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312336144__/</url>
-  </evento>
-  <evento>
-    <nombre>PF Schio (M) –  Galatasaray (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Mujeres. Euroliga</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312336145__/</url>
-  </evento>
-  <evento>
     <nombre>Reggiana – Cibona</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>FIBA Europe Cup</competicion>
@@ -9929,52 +9121,12 @@
     <url>https://livetv.sx/es/eventinfo/307744349__/</url>
   </evento>
   <evento>
-    <nombre>Antwerp Giants – Tartu Ulikool</nombre>
+    <nombre>Elan Chalon – Sabah</nombre>
     <deporte>Baloncesto</deporte>
-    <competicion>FIBA Europe Cup</competicion>
+    <competicion>Liga de Campeones</competicion>
     <fecha>29 de octubre</fecha>
     <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/307744350__/</url>
-  </evento>
-  <evento>
-    <nombre>Villeneuve-d`Ascq (M) –  Elfic Friburgo (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Mujeres. Copa Europea</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312225655__/</url>
-  </evento>
-  <evento>
-    <nombre>Montpellier (M) –  KP Brno (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Mujeres. Copa Europea</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312225656__/</url>
-  </evento>
-  <evento>
-    <nombre>Charnay Bourgogne Sud (M) –  Athinaikos (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Mujeres. Copa Europea</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312225657__/</url>
-  </evento>
-  <evento>
-    <nombre>Angers (M) –  Estudiantes (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Mujeres. Copa Europea</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312225658__/</url>
-  </evento>
-  <evento>
-    <nombre>Jahorina – Mornar</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Liga del Adriático. Liga 2</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312310779__/</url>
+    <url>https://livetv.sx/es/eventinfo/307744625__/</url>
   </evento>
   <evento>
     <nombre>Stjarnan (M) –  Keflavik (M)</nombre>
@@ -10073,14 +9225,6 @@
     <url>https://livetv.sx/es/eventinfo/312225662__/</url>
   </evento>
   <evento>
-    <nombre>London Lions – Turk Telekom</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Copa Europea</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/307751332__/</url>
-  </evento>
-  <evento>
     <nombre>Rinascita Rimini – Roseto</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Italia. Serie A2</competicion>
@@ -10167,14 +9311,6 @@
     <fecha>29 de octubre</fecha>
     <hora>22:40</hora>
     <url>https://livetv.sx/es/eventinfo/312649992__/</url>
-  </evento>
-  <evento>
-    <nombre>Pinheiros – Leones Quilpue</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Liga Sudamericana</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>22:40</hora>
-    <url>https://livetv.sx/es/eventinfo/310690790_pinheiros_leones_quilpue/</url>
   </evento>
   <evento>
     <nombre>Uniao Sportiva (M) –  Gernika Bizkaia (M)</nombre>
@@ -13409,20 +12545,492 @@
     <url>https://livetv.sx/es/eventinfo/309568893__/</url>
   </evento>
   <evento>
-    <nombre>Cervantes / Cukierman – Herbert / Halys</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Paris. Doubles</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>17:40</hora>
-    <url>https://livetv.sx/es/eventinfo/312643374__/</url>
+    <nombre>Georgia Yellow Jackets – Maryland Eastern Shore Hawks</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568868__/</url>
   </evento>
   <evento>
-    <nombre>Gonzalez / Molteni – Cerundolo / Darderi</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Paris. Doubles</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312295348__/</url>
+    <nombre>Miami Hurricanes – Jacksonville Dolphins</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568869__/</url>
+  </evento>
+  <evento>
+    <nombre>Michigan Wolverines – Oakland Golden Grizzlies</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568870__/</url>
+  </evento>
+  <evento>
+    <nombre>St John`s Red Storm – Quinnipiac Bobcats</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568871__/</url>
+  </evento>
+  <evento>
+    <nombre>Alabama Crimson Tide – ND Fighting Hawks</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568872__/</url>
+  </evento>
+  <evento>
+    <nombre>George Mason Patriots – Wofford Terriers</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568873__/</url>
+  </evento>
+  <evento>
+    <nombre>Akron Zips – James Madison Dukes</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568874__/</url>
+  </evento>
+  <evento>
+    <nombre>Iowa Cyclones – Fairleigh Dickinson Knights</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568875__/</url>
+  </evento>
+  <evento>
+    <nombre>Arkansas Razorbacks – Southern Jaguars</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568876__/</url>
+  </evento>
+  <evento>
+    <nombre>Siena Saints – Bryant-Bulldogs</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568877__/</url>
+  </evento>
+  <evento>
+    <nombre>Notre Dame Fighting Irish – LIU Sharks</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568878__/</url>
+  </evento>
+  <evento>
+    <nombre>Tulane Green Wave – Samford Bulldogs</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568879__/</url>
+  </evento>
+  <evento>
+    <nombre>Milwaukee Panthers – Hampton Pirates</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568880__/</url>
+  </evento>
+  <evento>
+    <nombre>Virginia Cavaliers – Rider Broncs</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568881__/</url>
+  </evento>
+  <evento>
+    <nombre>UAB Blazers – Mississippi Delta Devils</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568882__/</url>
+  </evento>
+  <evento>
+    <nombre>Ball State Cardinals – Louisiana Ragin` Cajuns</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568883__/</url>
+  </evento>
+  <evento>
+    <nombre>Providence Friars – Holy Cross Crusaders</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568884__/</url>
+  </evento>
+  <evento>
+    <nombre>DePaul Blue Demons – Chicago Cougars</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568886__/</url>
+  </evento>
+  <evento>
+    <nombre>Clemson Tigers – New Hampshire Wildcats</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568887__/</url>
+  </evento>
+  <evento>
+    <nombre>Wisconsin Badgers – Fighting Camels de Campbell</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568888__/</url>
+  </evento>
+  <evento>
+    <nombre>Drake Bulldogs – NA Lumberjacks</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568889__/</url>
+  </evento>
+  <evento>
+    <nombre>Virginia Rams – Wagner Seahawks</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568890__/</url>
+  </evento>
+  <evento>
+    <nombre>Georgetown Hoyas – Morgan State</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568891__/</url>
+  </evento>
+  <evento>
+    <nombre>Minnesota Golden Gophers – Gardner-Webb</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568892__/</url>
+  </evento>
+  <evento>
+    <nombre>Xavier Musketeers – Marist Red Foxes</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568894__/</url>
+  </evento>
+  <evento>
+    <nombre>Washington Huskies – Arkansas-Pine Lions</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568895__/</url>
+  </evento>
+  <evento>
+    <nombre>Marquette Golden Eagles – Albany Great Danes</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568896__/</url>
+  </evento>
+  <evento>
+    <nombre>Dayton Flyers – Canisius Golden Griffins</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568897__/</url>
+  </evento>
+  <evento>
+    <nombre>Austin-Peay-Governors – Bryan Lions</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568898__/</url>
+  </evento>
+  <evento>
+    <nombre>Illinois Fighting Illini – Jackson Tigers</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568899__/</url>
+  </evento>
+  <evento>
+    <nombre>Penn Nittany Lions – Fairfield Stags</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568900__/</url>
+  </evento>
+  <evento>
+    <nombre>UCLA Bruins – Eastern Washington Eagles</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568901__/</url>
+  </evento>
+  <evento>
+    <nombre>Michigan Spartans – Colgate Raiders</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568902__/</url>
+  </evento>
+  <evento>
+    <nombre>Georgia Bulldogs – Bellarmine</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568903__/</url>
+  </evento>
+  <evento>
+    <nombre>George Washington Colonials – Maine Black Bears</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568904__/</url>
+  </evento>
+  <evento>
+    <nombre>USC Trojans – Cal Poly Mustangs</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568905__/</url>
+  </evento>
+  <evento>
+    <nombre>W – Tennessee Tech Golden Eagles</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568906__/</url>
+  </evento>
+  <evento>
+    <nombre>Loyola Ramblers – Cleveland State Vikings</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568907__/</url>
+  </evento>
+  <evento>
+    <nombre>Utah Aggies – Westminster Griffins</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568908__/</url>
+  </evento>
+  <evento>
+    <nombre>UIC Flames – Detroit Mercy Titans</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568909__/</url>
+  </evento>
+  <evento>
+    <nombre>St Louis Billikens – Missouri Redhawks</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568910__/</url>
+  </evento>
+  <evento>
+    <nombre>Illinois Salukis – McKendree Bearcats</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568911__/</url>
+  </evento>
+  <evento>
+    <nombre>Ohio Buckeyes – IUPUI Jaguars</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568912__/</url>
+  </evento>
+  <evento>
+    <nombre>Florida Atlantic Owls – Boston Eagles</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568913__/</url>
+  </evento>
+  <evento>
+    <nombre>Maryland Terrapins – Coppin State Eagles</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568914__/</url>
+  </evento>
+  <evento>
+    <nombre>Grand Canyon Antelopes – Purdue Fort Wayne</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568915__/</url>
+  </evento>
+  <evento>
+    <nombre>California Golden Bears – Cal Bakersfield Roadrunners</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568916__/</url>
+  </evento>
+  <evento>
+    <nombre>FIU Panthers – Florida National Conquistadors</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568917__/</url>
+  </evento>
+  <evento>
+    <nombre>Arizona Wildcats – Florida-Gators</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568918__/</url>
+  </evento>
+  <evento>
+    <nombre>Bowling Green Falcons – Texas Bobcats</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568919__/</url>
+  </evento>
+  <evento>
+    <nombre>Louisville Cardinals – South Carolina Bulldogs</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568920__/</url>
+  </evento>
+  <evento>
+    <nombre>Connecticut Huskies – New Haven Chargers</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568921__/</url>
+  </evento>
+  <evento>
+    <nombre>Central Michigan Chippewas – Appalachian Mountaineers</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568922__/</url>
+  </evento>
+  <evento>
+    <nombre>NC Wolfpack – NC Central Eagles</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568923__/</url>
+  </evento>
+  <evento>
+    <nombre>St Joseph`s Hawks – Lafayette Leopards</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568924__/</url>
+  </evento>
+  <evento>
+    <nombre>Northern Illinois Huskies – Louisiana Monroe Warhawks</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568925__/</url>
+  </evento>
+  <evento>
+    <nombre>North Carolina Tar Heels – Central Arkansas Sugar</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568926__/</url>
+  </evento>
+  <evento>
+    <nombre>Wright Raiders – Franklin Grizzlies</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568927__/</url>
+  </evento>
+  <evento>
+    <nombre>Toledo Rockets – South Alabama Jaguars</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568928__/</url>
+  </evento>
+  <evento>
+    <nombre>Pittsburgh Panthers – Youngstown Penguins</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568929__/</url>
+  </evento>
+  <evento>
+    <nombre>UNC Wilmington Seahawks – Mount Olive Trojans</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309568930__/</url>
   </evento>
   <evento>
     <nombre>Zizou Bergs – Jannik Sinner</nombre>
@@ -13457,14 +13065,6 @@
     <url>https://livetv.sx/es/eventinfo/312267853__/</url>
   </evento>
   <evento>
-    <nombre>Karen Jachánov – Joao Fonseca</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. París</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:45</hora>
-    <url>https://livetv.sx/es/eventinfo/312281134__/</url>
-  </evento>
-  <evento>
     <nombre>Gabriel Diallo – Alex De Minaur</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. París</competicion>
@@ -13473,44 +13073,12 @@
     <url>https://livetv.sx/es/eventinfo/312242489__/</url>
   </evento>
   <evento>
-    <nombre>Krueger / Maginley – Thayne / Fuchs</nombre>
+    <nombre>Karen Jachánov – Joao Fonseca</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Charlottesville. Doubles</competicion>
+    <competicion>ATP. París</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>17:30</hora>
-    <url>https://livetv.sx/es/eventinfo/311254824__/</url>
-  </evento>
-  <evento>
-    <nombre>Gabriela Lee (M) –  Julia Grabher (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Cali</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>17:35</hora>
-    <url>https://livetv.sx/es/eventinfo/312362693__/</url>
-  </evento>
-  <evento>
-    <nombre>Gamiz (M) /  Vedder (M) –  Gomez Pezuela Cano (M) /  Giovannini (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Cali. Doubles</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>17:35</hora>
-    <url>https://livetv.sx/es/eventinfo/311732697__/</url>
-  </evento>
-  <evento>
-    <nombre>Sinja Kraus (M) –  Tina-Nadine Smith (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Cali</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>17:40</hora>
-    <url>https://livetv.sx/es/eventinfo/312310587__/</url>
-  </evento>
-  <evento>
-    <nombre>Coulibaly / Nortey – Ouakaa / Genov</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Monastir. Dobles</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>17:40</hora>
-    <url>https://livetv.sx/es/eventinfo/312601971__/</url>
+    <hora>22:35</hora>
+    <url>https://livetv.sx/es/eventinfo/312281134__/</url>
   </evento>
   <evento>
     <nombre>Alex Molcan – Titouan Droguet</nombre>
@@ -13673,22 +13241,6 @@
     <url>https://livetv.sx/es/eventinfo/311254827__/</url>
   </evento>
   <evento>
-    <nombre>Kolar / Matuszewski – Collarini / Dutra da Silva</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Lima 2. Doubles</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>22:30</hora>
-    <url>https://livetv.sx/es/eventinfo/311254794__/</url>
-  </evento>
-  <evento>
-    <nombre>Ortenzi (M) /  Pereira (M) –  Pigossi (M) /  Candiotto (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Cali. Doubles</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>22:30</hora>
-    <url>https://livetv.sx/es/eventinfo/311732694__/</url>
-  </evento>
-  <evento>
     <nombre>Markus (M) /  Mediorreal Arias (M) –  Smith (M) /  Lee (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Cali. Doubles</competicion>
@@ -13697,20 +13249,28 @@
     <url>https://livetv.sx/es/eventinfo/311732695__/</url>
   </evento>
   <evento>
-    <nombre>Ruehl / Zahraj – Sheehy / Kittay</nombre>
+    <nombre>Ortenzi (M) /  Pereira (M) –  Pigossi (M) /  Candiotto (M)</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Charlottesville. Doubles</competicion>
+    <competicion>WTA. Cali. Doubles</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>23:25</hora>
-    <url>https://livetv.sx/es/eventinfo/311254820__/</url>
+    <hora>22:45</hora>
+    <url>https://livetv.sx/es/eventinfo/311732694__/</url>
   </evento>
   <evento>
     <nombre>Andrade / Meza – Villanueva / Midon</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Lima 2. Doubles</competicion>
     <fecha>29 de octubre</fecha>
-    <hora>23:30</hora>
+    <hora>23:10</hora>
     <url>https://livetv.sx/es/eventinfo/311254793__/</url>
+  </evento>
+  <evento>
+    <nombre>Kolar / Matuszewski – Collarini / Dutra da Silva</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Lima 2. Doubles</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>23:10</hora>
+    <url>https://livetv.sx/es/eventinfo/311254794__/</url>
   </evento>
   <evento>
     <nombre>Keegan Smith – Martin Damm</nombre>
@@ -13719,6 +13279,14 @@
     <fecha>29 de octubre</fecha>
     <hora>23:30</hora>
     <url>https://livetv.sx/es/eventinfo/312295303__/</url>
+  </evento>
+  <evento>
+    <nombre>Ruehl / Zahraj – Sheehy / Kittay</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Charlottesville. Doubles</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>23:40</hora>
+    <url>https://livetv.sx/es/eventinfo/311254820__/</url>
   </evento>
   <evento>
     <nombre>Torres Murcia (M) /  Barraza (M) –  Lepchenko (M) /  Janicijevic (M)</nombre>
@@ -14177,6 +13745,14 @@
     <url>https://livetv.sx/es/eventinfo/312630065__/</url>
   </evento>
   <evento>
+    <nombre>Mark Lajal – Thiago Tirante</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Bratislava 2</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312722236__/</url>
+  </evento>
+  <evento>
     <nombre>Kimberly Birrell (M) –  Shrivalli Rashmikaa Bhamidipaty (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Chennai</competicion>
@@ -14239,6 +13815,14 @@
     <fecha>30 de octubre</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/312661623__/</url>
+  </evento>
+  <evento>
+    <nombre>Boulais / Kiger – Perez / Vance</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Charlottesville. Doubles</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312722303__/</url>
   </evento>
   <evento>
     <nombre>Rafael Jodar – Saba Purtseladze</nombre>
@@ -14351,6 +13935,14 @@
     <fecha>30 de octubre</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/312381630__/</url>
+  </evento>
+  <evento>
+    <nombre>Lorenzo Sonego – Daniil Medvedev</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. París</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/312722316__/</url>
   </evento>
   <evento>
     <nombre>Stevens / Kirkov – Nouza / Rikl</nombre>
@@ -14545,12 +14137,12 @@
     <url>https://livetv.sx/es/eventinfo/312700188__/</url>
   </evento>
   <evento>
-    <nombre>Scandicci (M) –  Busto Arsizio (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Italia. Mujeres. Serie A</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312289618__/</url>
+    <nombre>Sinja Kraus (M) –  Selena Janicijevic (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Cali</competicion>
+    <fecha>31 de octubre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312722347__/</url>
   </evento>
   <evento>
     <nombre>Cuneo (M) –  Bisonte Florencia (M)</nombre>
@@ -14575,6 +14167,14 @@
     <fecha>29 de octubre</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/312289621__/</url>
+  </evento>
+  <evento>
+    <nombre>Vallefoglia (M) –  Zanetti (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Italia. Mujeres. Serie A</competicion>
+    <fecha>29 de octubre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/312289622__/</url>
   </evento>
   <evento>
     <nombre>Cuprum Lubin – Skra Belchatow</nombre>
@@ -14625,76 +14225,44 @@
     <url>https://livetv.sx/es/eventinfo/307751825__/</url>
   </evento>
   <evento>
-    <nombre>Esquimo Dos Hermanas (M) –  VKP Bratislava (M)</nombre>
+    <nombre>Arkansas (W) – Oklahoma (W)</nombre>
     <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Copa Challenge</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312548488__/</url>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312722227_arkansas_w_oklahoma_w/</url>
   </evento>
   <evento>
-    <nombre>AO Thiras (M) –  Panionios (M)</nombre>
+    <nombre>Louisville (W) – Notre Dame (W)</nombre>
     <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Copa Challenge</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312548489__/</url>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312726329_louisville_w_notre_dame_w/</url>
   </evento>
   <evento>
-    <nombre>Brda (M) –  Olympiada Neapolis (M)</nombre>
+    <nombre>Illinois (W) – Minnesota (W)</nombre>
     <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Copa Challenge</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/312548490__/</url>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312727396_illinois_w_minnesota_w/</url>
   </evento>
   <evento>
-    <nombre>Heidelberg (M) –  Benfica (M)</nombre>
+    <nombre>TCU (W) – Arizona State (W)</nombre>
     <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Liga de Campeones. Calificación</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312282416__/</url>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312727397_tcu_w_arizona_state_w/</url>
   </evento>
   <evento>
-    <nombre>Duedingen (M) –  Ferizaj (M)</nombre>
+    <nombre>UCLA (W) – USC (W)</nombre>
     <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Copa Challenge</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312603213__/</url>
-  </evento>
-  <evento>
-    <nombre>Tchalou (M) –  Fleyr (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Copa Challenge</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312603214__/</url>
-  </evento>
-  <evento>
-    <nombre>Cheseaux (M) –  Levski (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Copa Challenge</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312548491__/</url>
-  </evento>
-  <evento>
-    <nombre>Sneek (M) –  Lugoj (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Copa Challenge</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312548492__/</url>
-  </evento>
-  <evento>
-    <nombre>Vallefoglia (M) –  Zanetti (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Italia. Mujeres. Serie A</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/312289622__/</url>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312727825_ucla_w_usc_w/</url>
   </evento>
   <evento>
     <nombre>Ho Chi Minh – Da Nang</nombre>
@@ -15807,30 +15375,6 @@
     <fecha>2 de noviembre</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/311941184_piast_gliwice_cartagena/</url>
-  </evento>
-  <evento>
-    <nombre>JDA Dijon (M) –  Brest Bretagne (M)</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Francia. Mujeres. D1</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312450293__/</url>
-  </evento>
-  <evento>
-    <nombre>Bm Morvedre (M) –  Málaga (M)</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>España. Mujeres. División de Honor</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312186388__/</url>
-  </evento>
-  <evento>
-    <nombre>Elche (M) –  Elda Prestigio (M)</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>España. Mujeres. División de Honor</competicion>
-    <fecha>29 de octubre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312186389__/</url>
   </evento>
   <evento>
     <nombre>Granollers (M) –  San Jose Obrero (M)</nombre>
