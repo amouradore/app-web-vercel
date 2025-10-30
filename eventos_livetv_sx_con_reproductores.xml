@@ -1,46 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2025-10-30 06:01:27" total="319">
+<eventos generado="2025-10-30 06:43:15" total="312">
   <evento id="1">
-    <nombre>Mariano Navone – David Jorda Sanchis</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Lima 2</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>02:20</hora>
-    <url>https://livetv.sx/es/eventinfo/312310449__/</url>
-    <datetime_iso>2025-10-30T02:20:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="2">
-    <nombre>Hopper / Montes – Chandrasekar / Stalder</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Charlottesville. Doubles</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>02:50</hora>
-    <url>https://livetv.sx/es/eventinfo/311254826__/</url>
-    <datetime_iso>2025-10-30T02:50:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="3">
-    <nombre>Elias Ymer – Kokoro Isomura</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Seúl</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>04:05</hora>
-    <url>https://livetv.sx/es/eventinfo/312173617__/</url>
-    <datetime_iso>2025-10-30T04:05:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="4">
-    <nombre>Taro Daniel – Yi Zhou</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Seúl</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>04:10</hora>
-    <url>https://livetv.sx/es/eventinfo/312218652__/</url>
-    <datetime_iso>2025-10-30T04:10:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="5">
     <nombre>ATP Challenger. Seúl</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Seúl</competicion>
@@ -87,37 +47,7 @@
       </stream>
     </streams>
   </evento>
-  <evento id="6">
-    <nombre>Aguilas de Mexicali – Tucson</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>México. LMP</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>04:30</hora>
-    <url>https://livetv.sx/es/eventinfo/312614935_aguilas_de_mexicali_tucson/</url>
-    <datetime_iso>2025-10-30T04:30:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="7">
-    <nombre>Hermosillo – Tomateros</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>México. LMP</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>04:30</hora>
-    <url>https://livetv.sx/es/eventinfo/312614936_hermosillo_tomateros/</url>
-    <datetime_iso>2025-10-30T04:30:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="8">
-    <nombre>Jaguares de Nayarit – Algodoneros</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>México. LMP</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>04:30</hora>
-    <url>https://livetv.sx/es/eventinfo/312614937_jaguares_de_nayarit_algodoneros/</url>
-    <datetime_iso>2025-10-30T04:30:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="9">
+  <evento id="2">
     <nombre>Jurij Rodionov – Yuta Shimizu</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Seúl</competicion>
@@ -134,7 +64,7 @@
       </stream>
     </streams>
   </evento>
-  <evento id="10">
+  <evento id="3">
     <nombre>Tuv Buganuud – Deren</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Mongolia. Premier League</competicion>
@@ -142,23 +72,16 @@
     <hora>06:00</hora>
     <url>https://livetv.sx/es/eventinfo/312778682__/</url>
     <datetime_iso>2025-10-30T06:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/J6ENiuxoJP0?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=J6ENiuxoJP0&amp;lang=es&amp;eid=312778682&amp;lid=2865717&amp;ci=1917&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
-  <evento id="11">
+  <evento id="4">
     <nombre>Frederico-Ferreira Silva – Yoshihito Nishioka</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Seúl</competicion>
     <fecha>30 de octubre</fecha>
-    <hora>06:25</hora>
+    <hora>06:40</hora>
     <url>https://livetv.sx/es/eventinfo/312218653__/</url>
-    <datetime_iso>2025-10-30T06:25:00</datetime_iso>
+    <datetime_iso>2025-10-30T06:40:00</datetime_iso>
     <streams total="1">
       <stream id="1">
         <url>https://dovkembed.pw/livetv/ex8894682</url>
@@ -168,14 +91,14 @@
       </stream>
     </streams>
   </evento>
-  <evento id="12">
+  <evento id="5">
     <nombre>Ayukawa (M) /  Morisaki (M) –  Lumsden (M) /  Haverlag (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Jiujiang. Dobles</competicion>
     <fecha>30 de octubre</fecha>
-    <hora>06:30</hora>
+    <hora>07:00</hora>
     <url>https://livetv.sx/es/eventinfo/312507013__/</url>
-    <datetime_iso>2025-10-30T06:30:00</datetime_iso>
+    <datetime_iso>2025-10-30T07:00:00</datetime_iso>
     <streams total="1">
       <stream id="1">
         <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4OTkxNDg=</url>
@@ -185,14 +108,14 @@
       </stream>
     </streams>
   </evento>
-  <evento id="13">
+  <evento id="6">
     <nombre>Alycia Parks (M) –  Kaja Juvan (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Jiujiang</competicion>
     <fecha>30 de octubre</fecha>
-    <hora>06:30</hora>
+    <hora>07:00</hora>
     <url>https://livetv.sx/es/eventinfo/312248729__/</url>
-    <datetime_iso>2025-10-30T06:30:00</datetime_iso>
+    <datetime_iso>2025-10-30T07:00:00</datetime_iso>
     <streams total="2">
       <stream id="1">
         <url>https://emb.apl382.me/
@@ -209,100 +132,14 @@ player/live.php?id=239731&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="14">
-    <nombre>Goldhoff / Winegar – Hermans / Bayldon</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Seul. Doubles</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>07:20</hora>
-    <url>https://livetv.sx/es/eventinfo/312541602__/</url>
-    <datetime_iso>2025-10-30T07:20:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4OTk3NTE=</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865721&amp;lang=es&amp;eid=312541602&amp;lid=2865721&amp;ci=6450&amp;si=4</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="15">
-    <nombre>Watanabe / Uesugi – Rojer / Lammons</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Seul. Doubles</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>07:55</hora>
-    <url>https://livetv.sx/es/eventinfo/312541603__/</url>
-    <datetime_iso>2025-10-30T07:55:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4OTk3MzY=</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865720&amp;lang=es&amp;eid=312541603&amp;lid=2865720&amp;ci=6450&amp;si=4</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="16">
-    <nombre>Dominika Salkova (M) –  Anastasia Zakharova (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Jiujiang</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>08:00</hora>
-    <url>https://livetv.sx/es/eventinfo/311909632__/</url>
-    <datetime_iso>2025-10-30T08:00:00</datetime_iso>
-    <streams total="4">
-      <stream id="1">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4ODc1MTU=</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865719&amp;lang=es&amp;eid=311909632&amp;lid=2865719&amp;ci=8038&amp;si=4</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://wikisport.wiki/court/wik4.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865730&amp;lang=es&amp;eid=311909632&amp;lid=2865730&amp;ci=8038&amp;si=4</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://wikisport.wiki/court/t4.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865729&amp;lang=es&amp;eid=311909632&amp;lid=2865729&amp;ci=8038&amp;si=4</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://dovkembed.pw/livetv/ex8887515</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865728&amp;lang=es&amp;eid=311909632&amp;lid=2865728&amp;ci=8038&amp;si=4</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="17">
-    <nombre>Webley-Smith (M) /  Ovcharenko (M) –  Mladenovic (M) /  Piter (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Jiujiang. Dobles</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>08:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312530235__/</url>
-    <datetime_iso>2025-10-30T08:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4OTk1MTc=</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865718&amp;lang=es&amp;eid=312530235&amp;lid=2865718&amp;ci=8039&amp;si=4</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="18">
+  <evento id="7">
     <nombre>Anna Kalinskaya (M) –  Shuai Zhang (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Hong Kong</competicion>
     <fecha>30 de octubre</fecha>
-    <hora>08:00</hora>
+    <hora>08:05</hora>
     <url>https://livetv.sx/es/eventinfo/312254917__/</url>
-    <datetime_iso>2025-10-30T08:00:00</datetime_iso>
+    <datetime_iso>2025-10-30T08:05:00</datetime_iso>
     <streams total="7">
       <stream id="1">
         <url>https://emb.apl382.me/
@@ -350,70 +187,93 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="19">
-    <nombre>WTA. Hong Kong</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Hong Kong</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>08:10</hora>
-    <url>https://livetv.sx/es/eventinfo/310855299_wta_hong_kong/</url>
-    <datetime_iso>2025-10-30T08:10:00</datetime_iso>
-    <streams total="7">
-      <stream id="1">
-        <url>https://dovkembed.pw/livetv/ex8895254</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865723&amp;lang=es&amp;eid=310855299&amp;lid=2865723&amp;ci=7125&amp;si=4</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg5MDAyMjk=</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865732&amp;lang=es&amp;eid=310855299&amp;lid=2865732&amp;ci=7125&amp;si=4</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://wikisport.wiki/court/wik1.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865727&amp;lang=es&amp;eid=310855299&amp;lid=2865727&amp;ci=7125&amp;si=4</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://wikisport.wiki/court/t1.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865726&amp;lang=es&amp;eid=310855299&amp;lid=2865726&amp;ci=7125&amp;si=4</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://wikisport.wiki/court/t24.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865725&amp;lang=es&amp;eid=310855299&amp;lid=2865725&amp;ci=7125&amp;si=4</enlace_original>
-      </stream>
-      <stream id="6">
-        <url>https://wikisport.wiki/court/wik24.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865724&amp;lang=es&amp;eid=310855299&amp;lid=2865724&amp;ci=7125&amp;si=4</enlace_original>
-      </stream>
-      <stream id="7">
-        <url>https://dovkembed.pw/livetv/ex8895211</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865734&amp;lang=es&amp;eid=310855299&amp;lid=2865734&amp;ci=7125&amp;si=4</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="20">
-    <nombre>Romios / Ho – Uchida / Shimizu</nombre>
+  <evento id="8">
+    <nombre>Goldhoff / Winegar – Hermans / Bayldon</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Seul. Doubles</competicion>
     <fecha>30 de octubre</fecha>
-    <hora>08:50</hora>
-    <url>https://livetv.sx/es/eventinfo/312564459__/</url>
-    <datetime_iso>2025-10-30T08:50:00</datetime_iso>
-    <streams total="0" />
+    <hora>08:10</hora>
+    <url>https://livetv.sx/es/eventinfo/312541602__/</url>
+    <datetime_iso>2025-10-30T08:10:00</datetime_iso>
+    <streams total="1">
+      <stream id="1">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4OTk3NTE=</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865721&amp;lang=es&amp;eid=312541602&amp;lid=2865721&amp;ci=6450&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
-  <evento id="21">
+  <evento id="9">
+    <nombre>Watanabe / Uesugi – Rojer / Lammons</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Seul. Doubles</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>08:25</hora>
+    <url>https://livetv.sx/es/eventinfo/312541603__/</url>
+    <datetime_iso>2025-10-30T08:25:00</datetime_iso>
+    <streams total="1">
+      <stream id="1">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4OTk3MzY=</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865720&amp;lang=es&amp;eid=312541603&amp;lid=2865720&amp;ci=6450&amp;si=4</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="10">
+    <nombre>Dominika Salkova (M) –  Anastasia Zakharova (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Jiujiang</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>08:30</hora>
+    <url>https://livetv.sx/es/eventinfo/311909632__/</url>
+    <datetime_iso>2025-10-30T08:30:00</datetime_iso>
+    <streams total="4">
+      <stream id="1">
+        <url>https://wikisport.wiki/court/wik4.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865730&amp;lang=es&amp;eid=311909632&amp;lid=2865730&amp;ci=8038&amp;si=4</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://wikisport.wiki/court/t4.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865729&amp;lang=es&amp;eid=311909632&amp;lid=2865729&amp;ci=8038&amp;si=4</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://dovkembed.pw/livetv/ex8887515</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865728&amp;lang=es&amp;eid=311909632&amp;lid=2865728&amp;ci=8038&amp;si=4</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4ODc1MTU=</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865719&amp;lang=es&amp;eid=311909632&amp;lid=2865719&amp;ci=8038&amp;si=4</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="11">
+    <nombre>Webley-Smith (M) /  Ovcharenko (M) –  Mladenovic (M) /  Piter (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Jiujiang. Dobles</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>08:30</hora>
+    <url>https://livetv.sx/es/eventinfo/312530235__/</url>
+    <datetime_iso>2025-10-30T08:30:00</datetime_iso>
+    <streams total="1">
+      <stream id="1">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg4OTk1MTc=</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865718&amp;lang=es&amp;eid=312530235&amp;lid=2865718&amp;ci=8039&amp;si=4</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="12">
     <nombre>En-shuo (M) /  Shuo (M) –  Xiyu (M) /  You (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Hong Kong. Doubles</competicion>
@@ -421,39 +281,26 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/312564510__/</url>
     <datetime_iso>2025-10-30T09:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg5MDAyMjk=</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865732&amp;lang=es&amp;eid=312564510&amp;lid=2865732&amp;ci=7123&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
-  <evento id="22">
-    <nombre>Ho Chi Minh – Da Nang</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Vietnam. Liga Premier</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>09:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312334310_ho_chi_minh_da_nang/</url>
-    <datetime_iso>2025-10-30T09:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="23">
-    <nombre>Kim /  Ann (M) – Reynolds / Watt</nombre>
+  <evento id="13">
+    <nombre>Romios / Ho – Uchida / Shimizu</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Seul. Doubles</competicion>
     <fecha>30 de octubre</fecha>
     <hora>09:10</hora>
-    <url>https://livetv.sx/es/eventinfo/312564460__/</url>
+    <url>https://livetv.sx/es/eventinfo/312564459__/</url>
     <datetime_iso>2025-10-30T09:10:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="24">
-    <nombre>Anna Blinkova (M) –  Anna Bondar (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Jiujiang</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>09:30</hora>
-    <url>https://livetv.sx/es/eventinfo/312162327__/</url>
-    <datetime_iso>2025-10-30T09:30:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="25">
+  <evento id="14">
     <nombre>Belinda Bencic (M) –  Wang Yafan (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Hong Kong</competicion>
@@ -461,9 +308,50 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <hora>09:30</hora>
     <url>https://livetv.sx/es/eventinfo/312242514__/</url>
     <datetime_iso>2025-10-30T09:30:00</datetime_iso>
+    <streams total="5">
+      <stream id="1">
+        <url>https://dovkembed.pw/livetv/ex8895211</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865734&amp;lang=es&amp;eid=312242514&amp;lid=2865734&amp;ci=7125&amp;si=4</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://wikisport.wiki/court/wik1.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865727&amp;lang=es&amp;eid=312242514&amp;lid=2865727&amp;ci=7125&amp;si=4</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://wikisport.wiki/court/t24.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865725&amp;lang=es&amp;eid=312242514&amp;lid=2865725&amp;ci=7125&amp;si=4</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://wikisport.wiki/court/t1.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865726&amp;lang=es&amp;eid=312242514&amp;lid=2865726&amp;ci=7125&amp;si=4</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://wikisport.wiki/court/wik24.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2865724&amp;lang=es&amp;eid=312242514&amp;lid=2865724&amp;ci=7125&amp;si=4</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="15">
+    <nombre>Kim /  Ann (M) – Reynolds / Watt</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Seul. Doubles</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>09:55</hora>
+    <url>https://livetv.sx/es/eventinfo/312564460__/</url>
+    <datetime_iso>2025-10-30T09:55:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="26">
+  <evento id="16">
     <nombre>Sakhalinskie Akuly – Taifun</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. MHL</competicion>
@@ -473,7 +361,17 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T10:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="27">
+  <evento id="17">
+    <nombre>Anna Blinkova (M) –  Anna Bondar (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Jiujiang</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312162327__/</url>
+    <datetime_iso>2025-10-30T10:00:00</datetime_iso>
+    <streams total="0" />
+  </evento>
+  <evento id="18">
     <nombre>Brisbane Bullets – Cairns Taipans</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Australia. NBL</competicion>
@@ -483,7 +381,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T10:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="28">
+  <evento id="19">
     <nombre>Hartono (M) /  Thombare (M) –  Kuwata (M) /  Naklo (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Chennai. Doubles</competicion>
@@ -493,7 +391,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T10:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="29">
+  <evento id="20">
     <nombre>Arina Rodionova (M) –  Storm Hunter (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Chennai</competicion>
@@ -503,7 +401,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T10:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="30">
+  <evento id="21">
     <nombre>Inglis (M) /  Gibson (M) –  Kobori (M) /  Plipuech (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Hong Kong. Doubles</competicion>
@@ -513,17 +411,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T10:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="31">
-    <nombre>Zhuoxuan Bai (M) –  Hanyu Guo (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Jiujiang</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312242562__/</url>
-    <datetime_iso>2025-10-30T11:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="32">
+  <evento id="22">
     <nombre>Quang Ninh (W) – Binh Dien Long An (W)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Vietnam. Mujeres. Liga Premier</competicion>
@@ -533,7 +421,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T11:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="33">
+  <evento id="23">
     <nombre>ATP Challenger. Monastir</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Monastir</competicion>
@@ -543,7 +431,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T11:10:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="34">
+  <evento id="24">
     <nombre>Janice Tjen (M) –  Linda Fruhvirtova (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Chennai</competicion>
@@ -553,7 +441,17 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T11:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="35">
+  <evento id="25">
+    <nombre>Zhuoxuan Bai (M) –  Hanyu Guo (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Jiujiang</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/312242562__/</url>
+    <datetime_iso>2025-10-30T11:30:00</datetime_iso>
+    <streams total="0" />
+  </evento>
+  <evento id="26">
     <nombre>Karakopru – Rizespor</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Turquía. Copa</competicion>
@@ -563,7 +461,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T12:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="36">
+  <evento id="27">
     <nombre>Esenler Erokspor – Agri 1970 Spor</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Turquía. Copa</competicion>
@@ -573,7 +471,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T12:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="37">
+  <evento id="28">
     <nombre>Ahrotekh – Mariupol</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Ucrania. Copa</competicion>
@@ -583,7 +481,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T12:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="38">
+  <evento id="29">
     <nombre>Metallurg – Dynamo-576</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. NMHL</competicion>
@@ -593,7 +491,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T12:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="39">
+  <evento id="30">
     <nombre>Ulsan Mobis Phoebus – Suwon Sonicboom</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Corea del Sur. KBL</competicion>
@@ -603,7 +501,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T12:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="40">
+  <evento id="31">
     <nombre>Cameron Norrie – Valentin Vacherot</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. París</competicion>
@@ -613,7 +511,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T12:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="41">
+  <evento id="32">
     <nombre>Pedro – Dan Added</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Monastir</competicion>
@@ -623,7 +521,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T12:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="42">
+  <evento id="33">
     <nombre>Salisbury / Skupski – Peers / Tracy</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Paris. Doubles</competicion>
@@ -633,7 +531,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T12:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="43">
+  <evento id="34">
     <nombre>Krawietz / Puetz – Krajicek / Mektic</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Paris. Doubles</competicion>
@@ -643,7 +541,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T12:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="44">
+  <evento id="35">
     <nombre>Lorenzo Giustino – Ioannis Xilas</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Monastir</competicion>
@@ -653,7 +551,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T12:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="45">
+  <evento id="36">
     <nombre>Polina Iatcenko (M) –  Katarzyna Kawa (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Chennai</competicion>
@@ -663,7 +561,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T12:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="46">
+  <evento id="37">
     <nombre>Changwon Sakers – New Taipei Kings</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>EASL</competicion>
@@ -673,7 +571,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T12:10:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="47">
+  <evento id="38">
     <nombre>Changwon Sakers – New Taipei Kings</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>EASL</competicion>
@@ -683,7 +581,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T12:10:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="48">
+  <evento id="39">
     <nombre>ATP. París</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. París</competicion>
@@ -693,7 +591,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T12:10:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="49">
+  <evento id="40">
     <nombre>Alexandra Eala (M) –  Victoria Mboko (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Hong Kong</competicion>
@@ -703,7 +601,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T12:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="50">
+  <evento id="41">
     <nombre>WTA. Chennai</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Chennai</competicion>
@@ -713,7 +611,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T12:40:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="51">
+  <evento id="42">
     <nombre>Barsy Atyrau (W) – Kaspiy (W)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Kazajistán. Mujeres. Vysheyshaya Liga</competicion>
@@ -723,7 +621,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T12:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="52">
+  <evento id="43">
     <nombre>Gryf Slupsk – Lech Poznan</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Polonia. Copa</competicion>
@@ -733,7 +631,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="53">
+  <evento id="44">
     <nombre>Rajasthan United – Kerala Blasters</nombre>
     <deporte>Fútbol</deporte>
     <competicion>India. Supercopa</competicion>
@@ -743,7 +641,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="54">
+  <evento id="45">
     <nombre>Shkupi – Skendija</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Macedonia del Norte. 1. MFL</competicion>
@@ -753,7 +651,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="55">
+  <evento id="46">
     <nombre>Paris / Willis – Haase / Frantzen</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Bratislava 2. Doubles</competicion>
@@ -763,7 +661,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="56">
+  <evento id="47">
     <nombre>Sahaja Yamalapalli (M) –  Donna Vekic (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Chennai</competicion>
@@ -773,7 +671,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="57">
+  <evento id="48">
     <nombre>Bac Ninh (W) – Hai Phong (W)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Vietnam. Mujeres. Liga Premier</competicion>
@@ -783,7 +681,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="58">
+  <evento id="49">
     <nombre>ATP Challenger. Bratislava 2</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Bratislava 2</competicion>
@@ -793,7 +691,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:10:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="59">
+  <evento id="50">
     <nombre>Chernomorets – Ludogorets</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bulgaria. Copa</competicion>
@@ -803,7 +701,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="60">
+  <evento id="51">
     <nombre>Sibirskie Snaypery – JHC Molot</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. MHL</competicion>
@@ -813,7 +711,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="61">
+  <evento id="52">
     <nombre>Felix Auger-Aliassime – Daniel Altmaier</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. París</competicion>
@@ -823,7 +721,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="62">
+  <evento id="53">
     <nombre>Lansere (M) /  Nugroho (M) –  Sutjiadi (M) /  Tjen (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Chennai. Doubles</competicion>
@@ -833,7 +731,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="63">
+  <evento id="54">
     <nombre>Miedler / Cabral – Granollers / Zeballos</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Paris. Doubles</competicion>
@@ -843,7 +741,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="64">
+  <evento id="55">
     <nombre>Joanna Garland (M) –  Mei Yamaguchi (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Chennai</competicion>
@@ -853,7 +751,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="65">
+  <evento id="56">
     <nombre>Mikrut / Latinovic – Serdarusic / Kalender</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Monastir. Dobles</competicion>
@@ -863,7 +761,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="66">
+  <evento id="57">
     <nombre>Arthur Gea – Jan Kumstat</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Monastir</competicion>
@@ -873,7 +771,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="67">
+  <evento id="58">
     <nombre>Heliovaara / Patten – Nys / Roger-Vasselin</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Paris. Doubles</competicion>
@@ -883,7 +781,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="68">
+  <evento id="59">
     <nombre>Denolly / Westphal – Jermar / Pereira</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Monastir. Dobles</competicion>
@@ -893,7 +791,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="69">
+  <evento id="60">
     <nombre>Zonguldak – Bodrumspor</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Turquía. Copa</competicion>
@@ -903,7 +801,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T13:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="70">
+  <evento id="61">
     <nombre>Dubocica – Mladost</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Serbia. Copa</competicion>
@@ -913,7 +811,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="71">
+  <evento id="62">
     <nombre>Norilsk – Izhstal</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
@@ -923,7 +821,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="72">
+  <evento id="63">
     <nombre>Metallurg Nk – Molot</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
@@ -933,7 +831,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="73">
+  <evento id="64">
     <nombre>Sokol Krasnoyarsk – Toros</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
@@ -943,7 +841,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="74">
+  <evento id="65">
     <nombre>Dynamo Altay – Olimpiya</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
@@ -953,7 +851,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="75">
+  <evento id="66">
     <nombre>Himeno Sakatsume (M) –  Eudice Chong (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Hong Kong</competicion>
@@ -963,7 +861,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="76">
+  <evento id="67">
     <nombre>Tseng Chun-hsin – Eliot Spizzirri</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Bratislava 2</competicion>
@@ -973,7 +871,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="77">
+  <evento id="68">
     <nombre>Argentina U17 – Estados Unidos U17</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Mujeres. Copa Mundial Sub-17</competicion>
@@ -983,7 +881,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="78">
+  <evento id="69">
     <nombre>Shkupi – Struga</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Macedonia del Norte. 1. MFL</competicion>
@@ -993,7 +891,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T14:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="79">
+  <evento id="70">
     <nombre>Francesco Maestrelli – David Pichler</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Bratislava 2</competicion>
@@ -1003,7 +901,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T14:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="80">
+  <evento id="71">
     <nombre>Alemania U17 – Canadá U17</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Partido amistoso. Selecciones</competicion>
@@ -1013,7 +911,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T15:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="81">
+  <evento id="72">
     <nombre>Concordia Chiajna – Hermannstadt</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Rumania. Copa</competicion>
@@ -1023,7 +921,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T15:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="82">
+  <evento id="73">
     <nombre>Al Wahda – Al Nasr Dubái</nombre>
     <deporte>Fútbol</deporte>
     <competicion>EÁU. Pro League</competicion>
@@ -1033,7 +931,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T15:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="83">
+  <evento id="74">
     <nombre>JHC Kristall – Ermak</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. NMHL</competicion>
@@ -1043,7 +941,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T15:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="84">
+  <evento id="75">
     <nombre>Timofeeva (M) /  Iatcenko (M) –  Caroline (M) /  Yamalapalli (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Chennai. Doubles</competicion>
@@ -1053,7 +951,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T15:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="85">
+  <evento id="76">
     <nombre>Mia Pohankova (M) –  Diane Parry (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Chennai</competicion>
@@ -1063,7 +961,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T15:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="86">
+  <evento id="77">
     <nombre>Pavlasek / Bhambri – Glasspool / Cash</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Paris. Doubles</competicion>
@@ -1073,7 +971,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T15:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="87">
+  <evento id="78">
     <nombre>Kimberly Birrell (M) –  Shrivalli Rashmikaa Bhamidipaty (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Chennai</competicion>
@@ -1083,7 +981,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T15:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="88">
+  <evento id="79">
     <nombre>Pedro / Hussey – Verbin / Simakin</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Monastir. Dobles</competicion>
@@ -1093,7 +991,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T15:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="89">
+  <evento id="80">
     <nombre>Ouakaa / Genov – Duncan / Mackinlay</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Monastir. Dobles</competicion>
@@ -1103,7 +1001,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T15:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="90">
+  <evento id="81">
     <nombre>Vinlong – Kan Shat Ko Dong</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Vietnam. Liga Premier</competicion>
@@ -1113,7 +1011,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T15:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="91">
+  <evento id="82">
     <nombre>ATP Challenger. Charlottesville</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Charlottesville</competicion>
@@ -1123,7 +1021,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T15:10:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="92">
+  <evento id="83">
     <nombre>Navbahor Namangan – Nasaf</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Uzbekistán. Superliga</competicion>
@@ -1133,7 +1031,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T15:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="93">
+  <evento id="84">
     <nombre>Dinamo Samarcanda – Khorezm Urganch</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Uzbekistán. Superliga</competicion>
@@ -1143,7 +1041,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T15:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="94">
+  <evento id="85">
     <nombre>Ben Shelton – Andréi Rubliov</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. París</competicion>
@@ -1153,7 +1051,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T15:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="95">
+  <evento id="86">
     <nombre>Shabab Al-Ordon – Al-Salt</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Jordania. Premier League</competicion>
@@ -1163,7 +1061,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T16:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="96">
+  <evento id="87">
     <nombre>Miedz Legnica – Jagiellonia</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Polonia. Copa</competicion>
@@ -1173,7 +1071,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T16:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="97">
+  <evento id="88">
     <nombre>Georgia Sub-17 –  Grecia Sub-17</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Clasificación para la Eurocopa Sub-17</competicion>
@@ -1183,7 +1081,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T16:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="98">
+  <evento id="89">
     <nombre>Bengaluru – Mohammedan</nombre>
     <deporte>Fútbol</deporte>
     <competicion>India. Supercopa</competicion>
@@ -1193,7 +1091,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T16:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="99">
+  <evento id="90">
     <nombre>Ufá – Neftekhimik</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Rusia. Copa</competicion>
@@ -1203,7 +1101,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T16:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="100">
+  <evento id="91">
     <nombre>SKA-VMF – Kristall</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
@@ -1213,7 +1111,17 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T16:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="101">
+  <evento id="92">
+    <nombre>Barsy Atirau – Almaty Legion</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Kazajistán. Liga Nacional</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/307997049__/</url>
+    <datetime_iso>2025-10-30T16:00:00</datetime_iso>
+    <streams total="0" />
+  </evento>
+  <evento id="93">
     <nombre>Paul / Vocel – Barrientos / Withrow</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Bratislava 2. Doubles</competicion>
@@ -1223,7 +1131,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T16:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="102">
+  <evento id="94">
     <nombre>Titouan Droguet – Laslo Djere</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Bratislava 2</competicion>
@@ -1233,7 +1141,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T16:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="103">
+  <evento id="95">
     <nombre>Brasil U17 – Túnez U17</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Mujeres. Copa Mundial Sub-17</competicion>
@@ -1243,7 +1151,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T16:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="104">
+  <evento id="96">
     <nombre>Al-Gharafa – Al-Duhail</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Qatar. Stars League</competicion>
@@ -1253,7 +1161,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T16:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="105">
+  <evento id="97">
     <nombre>Yantra – CSKA 1948</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bulgaria. Copa</competicion>
@@ -1263,7 +1171,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T16:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="106">
+  <evento id="98">
     <nombre>Proteas Voulas – Koroivos</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Grecia. A2 Ethniki</competicion>
@@ -1273,17 +1181,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T16:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="107">
-    <nombre>Barsy Atirau – Almaty Legion</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Kazajistán. Liga Nacional</competicion>
-    <fecha>30 de octubre</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/307997049__/</url>
-    <datetime_iso>2025-10-30T16:30:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="108">
+  <evento id="99">
     <nombre>ATP Challenger. Lima 2</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Lima 2</competicion>
@@ -1293,7 +1191,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T16:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="109">
+  <evento id="100">
     <nombre>Zeynep Sonmez (M) –  Lanlana Tararudee (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Chennai</competicion>
@@ -1303,7 +1201,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T16:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="110">
+  <evento id="101">
     <nombre>Amanat Baghdad – Al-Náyaf</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Irak. Liga Premier</competicion>
@@ -1313,7 +1211,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="111">
+  <evento id="102">
     <nombre>Al-Gharraf – Zakho</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Irak. Liga Premier</competicion>
@@ -1323,7 +1221,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="112">
+  <evento id="103">
     <nombre>Metalist 1925 – Ahrobiznes</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Ucrania. Copa</competicion>
@@ -1333,7 +1231,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="113">
+  <evento id="104">
     <nombre>UTA Arad – Petrolul</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Rumania. Copa</competicion>
@@ -1343,7 +1241,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="114">
+  <evento id="105">
     <nombre>Pyramids – Ethiopian Insurance</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Liga de Campeones de la CAF. Clasificatoria</competicion>
@@ -1353,7 +1251,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="115">
+  <evento id="106">
     <nombre>Vikos – Lefkadas</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Grecia. A2 Ethniki</competicion>
@@ -1363,7 +1261,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="116">
+  <evento id="107">
     <nombre>Karen Jachánov – Alex De Minaur</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. París</competicion>
@@ -1373,7 +1271,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="117">
+  <evento id="108">
     <nombre>Taylor Fritz – Alexandr Bublik</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. París</competicion>
@@ -1383,7 +1281,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="118">
+  <evento id="109">
     <nombre>Johannus Monday – Cannon Kingsley</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Charlottesville</competicion>
@@ -1393,7 +1291,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="119">
+  <evento id="110">
     <nombre>Rafael Jodar – Saba Purtseladze</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Charlottesville</competicion>
@@ -1403,7 +1301,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="120">
+  <evento id="111">
     <nombre>Araz – Differdange</nombre>
     <deporte>Futsal</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -1413,7 +1311,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="121">
+  <evento id="112">
     <nombre>Buba Mara – Minerva</nombre>
     <deporte>Futsal</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -1423,7 +1321,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="122">
+  <evento id="113">
     <nombre>Cartagena – Zalgiris K</nombre>
     <deporte>Futsal</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -1433,7 +1331,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="123">
+  <evento id="114">
     <nombre>Damac – Al-Fateh</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Arabia Saudita. Liga Pro</competicion>
@@ -1443,7 +1341,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="124">
+  <evento id="115">
     <nombre>Sputnik Almetyevsk – Tyumensky Legion</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. MHL</competicion>
@@ -1453,7 +1351,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="125">
+  <evento id="116">
     <nombre>HC Lípetsk – Dizelist</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. NMHL</competicion>
@@ -1463,7 +1361,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="126">
+  <evento id="117">
     <nombre>Verbeek / Gille – Behar / Vliegen</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Bratislava 2. Doubles</competicion>
@@ -1473,7 +1371,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="127">
+  <evento id="118">
     <nombre>Etoile Lavalloise – Semey</nombre>
     <deporte>Futsal</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -1483,7 +1381,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="128">
+  <evento id="119">
     <nombre>FK Riga – Benfica</nombre>
     <deporte>Futsal</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -1493,7 +1391,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="129">
+  <evento id="120">
     <nombre>Chaves – Sporting B</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Portugal. Segunda Liga</competicion>
@@ -1503,7 +1401,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="130">
+  <evento id="121">
     <nombre>Shabab Al Ahli – Sharjah</nombre>
     <deporte>Fútbol</deporte>
     <competicion>EÁU. Pro League</competicion>
@@ -1513,7 +1411,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="131">
+  <evento id="122">
     <nombre>Ajman – Al Ain</nombre>
     <deporte>Fútbol</deporte>
     <competicion>EÁU. Pro League</competicion>
@@ -1523,7 +1421,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="132">
+  <evento id="123">
     <nombre>Kalju – Viimsi</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Estonia. Copa</competicion>
@@ -1533,7 +1431,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T17:50:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="133">
+  <evento id="124">
     <nombre>Malkiya – Al-Ahli Manama</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bahréin. Liga Premier</competicion>
@@ -1543,7 +1441,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="134">
+  <evento id="125">
     <nombre>Bahrain SC – A`Ali</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bahréin. Liga Premier</competicion>
@@ -1553,7 +1451,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="135">
+  <evento id="126">
     <nombre>Pyramids – Ethiopian Insurance</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Liga de Campeones de la CAF</competicion>
@@ -1563,7 +1461,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="136">
+  <evento id="127">
     <nombre>Pelister – Tikvesh</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Macedonia del Norte. 1. MFL</competicion>
@@ -1573,7 +1471,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="137">
+  <evento id="128">
     <nombre>KuPS – Gnistan</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Finlandia. Veikkausliiga</competicion>
@@ -1583,7 +1481,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="138">
+  <evento id="129">
     <nombre>Inter Turku – SJK</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Finlandia. Veikkausliiga</competicion>
@@ -1593,7 +1491,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="139">
+  <evento id="130">
     <nombre>Torpedo NN – Lada Tl</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -1603,7 +1501,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="140">
+  <evento id="131">
     <nombre>Dinamo St Pburg – Dizel</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
@@ -1613,7 +1511,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="141">
+  <evento id="132">
     <nombre>Severstal – Dynamo Msk</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -1623,7 +1521,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="142">
+  <evento id="133">
     <nombre>Gomel – Mogilev</nombre>
     <deporte>Hockey</deporte>
     <competicion>Bielorrusia. Extraliga</competicion>
@@ -1633,7 +1531,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="143">
+  <evento id="134">
     <nombre>Neman Grodno – Shakhtyor Sl</nombre>
     <deporte>Hockey</deporte>
     <competicion>Bielorrusia. Extraliga</competicion>
@@ -1643,7 +1541,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="144">
+  <evento id="135">
     <nombre>Lokomotiv Orsha – Yunost Minsk</nombre>
     <deporte>Hockey</deporte>
     <competicion>Bielorrusia. Extraliga</competicion>
@@ -1653,7 +1551,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="145">
+  <evento id="136">
     <nombre>Granit – Buran</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. NMHL</competicion>
@@ -1663,7 +1561,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="146">
+  <evento id="137">
     <nombre>Kaluga – Briansk</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. NMHL</competicion>
@@ -1673,7 +1571,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="147">
+  <evento id="138">
     <nombre>Mersin (M) –  Reyer Venecia (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Mujeres. Euroliga</competicion>
@@ -1683,7 +1581,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="148">
+  <evento id="139">
     <nombre>Emlak Konut (M) –  Royals Saarlouis (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Mujeres. Copa Europea</competicion>
@@ -1693,7 +1591,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="149">
+  <evento id="140">
     <nombre>MBA – Samara</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Liga VTB United</competicion>
@@ -1703,7 +1601,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="150">
+  <evento id="141">
     <nombre>Vytis – Dzukija</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Lituania. NKL</competicion>
@@ -1713,7 +1611,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="151">
+  <evento id="142">
     <nombre>Omega-Tauras – Telsiai</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Lituania. NKL</competicion>
@@ -1723,7 +1621,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="152">
+  <evento id="143">
     <nombre>Neptunas-Akvaservis – Vilniaus Perlas</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Lituania. NKL</competicion>
@@ -1733,7 +1631,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="153">
+  <evento id="144">
     <nombre>Zalgiris 2 – Vilniaus Stekas</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Lituania. NKL</competicion>
@@ -1743,7 +1641,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="154">
+  <evento id="145">
     <nombre>Gargzdu – Jonava</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Lituania. Copa</competicion>
@@ -1753,7 +1651,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="155">
+  <evento id="146">
     <nombre>Raphael Collignon – Stanislas Wawrinka</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Bratislava 2</competicion>
@@ -1763,7 +1661,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="156">
+  <evento id="147">
     <nombre>Kairat – Sporting</nombre>
     <deporte>Futsal</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -1773,7 +1671,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="157">
+  <evento id="148">
     <nombre>Kiev – HIT Kiev</nombre>
     <deporte>Futsal</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -1783,7 +1681,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="158">
+  <evento id="149">
     <nombre>Weilimdorf – Akaa</nombre>
     <deporte>Futsal</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -1793,7 +1691,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="159">
+  <evento id="150">
     <nombre>Dinamo Mn – Amur</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -1803,7 +1701,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:10:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="160">
+  <evento id="151">
     <nombre>Al-Sadd – Al-Rayyan</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Qatar. Stars League</competicion>
@@ -1813,7 +1711,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="161">
+  <evento id="152">
     <nombre>Al Ahli Amán – Al-Hussein</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Jordania. Premier League</competicion>
@@ -1823,7 +1721,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="162">
+  <evento id="153">
     <nombre>Fakel – Arsenal Tula</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Rusia. Copa</competicion>
@@ -1833,7 +1731,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="163">
+  <evento id="154">
     <nombre>Pyry – KeuPa</nombre>
     <deporte>Hockey</deporte>
     <competicion>Finlandia. Mestis</competicion>
@@ -1843,7 +1741,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="164">
+  <evento id="155">
     <nombre>K-Vantaa – Hermes</nombre>
     <deporte>Hockey</deporte>
     <competicion>Finlandia. Mestis</competicion>
@@ -1853,7 +1751,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="165">
+  <evento id="156">
     <nombre>Berani Zlin – Dynamo Pardubice B</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 1 Liga</competicion>
@@ -1863,7 +1761,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="166">
+  <evento id="157">
     <nombre>Lorenzo Sonego – Daniil Medvedev</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. París</competicion>
@@ -1873,7 +1771,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="167">
+  <evento id="158">
     <nombre>Mitchell Krueger – Dhakshineswar Suresh</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Charlottesville</competicion>
@@ -1883,7 +1781,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="168">
+  <evento id="159">
     <nombre>Rinky Hijikata – Mats Rosenkranz</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Charlottesville</competicion>
@@ -1893,7 +1791,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="169">
+  <evento id="160">
     <nombre>Sokol Mogilno (M) –  UNI Opole (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Polonia. Mujeres. MP</competicion>
@@ -1903,7 +1801,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="170">
+  <evento id="161">
     <nombre>Asterix Avo (M) –  Olympiacos (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Liga de Campeones. Calificación</competicion>
@@ -1913,7 +1811,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="171">
+  <evento id="162">
     <nombre>Kaunas VDU (M) –  Oksil (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Copa Challenge</competicion>
@@ -1923,7 +1821,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="172">
+  <evento id="163">
     <nombre>Midtjylland – Silkeborg</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Dinamarca. Copa</competicion>
@@ -1933,7 +1831,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="173">
+  <evento id="164">
     <nombre>Alemania U17 – Qatar U17</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Mujeres. Copa Mundial Sub-17</competicion>
@@ -1943,7 +1841,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T18:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="174">
+  <evento id="165">
     <nombre>Voivodina – Estrella Roja</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Serbia. Superliga</competicion>
@@ -1953,7 +1851,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="175">
+  <evento id="166">
     <nombre>Arka Gdynia – Gornik Zabrze</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Polonia. Copa</competicion>
@@ -1963,7 +1861,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="176">
+  <evento id="167">
     <nombre>Botosani – Farul</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Rumania. Copa</competicion>
@@ -1973,7 +1871,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="177">
+  <evento id="168">
     <nombre>Ilves – HJK</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Finlandia. Veikkausliiga</competicion>
@@ -1983,7 +1881,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="178">
+  <evento id="169">
     <nombre>Pafos – AEK Larnaca</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Chipre. Supercopa</competicion>
@@ -1993,7 +1891,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="179">
+  <evento id="170">
     <nombre>National Bank – Zamalek</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Egipto. Premier League</competicion>
@@ -2003,7 +1901,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="180">
+  <evento id="171">
     <nombre>HS Riga – Mogo</nombre>
     <deporte>Hockey</deporte>
     <competicion>Letonia. LHL</competicion>
@@ -2013,7 +1911,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="181">
+  <evento id="172">
     <nombre>UMCS Lublin (M) –  Namur Capitale (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Mujeres. Copa Europea</competicion>
@@ -2023,7 +1921,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="182">
+  <evento id="173">
     <nombre>Jurbarkas-Karys – Olimpas</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Lituania. NKL</competicion>
@@ -2033,7 +1931,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="183">
+  <evento id="174">
     <nombre>Palangos Kursiai – Vilkaviskio Perlas</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Lituania. NKL</competicion>
@@ -2043,7 +1941,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="184">
+  <evento id="175">
     <nombre>Kretinga – Mazeikiai</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Lituania. NKL</competicion>
@@ -2053,7 +1951,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="185">
+  <evento id="176">
     <nombre>Craiova – Galati</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Rumania. Liga Nationala</competicion>
@@ -2063,7 +1961,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="186">
+  <evento id="177">
     <nombre>Olomoucko – Nymburk</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>República Checa. NBL</competicion>
@@ -2073,7 +1971,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="187">
+  <evento id="178">
     <nombre>Levski – Cherno More</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Bulgaria. NBL</competicion>
@@ -2083,7 +1981,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="188">
+  <evento id="179">
     <nombre>Kibirkstis Vilnius (M) –  Keltern (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Mujeres. Copa Europea</competicion>
@@ -2093,7 +1991,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="189">
+  <evento id="180">
     <nombre>Estrella Roja (M) –  TTT Riga (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Mujeres. Copa Europea</competicion>
@@ -2103,7 +2001,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="190">
+  <evento id="181">
     <nombre>Sepsi SIC (M) –  Kangoeroes Malinas (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Mujeres. Copa Europea</competicion>
@@ -2113,7 +2011,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="191">
+  <evento id="182">
     <nombre>PEAC-Pecs (M) –  Elitzur (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Mujeres. Copa Europea</competicion>
@@ -2123,7 +2021,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="192">
+  <evento id="183">
     <nombre>Besiktas (M) –  Gorzow Wielkopolski (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Mujeres. Copa Europea</competicion>
@@ -2133,7 +2031,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="193">
+  <evento id="184">
     <nombre>Beroe (M) –  Sleza Wroclaw (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Mujeres. Copa Europea</competicion>
@@ -2143,7 +2041,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="194">
+  <evento id="185">
     <nombre>Jazmin Ortenzi (M) –  Julia Grabher (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Cali</competicion>
@@ -2153,7 +2051,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="195">
+  <evento id="186">
     <nombre>Gorgodze (M) /  Fossa Huergo (M) –  Zeballos (M) /  Zolotareva (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Cali. Doubles</competicion>
@@ -2163,7 +2061,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="196">
+  <evento id="187">
     <nombre>Stevens / Kirkov – Nouza / Rikl</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Bratislava 2. Doubles</competicion>
@@ -2173,7 +2071,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="197">
+  <evento id="188">
     <nombre>Arias / Ingildsen – Kestelboim / Zormann</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Lima 2. Doubles</competicion>
@@ -2183,7 +2081,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="198">
+  <evento id="189">
     <nombre>Alvaro-Guillen Meza – Andres Andrade</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Lima 2</competicion>
@@ -2193,7 +2091,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="199">
+  <evento id="190">
     <nombre>Olympiacos – Napredak Odzak</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Liga de Campeones. Calificación</competicion>
@@ -2203,7 +2101,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="200">
+  <evento id="191">
     <nombre>ACH Volley – Orion</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Liga de Campeones. Calificación</competicion>
@@ -2213,7 +2111,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="201">
+  <evento id="192">
     <nombre>Dukla Liberec – Zlín</nombre>
     <deporte>Voleibol</deporte>
     <competicion>República Checa. Extraliga</competicion>
@@ -2223,7 +2121,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="202">
+  <evento id="193">
     <nombre>Pribram – Karlovarsko</nombre>
     <deporte>Voleibol</deporte>
     <competicion>República Checa. Extraliga</competicion>
@@ -2233,7 +2131,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="203">
+  <evento id="194">
     <nombre>Beskydy – Kladno</nombre>
     <deporte>Voleibol</deporte>
     <competicion>República Checa. Extraliga</competicion>
@@ -2243,7 +2141,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="204">
+  <evento id="195">
     <nombre>Ceske Budejovice – Brno</nombre>
     <deporte>Voleibol</deporte>
     <competicion>República Checa. Extraliga</competicion>
@@ -2253,7 +2151,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="205">
+  <evento id="196">
     <nombre>Ústí nad Labem – Aero Odolena Voda</nombre>
     <deporte>Voleibol</deporte>
     <competicion>República Checa. Extraliga</competicion>
@@ -2263,7 +2161,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="206">
+  <evento id="197">
     <nombre>Fatum Nyiregyhaza (M) –  LP Viesti (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Copa Challenge</competicion>
@@ -2273,7 +2171,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="207">
+  <evento id="198">
     <nombre>Noruega – Dinamarca</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Golden League</competicion>
@@ -2283,7 +2181,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="208">
+  <evento id="199">
     <nombre>Elva – Tallinna Kalev</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Estonia. Copa</competicion>
@@ -2293,7 +2191,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:20:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="209">
+  <evento id="200">
     <nombre>Konyaspor – 12 Bingolspor</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Turquía. Copa</competicion>
@@ -2303,7 +2201,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="210">
+  <evento id="201">
     <nombre>Duhok – Al-Naft</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Irak. Liga Premier</competicion>
@@ -2313,7 +2211,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="211">
+  <evento id="202">
     <nombre>Al-Quwa – Diala</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Irak. Liga Premier</competicion>
@@ -2323,7 +2221,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="212">
+  <evento id="203">
     <nombre>Al-Kholood – Neom</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Arabia Saudita. Liga Pro</competicion>
@@ -2333,7 +2231,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="213">
+  <evento id="204">
     <nombre>Al Ahli Yeda – Al-Riyadh</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Arabia Saudita. Liga Pro</competicion>
@@ -2343,7 +2241,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="214">
+  <evento id="205">
     <nombre>Cagliari – Sassuolo</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Italia. Serie A</competicion>
@@ -2353,7 +2251,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="215">
+  <evento id="206">
     <nombre>Mark Lajal – Thiago Tirante</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Bratislava 2</competicion>
@@ -2363,7 +2261,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="216">
+  <evento id="207">
     <nombre>Lokomotiv Zagreb (M) – Osijek (M)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Croacia. Mujeres. Super Liga</competicion>
@@ -2373,7 +2271,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="217">
+  <evento id="208">
     <nombre>Split (W) – Rudar Labin (W)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Croacia. Mujeres. Super Liga</competicion>
@@ -2383,7 +2281,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="218">
+  <evento id="209">
     <nombre>Rijnsburgse Boys – NEC</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Países Bajos. KNVB Copa</competicion>
@@ -2393,7 +2291,17 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T19:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="219">
+  <evento id="210">
+    <nombre>Ogre – Salaspils</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Letonia. NBL</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>19:45</hora>
+    <url>https://livetv.sx/es/eventinfo/312891375__/</url>
+    <datetime_iso>2025-10-30T19:45:00</datetime_iso>
+    <streams total="0" />
+  </evento>
+  <evento id="211">
     <nombre>Orihuela – Levante</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
@@ -2403,7 +2311,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="220">
+  <evento id="212">
     <nombre>Benfica B – Pacos de Ferreira</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Portugal. Segunda Liga</competicion>
@@ -2413,7 +2321,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="221">
+  <evento id="213">
     <nombre>Portimonense – Torreense</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Portugal. Segunda Liga</competicion>
@@ -2423,7 +2331,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="222">
+  <evento id="214">
     <nombre>Vargas Torres – Cumbaya</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Ecuador. Serie B</competicion>
@@ -2433,7 +2341,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="223">
+  <evento id="215">
     <nombre>Atletico Vinotinto – 22 de Julio</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Ecuador. Serie B</competicion>
@@ -2443,7 +2351,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="224">
+  <evento id="216">
     <nombre>RB Salzburgo – Swarovski Tirol</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Austria. Copa</competicion>
@@ -2453,7 +2361,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="225">
+  <evento id="217">
     <nombre>Oerebro – Linkoeping</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. SHL</competicion>
@@ -2463,7 +2371,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="226">
+  <evento id="218">
     <nombre>Rogle – Lulea</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. SHL</competicion>
@@ -2473,7 +2381,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="227">
+  <evento id="219">
     <nombre>Farjestad – Leksand</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. SHL</competicion>
@@ -2483,7 +2391,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="228">
+  <evento id="220">
     <nombre>Skelleftea – Brynas</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. SHL</competicion>
@@ -2493,7 +2401,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="229">
+  <evento id="221">
     <nombre>Frolunda – Vaxjo</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. SHL</competicion>
@@ -2503,7 +2411,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="230">
+  <evento id="222">
     <nombre>Djurgarden – HV71</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. SHL</competicion>
@@ -2513,7 +2421,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="231">
+  <evento id="223">
     <nombre>Malmoe – Timra</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. SHL</competicion>
@@ -2523,7 +2431,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="232">
+  <evento id="224">
     <nombre>Zalgiris – ASVEL</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Euroliga</competicion>
@@ -2533,7 +2441,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="233">
+  <evento id="225">
     <nombre>Ragusa Dubrovnik (M) –  Dinamo Sácer (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Mujeres. Copa Europea</competicion>
@@ -2543,7 +2451,17 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="234">
+  <evento id="226">
+    <nombre>Bauska – Jelgava</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Letonia. NBL</competicion>
+    <fecha>30 de octubre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312891376__/</url>
+    <datetime_iso>2025-10-30T20:00:00</datetime_iso>
+    <streams total="0" />
+  </evento>
+  <evento id="227">
     <nombre>Francisco Cerundolo – Jannik Sinner</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. París</competicion>
@@ -2553,7 +2471,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="235">
+  <evento id="228">
     <nombre>Harper / Stevenson – Thayne / Fuchs</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Charlottesville. Doubles</competicion>
@@ -2563,7 +2481,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="236">
+  <evento id="229">
     <nombre>Boulais / Kiger – Perez / Vance</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Charlottesville. Doubles</competicion>
@@ -2573,7 +2491,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="237">
+  <evento id="230">
     <nombre>Anderlecht – Piast Gliwice</nombre>
     <deporte>Futsal</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -2583,7 +2501,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="238">
+  <evento id="231">
     <nombre>Luxol St Andrews – Loznica</nombre>
     <deporte>Futsal</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -2593,7 +2511,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="239">
+  <evento id="232">
     <nombre>Lucenec – Vendsyssel</nombre>
     <deporte>Futsal</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -2603,7 +2521,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="240">
+  <evento id="233">
     <nombre>United Galati – Tigers Roermond</nombre>
     <deporte>Futsal</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -2613,7 +2531,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="241">
+  <evento id="234">
     <nombre>Valle de Egüés – FC Andorra</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
@@ -2623,7 +2541,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="242">
+  <evento id="235">
     <nombre>Zeller Eisbaren – Merano</nombre>
     <deporte>Hockey</deporte>
     <competicion>Alps Hockey League</competicion>
@@ -2633,7 +2551,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="243">
+  <evento id="236">
     <nombre>Sisak – Salzburgo II</nombre>
     <deporte>Hockey</deporte>
     <competicion>Alps Hockey League</competicion>
@@ -2643,7 +2561,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="244">
+  <evento id="237">
     <nombre>Grizzlys Wolfsburgo – Augsburgo</nombre>
     <deporte>Hockey</deporte>
     <competicion>Alemania. DEL</competicion>
@@ -2653,7 +2571,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="245">
+  <evento id="238">
     <nombre>Fischtown Pinguins – Iserlohn Roosters</nombre>
     <deporte>Hockey</deporte>
     <competicion>Alemania. DEL</competicion>
@@ -2663,7 +2581,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="246">
+  <evento id="239">
     <nombre>Bären Kleinbasel – Boncourt</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Suiza. NLB</competicion>
@@ -2673,7 +2591,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="247">
+  <evento id="240">
     <nombre>Kicker / Cigarran – Martinez / Gómez</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Lima 2. Doubles</competicion>
@@ -2683,7 +2601,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="248">
+  <evento id="241">
     <nombre>Sinja Kraus (M) –  Selena Janicijevic (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Cali</competicion>
@@ -2693,7 +2611,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="249">
+  <evento id="242">
     <nombre>Roman-Andres Burruchaga – Marco Cecchinato</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Lima 2</competicion>
@@ -2703,7 +2621,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="250">
+  <evento id="243">
     <nombre>Panna Udvardy (M) –  Varvara Lepchenko (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Cali</competicion>
@@ -2713,7 +2631,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="251">
+  <evento id="244">
     <nombre>Palma – Chrudim</nombre>
     <deporte>Futsal</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -2723,7 +2641,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="252">
+  <evento id="245">
     <nombre>Ginebra – Zug</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suiza. National League</competicion>
@@ -2733,7 +2651,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T20:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="253">
+  <evento id="246">
     <nombre>UD Logroñés – Ponferradina</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
@@ -2743,7 +2661,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="254">
+  <evento id="247">
     <nombre>Real Ávila – Real Avilés</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
@@ -2753,7 +2671,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="255">
+  <evento id="248">
     <nombre>Atletico Baleares – Gimnàstic de Tarragona</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
@@ -2763,7 +2681,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="256">
+  <evento id="249">
     <nombre>Guecho – Alavés</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
@@ -2773,7 +2691,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="257">
+  <evento id="250">
     <nombre>Sparta Róterdam – Groninga</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Países Bajos. KNVB Copa</competicion>
@@ -2783,7 +2701,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="258">
+  <evento id="251">
     <nombre>Dumbravita – Rapid Bucarest</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Rumania. Copa</competicion>
@@ -2793,7 +2711,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="259">
+  <evento id="252">
     <nombre>FUS Rabat – Olympic Safi</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Marruecos. Botola Pro</competicion>
@@ -2803,7 +2721,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="260">
+  <evento id="253">
     <nombre>Niza – Angers</nombre>
     <deporte>Hockey</deporte>
     <competicion>Francia. Ligue Magnus</competicion>
@@ -2813,7 +2731,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="261">
+  <evento id="254">
     <nombre>Fassa Falcons – Caldaro</nombre>
     <deporte>Hockey</deporte>
     <competicion>Italia. IHL</competicion>
@@ -2823,7 +2741,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="262">
+  <evento id="255">
     <nombre>Bresanona – Toblach</nombre>
     <deporte>Hockey</deporte>
     <competicion>Italia. IHL</competicion>
@@ -2833,7 +2751,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="263">
+  <evento id="256">
     <nombre>Renon Sport – Kitzbuhel</nombre>
     <deporte>Hockey</deporte>
     <competicion>Alps Hockey League</competicion>
@@ -2843,7 +2761,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="264">
+  <evento id="257">
     <nombre>Wipptal Broncos – Jesenice</nombre>
     <deporte>Hockey</deporte>
     <competicion>Alps Hockey League</competicion>
@@ -2853,7 +2771,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="265">
+  <evento id="258">
     <nombre>Studentski Centar – Krka</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Liga del Adriático</competicion>
@@ -2863,7 +2781,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="266">
+  <evento id="259">
     <nombre>Tours – Poitiers</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Francia. Ligue A</competicion>
@@ -2873,7 +2791,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="267">
+  <evento id="260">
     <nombre>Guaguas – MAV-Elore</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Liga de Campeones. Calificación</competicion>
@@ -2883,7 +2801,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="268">
+  <evento id="261">
     <nombre>Perugia (M) –  Vero Volley Milán (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Italia. Mujeres. Serie A</competicion>
@@ -2893,7 +2811,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="269">
+  <evento id="262">
     <nombre>Nis – Vojvodina</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Serbia. Superliga</competicion>
@@ -2903,7 +2821,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="270">
+  <evento id="263">
     <nombre>Novo Vrieme – Prishtina</nombre>
     <deporte>Futsal</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -2913,7 +2831,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="271">
+  <evento id="264">
     <nombre>Siliko – Forza</nombre>
     <deporte>Futsal</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -2923,7 +2841,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="272">
+  <evento id="265">
     <nombre>Maccabi T-A – Estrella Roja</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Euroliga</competicion>
@@ -2933,7 +2851,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:05:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="273">
+  <evento id="266">
     <nombre>Grenoble – Ruan</nombre>
     <deporte>Hockey</deporte>
     <competicion>Francia. Ligue Magnus</competicion>
@@ -2943,7 +2861,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="274">
+  <evento id="267">
     <nombre>España U17 – Egipto U17</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Mujeres. Copa Mundial Sub-17</competicion>
@@ -2953,7 +2871,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="275">
+  <evento id="268">
     <nombre>Knokke – Sint-Truidense</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bélgica. Copa</competicion>
@@ -2963,7 +2881,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="276">
+  <evento id="269">
     <nombre>Gante – Patro Eisden</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bélgica. Copa</competicion>
@@ -2973,7 +2891,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="277">
+  <evento id="270">
     <nombre>Grasshopper – Young Boys</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Suiza. Superliga</competicion>
@@ -2983,7 +2901,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="278">
+  <evento id="271">
     <nombre>Seraing – Oud-Heverlee</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bélgica. Copa</competicion>
@@ -2993,7 +2911,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="279">
+  <evento id="272">
     <nombre>Lugano – Lucerna</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Suiza. Superliga</competicion>
@@ -3003,7 +2921,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="280">
+  <evento id="273">
     <nombre>Beerschot – Westerlo</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bélgica. Copa</competicion>
@@ -3013,7 +2931,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="281">
+  <evento id="274">
     <nombre>Cercle – Cortrique</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bélgica. Copa</competicion>
@@ -3023,7 +2941,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="282">
+  <evento id="275">
     <nombre>Valpellice – Aosta</nombre>
     <deporte>Hockey</deporte>
     <competicion>Italia. IHL</competicion>
@@ -3033,7 +2951,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="283">
+  <evento id="276">
     <nombre>Valdifiemme – Pergine</nombre>
     <deporte>Hockey</deporte>
     <competicion>Italia. IHL</competicion>
@@ -3043,7 +2961,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="284">
+  <evento id="277">
     <nombre>Alleghe – Feltreghiaccio</nombre>
     <deporte>Hockey</deporte>
     <competicion>Italia. IHL</competicion>
@@ -3053,7 +2971,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="285">
+  <evento id="278">
     <nombre>Varese – Appiano</nombre>
     <deporte>Hockey</deporte>
     <competicion>Italia. IHL</competicion>
@@ -3063,7 +2981,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="286">
+  <evento id="279">
     <nombre>Valencia – Dubai</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Euroliga</competicion>
@@ -3073,7 +2991,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="287">
+  <evento id="280">
     <nombre>Bayern de Múnich – Virtus Bolonia</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Euroliga</competicion>
@@ -3083,7 +3001,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="288">
+  <evento id="281">
     <nombre>Milán – Paris</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Euroliga</competicion>
@@ -3093,7 +3011,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="289">
+  <evento id="282">
     <nombre>Alejandro Davidovich Fokina – Alexander Zverev</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. París</competicion>
@@ -3103,7 +3021,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="290">
+  <evento id="283">
     <nombre>Clarke / Hands – Chandrasekar / Stalder</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Charlottesville. Doubles</competicion>
@@ -3113,7 +3031,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="291">
+  <evento id="284">
     <nombre>Whitehouse / Broom – Ruehl / Zahraj</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Charlottesville. Doubles</competicion>
@@ -3123,7 +3041,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="292">
+  <evento id="285">
     <nombre>Anioly Torun – Visla Bydgoszcz</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Polonia. I Liga</competicion>
@@ -3133,7 +3051,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="293">
+  <evento id="286">
     <nombre>Helvia Rechina (M) –  Marignano (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Italia. Mujeres. Serie A</competicion>
@@ -3143,7 +3061,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="294">
+  <evento id="287">
     <nombre>Verona – Power Volley</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Italia. Serie A</competicion>
@@ -3153,7 +3071,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="295">
+  <evento id="288">
     <nombre>Catania – AEK</nombre>
     <deporte>Futsal</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -3163,7 +3081,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="296">
+  <evento id="289">
     <nombre>Perla Lublin (M) –  Gmina Kobierzyce (M)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Polonia. Mujeres. Ekstraklasa</competicion>
@@ -3173,7 +3091,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="297">
+  <evento id="290">
     <nombre>Países Bajos – Islas Feroe</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Golden League</competicion>
@@ -3183,7 +3101,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="298">
+  <evento id="291">
     <nombre>Nordsjaelland – Broendby</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Dinamarca. Copa</competicion>
@@ -3193,7 +3111,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="299">
+  <evento id="292">
     <nombre>Pisa – Lazio</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Italia. Serie A</competicion>
@@ -3203,7 +3121,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T21:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="300">
+  <evento id="293">
     <nombre>Real Murcia – Antequera</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
@@ -3213,7 +3131,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T22:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="301">
+  <evento id="294">
     <nombre>Atlético Antoniano – Castellón</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
@@ -3223,7 +3141,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T22:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="302">
+  <evento id="295">
     <nombre>Atletic Lleida – Espanyol</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
@@ -3233,7 +3151,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T22:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="303">
+  <evento id="296">
     <nombre>Sámano – Deportivo</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
@@ -3243,7 +3161,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T22:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="304">
+  <evento id="297">
     <nombre>Imbabura – Chacaritas</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Ecuador. Serie B</competicion>
@@ -3253,7 +3171,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T22:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="305">
+  <evento id="298">
     <nombre>Unión Estepona – Málaga</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
@@ -3263,7 +3181,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T22:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="306">
+  <evento id="299">
     <nombre>Legia de Varsovia – Pogon Szczecin</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Polonia. Copa</competicion>
@@ -3273,7 +3191,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T22:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="307">
+  <evento id="300">
     <nombre>Real Madrid – Fenerbahce</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Euroliga</competicion>
@@ -3283,7 +3201,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T22:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="308">
+  <evento id="301">
     <nombre>Arklon Huertas – Carlos Maria Zarate</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Lima 2</competicion>
@@ -3293,7 +3211,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T22:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="309">
+  <evento id="302">
     <nombre>Smith (M) /  Lee (M) –  Pigossi (M) /  Candiotto (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Cali. Doubles</competicion>
@@ -3303,7 +3221,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T22:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="310">
+  <evento id="303">
     <nombre>Sara Bejlek (M) –  Julia Riera (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Cali</competicion>
@@ -3313,7 +3231,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T22:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="311">
+  <evento id="304">
     <nombre>Collarini / Dutra da Silva – Andrade / Meza</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Lima 2. Doubles</competicion>
@@ -3323,7 +3241,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T22:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="312">
+  <evento id="305">
     <nombre>Maritimo – UD Leiria</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Portugal. Segunda Liga</competicion>
@@ -3333,7 +3251,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T22:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="313">
+  <evento id="306">
     <nombre>Leixoes – Viseu</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Portugal. Segunda Liga</competicion>
@@ -3343,7 +3261,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T22:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="314">
+  <evento id="307">
     <nombre>Real Tomayapo – Independiente SE</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bolivia. Copa de la Liga</competicion>
@@ -3353,7 +3271,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T23:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="315">
+  <evento id="308">
     <nombre>Unión Magdalena – Deportes Tolima</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Colombia. Primera A</competicion>
@@ -3363,7 +3281,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T23:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="316">
+  <evento id="309">
     <nombre>Lepchenko (M) /  Janicijevic (M) –  Strakhova (M) /  Herrero-Linana (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Cali. Doubles</competicion>
@@ -3373,7 +3291,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T23:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="317">
+  <evento id="310">
     <nombre>Escobar / Reyes Varela – Zeballos / Rodriguez</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Lima 2. Doubles</competicion>
@@ -3383,7 +3301,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T23:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="318">
+  <evento id="311">
     <nombre>Mackenzie (M) –  Renasce Sorocaba (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Brasil. Mujeres. Superliga</competicion>
@@ -3393,7 +3311,7 @@ player/live.php?id=242382&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-10-30T23:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="319">
+  <evento id="312">
     <nombre>Maringa (M) –  Tijuca (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Brasil. Mujeres. Superliga</competicion>
