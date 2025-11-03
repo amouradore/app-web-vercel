@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2025-11-03 09:34:50" total="237">
+<eventos generado="2025-11-03 10:01:11" total="237">
   <evento id="1">
     <nombre>Melbourne United –  Sydney Kings</nombre>
     <deporte>Fútbol</deporte>
@@ -161,26 +161,7 @@
     <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/309414688_taifun_ska_1946/</url>
     <datetime_iso>2025-11-03T09:00:00</datetime_iso>
-    <streams total="3">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/trOT6P8sC04?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=trOT6P8sC04&amp;lang=es&amp;eid=309414688&amp;lid=2869868&amp;ci=279&amp;si=2</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://antenasport.org/embed.php?id=primakhl</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2867128&amp;lang=es&amp;eid=309414688&amp;lid=2867128&amp;ci=279&amp;si=2</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://antenasport.org/embed.php?id=primakhlprime</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2869378&amp;lang=es&amp;eid=309414688&amp;lid=2869378&amp;ci=279&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="11">
     <nombre>Deren –  Khovd</nombre>
@@ -589,7 +570,14 @@
     <hora>12:00</hora>
     <url>https://livetv.sx/es/eventinfo/309445734__/</url>
     <datetime_iso>2025-11-03T12:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/tLlxkKdr6Vk?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=tLlxkKdr6Vk&amp;lang=es&amp;eid=309445734&amp;lid=2869886&amp;ci=279&amp;si=2</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="40">
     <nombre>Krasnaya Armiya – Krylia Sovetov</nombre>
@@ -599,7 +587,14 @@
     <hora>12:00</hora>
     <url>https://livetv.sx/es/eventinfo/309445735__/</url>
     <datetime_iso>2025-11-03T12:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/YxVkpzy1ER8?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=YxVkpzy1ER8&amp;lang=es&amp;eid=309445735&amp;lid=2869887&amp;ci=279&amp;si=2</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="41">
     <nombre>JHC Spartak – Spartak MAH</nombre>
