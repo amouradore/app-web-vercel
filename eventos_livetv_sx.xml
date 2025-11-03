@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-11-03 08:35:34" total="1497">
+<eventos generado="2025-11-03 09:31:15" total="1499">
   <evento>
     <nombre>ATP Challenger. Matsuyama</nombre>
     <deporte>Fútbol</deporte>
@@ -15,22 +15,6 @@
     <fecha>3 de noviembre</fecha>
     <hora>05:10</hora>
     <url>https://livetv.sx/es/eventinfo/313828523_atp_challenger_taipei/</url>
-  </evento>
-  <evento>
-    <nombre>Marc-Andrea Huesler –  Sho Katayama</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Matsuyama</competicion>
-    <fecha>3 de noviembre</fecha>
-    <hora>06:00</hora>
-    <url>https://livetv.sx/es/eventinfo/314263014_marc_andrea_huesler_sho_katayama/</url>
-  </evento>
-  <evento>
-    <nombre>Oliver Crawford –  Hynek Barton</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Matsuyama</competicion>
-    <fecha>3 de noviembre</fecha>
-    <hora>06:05</hora>
-    <url>https://livetv.sx/es/eventinfo/313624107_oliver_crawford_hynek_barton/</url>
   </evento>
   <evento>
     <nombre>Henrique Rocha –  Kokoro Isomura</nombre>
@@ -55,38 +39,6 @@
     <fecha>3 de noviembre</fecha>
     <hora>08:50</hora>
     <url>https://livetv.sx/es/eventinfo/313536074_kusuhara__nakagawa_mochizuki__taguchi/</url>
-  </evento>
-  <evento>
-    <nombre>Taifun –  SKA-1946</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rusia. MHL</competicion>
-    <fecha>3 de noviembre</fecha>
-    <hora>09:00</hora>
-    <url>https://livetv.sx/es/eventinfo/309414688_taifun_ska_1946/</url>
-  </evento>
-  <evento>
-    <nombre>Deren –  Khovd</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mongolia. Premier League</competicion>
-    <fecha>3 de noviembre</fecha>
-    <hora>09:00</hora>
-    <url>https://livetv.sx/es/eventinfo/314105859_deren_khovd/</url>
-  </evento>
-  <evento>
-    <nombre>Singapore Invitational (W) –  Isla de Man (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa de las Naciones</competicion>
-    <fecha>3 de noviembre</fecha>
-    <hora>09:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312622652_singapore_invitational_w_isla_de_man_w/</url>
-  </evento>
-  <evento>
-    <nombre>Ryukyu –  Tochigi City</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Japón. J3 League</competicion>
-    <fecha>3 de noviembre</fecha>
-    <hora>09:00</hora>
-    <url>https://livetv.sx/es/eventinfo/309416228_ryukyu_tochigi_city/</url>
   </evento>
   <evento>
     <nombre>Belye Medvedi –  Irbis</nombre>
@@ -133,7 +85,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Australia. NBL</competicion>
     <fecha>3 de noviembre</fecha>
-    <hora>10:30</hora>
+    <hora>50:54</hora>
     <url>https://livetv.sx/es/eventinfo/309427605_melbourne_united_sydney_kings/</url>
   </evento>
   <evento>
@@ -159,6 +111,54 @@
     <fecha>3 de noviembre</fecha>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/309436420__armenia_sub_17__chipre_sub_17/</url>
+  </evento>
+  <evento>
+    <nombre>Finlandia Sub-17 –   Irlanda del Norte Sub-17</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificación para la Eurocopa Sub-17</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309436421__finlandia_sub_17__irlanda_del_norte_sub_17/</url>
+  </evento>
+  <evento>
+    <nombre>ISPE –  Rakhine United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Myanmar. National League</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/314105862_ispe_rakhine_united/</url>
+  </evento>
+  <evento>
+    <nombre>James Duckworth –  Taro Daniel</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Taipéi</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>11:45</hora>
+    <url>https://livetv.sx/es/eventinfo/313624131_james_duckworth_taro_daniel/</url>
+  </evento>
+  <evento>
+    <nombre>JHC Atlant –  Almaz</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309445734_jhc_atlant_almaz/</url>
+  </evento>
+  <evento>
+    <nombre>Krasnaya Armiya –  Krylia Sovetov</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309445735_krasnaya_armiya_krylia_sovetov/</url>
+  </evento>
+  <evento>
+    <nombre>JHC Spartak –  Spartak MAH</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>3 de noviembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/309445736_jhc_spartak_spartak_mah/</url>
   </evento>
   <evento>
     <nombre>Nasaf – Al Wahda</nombre>
@@ -239,22 +239,6 @@
     <fecha>4 de noviembre</fecha>
     <hora>02:15</hora>
     <url>https://livetv.sx/es/eventinfo/309270839__/</url>
-  </evento>
-  <evento>
-    <nombre>Deren – Khovd</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mongolia. Premier League</competicion>
-    <fecha>3 de noviembre</fecha>
-    <hora>09:00</hora>
-    <url>https://livetv.sx/es/eventinfo/314105859__/</url>
-  </evento>
-  <evento>
-    <nombre>Ryukyu – Tochigi City</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Japón. J3 League</competicion>
-    <fecha>3 de noviembre</fecha>
-    <hora>09:00</hora>
-    <url>https://livetv.sx/es/eventinfo/309416228__/</url>
   </evento>
   <evento>
     <nombre>Armenia Sub-17 –  Chipre Sub-17</nombre>
@@ -4161,6 +4145,22 @@
     <url>https://livetv.sx/es/eventinfo/310950675__/</url>
   </evento>
   <evento>
+    <nombre>Tijuana – Atlas</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>México. Liga MX</competicion>
+    <fecha>8 de noviembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/310950676__/</url>
+  </evento>
+  <evento>
+    <nombre>Atlético La Paz – Atlante</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>México. Liga de Expansion</competicion>
+    <fecha>8 de noviembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/310950693__/</url>
+  </evento>
+  <evento>
     <nombre>Magnitka – Yugra</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
@@ -4177,12 +4177,12 @@
     <url>https://livetv.sx/es/eventinfo/309425229__/</url>
   </evento>
   <evento>
-    <nombre>SKA-VMF – Ryazan</nombre>
+    <nombre>Dynamo Altay – Toros</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
     <fecha>3 de noviembre</fecha>
     <hora>12:00</hora>
-    <url>https://livetv.sx/es/eventinfo/309445619__/</url>
+    <url>https://livetv.sx/es/eventinfo/309445620__/</url>
   </evento>
   <evento>
     <nombre>Metallurg Mg – Kunlun RS</nombre>
@@ -4241,14 +4241,6 @@
     <url>https://livetv.sx/es/eventinfo/309628434__/</url>
   </evento>
   <evento>
-    <nombre>Metallurg Nk – Izhstal</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. VHL</competicion>
-    <fecha>3 de noviembre</fecha>
-    <hora>08:00</hora>
-    <url>https://livetv.sx/es/eventinfo/309403663__/</url>
-  </evento>
-  <evento>
     <nombre>Taifun – SKA-1946</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. MHL</competicion>
@@ -4297,12 +4289,12 @@
     <url>https://livetv.sx/es/eventinfo/309445736__/</url>
   </evento>
   <evento>
-    <nombre>Dynamo Altay – Toros</nombre>
+    <nombre>SKA-VMF – Ryazan</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
     <fecha>3 de noviembre</fecha>
     <hora>12:00</hora>
-    <url>https://livetv.sx/es/eventinfo/309445620__/</url>
+    <url>https://livetv.sx/es/eventinfo/309445619__/</url>
   </evento>
   <evento>
     <nombre>HC Lípetsk – CSK VVS</nombre>
@@ -10105,22 +10097,6 @@
     <url>https://livetv.sx/es/eventinfo/314103602_reilly_opelka_fabian_marozsan/</url>
   </evento>
   <evento>
-    <nombre>Marc-Andrea Huesler – Sho Katayama</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Matsuyama</competicion>
-    <fecha>3 de noviembre</fecha>
-    <hora>06:00</hora>
-    <url>https://livetv.sx/es/eventinfo/314263014__/</url>
-  </evento>
-  <evento>
-    <nombre>Oliver Crawford – Hynek Barton</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Matsuyama</competicion>
-    <fecha>3 de noviembre</fecha>
-    <hora>06:05</hora>
-    <url>https://livetv.sx/es/eventinfo/313624107__/</url>
-  </evento>
-  <evento>
     <nombre>Henrique Rocha – Kokoro Isomura</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Matsuyama</competicion>
@@ -10473,36 +10449,12 @@
     <url>https://livetv.sx/es/eventinfo/313624100__/</url>
   </evento>
   <evento>
-    <nombre>Hikaru Shiraishi – Hugo Grenier</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Matsuyama</competicion>
-    <fecha>4 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313624102__/</url>
-  </evento>
-  <evento>
-    <nombre>Kaylan Bigun – Yasutaka Uchiyama</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Matsuyama</competicion>
-    <fecha>4 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313624103__/</url>
-  </evento>
-  <evento>
     <nombre>Dimitar Kuzmanov – Duje Ajdukovic</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Matsuyama</competicion>
     <fecha>4 de noviembre</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/313624105__/</url>
-  </evento>
-  <evento>
-    <nombre>Yusuke Kusuhara – Frederico-Ferreira Silva</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Matsuyama</competicion>
-    <fecha>4 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313624106__/</url>
   </evento>
   <evento>
     <nombre>Yusuke Takahashi – Rio Noguchi</nombre>
@@ -10519,54 +10471,6 @@
     <fecha>4 de noviembre</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/313624109__/</url>
-  </evento>
-  <evento>
-    <nombre>Tajima / Isomura – Hermans / Bayldon</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Matsuyama. Doubles</competicion>
-    <fecha>4 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313536069__/</url>
-  </evento>
-  <evento>
-    <nombre>Wang / Loof – Basing / Matsuda</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Matsuyama. Doubles</competicion>
-    <fecha>4 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313536070__/</url>
-  </evento>
-  <evento>
-    <nombre>Shin / Matsuda – Goldhoff / Winegar</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Matsuyama. Doubles</competicion>
-    <fecha>4 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313536071__/</url>
-  </evento>
-  <evento>
-    <nombre>Takahata / Honda – Shiraishi / Jones</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Matsuyama. Doubles</competicion>
-    <fecha>4 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313536072__/</url>
-  </evento>
-  <evento>
-    <nombre>Veldheer / Nedunchezhiyan – Inui / Leong</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Matsuyama. Doubles</competicion>
-    <fecha>4 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313536073__/</url>
-  </evento>
-  <evento>
-    <nombre>Reynolds / Watt – Kikuchi / Sueoka</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Matsuyama. Doubles</competicion>
-    <fecha>4 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313536075__/</url>
   </evento>
   <evento>
     <nombre>ATP Challenger. Matsuyama</nombre>
@@ -10633,14 +10537,6 @@
     <url>https://livetv.sx/es/eventinfo/313548566__/</url>
   </evento>
   <evento>
-    <nombre>Oliver Crawford – Marc-Andrea Huesler</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Matsuyama</competicion>
-    <fecha>4 de noviembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/314379321__/</url>
-  </evento>
-  <evento>
     <nombre>Jason Jung – Arthur Weber</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Taipéi</competicion>
@@ -10703,6 +10599,78 @@
     <fecha>4 de noviembre</fecha>
     <hora>04:10</hora>
     <url>https://livetv.sx/es/eventinfo/313828524_atp_challenger_taipei/</url>
+  </evento>
+  <evento>
+    <nombre>Hikaru Shiraishi – Hugo Grenier</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Matsuyama</competicion>
+    <fecha>4 de noviembre</fecha>
+    <hora>04:30</hora>
+    <url>https://livetv.sx/es/eventinfo/313624102__/</url>
+  </evento>
+  <evento>
+    <nombre>Yusuke Kusuhara – Frederico-Ferreira Silva</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Matsuyama</competicion>
+    <fecha>4 de noviembre</fecha>
+    <hora>04:30</hora>
+    <url>https://livetv.sx/es/eventinfo/313624106__/</url>
+  </evento>
+  <evento>
+    <nombre>Koki Matsuda – Abedallah Shelbayh</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Matsuyama</competicion>
+    <fecha>4 de noviembre</fecha>
+    <hora>04:30</hora>
+    <url>https://livetv.sx/es/eventinfo/314398618__/</url>
+  </evento>
+  <evento>
+    <nombre>Max Basing – Ryuki Matsuda</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Matsuyama</competicion>
+    <fecha>4 de noviembre</fecha>
+    <hora>04:30</hora>
+    <url>https://livetv.sx/es/eventinfo/314398619__/</url>
+  </evento>
+  <evento>
+    <nombre>Kaylan Bigun – Yasutaka Uchiyama</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Matsuyama</competicion>
+    <fecha>4 de noviembre</fecha>
+    <hora>06:00</hora>
+    <url>https://livetv.sx/es/eventinfo/313624103__/</url>
+  </evento>
+  <evento>
+    <nombre>Sho Shimabukuro – Yuki Mochizuki</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Matsuyama</competicion>
+    <fecha>4 de noviembre</fecha>
+    <hora>06:00</hora>
+    <url>https://livetv.sx/es/eventinfo/314398621__/</url>
+  </evento>
+  <evento>
+    <nombre>Takuya Kumasaka – Ryan Peniston</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Matsuyama</competicion>
+    <fecha>4 de noviembre</fecha>
+    <hora>06:00</hora>
+    <url>https://livetv.sx/es/eventinfo/314398622__/</url>
+  </evento>
+  <evento>
+    <nombre>Sanhui Shin – Shunsuke Nakagawa</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Matsuyama</competicion>
+    <fecha>4 de noviembre</fecha>
+    <hora>06:00</hora>
+    <url>https://livetv.sx/es/eventinfo/314398623__/</url>
+  </evento>
+  <evento>
+    <nombre>Tajima / Isomura – Hermans / Bayldon</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Matsuyama. Doubles</competicion>
+    <fecha>4 de noviembre</fecha>
+    <hora>07:30</hora>
+    <url>https://livetv.sx/es/eventinfo/313536069__/</url>
   </evento>
   <evento>
     <nombre>Luka Mikrut – Eero Vasa</nombre>
@@ -11255,6 +11223,54 @@
     <fecha>4 de noviembre</fecha>
     <hora>17:10</hora>
     <url>https://livetv.sx/es/eventinfo/314103867_atp_challenger_knoxville/</url>
+  </evento>
+  <evento>
+    <nombre>Oliver Crawford – Marc-Andrea Huesler</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Matsuyama</competicion>
+    <fecha>5 de noviembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/314379321__/</url>
+  </evento>
+  <evento>
+    <nombre>Wang / Loof – Basing / Matsuda</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Matsuyama. Doubles</competicion>
+    <fecha>5 de noviembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/313536070__/</url>
+  </evento>
+  <evento>
+    <nombre>Shin / Matsuda – Goldhoff / Winegar</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Matsuyama. Doubles</competicion>
+    <fecha>5 de noviembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/313536071__/</url>
+  </evento>
+  <evento>
+    <nombre>Takahata / Honda – Shiraishi / Jones</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Matsuyama. Doubles</competicion>
+    <fecha>5 de noviembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/313536072__/</url>
+  </evento>
+  <evento>
+    <nombre>Veldheer / Nedunchezhiyan – Inui / Leong</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Matsuyama. Doubles</competicion>
+    <fecha>5 de noviembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/313536073__/</url>
+  </evento>
+  <evento>
+    <nombre>Reynolds / Watt – Kikuchi / Sueoka</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Matsuyama. Doubles</competicion>
+    <fecha>5 de noviembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/313536075__/</url>
   </evento>
   <evento>
     <nombre>ATP Challenger. Matsuyama</nombre>
