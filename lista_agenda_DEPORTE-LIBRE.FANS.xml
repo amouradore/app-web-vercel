@@ -582,6 +582,13 @@
       <url>/en-vivo-online/espn-2/embed3.php</url>
     </channel>
     <channel>
+      <name>ESPN Deportes</name>
+      <url>/en-vivo-online/espn-deportes/embed.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/espn-deportes/embed.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/espn-deportes/embed2.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/espn-deportes/embed3.php</url>
+    </channel>
+    <channel>
       <name>Fox Sports 1 Argentina</name>
       <url>/en-vivo-online/fox-sports/embed2.php</url>
     </channel>
