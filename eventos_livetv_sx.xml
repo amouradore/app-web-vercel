@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-11-06 06:38:07" total="1719">
+<eventos generado="2025-11-06 07:24:45" total="1719">
   <evento>
     <nombre>Korea Masters</nombre>
     <deporte>Fútbol</deporte>
@@ -39,14 +39,6 @@
     <fecha>6 de noviembre</fecha>
     <hora>06:30</hora>
     <url>https://livetv.sx/es/eventinfo/314674519_yasutaka_uchiyama_hugo_grenier/</url>
-  </evento>
-  <evento>
-    <nombre>Coleman Wong –  Tsung-Hao Huang</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Taipéi</competicion>
-    <fecha>6 de noviembre</fecha>
-    <hora>06:30</hora>
-    <url>https://livetv.sx/es/eventinfo/314941278_coleman_wong_tsung_hao_huang/</url>
   </evento>
   <evento>
     <nombre>Huesler / Johns –  Shin / Matsuda</nombre>
@@ -89,22 +81,6 @@
     <url>https://livetv.sx/es/eventinfo/315043213_nueva_zelanda_west_indies/</url>
   </evento>
   <evento>
-    <nombre>Jason Jung –  Yoshihito Nishioka</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Taipéi</competicion>
-    <fecha>6 de noviembre</fecha>
-    <hora>08:15</hora>
-    <url>https://livetv.sx/es/eventinfo/315005919_jason_jung_yoshihito_nishioka/</url>
-  </evento>
-  <evento>
-    <nombre>Basing / Matsuda –  Tajima / Isomura</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Doubles</competicion>
-    <fecha>6 de noviembre</fecha>
-    <hora>08:25</hora>
-    <url>https://livetv.sx/es/eventinfo/314974950_basing__matsuda_tajima__isomura/</url>
-  </evento>
-  <evento>
     <nombre>Campeonato Internacional | China</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Snooker</competicion>
@@ -117,8 +93,16 @@
     <deporte>Fútbol</deporte>
     <competicion>Australia. NBL</competicion>
     <fecha>6 de noviembre</fecha>
-    <hora>08:30</hora>
+    <hora>47:43</hora>
     <url>https://livetv.sx/es/eventinfo/310333516_nz_breakers_adelaide_36ers/</url>
+  </evento>
+  <evento>
+    <nombre>Basing / Matsuda –  Tajima / Isomura</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Doubles</competicion>
+    <fecha>6 de noviembre</fecha>
+    <hora>08:45</hora>
+    <url>https://livetv.sx/es/eventinfo/314974950_basing__matsuda_tajima__isomura/</url>
   </evento>
   <evento>
     <nombre>Abu Dhabi Championships</nombre>
@@ -137,11 +121,19 @@
     <url>https://livetv.sx/es/eventinfo/314463889_rally_japan/</url>
   </evento>
   <evento>
+    <nombre>Jason Jung –  Yoshihito Nishioka</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Taipéi</competicion>
+    <fecha>6 de noviembre</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/315005919_jason_jung_yoshihito_nishioka/</url>
+  </evento>
+  <evento>
     <nombre>Maxime Janvier –  Elias Ymer</nombre>
     <deporte>Fútbol</deporte>
     <competicion>ATP Challenger. Taipéi</competicion>
     <fecha>6 de noviembre</fecha>
-    <hora>09:30</hora>
+    <hora>09:15</hora>
     <url>https://livetv.sx/es/eventinfo/314941277_maxime_janvier_elias_ymer/</url>
   </evento>
   <evento>
@@ -159,6 +151,14 @@
     <fecha>6 de noviembre</fecha>
     <hora>09:45</hora>
     <url>https://livetv.sx/es/eventinfo/315026978_rojer__lammons_shimizu__imamura/</url>
+  </evento>
+  <evento>
+    <nombre>Copa de Rusia, Sochi</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Skeleton</competicion>
+    <fecha>6 de noviembre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/314952234_copa_de_rusia_sochi/</url>
   </evento>
   <evento>
     <nombre>Estrella Roja – Lille</nombre>
@@ -10977,27 +10977,27 @@
     <url>https://livetv.sx/es/eventinfo/314985412__/</url>
   </evento>
   <evento>
-    <nombre>Jason Jung – Yoshihito Nishioka</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Taipéi</competicion>
-    <fecha>6 de noviembre</fecha>
-    <hora>08:15</hora>
-    <url>https://livetv.sx/es/eventinfo/315005919__/</url>
-  </evento>
-  <evento>
     <nombre>Basing / Matsuda – Tajima / Isomura</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Matsuyama. Doubles</competicion>
     <fecha>6 de noviembre</fecha>
-    <hora>08:25</hora>
+    <hora>08:45</hora>
     <url>https://livetv.sx/es/eventinfo/314974950__/</url>
+  </evento>
+  <evento>
+    <nombre>Jason Jung – Yoshihito Nishioka</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Taipéi</competicion>
+    <fecha>6 de noviembre</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/315005919__/</url>
   </evento>
   <evento>
     <nombre>Maxime Janvier – Elias Ymer</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Taipéi</competicion>
     <fecha>6 de noviembre</fecha>
-    <hora>09:30</hora>
+    <hora>09:15</hora>
     <url>https://livetv.sx/es/eventinfo/314941277__/</url>
   </evento>
   <evento>
