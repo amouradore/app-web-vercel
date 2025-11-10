@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-11-10 10:30:32" total="1347">
+<eventos generado="2025-11-10 11:22:12" total="1352">
   <evento>
     <nombre>ATP Challenger. Kobe</nombre>
     <deporte>Fútbol</deporte>
@@ -15,14 +15,6 @@
     <fecha>10 de noviembre</fecha>
     <hora>09:40</hora>
     <url>https://livetv.sx/es/eventinfo/315948230_yuta_shimizu_yu_hsiou_hsu/</url>
-  </evento>
-  <evento>
-    <nombre>Sakhalinskie Akuly –  Mikhailov Academy</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rusia. MHL</competicion>
-    <fecha>10 de noviembre</fecha>
-    <hora>10:00</hora>
-    <url>https://livetv.sx/es/eventinfo/311907576_sakhalinskie_akuly_mikhailov_academy/</url>
   </evento>
   <evento>
     <nombre>Taifun –  JHC Dynamo Msk</nombre>
@@ -49,11 +41,19 @@
     <url>https://livetv.sx/es/eventinfo/315016102_emc_podolie_w_vorskla_w/</url>
   </evento>
   <evento>
+    <nombre>WTT Feeder Gdansk 2025</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>10 de noviembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/316730859_wtt_feeder_gdansk_2025/</url>
+  </evento>
+  <evento>
     <nombre>Changwon Sakers –  Jeonju Egis</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Corea del Sur. KBL</competicion>
     <fecha>10 de noviembre</fecha>
-    <hora>23:16</hora>
+    <hora>56:42</hora>
     <url>https://livetv.sx/es/eventinfo/311928412_changwon_sakers_jeonju_egis/</url>
   </evento>
   <evento>
@@ -101,7 +101,7 @@
     <deporte>Fútbol</deporte>
     <competicion>ATP Finals. Turin. Doubles</competicion>
     <fecha>10 de noviembre</fecha>
-    <hora>12:30</hora>
+    <hora>12:40</hora>
     <url>https://livetv.sx/es/eventinfo/316373365_arevalo_gonzalez__pavic_salisbury__skupski/</url>
   </evento>
   <evento>
@@ -109,24 +109,8 @@
     <deporte>Fútbol</deporte>
     <competicion>Clasificatoria</competicion>
     <fecha>10 de noviembre</fecha>
-    <hora>12:30</hora>
+    <hora>13:45</hora>
     <url>https://livetv.sx/es/eventinfo/316725238_robin_bertrand_liam_broady/</url>
-  </evento>
-  <evento>
-    <nombre>Arthur Bouquier –  Geoffrey Blancaneaux</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificatoria</competicion>
-    <fecha>10 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/316546048_arthur_bouquier_geoffrey_blancaneaux/</url>
-  </evento>
-  <evento>
-    <nombre>George Loffhagen –  Beibit Zhukayev</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificatoria</competicion>
-    <fecha>10 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/316546049_george_loffhagen_beibit_zhukayev/</url>
   </evento>
   <evento>
     <nombre>Sileks –  Shkupi</nombre>
@@ -153,12 +137,28 @@
     <url>https://livetv.sx/es/eventinfo/316362392_bate_r__s_dinamo_minsk_r__s/</url>
   </evento>
   <evento>
-    <nombre>Arthur Gea –  Vit Kopriva</nombre>
+    <nombre>Arthur Bouquier –  Geoffrey Blancaneaux</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Lyon 2</competicion>
+    <competicion>Clasificatoria</competicion>
     <fecha>10 de noviembre</fecha>
     <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/316725331_arthur_gea_vit_kopriva/</url>
+    <url>https://livetv.sx/es/eventinfo/316546048_arthur_bouquier_geoffrey_blancaneaux/</url>
+  </evento>
+  <evento>
+    <nombre>George Loffhagen –  Beibit Zhukayev</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificatoria</competicion>
+    <fecha>10 de noviembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/316546049_george_loffhagen_beibit_zhukayev/</url>
+  </evento>
+  <evento>
+    <nombre>Suiza Sub-17 –   México Sub-17</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa Mundial Sub-17</competicion>
+    <fecha>10 de noviembre</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/311940274__suiza_sub_17__m__xico_sub_17/</url>
   </evento>
   <evento>
     <nombre>Fakel – Spartak Kostroma</nombre>
@@ -2097,6 +2097,46 @@
     <url>https://livetv.sx/es/eventinfo/313595674__/</url>
   </evento>
   <evento>
+    <nombre>Croacia Sub-19 –  Gibraltar Sub-19</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificación para la Eurocopa Sub-19</competicion>
+    <fecha>15 de noviembre</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/313601889__/</url>
+  </evento>
+  <evento>
+    <nombre>Rusia – Chile</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso. Selecciones</competicion>
+    <fecha>15 de noviembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/313607786__/</url>
+  </evento>
+  <evento>
+    <nombre>Alhama (M) –  Madrid (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Mujeres. Primera División</competicion>
+    <fecha>15 de noviembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/313605235__/</url>
+  </evento>
+  <evento>
+    <nombre>Neptunas Klaipeda – Riteriai</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Lituania. A Lyga</competicion>
+    <fecha>15 de noviembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/316042887__/</url>
+  </evento>
+  <evento>
+    <nombre>Ucrania Sub-19 –  Montenegro Sub-19</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificación para la Eurocopa Sub-19</competicion>
+    <fecha>15 de noviembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/313608156__/</url>
+  </evento>
+  <evento>
     <nombre>Avangard – SKA</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -2175,14 +2215,6 @@
     <fecha>11 de noviembre</fecha>
     <hora>03:30</hora>
     <url>https://livetv.sx/es/eventinfo/312118567__/</url>
-  </evento>
-  <evento>
-    <nombre>Sakhalinskie Akuly – Mikhailov Academy</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. MHL</competicion>
-    <fecha>10 de noviembre</fecha>
-    <hora>10:00</hora>
-    <url>https://livetv.sx/es/eventinfo/311907576__/</url>
   </evento>
   <evento>
     <nombre>Taifun – JHC Dynamo Msk</nombre>
@@ -4905,6 +4937,14 @@
     <url>https://livetv.sx/es/eventinfo/313594838__/</url>
   </evento>
   <evento>
+    <nombre>Sibir – Dynamo Msk</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>15 de noviembre</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/313599512__/</url>
+  </evento>
+  <evento>
     <nombre>Twarde Pierniki – Stal Ostrow</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Polonia. PLK</competicion>
@@ -5119,6 +5159,14 @@
     <fecha>11 de noviembre</fecha>
     <hora>01:30</hora>
     <url>https://livetv.sx/es/eventinfo/312059208__/</url>
+  </evento>
+  <evento>
+    <nombre>Furman Paladins – Columbia Rams</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>11 de noviembre</fecha>
+    <hora>01:30</hora>
+    <url>https://livetv.sx/es/eventinfo/316731610__/</url>
   </evento>
   <evento>
     <nombre>Niagara Purple Eagles – Delaware Hornets</nombre>
@@ -8513,11 +8561,27 @@
     <url>https://livetv.sx/es/eventinfo/313595360__/</url>
   </evento>
   <evento>
+    <nombre>Yenisey – Uralmash</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Liga VTB United</competicion>
+    <fecha>15 de noviembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/313605074__/</url>
+  </evento>
+  <evento>
+    <nombre>Dnipro – Kharkivski Sokoly</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Ucrania. Superliga</competicion>
+    <fecha>15 de noviembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/313687507__/</url>
+  </evento>
+  <evento>
     <nombre>Arevalo Gonzalez / Pavic – Salisbury / Skupski</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Finals. Turin. Doubles</competicion>
     <fecha>10 de noviembre</fecha>
-    <hora>12:30</hora>
+    <hora>12:40</hora>
     <url>https://livetv.sx/es/eventinfo/316373365__/</url>
   </evento>
   <evento>
@@ -8553,11 +8617,19 @@
     <url>https://livetv.sx/es/eventinfo/315948230__/</url>
   </evento>
   <evento>
+    <nombre>Arthur Gea – Vit Kopriva</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Lyon 2</competicion>
+    <fecha>10 de noviembre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/316725331_arthur_gea_vit_kopriva/</url>
+  </evento>
+  <evento>
     <nombre>Benjamin Hassan – Tom Paris</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Lyon 2</competicion>
     <fecha>10 de noviembre</fecha>
-    <hora>14:00</hora>
+    <hora>15:30</hora>
     <url>https://livetv.sx/es/eventinfo/316725332_benjamin_hassan_tom_paris/</url>
   </evento>
   <evento>
@@ -8565,32 +8637,8 @@
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Lyon 2</competicion>
     <fecha>10 de noviembre</fecha>
-    <hora>14:00</hora>
+    <hora>15:30</hora>
     <url>https://livetv.sx/es/eventinfo/316725333_thiago_augustin_tirante_tomasz_berkieta/</url>
-  </evento>
-  <evento>
-    <nombre>Arthur Gea – Vit Kopriva</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Mujeres. Campeonato Asi?tico</competicion>
-    <fecha>10 de noviembre</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/316545170__/</url>
-  </evento>
-  <evento>
-    <nombre>Thiago Tirante – Tomasz Berkieta</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Mujeres. Campeonato Asi?tico</competicion>
-    <fecha>10 de noviembre</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/316545171__/</url>
-  </evento>
-  <evento>
-    <nombre>Benjamin Hassan – Tom Paris</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Mujeres. Campeonato Asi?tico</competicion>
-    <fecha>10 de noviembre</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/316545172__/</url>
   </evento>
   <evento>
     <nombre>Gauthier Onclin – Luca van Assche</nombre>
@@ -10119,14 +10167,6 @@
     <fecha>15 de noviembre</fecha>
     <hora>02:30</hora>
     <url>https://livetv.sx/es/eventinfo/313464868__/</url>
-  </evento>
-  <evento>
-    <nombre>WTT Feeder Gdansk 2025</nombre>
-    <deporte>Automovilismo</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>10 de noviembre</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/316730859_wtt_feeder_gdansk_2025/</url>
   </evento>
   <evento>
     <nombre>Ready – Drammen HK</nombre>
