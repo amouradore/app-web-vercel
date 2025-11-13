@@ -1,35 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-11-13 19:21:28" total="2016">
-  <evento>
-    <nombre>Vive Kielce –  Aalborg</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga de Campeones de la EHF</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>32:32</hora>
-    <url>https://livetv.sx/es/eventinfo/313030769_vive_kielce_aalborg/</url>
-  </evento>
-  <evento>
-    <nombre>Goeppingen –  Hamburgo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. Bundesliga</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>26:21</hora>
-    <url>https://livetv.sx/es/eventinfo/313029639_goeppingen_hamburgo/</url>
-  </evento>
-  <evento>
-    <nombre>Eisenach –  TVB Stuttgart</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. Bundesliga</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>21:18</hora>
-    <url>https://livetv.sx/es/eventinfo/313029640_eisenach_tvb_stuttgart/</url>
-  </evento>
+<eventos generado="2025-11-13 20:29:45" total="2004">
   <evento>
     <nombre>Fenerbahce –  Hapoel T-A</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Euroliga</competicion>
     <fecha>13 de noviembre</fecha>
-    <hora>09:11</hora>
+    <hora>56:46</hora>
     <url>https://livetv.sx/es/eventinfo/313029838_fenerbahce_hapoel_t_a/</url>
   </evento>
   <evento>
@@ -37,7 +13,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Euroliga</competicion>
     <fecha>13 de noviembre</fecha>
-    <hora>23:25</hora>
+    <hora>65:61</hora>
     <url>https://livetv.sx/es/eventinfo/313044527_estrella_roja_as_m__naco/</url>
   </evento>
   <evento>
@@ -57,12 +33,100 @@
     <url>https://livetv.sx/es/eventinfo/315051253_perugia_cuneo/</url>
   </evento>
   <evento>
-    <nombre>The ANNIKA</nombre>
+    <nombre>Real Madrid –  Panathinaikos</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>LPGA Tour</competicion>
+    <competicion>Euroliga</competicion>
     <fecha>13 de noviembre</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317638142_the_annika/</url>
+    <hora>38:52</hora>
+    <url>https://livetv.sx/es/eventinfo/313060217_real_madrid_panathinaikos/</url>
+  </evento>
+  <evento>
+    <nombre>Paris –  Valencia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Euroliga</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>27:34</hora>
+    <url>https://livetv.sx/es/eventinfo/313060218_paris_valencia/</url>
+  </evento>
+  <evento>
+    <nombre>Nantes –  Dinamo Bucuresti</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga de Campeones de la EHF</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>20:13</hora>
+    <url>https://livetv.sx/es/eventinfo/313061152_nantes_dinamo_bucuresti/</url>
+  </evento>
+  <evento>
+    <nombre>Barcelona –  Wisla Plock</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga de Campeones de la EHF</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>12:12</hora>
+    <url>https://livetv.sx/es/eventinfo/313061153_barcelona_wisla_plock/</url>
+  </evento>
+  <evento>
+    <nombre>Sporting –  Fuechse Berlin</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga de Campeones de la EHF</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>19:20</hora>
+    <url>https://livetv.sx/es/eventinfo/313061154_sporting_fuechse_berlin/</url>
+  </evento>
+  <evento>
+    <nombre>Moldavia –  Italia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificación. CM. Europa</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/313062185_moldavia_italia/</url>
+  </evento>
+  <evento>
+    <nombre>Irlanda –  Portugal</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificación. CM. Europa</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/313062186_irlanda_portugal/</url>
+  </evento>
+  <evento>
+    <nombre>Francia –  Ucrania</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificación. CM. Europa</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/313062187_francia_ucrania/</url>
+  </evento>
+  <evento>
+    <nombre>Inglaterra –  Serbia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificación. CM. Europa</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/313062188_inglaterra_serbia/</url>
+  </evento>
+  <evento>
+    <nombre>Andorra –  Albania</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificación. CM. Europa</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/313062189_andorra_albania/</url>
+  </evento>
+  <evento>
+    <nombre>Simulcast</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificación. CM. Europa</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/317174254_simulcast/</url>
+  </evento>
+  <evento>
+    <nombre>Maccabi T-A –  Baskonia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Euroliga</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>31:24</hora>
+    <url>https://livetv.sx/es/eventinfo/313052220_maccabi_t_a_baskonia/</url>
   </evento>
   <evento>
     <nombre>ATP Challenger. Drummondville</nombre>
@@ -71,222 +135,6 @@
     <fecha>13 de noviembre</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/316361036_atp_challenger_drummondville/</url>
-  </evento>
-  <evento>
-    <nombre>Gabi Adrian Boitan –  Andre Ilagan</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Drummondville</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/316872643_gabi_adrian_boitan_andre_ilagan/</url>
-  </evento>
-  <evento>
-    <nombre>James Kent Trotter –  Louis Wessels</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Drummondville</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/317429645_james_kent_trotter_louis_wessels/</url>
-  </evento>
-  <evento>
-    <nombre>Czarni Slupsk –  Stal Ostrow</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Polonia. PLK</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313017740_czarni_slupsk_stal_ostrow/</url>
-  </evento>
-  <evento>
-    <nombre>Targu Mures –  ACS Targu Jiu</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rumania. Liga Nationala</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/316790363_targu_mures_acs_targu_jiu/</url>
-  </evento>
-  <evento>
-    <nombre>Brno –  Opava</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>República Checa. NBL</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312657552_brno_opava/</url>
-  </evento>
-  <evento>
-    <nombre>Sibiu –  Galati</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rumania. Copa</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317318953_sibiu_galati/</url>
-  </evento>
-  <evento>
-    <nombre>Texas Aggies (M) –   Tarleton Texans (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. NCAA</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317658199__texas_aggies_m__tarleton_texans_m/</url>
-  </evento>
-  <evento>
-    <nombre>Auburn Tigers (M) –   Mississippi Delta Devilettes (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. NCAA</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317658201__auburn_tigers_m__mississippi_delta_devilettes_m/</url>
-  </evento>
-  <evento>
-    <nombre>HS Riga –  Prizma</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. LHL</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317067658_hs_riga_prizma/</url>
-  </evento>
-  <evento>
-    <nombre>Campeonato Mundial 2025</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Levantamiento de potencia</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/316747767_campeonato_mundial_2025/</url>
-  </evento>
-  <evento>
-    <nombre>Vilniaus Stekas –  Palangos Kursiai</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Lituania. NKL</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/316797386_vilniaus_stekas_palangos_kursiai/</url>
-  </evento>
-  <evento>
-    <nombre>Vilniaus Perlas –  Zalgiris 2</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Lituania. NKL</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/316797387_vilniaus_perlas_zalgiris_2/</url>
-  </evento>
-  <evento>
-    <nombre>Olimpas –  Silute</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Lituania. NKL</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/316797388_olimpas_silute/</url>
-  </evento>
-  <evento>
-    <nombre>Eslovaquia Sub-21 –   Kazajstán Sub-21</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificación para la Eurocopa Sub-21</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313018869__eslovaquia_sub_21__kazajst__n_sub_21/</url>
-  </evento>
-  <evento>
-    <nombre>Zlatibor –  Borac</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga del Adriático. Liga 2</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317527994_zlatibor_borac/</url>
-  </evento>
-  <evento>
-    <nombre>Raasiku/Mistra –  Tapa</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Estonia. Meistriliiga</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317580644_raasikumistra_tapa/</url>
-  </evento>
-  <evento>
-    <nombre>Noruega –  Estonia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificación. CM. Europa</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313017658_noruega_estonia/</url>
-  </evento>
-  <evento>
-    <nombre>Armenia –  Hungría</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificación. CM. Europa</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313017659_armenia_hungr__a/</url>
-  </evento>
-  <evento>
-    <nombre>Azerbaijan –  Islandia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificación. CM. Europa</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313017660_azerbaijan_islandia/</url>
-  </evento>
-  <evento>
-    <nombre>Simulcast</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificación. CM. Europa</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317174253_simulcast/</url>
-  </evento>
-  <evento>
-    <nombre>Bertanu Valmieras –  Gulbenes Buki</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317548310_bertanu_valmieras_gulbenes_buki/</url>
-  </evento>
-  <evento>
-    <nombre>Mostecti Lvi –  Pribram</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>República Checa. 2. Liga</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317614638_mostecti_lvi_pribram/</url>
-  </evento>
-  <evento>
-    <nombre>Macedonia del Norte –  Letonia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Partido amistoso. Selecciones</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313018454_macedonia_del_norte_letonia/</url>
-  </evento>
-  <evento>
-    <nombre>República Checa –  San Marino</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Partido amistoso. Selecciones</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313018455_rep__blica_checa_san_marino/</url>
-  </evento>
-  <evento>
-    <nombre>Lituania –  Israel</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Partido amistoso. Selecciones</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313018456_lituania_israel/</url>
-  </evento>
-  <evento>
-    <nombre>Vasas (M) –   Olympiacos (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Calificación</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317067130__vasas_m__olympiacos_m/</url>
-  </evento>
-  <evento>
-    <nombre>El Nino Praha –  Grodzisk Mazowiecki</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Republica Checa. Extraliga</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317658200_el_nino_praha_grodzisk_mazowiecki/</url>
   </evento>
   <evento>
     <nombre>Stefan Kozlov –  Tyler Zink</nombre>
@@ -343,54 +191,6 @@
     <fecha>13 de noviembre</fecha>
     <hora>19:15</hora>
     <url>https://livetv.sx/es/eventinfo/317413099_maks_kasnikowski_michael_mmoh/</url>
-  </evento>
-  <evento>
-    <nombre>Narvik –  Sparta</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Noruega. Eliteserien</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/313024554_narvik_sparta/</url>
-  </evento>
-  <evento>
-    <nombre>Loerenskog –  Frisk Asker</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Noruega. Eliteserien</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/313024555_loerenskog_frisk_asker/</url>
-  </evento>
-  <evento>
-    <nombre>Lillehammer –  Stjernen</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Noruega. Eliteserien</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/313024556_lillehammer_stjernen/</url>
-  </evento>
-  <evento>
-    <nombre>Ogre –  Jekabpils</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/317599806_ogre_jekabpils/</url>
-  </evento>
-  <evento>
-    <nombre>Salaspils (W) –  Jekabpils (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. Mujeres. Liga Premier</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/317596091_salaspils_w_jekabpils_w/</url>
-  </evento>
-  <evento>
-    <nombre>Ogre –  Jekabpils</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>61:88</hora>
-    <url>https://livetv.sx/es/eventinfo/317649714_ogre_jekabpils/</url>
   </evento>
   <evento>
     <nombre>Linkoeping –  Leksand</nombre>
@@ -465,6 +265,22 @@
     <url>https://livetv.sx/es/eventinfo/317675994_champion_of_champions/</url>
   </evento>
   <evento>
+    <nombre>Goeppingen –  Hamburgo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/313029639_goeppingen_hamburgo/</url>
+  </evento>
+  <evento>
+    <nombre>Eisenach –  TVB Stuttgart</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/313029640_eisenach_tvb_stuttgart/</url>
+  </evento>
+  <evento>
     <nombre>Stavanger –  Nidaros</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Noruega. Eliteserien</competicion>
@@ -477,7 +293,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. NCAA</competicion>
     <fecha>13 de noviembre</fecha>
-    <hora>64:35</hora>
+    <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/317669739__miami_redhawks_m__indiana_hoosiers_m/</url>
   </evento>
   <evento>
@@ -509,7 +325,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Letonia. NBL</competicion>
     <fecha>13 de noviembre</fecha>
-    <hora>78:49</hora>
+    <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/317554561_bauska_tukums/</url>
   </evento>
   <evento>
@@ -593,14 +409,6 @@
     <url>https://livetv.sx/es/eventinfo/313040287__luxemburgo_sub_21__islandia_sub_21/</url>
   </evento>
   <evento>
-    <nombre>Carlos Taberner –  Zdenek Kolar</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Montevideo</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/317146029_carlos_taberner_zdenek_kolar/</url>
-  </evento>
-  <evento>
     <nombre>Darwin Blanch –  Arda Azkara</nombre>
     <deporte>Fútbol</deporte>
     <competicion>ATP Challenger. Champaign</competicion>
@@ -637,7 +445,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Francia. LNB Pro B</competicion>
     <fecha>13 de noviembre</fecha>
-    <hora>20:21</hora>
+    <hora>56:56</hora>
     <url>https://livetv.sx/es/eventinfo/313047595_caen_aix_maurienne/</url>
   </evento>
   <evento>
@@ -645,7 +453,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Alemania. Copa BBL</competicion>
     <fecha>13 de noviembre</fecha>
-    <hora>17:15</hora>
+    <hora>50:42</hora>
     <url>https://livetv.sx/es/eventinfo/313044363_bamberg_heidelberg/</url>
   </evento>
   <evento>
@@ -661,7 +469,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Islandia. Urvalsdeild</competicion>
     <fecha>13 de noviembre</fecha>
-    <hora>21:00</hora>
+    <hora>28:33</hora>
     <url>https://livetv.sx/es/eventinfo/317236545_selfoss_haukar/</url>
   </evento>
   <evento>
@@ -709,16 +517,160 @@
     <deporte>Fútbol</deporte>
     <competicion>ATP Challenger. Drummondville</competicion>
     <fecha>13 de noviembre</fecha>
-    <hora>21:10</hora>
+    <hora>21:15</hora>
     <url>https://livetv.sx/es/eventinfo/317479259_daniel_milavsky_charles_broom/</url>
   </evento>
   <evento>
-    <nombre>Nigeria – Gabón</nombre>
+    <nombre>Dziki Varsovia –  Wilki Morskie</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. PLK</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>42:54</hora>
+    <url>https://livetv.sx/es/eventinfo/313054265_dziki_varsovia_wilki_morskie/</url>
+  </evento>
+  <evento>
+    <nombre>IR Reykjavik –  Grindavik</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Islandia. Urvalsdeild</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/317638273_ir_reykjavik_grindavik/</url>
+  </evento>
+  <evento>
+    <nombre>Keflavík –  Akraness</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Islandia. Urvalsdeild</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/317680596_keflavandiacute_k_akraness/</url>
+  </evento>
+  <evento>
+    <nombre>Stjarnan –  Armann</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Islandia. Urvalsdeild</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/317680597_stjarnan_armann/</url>
+  </evento>
+  <evento>
+    <nombre>Stjarnan –  IR Reykjavik</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Islandia. Urvalsdeild</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>18:17</hora>
+    <url>https://livetv.sx/es/eventinfo/317236546_stjarnan_ir_reykjavik/</url>
+  </evento>
+  <evento>
+    <nombre>HK Kopavogur –  Valur</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Islandia. Urvalsdeild</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/317281420_hk_kopavogur_valur/</url>
+  </evento>
+  <evento>
+    <nombre>Czarni Radom –  Anioly Torun</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. I Liga</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/317680707_czarni_radom_anioly_torun/</url>
+  </evento>
+  <evento>
+    <nombre>Bern (W) –  Blonay (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. Mujeres. NLB</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/317642997_bern_w_blonay_w/</url>
+  </evento>
+  <evento>
+    <nombre>Alleghe –  Appiano</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. IHL</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/310492580_alleghe_appiano/</url>
+  </evento>
+  <evento>
+    <nombre>Valdifiemme –  Feltreghiaccio</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. IHL</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/313052535_valdifiemme_feltreghiaccio/</url>
+  </evento>
+  <evento>
+    <nombre>Varese –  Aosta</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. IHL</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/313052536_varese_aosta/</url>
+  </evento>
+  <evento>
+    <nombre>Le Cannet (M) –   Janta (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Calificación</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/317050116__le_cannet_m__janta_m/</url>
+  </evento>
+  <evento>
+    <nombre>Liam Draxl –  Tristan McCormick</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Drummondville</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:35</hora>
+    <url>https://livetv.sx/es/eventinfo/317494194_liam_draxl_tristan_mccormick/</url>
+  </evento>
+  <evento>
+    <nombre>Carlos Taberner –  Zdenek Kolar</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Montevideo</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:40</hora>
+    <url>https://livetv.sx/es/eventinfo/317146029_carlos_taberner_zdenek_kolar/</url>
+  </evento>
+  <evento>
+    <nombre>Carlos Alcaraz –  Lorenzo Musetti</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Finals. Turín</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:40</hora>
+    <url>https://livetv.sx/es/eventinfo/316373355_carlos_alcaraz_lorenzo_musetti/</url>
+  </evento>
+  <evento>
+    <nombre>Irlanda del Norte Sub-21 –   Letonia Sub-21</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificación para la Eurocopa Sub-21</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/313063398__irlanda_del_norte_sub_21__letonia_sub_21/</url>
+  </evento>
+  <evento>
+    <nombre>Bélgica (M) –   Finlandia (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Calificación</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/317322057__b__lgica_m__finlandia_m/</url>
+  </evento>
+  <evento>
+    <nombre>Villanueva / Dutra da Silva –  Negritu / Merino</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Doubles</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/317396494_villanueva__dutra_da_silva_negritu__merino/</url>
+  </evento>
+  <evento>
+    <nombre>Camerún – RD Congo</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Clasificación. CM. África</competicion>
     <fecha>13 de noviembre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312980551__/</url>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/312980550__/</url>
   </evento>
   <evento>
     <nombre>Moldavia – Italia</nombre>
@@ -761,14 +713,6 @@
     <url>https://livetv.sx/es/eventinfo/313062189__/</url>
   </evento>
   <evento>
-    <nombre>Simulcast</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificación. CM. Europa</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>21:45</hora>
-    <url>https://livetv.sx/es/eventinfo/317174254_simulcast/</url>
-  </evento>
-  <evento>
     <nombre>Surinam – Salvador</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Clasificación. CM. Concacaf</competicion>
@@ -793,14 +737,6 @@
     <url>https://livetv.sx/es/eventinfo/313094285__/</url>
   </evento>
   <evento>
-    <nombre>Santos-SP (M) –  Palmeiras (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Mujeres. Campeonato Paulista</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317633364__/</url>
-  </evento>
-  <evento>
     <nombre>Luxemburgo Sub-21 –  Islandia Sub-21</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Clasificación para la Eurocopa Sub-21</competicion>
@@ -815,14 +751,6 @@
     <fecha>13 de noviembre</fecha>
     <hora>20:40</hora>
     <url>https://livetv.sx/es/eventinfo/317633246__/</url>
-  </evento>
-  <evento>
-    <nombre>Camerún – RD Congo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificación. CM. África</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/312980550__/</url>
   </evento>
   <evento>
     <nombre>Irlanda del Norte Sub-21 –  Letonia Sub-21</nombre>
@@ -4713,6 +4641,22 @@
     <url>https://livetv.sx/es/eventinfo/314718878__/</url>
   </evento>
   <evento>
+    <nombre>Jordania – Malí</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso. Selecciones</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/314718879__/</url>
+  </evento>
+  <evento>
+    <nombre>Benín – Burkina Faso</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso. Selecciones</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/315597520__/</url>
+  </evento>
+  <evento>
     <nombre>HV71 – Vaxjo</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. SHL</competicion>
@@ -4721,20 +4665,20 @@
     <url>https://livetv.sx/es/eventinfo/313033415__/</url>
   </evento>
   <evento>
-    <nombre>Rogle – Farjestad</nombre>
+    <nombre>Lulea – Djurgarden</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. SHL</competicion>
     <fecha>13 de noviembre</fecha>
     <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313033416__/</url>
+    <url>https://livetv.sx/es/eventinfo/313033418__/</url>
   </evento>
   <evento>
-    <nombre>Frolunda – Oerebro</nombre>
+    <nombre>Brynas – Malmoe</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. SHL</competicion>
     <fecha>13 de noviembre</fecha>
     <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313033420__/</url>
+    <url>https://livetv.sx/es/eventinfo/313033419__/</url>
   </evento>
   <evento>
     <nombre>Fischtown Pinguins – RB Múnich</nombre>
@@ -4793,38 +4737,6 @@
     <url>https://livetv.sx/es/eventinfo/313133511__/</url>
   </evento>
   <evento>
-    <nombre>HS Riga – Prizma</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Letonia. LHL</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317067658__/</url>
-  </evento>
-  <evento>
-    <nombre>Narvik – Sparta</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Noruega. Eliteserien</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/313024554__/</url>
-  </evento>
-  <evento>
-    <nombre>Loerenskog – Frisk Asker</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Noruega. Eliteserien</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/313024555__/</url>
-  </evento>
-  <evento>
-    <nombre>Lillehammer – Stjernen</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Noruega. Eliteserien</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/313024556__/</url>
-  </evento>
-  <evento>
     <nombre>Stavanger – Nidaros</nombre>
     <deporte>Hockey</deporte>
     <competicion>Noruega. Eliteserien</competicion>
@@ -4849,6 +4761,14 @@
     <url>https://livetv.sx/es/eventinfo/313033414__/</url>
   </evento>
   <evento>
+    <nombre>Rogle – Farjestad</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suecia. SHL</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/313033416__/</url>
+  </evento>
+  <evento>
     <nombre>Skelleftea – Timra</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. SHL</competicion>
@@ -4857,20 +4777,12 @@
     <url>https://livetv.sx/es/eventinfo/313033417__/</url>
   </evento>
   <evento>
-    <nombre>Lulea – Djurgarden</nombre>
+    <nombre>Frolunda – Oerebro</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. SHL</competicion>
     <fecha>13 de noviembre</fecha>
     <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313033418__/</url>
-  </evento>
-  <evento>
-    <nombre>Brynas – Malmoe</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. SHL</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313033419__/</url>
+    <url>https://livetv.sx/es/eventinfo/313033420__/</url>
   </evento>
   <evento>
     <nombre>Sisak – Unterland Cavaliers</nombre>
@@ -8561,14 +8473,6 @@
     <url>https://livetv.sx/es/eventinfo/313054265__/</url>
   </evento>
   <evento>
-    <nombre>IR Reykjavik – Grindavik</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Islandia. Urvalsdeild</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/317638273_ir_reykjavik_grindavik/</url>
-  </evento>
-  <evento>
     <nombre>Real Madrid – Panathinaikos</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Euroliga</competicion>
@@ -8601,84 +8505,12 @@
     <url>https://livetv.sx/es/eventinfo/313125487__/</url>
   </evento>
   <evento>
-    <nombre>Texas Aggies (M) –  Tarleton Texans (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Mujeres. NCAA</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317658199__/</url>
-  </evento>
-  <evento>
-    <nombre>Auburn Tigers (M) –  Mississippi Delta Devilettes (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Mujeres. NCAA</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317658201__/</url>
-  </evento>
-  <evento>
-    <nombre>Ogre – Jekabpils</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:45</hora>
-    <url>https://livetv.sx/es/eventinfo/317649714__/</url>
-  </evento>
-  <evento>
-    <nombre>Suecia (M) –  Lituania (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Mujer. Campeonato Europeo. Calificación</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317322056__/</url>
-  </evento>
-  <evento>
-    <nombre>Miami RedHawks (M) –  Indiana Hoosiers (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Mujeres. NCAA</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317669739__/</url>
-  </evento>
-  <evento>
-    <nombre>Bauska – Tukums</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317554561__/</url>
-  </evento>
-  <evento>
-    <nombre>Cinkarna Celje (M) – Domel Skofja Loka (W)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Eslovenia. Mujeres. 1. SKL</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/316790426_cinkarna_celje_w_domel_skofja_loka_w/</url>
-  </evento>
-  <evento>
     <nombre>Keflavík – Akraness</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Islandia. Urvalsdeild</competicion>
     <fecha>13 de noviembre</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/317680596_keflavik_akranes/</url>
-  </evento>
-  <evento>
-    <nombre>Stjarnan – Armann</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Islandia. Urvalsdeild</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/317680597_stjarnan_armann/</url>
-  </evento>
-  <evento>
-    <nombre>Bern (W) – Blonay (W)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Suiza. Mujeres. NLB</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/317642997_bern_w_blonay_w/</url>
   </evento>
   <evento>
     <nombre>Bélgica (M) –  Finlandia (M)</nombre>
@@ -8697,6 +8529,14 @@
     <url>https://livetv.sx/es/eventinfo/317653327_bahamas_w_suriname_w/</url>
   </evento>
   <evento>
+    <nombre>South Dakota Coyotes (M) –  Kansas Wildcats (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>14 de noviembre</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/317694219__/</url>
+  </evento>
+  <evento>
     <nombre>Bauru – Botafogo</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Brasil. NBB</competicion>
@@ -8711,6 +8551,14 @@
     <fecha>14 de noviembre</fecha>
     <hora>00:30</hora>
     <url>https://livetv.sx/es/eventinfo/313099703__/</url>
+  </evento>
+  <evento>
+    <nombre>South Florida Bulls (M) –  Fairfield Stags (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>14 de noviembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/317694220__/</url>
   </evento>
   <evento>
     <nombre>West Virginia Mountaineers – Pittsburgh Panthers</nombre>
@@ -8759,6 +8607,30 @@
     <fecha>14 de noviembre</fecha>
     <hora>02:00</hora>
     <url>https://livetv.sx/es/eventinfo/313125378__/</url>
+  </evento>
+  <evento>
+    <nombre>Maryland Terrapins (M) –  Towson Tigers (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>14 de noviembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/317694221__/</url>
+  </evento>
+  <evento>
+    <nombre>SMU Mustangs (M) –  Texas Tech Red Raiders (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>14 de noviembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/317694222__/</url>
+  </evento>
+  <evento>
+    <nombre>Belmont Bruins (M) –  Tennessee Volunteers (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>14 de noviembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/317694223__/</url>
   </evento>
   <evento>
     <nombre>Alabama Crimson Tide – Purdue Boilermakers</nombre>
@@ -8911,6 +8783,38 @@
     <fecha>14 de noviembre</fecha>
     <hora>03:10</hora>
     <url>https://livetv.sx/es/eventinfo/312372640__/</url>
+  </evento>
+  <evento>
+    <nombre>Drake Bulldogs (M) –  Iowa Hawkeyes (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>14 de noviembre</fecha>
+    <hora>03:30</hora>
+    <url>https://livetv.sx/es/eventinfo/317694224__/</url>
+  </evento>
+  <evento>
+    <nombre>Arizona Sun Devils (M) –  San Diego Toreros (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>14 de noviembre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/317694225__/</url>
+  </evento>
+  <evento>
+    <nombre>Colorado Rams (M) –  Gonzaga Bulldogs (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>14 de noviembre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/317694226__/</url>
+  </evento>
+  <evento>
+    <nombre>UCLA Bruins (M) –  North Carolina Tar Heels (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>14 de noviembre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/317694227__/</url>
   </evento>
   <evento>
     <nombre>Kansas Wildcats – California Golden Bears</nombre>
@@ -9233,6 +9137,14 @@
     <url>https://livetv.sx/es/eventinfo/313343038__/</url>
   </evento>
   <evento>
+    <nombre>Northwestern Demons – Ecclesia Royals</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>14 de noviembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/313362940__/</url>
+  </evento>
+  <evento>
     <nombre>Soedertalje – Jamtland</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Suecia. Basketligan</competicion>
@@ -9327,14 +9239,6 @@
     <fecha>14 de noviembre</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/313364429__/</url>
-  </evento>
-  <evento>
-    <nombre>Northwestern Demons – Ecclesia Royals</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>14 de noviembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313362940__/</url>
   </evento>
   <evento>
     <nombre>Slask Breslavia – Legia</nombre>
@@ -12497,14 +12401,6 @@
     <url>https://livetv.sx/es/eventinfo/314235443__/</url>
   </evento>
   <evento>
-    <nombre>South Dakota Coyotes – Western Michigan Broncos</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>16 de noviembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/314191770__/</url>
-  </evento>
-  <evento>
     <nombre>Glasspool / Cash – Granollers / Zeballos</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Finals. Turin. Doubles</competicion>
@@ -12517,7 +12413,7 @@
     <deporte>Tenis</deporte>
     <competicion>ATP Finals. Turín</competicion>
     <fecha>13 de noviembre</fecha>
-    <hora>21:30</hora>
+    <hora>21:40</hora>
     <url>https://livetv.sx/es/eventinfo/316373355__/</url>
   </evento>
   <evento>
@@ -12527,22 +12423,6 @@
     <fecha>14 de noviembre</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/317637991_australia_w_portugal_w/</url>
-  </evento>
-  <evento>
-    <nombre>James Kent Trotter – Louis Wessels</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Drummondville</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/317429645__/</url>
-  </evento>
-  <evento>
-    <nombre>Gabi Adrian Boitan – Andre Ilagan</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Drummondville</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/316872643__/</url>
   </evento>
   <evento>
     <nombre>Stefan Kozlov – Tyler Zink</nombre>
@@ -12577,22 +12457,6 @@
     <url>https://livetv.sx/es/eventinfo/317413099__/</url>
   </evento>
   <evento>
-    <nombre>Duncan Chan – Antoine Ghibaudo</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Drummondville</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>20:05</hora>
-    <url>https://livetv.sx/es/eventinfo/317348784__/</url>
-  </evento>
-  <evento>
-    <nombre>Carlos Taberner – Zdenek Kolar</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Montevideo</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/317146029__/</url>
-  </evento>
-  <evento>
     <nombre>Darwin Blanch – Arda Azkara</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Champaign</competicion>
@@ -12609,14 +12473,6 @@
     <url>https://livetv.sx/es/eventinfo/317479292__/</url>
   </evento>
   <evento>
-    <nombre>Daniel Milavsky – Charles Broom</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Drummondville</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>21:10</hora>
-    <url>https://livetv.sx/es/eventinfo/317479259__/</url>
-  </evento>
-  <evento>
     <nombre>Zamora / Fishback – Wallart / Genov</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Champaign. Doubles</competicion>
@@ -12625,12 +12481,28 @@
     <url>https://livetv.sx/es/eventinfo/317380022__/</url>
   </evento>
   <evento>
+    <nombre>Daniel Milavsky – Charles Broom</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Drummondville</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/317479259__/</url>
+  </evento>
+  <evento>
     <nombre>Liam Draxl – Tristan McCormick</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Drummondville</competicion>
     <fecha>13 de noviembre</fecha>
-    <hora>21:40</hora>
+    <hora>21:35</hora>
     <url>https://livetv.sx/es/eventinfo/317494194__/</url>
+  </evento>
+  <evento>
+    <nombre>Carlos Taberner – Zdenek Kolar</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Montevideo</competicion>
+    <fecha>13 de noviembre</fecha>
+    <hora>21:40</hora>
+    <url>https://livetv.sx/es/eventinfo/317146029__/</url>
   </evento>
   <evento>
     <nombre>Villanueva / Dutra da Silva – Negritu / Merino</nombre>
@@ -12645,7 +12517,7 @@
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Drummondville. Doubles</competicion>
     <fecha>13 de noviembre</fecha>
-    <hora>22:15</hora>
+    <hora>22:40</hora>
     <url>https://livetv.sx/es/eventinfo/316850204__/</url>
   </evento>
   <evento>
@@ -12684,8 +12556,8 @@
     <nombre>Milavsky / Bianchi – Wessels / Schell</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Drummondville. Doubles</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>23:45</hora>
+    <fecha>14 de noviembre</fecha>
+    <hora>00:10</hora>
     <url>https://livetv.sx/es/eventinfo/316093472__/</url>
   </evento>
   <evento>
@@ -12713,20 +12585,20 @@
     <url>https://livetv.sx/es/eventinfo/317175264__/</url>
   </evento>
   <evento>
-    <nombre>Ruehl / Zahraj – Aguilar / Boulais</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Drummondville. Doubles</competicion>
-    <fecha>14 de noviembre</fecha>
-    <hora>01:15</hora>
-    <url>https://livetv.sx/es/eventinfo/316093473__/</url>
-  </evento>
-  <evento>
     <nombre>Dan Martin – Keegan Rice</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Drummondville</competicion>
     <fecha>14 de noviembre</fecha>
     <hora>01:30</hora>
     <url>https://livetv.sx/es/eventinfo/316907518__/</url>
+  </evento>
+  <evento>
+    <nombre>Ruehl / Zahraj – Aguilar / Boulais</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Drummondville. Doubles</competicion>
+    <fecha>14 de noviembre</fecha>
+    <hora>01:40</hora>
+    <url>https://livetv.sx/es/eventinfo/316093473__/</url>
   </evento>
   <evento>
     <nombre>Jake Delaney – Hayato Matsuoka</nombre>
@@ -12745,20 +12617,20 @@
     <url>https://livetv.sx/es/eventinfo/317494243__/</url>
   </evento>
   <evento>
-    <nombre>McCormick /  Catry (M) – Harper / Thomson</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Drummondville. Doubles</competicion>
-    <fecha>14 de noviembre</fecha>
-    <hora>02:45</hora>
-    <url>https://livetv.sx/es/eventinfo/316093470__/</url>
-  </evento>
-  <evento>
     <nombre>Draxl / Muamba – Kingsley / Maginley</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Drummondville. Doubles</competicion>
     <fecha>14 de noviembre</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/316093471__/</url>
+  </evento>
+  <evento>
+    <nombre>McCormick /  Catry (M) – Harper / Thomson</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Drummondville. Doubles</competicion>
+    <fecha>14 de noviembre</fecha>
+    <hora>03:10</hora>
+    <url>https://livetv.sx/es/eventinfo/316093470__/</url>
   </evento>
   <evento>
     <nombre>ATP Challenger. Brisbane 3</nombre>
@@ -13153,28 +13025,12 @@
     <url>https://livetv.sx/es/eventinfo/313091936__/</url>
   </evento>
   <evento>
-    <nombre>Vasas (M) –  Olympiacos (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Liga de Campeones. Calificación</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/317067130__/</url>
-  </evento>
-  <evento>
     <nombre>Le Cannet (M) –  Janta (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Liga de Campeones. Calificación</competicion>
     <fecha>13 de noviembre</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/317050116__/</url>
-  </evento>
-  <evento>
-    <nombre>Czarni Radom – Anioly Torun</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Polonia. I Liga</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/317680707_czarni_radom_anioly_torun/</url>
   </evento>
   <evento>
     <nombre>Fluminense (M) –  Renasce Sorocaba (M)</nombre>
@@ -14183,30 +14039,6 @@
     <fecha>18 de noviembre</fecha>
     <hora>00:00</hora>
     <url>https://livetv.sx/es/eventinfo/316372279_traipu_passo_fundo/</url>
-  </evento>
-  <evento>
-    <nombre>Vive Kielce – Aalborg</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Liga de Campeones de la EHF</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>19:45</hora>
-    <url>https://livetv.sx/es/eventinfo/313030769__/</url>
-  </evento>
-  <evento>
-    <nombre>Goeppingen – Hamburgo</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Alemania. Bundesliga</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313029639__/</url>
-  </evento>
-  <evento>
-    <nombre>Eisenach – TVB Stuttgart</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Alemania. Bundesliga</competicion>
-    <fecha>13 de noviembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/313029640__/</url>
   </evento>
   <evento>
     <nombre>Nantes – Dinamo Bucuresti</nombre>
@@ -15823,6 +15655,78 @@
     <fecha>18 de noviembre</fecha>
     <hora>20:45</hora>
     <url>https://livetv.sx/es/eventinfo/314806170__/</url>
+  </evento>
+  <evento>
+    <nombre>Porto – Elverum</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Liga Europea EHF</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/314819804__/</url>
+  </evento>
+  <evento>
+    <nombre>Fram – Kriens-Luzern</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Liga Europea EHF</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/314819805__/</url>
+  </evento>
+  <evento>
+    <nombre>Fredericia – Tatran Presov</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Liga Europea EHF</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/314819806__/</url>
+  </evento>
+  <evento>
+    <nombre>Granollers – Slovan Modra</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Liga Europea EHF</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/314819807__/</url>
+  </evento>
+  <evento>
+    <nombre>Bidasoa Irun – Saint-Raphael</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Liga Europea EHF</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/314819808__/</url>
+  </evento>
+  <evento>
+    <nombre>Flensburgo – Potaissa Turda</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Liga Europea EHF</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/314819809__/</url>
+  </evento>
+  <evento>
+    <nombre>Ademar León – Partizan</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Liga Europea EHF</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/314819810__/</url>
+  </evento>
+  <evento>
+    <nombre>Toulouse – Sesvete</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Liga Europea EHF</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/314819811__/</url>
+  </evento>
+  <evento>
+    <nombre>Benfica – Karlskrona</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Liga Europea EHF</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/314819812__/</url>
   </evento>
   <evento>
     <nombre>Copa del Mundo Juvenil, Astaná</nombre>
