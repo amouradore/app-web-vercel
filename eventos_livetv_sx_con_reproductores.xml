@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2025-11-14 11:36:33" total="345">
+<eventos generado="2025-11-14 11:59:27" total="345">
   <evento id="1">
     <nombre>Magnolia Hotshots –  Blackwater Elite</nombre>
     <deporte>Fútbol</deporte>
@@ -8,14 +8,7 @@
     <hora>86:70</hora>
     <url>https://livetv.sx/es/eventinfo/313241836_magnolia_hotshots_blackwater_elite/</url>
     <datetime_iso>2025-11-14T00:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://dovkembed.pw/livetv/ex8732469</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2880123&amp;lang=es&amp;eid=313241836&amp;lid=2880123&amp;ci=825&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="2">
     <nombre>Mega –  Kavkasia</nombre>
@@ -450,7 +443,14 @@ player/live.php?id=243902&amp;w=700&amp;h=480</url>
     <hora>11:30</hora>
     <url>https://livetv.sx/es/eventinfo/317637992_eslovenia_m_paandiacute_ses_bajos_m/</url>
     <datetime_iso>2025-11-14T11:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/vyvdw9vUwxE?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=vyvdw9vUwxE&amp;lang=es&amp;eid=317637992&amp;lid=2880173&amp;ci=4&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="19">
     <nombre>Pakistán –  Sri Lanka</nombre>
@@ -494,7 +494,14 @@ player/live.php?id=243902&amp;w=700&amp;h=480</url>
     <hora>11:30</hora>
     <url>https://livetv.sx/es/eventinfo/317637992_slovenia_w_netherlands_w/</url>
     <datetime_iso>2025-11-14T11:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/vyvdw9vUwxE?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=vyvdw9vUwxE&amp;lang=es&amp;eid=317637992&amp;lid=2880173&amp;ci=4&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="22">
     <nombre>Copa del Mundo Juvenil, Astaná</nombre>
@@ -770,14 +777,7 @@ player/live.php?id=243902&amp;w=700&amp;h=480</url>
     <hora>12:00</hora>
     <url>https://livetv.sx/es/eventinfo/317294813_new_vision_georgians_dynamo_tb/</url>
     <datetime_iso>2025-11-14T12:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/qQzOXA1LQo8?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=qQzOXA1LQo8&amp;lang=es&amp;eid=317294813&amp;lid=2880140&amp;ci=5426&amp;si=12</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="37">
     <nombre>Japón –  Ghana</nombre>
@@ -1171,8 +1171,8 @@ player/live.php?id=243902&amp;w=700&amp;h=480</url>
     <streams total="1">
       <stream id="1">
         <url>https://dovkembed.pw/livetv/ex11368671</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2880117&amp;lang=es&amp;eid=317758412&amp;lid=2880117&amp;ci=8063&amp;si=4</enlace_original>
       </stream>
     </streams>
@@ -1202,7 +1202,45 @@ player/live.php?id=243902&amp;w=700&amp;h=480</url>
     <hora>14:30</hora>
     <url>https://livetv.sx/es/eventinfo/317095703__/</url>
     <datetime_iso>2025-11-14T14:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="6">
+      <stream id="1">
+        <url>https://dovkembed.pw/livetv/DirecTVSports[Argentina]</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/7.png</idioma>
+        <idioma_nombre>Francés</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2853444&amp;lang=es&amp;eid=317095703&amp;lid=2853444&amp;ci=978&amp;si=1</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://dovkembed.pw/livetv/ESPN3[Argentina]</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/7.png</idioma>
+        <idioma_nombre>Francés</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2859435&amp;lang=es&amp;eid=317095703&amp;lid=2859435&amp;ci=978&amp;si=1</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://emb.apl385.me/
+player/live.php?id=243686&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=243686&amp;lang=es&amp;eid=317095703&amp;lid=2879199&amp;ci=978&amp;si=1</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://oklips.xyz/foxsoccerplus.html</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2880038&amp;lang=es&amp;eid=317095703&amp;lid=2880038&amp;ci=978&amp;si=1</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://daddylive3.com/live/stream-140.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/15.png</idioma>
+        <idioma_nombre>Chino</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2879777&amp;lang=es&amp;eid=317095703&amp;lid=2879777&amp;ci=978&amp;si=1</enlace_original>
+      </stream>
+      <stream id="6">
+        <url>https://shd247.click/frame021.html</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2879281&amp;lang=es&amp;eid=317095703&amp;lid=2879281&amp;ci=978&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="62">
     <nombre>Hungría U17 – Estonia U17</nombre>
@@ -1232,7 +1270,20 @@ player/live.php?id=243902&amp;w=700&amp;h=480</url>
     <hora>14:30</hora>
     <url>https://livetv.sx/es/eventinfo/317733202__/</url>
     <datetime_iso>2025-11-14T14:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="2">
+      <stream id="1">
+        <url>https://daddylive3.com/live/stream-779.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/29.png</idioma>
+        <idioma_nombre>Croata</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2879829&amp;lang=es&amp;eid=317733202&amp;lid=2879829&amp;ci=2389&amp;si=1</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://dovkembed.pw/livetv/ex8905424</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2880032&amp;lang=es&amp;eid=317733202&amp;lid=2880032&amp;ci=2389&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="65">
     <nombre>República Checa Sub-20 –  Polonia Sub-20</nombre>
@@ -1242,7 +1293,14 @@ player/live.php?id=243902&amp;w=700&amp;h=480</url>
     <hora>14:30</hora>
     <url>https://livetv.sx/es/eventinfo/317466500__/</url>
     <datetime_iso>2025-11-14T14:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://dovkembed.pw/livetv/ex8931297</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2880031&amp;lang=es&amp;eid=317466500&amp;lid=2880031&amp;ci=5676&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="66">
     <nombre>Países Bajos Sub-17 –  Kazajstán Sub-17</nombre>
