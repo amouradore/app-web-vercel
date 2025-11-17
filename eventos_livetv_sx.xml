@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-11-17 06:39:28" total="1513">
+<eventos generado="2025-11-17 07:26:14" total="1520">
   <evento>
     <nombre>Campeonato Mundial 2025</nombre>
     <deporte>Fútbol</deporte>
@@ -23,22 +23,6 @@
     <fecha>17 de noviembre</fecha>
     <hora>03:10</hora>
     <url>https://livetv.sx/es/eventinfo/318424923_atp_challenger_yokohama/</url>
-  </evento>
-  <evento>
-    <nombre>Karan Singh –  Aryan Shah</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Sídney</competicion>
-    <fecha>17 de noviembre</fecha>
-    <hora>04:35</hora>
-    <url>https://livetv.sx/es/eventinfo/318217604_karan_singh_aryan_shah/</url>
-  </evento>
-  <evento>
-    <nombre>James McCabe –  Hiroki Moriya</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Sídney</competicion>
-    <fecha>17 de noviembre</fecha>
-    <hora>04:40</hora>
-    <url>https://livetv.sx/es/eventinfo/318217605_james_mccabe_hiroki_moriya/</url>
   </evento>
   <evento>
     <nombre>Rio Noguchi –  Tai Sach</nombre>
@@ -159,6 +143,22 @@
     <fecha>17 de noviembre</fecha>
     <hora>11:10</hora>
     <url>https://livetv.sx/es/eventinfo/318738963_peter_fajta_matteo_fondriest/</url>
+  </evento>
+  <evento>
+    <nombre>ATP Challenger. Bérgamo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Bérgamo</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>11:10</hora>
+    <url>https://livetv.sx/es/eventinfo/318404757_atp_challenger_band233_rgamo/</url>
+  </evento>
+  <evento>
+    <nombre>Copa del Mundo 2025</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa del Mundo</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318881017_copa_del_mundo_2025/</url>
   </evento>
   <evento>
     <nombre>Cultural Leonesa – Málaga</nombre>
@@ -2615,6 +2615,14 @@
     <fecha>22 de noviembre</fecha>
     <hora>08:00</hora>
     <url>https://livetv.sx/es/eventinfo/315861384__/</url>
+  </evento>
+  <evento>
+    <nombre>Don Bosco Garelli – Stallion Laguna</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Filipinas. PFL</competicion>
+    <fecha>22 de noviembre</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/315879407__/</url>
   </evento>
   <evento>
     <nombre>Sibir – Kunlun RS</nombre>
@@ -5535,6 +5543,14 @@
     <fecha>17 de noviembre</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/316794783_mersin_w_turgutlu_w/</url>
+  </evento>
+  <evento>
+    <nombre>Hungría (M) –  Rusia (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujeres. Partido amistoso. Selecciones</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318892625__/</url>
   </evento>
   <evento>
     <nombre>Cedevita Olimpija – Estrella Roja</nombre>
@@ -10465,6 +10481,14 @@
     <url>https://livetv.sx/es/eventinfo/318572032_atp_challenger_florianopolis/</url>
   </evento>
   <evento>
+    <nombre>Francia – Bélgica</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Copa Davis</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318896221_france_belgium/</url>
+  </evento>
+  <evento>
     <nombre>Tristan McCormick – Luciano Emanuel Ambrogi</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Guayaquil</competicion>
@@ -10713,6 +10737,14 @@
     <url>https://livetv.sx/es/eventinfo/318572033_atp_challenger_florianopolis/</url>
   </evento>
   <evento>
+    <nombre>Italia – Austria</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Copa Davis</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318896222_italy_austria/</url>
+  </evento>
+  <evento>
     <nombre>ATP Challenger. Guayaquil</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Guayaquil</competicion>
@@ -10737,6 +10769,14 @@
     <url>https://livetv.sx/es/eventinfo/318424926_atp_challenger_yokohama/</url>
   </evento>
   <evento>
+    <nombre>España – República Checa</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Copa Davis</competicion>
+    <fecha>20 de noviembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318896223_spain_czech_republic/</url>
+  </evento>
+  <evento>
     <nombre>ATP Challenger. Bérgamo</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Bérgamo</competicion>
@@ -10759,6 +10799,14 @@
     <fecha>20 de noviembre</fecha>
     <hora>16:10</hora>
     <url>https://livetv.sx/es/eventinfo/318572034_atp_challenger_florianopolis/</url>
+  </evento>
+  <evento>
+    <nombre>Argentina – Alemania</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Copa Davis</competicion>
+    <fecha>20 de noviembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318896224_argentina_germany/</url>
   </evento>
   <evento>
     <nombre>ATP Challenger. Guayaquil</nombre>
@@ -11359,6 +11407,14 @@
     <fecha>22 de noviembre</fecha>
     <hora>07:00</hora>
     <url>https://livetv.sx/es/eventinfo/318599991_burevestnik_2_aktobe_2/</url>
+  </evento>
+  <evento>
+    <nombre>Zhetysu-2 – Atyrau-2</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga U21</competicion>
+    <fecha>22 de noviembre</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318599996_zhetysu_2_atyrau_2/</url>
   </evento>
   <evento>
     <nombre>Gran Premio de Estados UnidosGran Premio de Estado</nombre>
