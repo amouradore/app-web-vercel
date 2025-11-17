@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-11-17 05:27:06" total="1480">
+<eventos generado="2025-11-17 06:39:28" total="1513">
   <evento>
     <nombre>Campeonato Mundial 2025</nombre>
     <deporte>Fútbol</deporte>
@@ -41,28 +41,12 @@
     <url>https://livetv.sx/es/eventinfo/318217605_james_mccabe_hiroki_moriya/</url>
   </evento>
   <evento>
-    <nombre>Naoki Nakagawa –  Jumpei Yamasaki</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificatoria</competicion>
-    <fecha>17 de noviembre</fecha>
-    <hora>05:10</hora>
-    <url>https://livetv.sx/es/eventinfo/318571667_naoki_nakagawa_jumpei_yamasaki/</url>
-  </evento>
-  <evento>
     <nombre>Rio Noguchi –  Tai Sach</nombre>
     <deporte>Fútbol</deporte>
     <competicion>ATP Challenger. Sídney</competicion>
     <fecha>17 de noviembre</fecha>
     <hora>05:20</hora>
     <url>https://livetv.sx/es/eventinfo/318217607_rio_noguchi_tai_sach/</url>
-  </evento>
-  <evento>
-    <nombre>California (W) –  Harvard (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. NCAA</competicion>
-    <fecha>17 de noviembre</fecha>
-    <hora>05:30</hora>
-    <url>https://livetv.sx/es/eventinfo/318710399_california_w_harvard_w/</url>
   </evento>
   <evento>
     <nombre>India –  Sudáfrica</nombre>
@@ -97,11 +81,19 @@
     <url>https://livetv.sx/es/eventinfo/318217594_yuta_shimizu_yusuke_takahashi/</url>
   </evento>
   <evento>
+    <nombre>AiRom (W) –  Shymkent (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Vysheyshaya Liga</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>07:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318881176_airom_w_shymkent_w/</url>
+  </evento>
+  <evento>
     <nombre>Aktobe-2 –  Ushkyn-Kokshetau-2</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Vysheyshaya Liga U21</competicion>
     <fecha>17 de noviembre</fecha>
-    <hora>08:00</hora>
+    <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/318599987_aktobe_2_ushkyn_kokshetau_2/</url>
   </evento>
   <evento>
@@ -119,6 +111,14 @@
     <fecha>17 de noviembre</fecha>
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/317619056_irtysh_pavlodar_bars_petropavlovsk/</url>
+  </evento>
+  <evento>
+    <nombre>Tigers-ENU (W) –  Karaganda (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Vysheyshaya Liga</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318881281_tigers_enu_w_karaganda_w/</url>
   </evento>
   <evento>
     <nombre>Amurskie Tigry –  Taifun</nombre>
@@ -329,6 +329,14 @@
     <url>https://livetv.sx/es/eventinfo/316743217_netherlands_u18_germany_u18/</url>
   </evento>
   <evento>
+    <nombre>Dinamo Minsk-2 – Niva Dolbizno</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bielorrusia. 1 Liga</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318881122_dinamo_minsk_2_niva_dolbizno/</url>
+  </evento>
+  <evento>
     <nombre>Madagascar – Guinea Ecuatorial</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Partido amistoso. Selecciones</competicion>
@@ -351,6 +359,14 @@
     <fecha>17 de noviembre</fecha>
     <hora>16:30</hora>
     <url>https://livetv.sx/es/eventinfo/314452546__/</url>
+  </evento>
+  <evento>
+    <nombre>Dnepr Mogilev – Orsha</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bielorrusia. 1 Liga</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318881123_dnepr_mogilev_orsha/</url>
   </evento>
   <evento>
     <nombre>Egipto – Algeria</nombre>
@@ -2591,6 +2607,14 @@
     <fecha>22 de noviembre</fecha>
     <hora>07:00</hora>
     <url>https://livetv.sx/es/eventinfo/318593937__/</url>
+  </evento>
+  <evento>
+    <nombre>Western Sídney – Central Coast Mariners</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. A-League</competicion>
+    <fecha>22 de noviembre</fecha>
+    <hora>08:00</hora>
+    <url>https://livetv.sx/es/eventinfo/315861384__/</url>
   </evento>
   <evento>
     <nombre>Sibir – Kunlun RS</nombre>
@@ -5361,6 +5385,14 @@
     <url>https://livetv.sx/es/eventinfo/315829415__/</url>
   </evento>
   <evento>
+    <nombre>Metallurg Nk – Neftyanik</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>22 de noviembre</fecha>
+    <hora>08:00</hora>
+    <url>https://livetv.sx/es/eventinfo/315864579__/</url>
+  </evento>
+  <evento>
     <nombre>Igokea – Partizan</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Liga del Adriático</competicion>
@@ -5441,12 +5473,28 @@
     <url>https://livetv.sx/es/eventinfo/314580319__/</url>
   </evento>
   <evento>
+    <nombre>Aktobe (W) – Zhetysu (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Kazajistán. Mujeres. Vysheyshaya Liga</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318881282_aktobe_w_zhetysu_w/</url>
+  </evento>
+  <evento>
     <nombre>Karaganda – Astana Tigers</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Kazajistán. Vysheyshaya Liga</competicion>
     <fecha>17 de noviembre</fecha>
     <hora>12:30</hora>
     <url>https://livetv.sx/es/eventinfo/317619057_karaganda_astana_tigers/</url>
+  </evento>
+  <evento>
+    <nombre>Barsy Atyrau (W) – Tomiris (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Kazajistán. Mujeres. Vysheyshaya Liga</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318881283_barsy_atyrau_w_tomiris_w/</url>
   </evento>
   <evento>
     <nombre>Split (W) – Plamen Pozega (W)</nombre>
@@ -5583,6 +5631,14 @@
     <fecha>17 de noviembre</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/314501410__/</url>
+  </evento>
+  <evento>
+    <nombre>Sabios de Manizales – Motilones del Norte</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Colombia. LBP</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>00:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318880908_sabios_de_manizales_motilones_del_norte/</url>
   </evento>
   <evento>
     <nombre>Uniao Corinthians – Caxias do Sul</nombre>
@@ -9217,6 +9273,14 @@
     <url>https://livetv.sx/es/eventinfo/315829134__/</url>
   </evento>
   <evento>
+    <nombre>Cairns Taipans – NZ Breakers</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Australia. NBL</competicion>
+    <fecha>22 de noviembre</fecha>
+    <hora>08:30</hora>
+    <url>https://livetv.sx/es/eventinfo/315868493__/</url>
+  </evento>
+  <evento>
     <nombre>ATP Challenger. Sídney</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Sídney</competicion>
@@ -9433,6 +9497,14 @@
     <url>https://livetv.sx/es/eventinfo/318744100_alexey_vatutin_andrea_guerrieri/</url>
   </evento>
   <evento>
+    <nombre>Federico Zeballos – Johannes Ingildsen</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Florianopolis. Clasificatoria</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318880852_federico_zeballos_johannes_ingildsen/</url>
+  </evento>
+  <evento>
     <nombre>Michael Bassem Sobhy – Mirza Basic</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger</competicion>
@@ -9465,12 +9537,52 @@
     <url>https://livetv.sx/es/eventinfo/318744093_jefferson_wendler_filho_nicolas_zanellato/</url>
   </evento>
   <evento>
+    <nombre>Arklon Huertas Del Pino Cordova – Nicolas Garcia Longo</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Guayaquil. Clasificatoria</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318880846_arklon_huertas_del_pino_cordova_nicolas_garcia_longo/</url>
+  </evento>
+  <evento>
+    <nombre>Luis David Martinez – Gabriel Schenekenberg</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Guayaquil. Clasificatoria</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318880847_luis_david_martinez_gabriel_schenekenberg/</url>
+  </evento>
+  <evento>
+    <nombre>Salvador Price – Enzo Camargo Lima</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Guayaquil. Clasificatoria</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318880848_salvador_price_enzo_camargo_lima/</url>
+  </evento>
+  <evento>
     <nombre>ATP Challenger. Florianopolis</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Florianopolis</competicion>
     <fecha>17 de noviembre</fecha>
     <hora>16:10</hora>
     <url>https://livetv.sx/es/eventinfo/318572031_atp_challenger_florianopolis/</url>
+  </evento>
+  <evento>
+    <nombre>Orlando Luz – Natan Rodrigues</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Florianopolis. Clasificatoria</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318880853_orlando_luz_natan_rodrigues/</url>
+  </evento>
+  <evento>
+    <nombre>Carlos Maria Zarate – Franco Ribero</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Florianopolis. Clasificatoria</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318880854_carlos_maria_zarate_franco_ribero/</url>
   </evento>
   <evento>
     <nombre>Mika Brunold – Beibit Zhukayev</nombre>
@@ -9503,6 +9615,30 @@
     <fecha>17 de noviembre</fecha>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/318744094_wilson_leite_valentin_basel/</url>
+  </evento>
+  <evento>
+    <nombre>Juan Carlos Manuel Aguilar – Tomas Martinez</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Guayaquil. Clasificatoria</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318880849_juan_carlos_manuel_aguilar_tomas_martinez/</url>
+  </evento>
+  <evento>
+    <nombre>Lucio Ratti – Victor Hugo Remondy Pagotto</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Guayaquil. Clasificatoria</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318880850_lucio_ratti_victor_hugo_remondy_pagotto/</url>
+  </evento>
+  <evento>
+    <nombre>Justin Roberts – Federico Aguilar Cardozo</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Guayaquil. Clasificatoria</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318880851_justin_roberts_federico_aguilar_cardozo/</url>
   </evento>
   <evento>
     <nombre>Daniel Merida Aguilar – Alberto Garcia Garcia</nombre>
@@ -9681,38 +9817,6 @@
     <url>https://livetv.sx/es/eventinfo/318494580__/</url>
   </evento>
   <evento>
-    <nombre>Cruz Hewitt – Omar Jasika</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Sídney</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318217606__/</url>
-  </evento>
-  <evento>
-    <nombre>Takuya Kumasaka – Alex Bolt</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Sídney</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318217608__/</url>
-  </evento>
-  <evento>
-    <nombre>Hayden Jones – Marek Gengel</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Sídney</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318217609__/</url>
-  </evento>
-  <evento>
-    <nombre>Jason Kubler – Li  Tu</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Sídney</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318217610__/</url>
-  </evento>
-  <evento>
     <nombre>Christian Langmo – Dane Sweeny</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Sídney</competicion>
@@ -9745,84 +9849,28 @@
     <url>https://livetv.sx/es/eventinfo/318417345_atp_challenger_sydney/</url>
   </evento>
   <evento>
-    <nombre>James McCabe – Karan Singh</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Sídney</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318865591__/</url>
-  </evento>
-  <evento>
-    <nombre>Kubler / Delaney – Peliwo / Sach</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Sídney. Doubles</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318553592__/</url>
-  </evento>
-  <evento>
-    <nombre>Polmans / Hijikata – Rai / Bass</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Sídney. Doubles</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318553593__/</url>
-  </evento>
-  <evento>
-    <nombre>Delaney / Cook – Walkin / Bayldon</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Sídney. Doubles</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318553594__/</url>
-  </evento>
-  <evento>
-    <nombre>Chandrasekar / Stalder – Tung-Lin / Kumasaka</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Sídney. Doubles</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318553595__/</url>
-  </evento>
-  <evento>
-    <nombre>Hazawa / Vithoontien – Noguchi / Tajima</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Sídney. Doubles</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318553596__/</url>
-  </evento>
-  <evento>
-    <nombre>Gengel / Hudd – Ellis / Charlton</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Sídney. Doubles</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318553597__/</url>
-  </evento>
-  <evento>
-    <nombre>Puttergill / Sweeny – Pearson / Hulme</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Sídney. Doubles</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318553598__/</url>
-  </evento>
-  <evento>
-    <nombre>Jones / Marinkov – Hewitt / Hewitt</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Sídney. Doubles</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318553599__/</url>
-  </evento>
-  <evento>
     <nombre>Ryan Dickerson – Murkel Dellien</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Guayaquil</competicion>
     <fecha>18 de noviembre</fecha>
     <hora>02:15</hora>
     <url>https://livetv.sx/es/eventinfo/318800583__/</url>
+  </evento>
+  <evento>
+    <nombre>Hayato Matsuoka – Bernard Tomic</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318886581__/</url>
+  </evento>
+  <evento>
+    <nombre>Wu Tung-Lin – Marc Polmans</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318886582__/</url>
   </evento>
   <evento>
     <nombre>Kasidit Samrej – Rei Sakamoto</nombre>
@@ -9833,38 +9881,6 @@
     <url>https://livetv.sx/es/eventinfo/318217590__/</url>
   </evento>
   <evento>
-    <nombre>Kaylan Bigun – Elias Ymer</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Yokohama</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318217592__/</url>
-  </evento>
-  <evento>
-    <nombre>Neil Oberleitner – Yu Hsiou Hsu</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Yokohama</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318217595__/</url>
-  </evento>
-  <evento>
-    <nombre>Max Basing – Hikaru Shiraishi</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Yokohama</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318217596__/</url>
-  </evento>
-  <evento>
-    <nombre>Chung Hyeon – Kaichi Uchida</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Yokohama</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318217597__/</url>
-  </evento>
-  <evento>
     <nombre>Jones Lennon Roark – Sanhui Shin</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Yokohama</competicion>
@@ -9873,52 +9889,12 @@
     <url>https://livetv.sx/es/eventinfo/318217598__/</url>
   </evento>
   <evento>
-    <nombre>Kaliyanda Poonacha / Isaro – Vrbensky / Oberleitner</nombre>
+    <nombre>Kokoro Isomura – Yusuke Kusuhara</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Yokohama. Doubles</competicion>
+    <competicion>ATP Challenger. Yokohama</competicion>
     <fecha>18 de noviembre</fecha>
     <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318578417__/</url>
-  </evento>
-  <evento>
-    <nombre>Santillan / Ho – Kusuhara / Nakagawa</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Yokohama. Doubles</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318578418__/</url>
-  </evento>
-  <evento>
-    <nombre>Veldheer / Hermans – Watanabe / Uesugi</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Yokohama. Doubles</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318578419__/</url>
-  </evento>
-  <evento>
-    <nombre>Hsiou Hsu / Huang – Shimizu / Isomura</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Yokohama. Doubles</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318578420__/</url>
-  </evento>
-  <evento>
-    <nombre>Ji-sung / Yuzuki – Park / Nedunchezhiyan</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Yokohama. Doubles</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318578421__/</url>
-  </evento>
-  <evento>
-    <nombre>Rojer / Lammons – Goldhoff / Winegar</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Yokohama. Doubles</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318578422__/</url>
+    <url>https://livetv.sx/es/eventinfo/318886549__/</url>
   </evento>
   <evento>
     <nombre>ATP Challenger. Yokohama</nombre>
@@ -9927,6 +9903,142 @@
     <fecha>18 de noviembre</fecha>
     <hora>03:10</hora>
     <url>https://livetv.sx/es/eventinfo/318424924_atp_challenger_yokohama/</url>
+  </evento>
+  <evento>
+    <nombre>Cruz Hewitt – Omar Jasika</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318217606__/</url>
+  </evento>
+  <evento>
+    <nombre>Blaise Bicknell – Rinky Hijikata</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318886583__/</url>
+  </evento>
+  <evento>
+    <nombre>Blake Ellis – Shinji Hazawa</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318886584__/</url>
+  </evento>
+  <evento>
+    <nombre>Kaylan Bigun – Elias Ymer</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokohama</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>04:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318217592__/</url>
+  </evento>
+  <evento>
+    <nombre>Kei Nishikori – Taisei Ichikawa</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokohama</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>04:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318886552__/</url>
+  </evento>
+  <evento>
+    <nombre>Woobin Shin – Michael Vrbensky</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokohama</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>04:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318886554__/</url>
+  </evento>
+  <evento>
+    <nombre>Jason Kubler – Li  Tu</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>05:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318217610__/</url>
+  </evento>
+  <evento>
+    <nombre>Philip Sekulic – Emile Hudd</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>05:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318886586__/</url>
+  </evento>
+  <evento>
+    <nombre>Neil Oberleitner – Yu Hsiou Hsu</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokohama</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>06:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318217595__/</url>
+  </evento>
+  <evento>
+    <nombre>Chung Hyeon – Kaichi Uchida</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokohama</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>06:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318217597__/</url>
+  </evento>
+  <evento>
+    <nombre>Maximus Jones – Ryotaro Taguchi</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokohama</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>06:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318886556__/</url>
+  </evento>
+  <evento>
+    <nombre>Takuya Kumasaka – Alex Bolt</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>07:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318217608__/</url>
+  </evento>
+  <evento>
+    <nombre>Hayden Jones – Marek Gengel</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>07:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318217609__/</url>
+  </evento>
+  <evento>
+    <nombre>Hazawa / Vithoontien – Noguchi / Tajima</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney. Doubles</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>07:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318553596__/</url>
+  </evento>
+  <evento>
+    <nombre>Max Basing – Hikaru Shiraishi</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokohama</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>07:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318217596__/</url>
+  </evento>
+  <evento>
+    <nombre>Jumpei Yamasaki – Yuki Mochizuki</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokohama</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>07:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318886558__/</url>
+  </evento>
+  <evento>
+    <nombre>Oliver Crawford – Igor Marcondes</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokohama</competicion>
+    <fecha>18 de noviembre</fecha>
+    <hora>07:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318886559__/</url>
   </evento>
   <evento>
     <nombre>Sabanov / Sabanov – Martos Gornes / Vega Hernández</nombre>
@@ -10449,12 +10561,124 @@
     <url>https://livetv.sx/es/eventinfo/318572026_atp_challenger_guayaquil/</url>
   </evento>
   <evento>
+    <nombre>James McCabe – Karan Singh</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318865591__/</url>
+  </evento>
+  <evento>
+    <nombre>Kubler / Delaney – Peliwo / Sach</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney. Doubles</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318553592__/</url>
+  </evento>
+  <evento>
+    <nombre>Polmans / Hijikata – Rai / Bass</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney. Doubles</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318553593__/</url>
+  </evento>
+  <evento>
+    <nombre>Delaney / Cook – Walkin / Bayldon</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney. Doubles</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318553594__/</url>
+  </evento>
+  <evento>
+    <nombre>Chandrasekar / Stalder – Tung-Lin / Kumasaka</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney. Doubles</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318553595__/</url>
+  </evento>
+  <evento>
+    <nombre>Gengel / Hudd – Ellis / Charlton</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney. Doubles</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318553597__/</url>
+  </evento>
+  <evento>
+    <nombre>Puttergill / Sweeny – Pearson / Hulme</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney. Doubles</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318553598__/</url>
+  </evento>
+  <evento>
+    <nombre>Jones / Marinkov – Hewitt / Hewitt</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Sídney. Doubles</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318553599__/</url>
+  </evento>
+  <evento>
     <nombre>ATP Challenger. Sídney</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Sídney</competicion>
     <fecha>19 de noviembre</fecha>
     <hora>01:10</hora>
     <url>https://livetv.sx/es/eventinfo/318417346_atp_challenger_sydney/</url>
+  </evento>
+  <evento>
+    <nombre>Kaliyanda Poonacha / Isaro – Vrbensky / Oberleitner</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokohama. Doubles</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318578417__/</url>
+  </evento>
+  <evento>
+    <nombre>Santillan / Ho – Kusuhara / Nakagawa</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokohama. Doubles</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318578418__/</url>
+  </evento>
+  <evento>
+    <nombre>Veldheer / Hermans – Watanabe / Uesugi</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokohama. Doubles</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318578419__/</url>
+  </evento>
+  <evento>
+    <nombre>Hsiou Hsu / Huang – Shimizu / Isomura</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokohama. Doubles</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318578420__/</url>
+  </evento>
+  <evento>
+    <nombre>Ji-sung / Yuzuki – Park / Nedunchezhiyan</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokohama. Doubles</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318578421__/</url>
+  </evento>
+  <evento>
+    <nombre>Rojer / Lammons – Goldhoff / Winegar</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokohama. Doubles</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318578422__/</url>
   </evento>
   <evento>
     <nombre>ATP Challenger. Yokohama</nombre>
@@ -11137,6 +11361,38 @@
     <url>https://livetv.sx/es/eventinfo/318599991_burevestnik_2_aktobe_2/</url>
   </evento>
   <evento>
+    <nombre>Gran Premio de Estados UnidosGran Premio de Estado</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>Fórmula 1</competicion>
+    <fecha>21 de noviembre</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318886098_united_states_grand_prix/</url>
+  </evento>
+  <evento>
+    <nombre>Gran Premio de Estados UnidosGran Premio de Estado</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>Fórmula 1</competicion>
+    <fecha>21 de noviembre</fecha>
+    <hora>06:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318886099_united_states_grand_prix/</url>
+  </evento>
+  <evento>
+    <nombre>Gran Premio de Estados UnidosGran Premio de Estado</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>Fórmula 1</competicion>
+    <fecha>22 de noviembre</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318886100_united_states_grand_prix/</url>
+  </evento>
+  <evento>
+    <nombre>Gran Premio de Estados UnidosGran Premio de Estado</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>Fórmula 1</competicion>
+    <fecha>22 de noviembre</fecha>
+    <hora>06:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318886101_united_states_grand_prix/</url>
+  </evento>
+  <evento>
     <nombre>Kuzbass Kemerovo – Vodnik</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Rusia. Superliga</competicion>
@@ -11207,6 +11463,14 @@
     <fecha>19 de noviembre</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/317619246_stabaek_ulleval/</url>
+  </evento>
+  <evento>
+    <nombre>Aktobe – Ayat</nombre>
+    <deporte>Futsal</deporte>
+    <competicion>Kazajistán. Campeonato</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318880909_aktobe_ayat/</url>
   </evento>
   <evento>
     <nombre>Traipu – Passo Fundo</nombre>
