@@ -15,6 +15,10 @@
   <event>
     <name>Chile - Primera Division : Deportes Limache vs Cobresal</name>
     <time>21:30</time>
+    <channel>
+      <name>TNT SPORTS Premium HD</name>
+      <url>/en-vivo-online/tnt-sports-chile/embed.php</url>
+    </channel>
   </event>
   <event>
     <name>Women's Club Friendly : Dallas Trinity vs América</name>
@@ -28,6 +32,10 @@
     <channel>
       <name>TUDN USA</name>
       <url>/en-vivo-online/tudn/embed.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/tudn/embed.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/tudn/embed2.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/tudn/embed3.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/tudn/embed4.php</url>
     </channel>
   </event>
   <event>
@@ -63,6 +71,10 @@
     <channel>
       <name>Sport TV1 Portugal</name>
       <url>https://deportelibres.shop/total/stream-49.php</url>
+    </channel>
+    <channel>
+      <name>ESPN Brazil</name>
+      <url>https://deportelibres.shop/total/stream-81.php</url>
     </channel>
   </event>
   <event>
@@ -135,6 +147,10 @@
       <url>https://deporte-libre.click/en-vivo-online/telemundo-usa/embed2.php</url>
       <url>https://deporte-libre.click/en-vivo-online/telemundo-usa/embed3.php</url>
     </channel>
+    <channel>
+      <name>FOX Deportes</name>
+      <url>/en-vivo-online/fox-deportes/embed.php</url>
+    </channel>
   </event>
   <event>
     <name>Mexico - Liga MX : Toluca vs Querétaro</name>
@@ -197,6 +213,10 @@
     <channel>
       <name>TUDN USA</name>
       <url>/en-vivo-online/tudn/embed.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/tudn/embed.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/tudn/embed2.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/tudn/embed3.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/tudn/embed4.php</url>
     </channel>
     <channel>
       <name>Univision USA</name>
@@ -210,6 +230,10 @@
   <event>
     <name>Costa Rica - Primera Division : Pérez Zeledón vs San Carlos</name>
     <time>02:00</time>
+    <channel>
+      <name>FUTV</name>
+      <url>https://deportelibres.shop/total/stream-1.php</url>
+    </channel>
   </event>
   <event>
     <name>Mexico - Liga MX : Guadalajara vs Mazatlán</name>
@@ -273,8 +297,18 @@
     <name>Mexico - Liga MX : Cruz Azul vs América</name>
     <time>04:05</time>
     <channel>
+      <name>TUDN MX</name>
+      <url>/en-vivo-online/tudnmx/embed.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/tudnmx/embed.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/tudnmx/embed2.php</url>
+    </channel>
+    <channel>
       <name>TUDN USA</name>
       <url>/en-vivo-online/tudn/embed.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/tudn/embed.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/tudn/embed2.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/tudn/embed3.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/tudn/embed4.php</url>
     </channel>
     <channel>
       <name>Univision USA</name>
@@ -344,6 +378,10 @@
   <event>
     <name>Major League Soccer : New England vs Chicago Fire</name>
     <time>23:00</time>
+    <channel>
+      <name>MLS Season Pass</name>
+      <url>https://deportelibres.shop/total/stream-157.php</url>
+    </channel>
   </event>
   <event>
     <name>Major League Soccer : New York City vs Seattle Sounders FC</name>
@@ -429,6 +467,10 @@
       <url>https://deportelibres.shop/total/stream-117.php</url>
     </channel>
     <channel>
+      <name>Sky Sports Tennis UK</name>
+      <url>https://deportelibres.shop/total/stream-46.php</url>
+    </channel>
+    <channel>
       <name>Sky Sports Tennis DE</name>
       <url>https://deportelibres.shop/total/stream-884.php</url>
     </channel>
@@ -463,6 +505,10 @@
     <channel>
       <name>beIN SPORTS Australia 1</name>
       <url>https://deportelibres.shop/total/stream-491.php</url>
+    </channel>
+    <channel>
+      <name>beIN SPORTS Australia 2</name>
+      <url>https://deportelibres.shop/total/stream-492.php</url>
     </channel>
     <channel>
       <name>Ziggo Sport 4 NL</name>
@@ -516,6 +562,10 @@
       <name>Sky Sports Tennis DE</name>
       <url>https://deportelibres.shop/total/stream-884.php</url>
     </channel>
+    <channel>
+      <name>Sky Sport Tennis Italy</name>
+      <url>https://deportelibres.shop/total/stream-576.php</url>
+    </channel>
   </event>
   <event>
     <name>Formula 1 : United States GP - Sprint</name>
@@ -534,6 +584,9 @@
     <channel>
       <name>ESPN Deportes</name>
       <url>/en-vivo-online/espn-deportes/embed.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/espn-deportes/embed.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/espn-deportes/embed2.php</url>
+      <url>https://deporte-libre.click/en-vivo-online/espn-deportes/embed3.php</url>
     </channel>
     <channel>
       <name>Fox Sports 1 Argentina</name>
@@ -570,6 +623,10 @@
     <channel>
       <name>Sky Sports F1 Italy</name>
       <url>https://deportelibres.shop/total/stream-577.php</url>
+    </channel>
+    <channel>
+      <name>BandSports Brasil</name>
+      <url>https://deportelibres.shop/total/stream-275.php</url>
     </channel>
   </event>
   <event>
@@ -631,6 +688,10 @@
     <channel>
       <name>Sky Sport MotoGP Italy</name>
       <url>https://deportelibres.shop/total/stream-575.php</url>
+    </channel>
+    <channel>
+      <name>CANAL+ MotoGP France</name>
+      <url>https://deportelibres.shop/total/stream-271.php</url>
     </channel>
     <channel>
       <name>Sky Sport Mix DE</name>
@@ -720,6 +781,10 @@
   <event>
     <name>Clash of Nations: Islamabad Showdown</name>
     <time>14:00</time>
+    <channel>
+      <name>Triller Tv</name>
+      <url>https://deportelibres.shop/total/stream-166.php</url>
+    </channel>
   </event>
   <event>
     <name>KOK World Series | Hamburg</name>
@@ -805,6 +870,10 @@
     <name>UFC Fight Night Prelims : Charles Jourdain vs Davey Grant</name>
     <time>21:00</time>
     <channel>
+      <name>ESPN ES</name>
+      <url>/en-vivo-online/espn/embed3.php</url>
+    </channel>
+    <channel>
       <name>UFC Fight Pass</name>
       <url>https://deportelibres.shop/total/stream-152.php</url>
     </channel>
@@ -843,6 +912,10 @@
     <channel>
       <name>Sport TV2 Portugal</name>
       <url>https://deportelibres.shop/total/stream-74.php</url>
+    </channel>
+    <channel>
+      <name>RMC Sport 1 France</name>
+      <url>https://deportelibres.shop/total/stream-119.php</url>
     </channel>
     <channel>
       <name>Astro Grandstand</name>
@@ -909,6 +982,10 @@
     <name>DP World Tour DP World India Championship</name>
     <time>13:00</time>
     <channel>
+      <name>Sky Sports Golf UK</name>
+      <url>https://deportelibres.shop/total/stream-70.php</url>
+    </channel>
+    <channel>
       <name>GOLF Channel USA</name>
       <url>https://deportelibres.shop/total/stream-318.php</url>
     </channel>
@@ -959,6 +1036,10 @@
     <channel>
       <name>Trutv USA</name>
       <url>https://deportelibres.shop/total/stream-341.php</url>
+    </channel>
+    <channel>
+      <name>UniMás</name>
+      <url>/en-vivo-online/unimas-usa/embed.php</url>
     </channel>
   </event>
   <event>
@@ -1021,6 +1102,10 @@
       <url>https://deportelibres.shop/total/stream-406.php</url>
     </channel>
     <channel>
+      <name>Sky Sport Mix DE</name>
+      <url>https://deportelibres.shop/total/stream-557.php</url>
+    </channel>
+    <channel>
       <name>Sport TV5 Portugal</name>
       <url>https://deportelibres.shop/total/stream-290.php</url>
     </channel>
@@ -1059,6 +1144,10 @@
     <channel>
       <name>Sportsnet West</name>
       <url>https://deportelibres.shop/total/stream-407.php</url>
+    </channel>
+    <channel>
+      <name>Sportsnet East</name>
+      <url>https://deportelibres.shop/total/stream-408.php</url>
     </channel>
     <channel>
       <name>Sky Sport Mix DE</name>
@@ -1129,6 +1218,10 @@
     <name>NHL : Dallas Stars vs St. Louis Blues</name>
     <time>00:00</time>
     <channel>
+      <name>NHL Gamecenter</name>
+      <url>https://deportelibres.shop/total/stream-8.php</url>
+    </channel>
+    <channel>
       <name>Viaplay Sports 2 UK</name>
       <url>https://deportelibres.shop/total/stream-550.php</url>
     </channel>
@@ -1171,6 +1264,10 @@
     <channel>
       <name>NESN USA</name>
       <url>https://deportelibres.shop/total/stream-762.php</url>
+    </channel>
+    <channel>
+      <name>V Sport 1 Sweden</name>
+      <url>https://deportelibres.shop/total/stream-22.php</url>
     </channel>
   </event>
   <event>
@@ -1244,6 +1341,10 @@
   <event>
     <name>Tour of Holland | Stage 4 Men | Emmen – Vam Berg (159km)</name>
     <time>13:00</time>
+    <channel>
+      <name>TNT Sports 3 UK</name>
+      <url>https://deportelibres.shop/total/stream-33.php</url>
+    </channel>
     <channel>
       <name>EuroSport 1 Spain</name>
       <url>/en-vivo-online/eurosport-1-es/embed.php</url>
