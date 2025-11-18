@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-11-18 06:37:52" total="1915">
+<eventos generado="2025-11-18 07:26:02" total="1915">
   <evento>
     <nombre>Canterbury Kings –  Northern Brave</nombre>
     <deporte>Fútbol</deporte>
@@ -47,14 +47,6 @@
     <fecha>17 de noviembre</fecha>
     <hora>03:10</hora>
     <url>https://livetv.sx/es/eventinfo/318424924_atp_challenger_yokohama/</url>
-  </evento>
-  <evento>
-    <nombre>Woobin Shin –  Michael Vrbensky</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Yokohama</competicion>
-    <fecha>17 de noviembre</fecha>
-    <hora>04:45</hora>
-    <url>https://livetv.sx/es/eventinfo/318886554_woobin_shin_michael_vrbensky/</url>
   </evento>
   <evento>
     <nombre>Cruz Hewitt –  Omar Jasika</nombre>
@@ -191,6 +183,14 @@
     <fecha>17 de noviembre</fecha>
     <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/318896513_wtt_contender_muscat/</url>
+  </evento>
+  <evento>
+    <nombre>Hazawa / Vithoontien –  Noguchi / Tajima</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Doubles</competicion>
+    <fecha>17 de noviembre</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318553596_hazawa__vithoontien_noguchi__tajima/</url>
   </evento>
   <evento>
     <nombre>Simulcast</nombre>
@@ -7545,6 +7545,14 @@
     <url>https://livetv.sx/es/eventinfo/316276430__/</url>
   </evento>
   <evento>
+    <nombre>Omskiye Kryliya – Toros</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>23 de noviembre</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/316334033__/</url>
+  </evento>
+  <evento>
     <nombre>Galatasaray – Trieste</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -11561,14 +11569,6 @@
     <url>https://livetv.sx/es/eventinfo/318417345_atp_challenger_sydney/</url>
   </evento>
   <evento>
-    <nombre>Blake Ellis – Shinji Hazawa</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Sídney</competicion>
-    <fecha>18 de noviembre</fecha>
-    <hora>03:55</hora>
-    <url>https://livetv.sx/es/eventinfo/318886584__/</url>
-  </evento>
-  <evento>
     <nombre>Woobin Shin – Michael Vrbensky</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Yokohama</competicion>
@@ -11685,7 +11685,7 @@
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Sídney. Doubles</competicion>
     <fecha>18 de noviembre</fecha>
-    <hora>09:25</hora>
+    <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/318553596__/</url>
   </evento>
   <evento>
