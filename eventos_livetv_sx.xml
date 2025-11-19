@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-11-19 08:34:43" total="1921">
+<eventos generado="2025-11-19 09:29:27" total="1927">
   <evento>
     <nombre>Abierto de Australia</nombre>
     <deporte>Fútbol</deporte>
@@ -7,14 +7,6 @@
     <fecha>19 de noviembre</fecha>
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/318896449_abierto_de_australia/</url>
-  </evento>
-  <evento>
-    <nombre>ATP Challenger. Sídney</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Sídney</competicion>
-    <fecha>19 de noviembre</fecha>
-    <hora>01:10</hora>
-    <url>https://livetv.sx/es/eventinfo/318417346_atp_challenger_sand237_dney/</url>
   </evento>
   <evento>
     <nombre>Nueva Zelanda –  Indias Occidentales</nombre>
@@ -47,22 +39,6 @@
     <fecha>19 de noviembre</fecha>
     <hora>06:00</hora>
     <url>https://livetv.sx/es/eventinfo/317889854_bangladesh_irlanda/</url>
-  </evento>
-  <evento>
-    <nombre>Veldheer / Hermans –  Watanabe / Uesugi</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Doubles</competicion>
-    <fecha>19 de noviembre</fecha>
-    <hora>06:10</hora>
-    <url>https://livetv.sx/es/eventinfo/318578419_veldheer__hermans_watanabe__uesugi/</url>
-  </evento>
-  <evento>
-    <nombre>Jones / Marinkov –  Hewitt / Hewitt</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Doubles</competicion>
-    <fecha>19 de noviembre</fecha>
-    <hora>08:10</hora>
-    <url>https://livetv.sx/es/eventinfo/318553599_jones__marinkov_hewitt__hewitt/</url>
   </evento>
   <evento>
     <nombre>WTT Contender Muscat</nombre>
@@ -117,24 +93,8 @@
     <deporte>Fútbol</deporte>
     <competicion>Australia. NBL</competicion>
     <fecha>19 de noviembre</fecha>
-    <hora>10:30</hora>
+    <hora>44:49</hora>
     <url>https://livetv.sx/es/eventinfo/314975061_adelaide_36ers_the_hawks/</url>
-  </evento>
-  <evento>
-    <nombre>Miguel Damas –  Lorenzo Giustino</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Montemar</competicion>
-    <fecha>19 de noviembre</fecha>
-    <hora>10:30</hora>
-    <url>https://livetv.sx/es/eventinfo/319305807_miguel_damas_lorenzo_giustino/</url>
-  </evento>
-  <evento>
-    <nombre>Zdenek Kola –  Sanchez Izquierdo Nikolas</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Montemar</competicion>
-    <fecha>19 de noviembre</fecha>
-    <hora>10:30</hora>
-    <url>https://livetv.sx/es/eventinfo/319305810_zdenek_kola_sanchez_izquierdo_nikolas/</url>
   </evento>
   <evento>
     <nombre>ATP Challenger. Montemar</nombre>
@@ -145,20 +105,60 @@
     <url>https://livetv.sx/es/eventinfo/318412985_atp_challenger_montemar/</url>
   </evento>
   <evento>
-    <nombre>Rudolf Molleker –  Pietro Fellin</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Soma Bay</competicion>
-    <fecha>19 de noviembre</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319036394_rudolf_molleker_pietro_fellin/</url>
-  </evento>
-  <evento>
     <nombre>Alexandr Binda –  Michael Bassem Sobhy</nombre>
     <deporte>Fútbol</deporte>
     <competicion>ATP Challenger. Soma Bay</competicion>
     <fecha>19 de noviembre</fecha>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/319218526_alexandr_binda_michael_bassem_sobhy/</url>
+  </evento>
+  <evento>
+    <nombre>Basic / Blanch –  Kellovsky / D'Agostino</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dobles</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319036397_basic__blanch_kellovsky__dagostino/</url>
+  </evento>
+  <evento>
+    <nombre>ATP Challenger. Soma Bay</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Soma Bay</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>11:10</hora>
+    <url>https://livetv.sx/es/eventinfo/319035721_atp_challenger_soma_bay/</url>
+  </evento>
+  <evento>
+    <nombre>Rudolf Molleker –  Pietro Fellin</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Soma Bay</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>11:10</hora>
+    <url>https://livetv.sx/es/eventinfo/319036394_rudolf_molleker_pietro_fellin/</url>
+  </evento>
+  <evento>
+    <nombre>Basic / Blanch –  Kellovsky / Agostini</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dobles</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>11:10</hora>
+    <url>https://livetv.sx/es/eventinfo/319036400_basic__blanch_kellovsky__agostini/</url>
+  </evento>
+  <evento>
+    <nombre>Mark Lajal –  Alexey Vatutin</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Bérgamo</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318994224_mark_lajal_alexey_vatutin/</url>
+  </evento>
+  <evento>
+    <nombre>Niels Visker –  Tom Gentzsch</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Bérgamo</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/319245792_niels_visker_tom_gentzsch/</url>
   </evento>
   <evento>
     <nombre>Atlético-MG – Palmeiras</nombre>
@@ -391,14 +391,6 @@
     <fecha>19 de noviembre</fecha>
     <hora>21:45</hora>
     <url>https://livetv.sx/es/eventinfo/319378630__/</url>
-  </evento>
-  <evento>
-    <nombre>Sporting (W) – Glasgow City (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Copa de Europa de la UEFA</competicion>
-    <fecha>19 de noviembre</fecha>
-    <hora>21:45</hora>
-    <url>https://livetv.sx/es/eventinfo/319353329_sporting_w_glasgow_city_w/</url>
   </evento>
   <evento>
     <nombre>Internacional Palmira – Jaguares de Córdoba</nombre>
@@ -4151,6 +4143,14 @@
     <fecha>23 de noviembre</fecha>
     <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/316272988__/</url>
+  </evento>
+  <evento>
+    <nombre>Oita Trinita – JEF United Chiba</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J2 League</competicion>
+    <fecha>23 de noviembre</fecha>
+    <hora>06:00</hora>
+    <url>https://livetv.sx/es/eventinfo/316293498__/</url>
   </evento>
   <evento>
     <nombre>Ilves – Fischtown Pinguins</nombre>
@@ -11849,44 +11849,12 @@
     <url>https://livetv.sx/es/eventinfo/318417346_atp_challenger_sydney/</url>
   </evento>
   <evento>
-    <nombre>Rojer / Lammons – Goldhoff / Winegar</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Yokohama. Doubles</competicion>
-    <fecha>19 de noviembre</fecha>
-    <hora>05:50</hora>
-    <url>https://livetv.sx/es/eventinfo/318578422__/</url>
-  </evento>
-  <evento>
-    <nombre>Veldheer / Hermans – Watanabe / Uesugi</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Yokohama. Doubles</competicion>
-    <fecha>19 de noviembre</fecha>
-    <hora>06:10</hora>
-    <url>https://livetv.sx/es/eventinfo/318578419__/</url>
-  </evento>
-  <evento>
-    <nombre>Zdenek Kola – Sanchez Izquierdo Nikolas</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Montemar</competicion>
-    <fecha>19 de noviembre</fecha>
-    <hora>10:30</hora>
-    <url>https://livetv.sx/es/eventinfo/319305810_zdenek_kolar_sanchez_izquierdo_nikolas/</url>
-  </evento>
-  <evento>
     <nombre>Alexandr Binda – Michael Bassem Sobhy</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Soma Bay</competicion>
     <fecha>19 de noviembre</fecha>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/319218526__/</url>
-  </evento>
-  <evento>
-    <nombre>Rudolf Molleker – Pietro Fellin</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Soma Bay</competicion>
-    <fecha>19 de noviembre</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319036394__/</url>
   </evento>
   <evento>
     <nombre>Basic / Blanch – Kellovsky / D'Agostino</nombre>
@@ -11897,28 +11865,20 @@
     <url>https://livetv.sx/es/eventinfo/319036397__/</url>
   </evento>
   <evento>
-    <nombre>Basic / Blanch – Kellovsky / Agostini</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Soma Bay. Dobles</competicion>
-    <fecha>19 de noviembre</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319036400__/</url>
-  </evento>
-  <evento>
-    <nombre>Pedro / Hussey – Binda / Bar Biryukov</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Soma Bay. Dobles</competicion>
-    <fecha>19 de noviembre</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319036402__/</url>
-  </evento>
-  <evento>
-    <nombre>ATP Challenger. Soma Bay</nombre>
+    <nombre>Rudolf Molleker – Pietro Fellin</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Soma Bay</competicion>
     <fecha>19 de noviembre</fecha>
     <hora>11:10</hora>
-    <url>https://livetv.sx/es/eventinfo/319035721_atp_challenger_soma_bay/</url>
+    <url>https://livetv.sx/es/eventinfo/319036394__/</url>
+  </evento>
+  <evento>
+    <nombre>Basic / Blanch – Kellovsky / Agostini</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Soma Bay. Dobles</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>11:10</hora>
+    <url>https://livetv.sx/es/eventinfo/319036400__/</url>
   </evento>
   <evento>
     <nombre>Mark Lajal – Alexey Vatutin</nombre>
@@ -11927,6 +11887,22 @@
     <fecha>19 de noviembre</fecha>
     <hora>11:30</hora>
     <url>https://livetv.sx/es/eventinfo/318994224__/</url>
+  </evento>
+  <evento>
+    <nombre>Miguel Damas – Lorenzo Giustino</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Montemar</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/319305807_miguel_damas_lorenzo_giustino/</url>
+  </evento>
+  <evento>
+    <nombre>Zdenek Kola – Sanchez Izquierdo Nikolas</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Montemar</competicion>
+    <fecha>19 de noviembre</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/319305810_zdenek_kolar_sanchez_izquierdo_nikolas/</url>
   </evento>
   <evento>
     <nombre>Daniil Glinka – Tom Gentzsch</nombre>
@@ -13457,6 +13433,14 @@
     <url>https://livetv.sx/es/eventinfo/315973274__/</url>
   </evento>
   <evento>
+    <nombre>Zenit Kazan – Lokomotiv Ns</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Rusia. Superliga</competicion>
+    <fecha>22 de noviembre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/319470224_zenit_kazan_lokomotiv_ns/</url>
+  </evento>
+  <evento>
     <nombre>UNI Opole (M) –  Budowlani Lodz (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Polonia. Mujeres. MP</competicion>
@@ -13737,6 +13721,14 @@
     <url>https://livetv.sx/es/eventinfo/316445848__/</url>
   </evento>
   <evento>
+    <nombre>Lokomotiv Kaliningrad (W) – Uralochka-NTMK (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Rusia. Mujeres. Superliga</competicion>
+    <fecha>23 de noviembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/319470139_lokomotiv_kaliningrad_w_uralochka_ntmk_w/</url>
+  </evento>
+  <evento>
     <nombre>Projekt Warszawa – Slepsk Suwalki</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Polonia. PlusLiga</competicion>
@@ -13831,6 +13823,14 @@
     <fecha>24 de noviembre</fecha>
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/316596523__/</url>
+  </evento>
+  <evento>
+    <nombre>Zaur Abdullaev – Alberto Roldan</nombre>
+    <deporte>Boxeo</deporte>
+    <competicion>Boxeo</competicion>
+    <fecha>22 de noviembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319470054_zaur_abdullaev_alberto_roldan/</url>
   </evento>
   <evento>
     <nombre>Gran Premio de Estados UnidosGran Premio de Estado</nombre>
@@ -14087,6 +14087,14 @@
     <fecha>22 de noviembre</fecha>
     <hora>13:00</hora>
     <url>https://livetv.sx/es/eventinfo/319217422_uragan_furnitura/</url>
+  </evento>
+  <evento>
+    <nombre>KPRF – Torpedo NN</nombre>
+    <deporte>Futsal</deporte>
+    <competicion>Rusia. Superliga</competicion>
+    <fecha>23 de noviembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319470309_kprf_torpedo_nn/</url>
   </evento>
   <evento>
     <nombre>Atletico-PI – Traipu</nombre>
@@ -15185,6 +15193,22 @@
     <url>https://livetv.sx/es/eventinfo/318910927_world_cup_calgary/</url>
   </evento>
   <evento>
+    <nombre>Biathlon, Janti-Mansisk</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Biatlón</competicion>
+    <fecha>22 de noviembre</fecha>
+    <hora>08:30</hora>
+    <url>https://livetv.sx/es/eventinfo/319475617_biathlon_khanty_mansiysk/</url>
+  </evento>
+  <evento>
+    <nombre>Biathlon, Janti-Mansisk</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Biatlón</competicion>
+    <fecha>22 de noviembre</fecha>
+    <hora>10:15</hora>
+    <url>https://livetv.sx/es/eventinfo/319475618_biathlon_khanty_mansiysk/</url>
+  </evento>
+  <evento>
     <nombre>Copa del Mundo, Beitostolen</nombre>
     <deporte>Deporte_18</deporte>
     <competicion>Esquí de fondo</competicion>
@@ -15263,6 +15287,30 @@
     <fecha>22 de noviembre</fecha>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/318905999_isu_grand_prix_finland_trophy/</url>
+  </evento>
+  <evento>
+    <nombre>Copa del Mundo, Moscu</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Biatlón</competicion>
+    <fecha>23 de noviembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319475679_world_cup_moscow/</url>
+  </evento>
+  <evento>
+    <nombre>Copa del Mundo, Moscu</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Biatlón</competicion>
+    <fecha>23 de noviembre</fecha>
+    <hora>08:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319475680_world_cup_moscow/</url>
+  </evento>
+  <evento>
+    <nombre>Copa del Mundo, Moscu</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Biatlón</competicion>
+    <fecha>23 de noviembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319475681_world_cup_moscow/</url>
   </evento>
   <evento>
     <nombre>Copa del Mundo, GurglMujer</nombre>
