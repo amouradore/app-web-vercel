@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2025-11-20 14:39:35" total="230">
+<eventos generado="2025-11-20 14:59:41" total="230">
   <evento id="1">
     <nombre>Temp-Sumz –  Dynamo Grozny</nombre>
     <deporte>Fútbol</deporte>
@@ -90,34 +90,34 @@
     <datetime_iso>2025-11-20T11:40:00</datetime_iso>
     <streams total="5">
       <stream id="1">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDA0NjIx</url>
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDAxOTkx</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
         <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885846&amp;lang=es&amp;eid=318412986&amp;lid=2885846&amp;ci=8066&amp;si=4</enlace_original>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885756&amp;lang=es&amp;eid=318412986&amp;lid=2885756&amp;ci=8066&amp;si=4</enlace_original>
       </stream>
       <stream id="2">
-        <url>https://dovkembed.pw/livetv/ex11398803</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885844&amp;lang=es&amp;eid=318412986&amp;lid=2885844&amp;ci=8066&amp;si=4</enlace_original>
-      </stream>
-      <stream id="3">
         <url>https://dovkembed.pw/livetv/ex11396319</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
         <idioma_nombre>Polaco</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885848&amp;lang=es&amp;eid=318412986&amp;lid=2885848&amp;ci=8066&amp;si=4</enlace_original>
       </stream>
+      <stream id="3">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDA0NjIx</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885846&amp;lang=es&amp;eid=318412986&amp;lid=2885846&amp;ci=8066&amp;si=4</enlace_original>
+      </stream>
       <stream id="4">
+        <url>https://dovkembed.pw/livetv/ex11398803</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885844&amp;lang=es&amp;eid=318412986&amp;lid=2885844&amp;ci=8066&amp;si=4</enlace_original>
+      </stream>
+      <stream id="5">
         <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExMzk4OTM3</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885825&amp;lang=es&amp;eid=318412986&amp;lid=2885825&amp;ci=8066&amp;si=4</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDAxOTkx</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885756&amp;lang=es&amp;eid=318412986&amp;lid=2885756&amp;ci=8066&amp;si=4</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -204,14 +204,7 @@
     <hora>12:10</hora>
     <url>https://livetv.sx/es/eventinfo/319507632__/</url>
     <datetime_iso>2025-11-20T12:10:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDAxOTkx</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885756&amp;lang=es&amp;eid=319507632&amp;lid=2885756&amp;ci=8056&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="12">
     <nombre>Pichler / Pieczonka –  Poljak / Ruehl</nombre>
@@ -401,14 +394,7 @@
     <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/315330738_sokol_krasnoyarsk_neftyanik/</url>
     <datetime_iso>2025-11-20T14:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/tV866tr1O4c?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=tV866tr1O4c&amp;lang=es&amp;eid=315330738&amp;lid=2879395&amp;ci=418&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="24">
     <nombre>Persija Yakarta –  Persik Kediri</nombre>
@@ -418,7 +404,20 @@
     <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/319787076_persija_yakarta_persik_kediri/</url>
     <datetime_iso>2025-11-20T14:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="2">
+      <stream id="1">
+        <url>https://topembed.pw/channel/expersiiri</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885802&amp;lang=es&amp;eid=319787076&amp;lid=2885802&amp;ci=448&amp;si=1</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://dovkembed.pw/livetv/expersiiri</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885855&amp;lang=es&amp;eid=319787076&amp;lid=2885855&amp;ci=448&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="25">
     <nombre>Turk Hava Yollari (M) –   Zeren Spor (M)</nombre>
@@ -448,14 +447,7 @@
     <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/315331171__ilbank_m__goztepe_m/</url>
     <datetime_iso>2025-11-20T14:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/tgM2bfA1gOQ?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/10.png</idioma>
-        <idioma_nombre>Ruso</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=tgM2bfA1gOQ&amp;lang=es&amp;eid=315331171&amp;lid=2884190&amp;ci=1227&amp;si=5</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="28">
     <nombre>Agidel (M) –  Biryusa (M)</nombre>
@@ -475,14 +467,7 @@
     <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/315330738__/</url>
     <datetime_iso>2025-11-20T14:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/tV866tr1O4c?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=tV866tr1O4c&amp;lang=es&amp;eid=315330738&amp;lid=2879395&amp;ci=418&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="30">
     <nombre>Agidel (M) – Biryusa (M)</nombre>
@@ -566,14 +551,7 @@
     <hora>14:30</hora>
     <url>https://livetv.sx/es/eventinfo/319766877__zhetysu_m__karaganda_m/</url>
     <datetime_iso>2025-11-20T14:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/XOX6E81ljWo?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=XOX6E81ljWo&amp;lang=es&amp;eid=319766877&amp;lid=2885843&amp;ci=3439&amp;si=5</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="37">
     <nombre>Zhetysu (M) –  Karaganda (M)</nombre>
@@ -1257,31 +1235,24 @@ player/live.php?id=243838&amp;w=700&amp;h=480</url>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/315349253__/</url>
     <datetime_iso>2025-11-20T16:00:00</datetime_iso>
-    <streams total="4">
+    <streams total="3">
       <stream id="1">
-        <url>https://emb.apl385.me/
-player/live.php?id=243806&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=243806&amp;lang=es&amp;eid=315349253&amp;lid=2880156&amp;ci=167&amp;si=2</enlace_original>
-      </stream>
-      <stream id="2">
         <url>https://voodc.com/embed/85818c94a28ba086847a859a9c87988a.html</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
         <idioma_nombre>Inglés</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885928&amp;lang=es&amp;eid=315349253&amp;lid=2885928&amp;ci=167&amp;si=2</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://antenasport.org/embed.php?id=primakhlprime</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2881504&amp;lang=es&amp;eid=315349253&amp;lid=2881504&amp;ci=167&amp;si=2</enlace_original>
       </stream>
       <stream id="3">
         <url>https://welivesports.shop/hockey/khlprime.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
         <idioma_nombre>Inglés</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885927&amp;lang=es&amp;eid=315349253&amp;lid=2885927&amp;ci=167&amp;si=2</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://antenasport.org/embed.php?id=primakhlprime</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2881504&amp;lang=es&amp;eid=315349253&amp;lid=2881504&amp;ci=167&amp;si=2</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -1451,7 +1422,14 @@ player/live.php?id=243806&amp;w=700&amp;h=480</url>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/315361294_kupol_rodniki_zenit_2/</url>
     <datetime_iso>2025-11-20T17:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://embedded.slevel.ru/translations/YjQyZGM1ZTEzNGJkNDJjY2Q1YmZkNTExMWFmMzIwNzU6MzU0Mjk4OTo0Ojo/embed7</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885962&amp;lang=es&amp;eid=315361294&amp;lid=2885962&amp;ci=98&amp;si=3</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="84">
     <nombre>Odeshchina – Sokil</nombre>
@@ -1464,8 +1442,8 @@ player/live.php?id=243806&amp;w=700&amp;h=480</url>
     <streams total="1">
       <stream id="1">
         <url>https://www.youtube.com/embed/3QlMkAbJbZc?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/3.png</idioma>
+        <idioma_nombre>Español</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=3QlMkAbJbZc&amp;lang=es&amp;eid=316968014&amp;lid=2885930&amp;ci=655&amp;si=2</enlace_original>
       </stream>
     </streams>
@@ -1491,8 +1469,8 @@ player/live.php?id=243806&amp;w=700&amp;h=480</url>
     <streams total="1">
       <stream id="1">
         <url>https://rutube.ru/play/embed/781a4d9ff96073522ec525afdb64fa72?autoplay=true</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885949&amp;lang=es&amp;eid=319574930&amp;lid=2885949&amp;ci=1493&amp;si=2</enlace_original>
       </stream>
     </streams>
@@ -1556,7 +1534,14 @@ player/live.php?id=243806&amp;w=700&amp;h=480</url>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/315361294__/</url>
     <datetime_iso>2025-11-20T17:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://embedded.slevel.ru/translations/YjQyZGM1ZTEzNGJkNDJjY2Q1YmZkNTExMWFmMzIwNzU6MzU0Mjk4OTo0Ojo/embed7</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885962&amp;lang=es&amp;eid=315361294&amp;lid=2885962&amp;ci=98&amp;si=3</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="91">
     <nombre>Travaglia / Maestrelli – Paris / Willis</nombre>
@@ -1583,7 +1568,20 @@ player/live.php?id=243806&amp;w=700&amp;h=480</url>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/315340328__/</url>
     <datetime_iso>2025-11-20T17:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="2">
+      <stream id="1">
+        <url>https://voodc.com/embed/1/85818c94a28c9b8a847a859a9c88988c.html</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885942&amp;lang=es&amp;eid=315340328&amp;lid=2885942&amp;ci=379&amp;si=1</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://daddylive3.com/live/stream-600.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/5.png</idioma>
+        <idioma_nombre>Alemán (Alemania)</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2885177&amp;lang=es&amp;eid=315340328&amp;lid=2885177&amp;ci=379&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="93">
     <nombre>Tambov – Ryazan</nombre>
@@ -1593,7 +1591,14 @@ player/live.php?id=243806&amp;w=700&amp;h=480</url>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/315366459__/</url>
     <datetime_iso>2025-11-20T17:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/lf9y_ALT8j4?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=lf9y_ALT8j4&amp;lang=es&amp;eid=315366459&amp;lid=2879382&amp;ci=418&amp;si=2</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="94">
     <nombre>Irbis – Omskiye Yastreby</nombre>
@@ -1603,7 +1608,14 @@ player/live.php?id=243806&amp;w=700&amp;h=480</url>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/315366547__/</url>
     <datetime_iso>2025-11-20T17:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/nFFXO41eT9Y?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=nFFXO41eT9Y&amp;lang=es&amp;eid=315366547&amp;lid=2885051&amp;ci=279&amp;si=2</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="95">
     <nombre>Juan Carlos Prado Angelo – Bruno Fernandez</nombre>
