@@ -7,6 +7,7 @@ RUN apt-get update && apt-get install -y \
     wget \
     curl \
     net-tools \
+    bash \
     && rm -rf /var/lib/apt/lists/*
 
 # Installer AceStream Engine (optionnel, peut échouer)
@@ -41,5 +42,5 @@ ENV PYTHONPATH=/app
 
 EXPOSE 8000
 
-# Script de démarrage avec uvicorn
-CMD bash -c "if command -v acestream-engine >/dev/null 2>&1; then acestream-engine --client-console &> /dev/null & sleep 5; fi && uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8000}"
+# Script de démarrage avec uvicorn - Format JSON et variable $PORT correcte
+CMD ["bash", "-c", "if command -v acestream-engine >/dev/null 2>&1; then acestream-engine --client-console &> /dev/null & sleep 5; fi && uvicorn app.main:app --host 0.0.0.0 --port $PORT"]
