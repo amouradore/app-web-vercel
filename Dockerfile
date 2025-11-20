@@ -24,7 +24,9 @@ RUN mkdir -p app
 
 # Copier le code Python dans app/
 COPY backend/app/main.py app/
-COPY backend/app/__init__.py app/ 2>/dev/null || touch app/__init__.py
+
+# Créer __init__.py si nécessaire
+RUN touch app/__init__.py
 
 # Copier les playlists M3U
 COPY backend/*.m3u .
