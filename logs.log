@@ -1,9 +1,60 @@
-Blocage d’une requête multiorigine (Cross-Origin Request) : la politique « Same Origin » ne permet pas de consulter la ressource distante située sur http://localhost:8000/api/stream/eb6ffec065b26259ad3d1811e0bbb0a5332ed276. Raison : échec de la requête CORS. Code d’état : (null).
-Erreur lors de la récupération des URLs: TypeError: NetworkError when attempting to fetch resource. SmartStreamPlayer.js:32:15
-Blocage d’une requête multiorigine (Cross-Origin Request) : la politique « Same Origin » ne permet pas de consulter la ressource distante située sur http://localhost:8000/api/stream/eb6ffec065b26259ad3d1811e0bbb0a5332ed276. Raison : échec de la requête CORS. Code d’état : (null).
-Erreur lors de la récupération des URLs: TypeError: NetworkError when attempting to fetch resource. SmartStreamPlayer.js:32:15
-Blocage d’une requête multiorigine (Cross-Origin Request) : la politique « Same Origin » ne permet pas de consulter la ressource distante située sur http://localhost:8000/api/stream/eb6ffec065b26259ad3d1811e0bbb0a5332ed276. Raison : échec de la requête CORS. Code d’état : (null).
-Erreur lors de la récupération des URLs: TypeError: NetworkError when attempting to fetch resource. SmartStreamPlayer.js:32:15
+Erreur playChannel: Error: Not Found
+    m https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+main.0120a1f5.js:2:199164
+Erreur de démarrage: Error: Not Found
+    m https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+main.0120a1f5.js:2:199864
+XHRPOST
+https://app-web-vercel-production.up.railway.app//api/play
+[HTTP/2 404  263ms]
+
+Erreur playChannel: Error: Not Found
+    m https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    h https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    onClick https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    Xc https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    td https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    It https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    td https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    xf https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    wf https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+main.0120a1f5.js:2:199164
+Erreur de démarrage: Error: Not Found
+    m https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    h https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    onClick https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    Xc https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    td https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    It https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    td https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    xf https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    wf https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+main.0120a1f5.js:2:199864
+XHRPOST
+https://app-web-vercel-production.up.railway.app//api/play
+[HTTP/2 404  103ms]
+
+Erreur playChannel: Error: Not Found
+    m https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    h https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    onClick https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    Xc https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    td https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    It https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    td https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    xf https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    wf https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+main.0120a1f5.js:2:199164
+Erreur de démarrage: Error: Not Found
+    m https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    h https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    onClick https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    Xc https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    td https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    It https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    td https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    xf https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+    wf https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
+main.0120a1f5.js:2:199864
 
 ​
-
