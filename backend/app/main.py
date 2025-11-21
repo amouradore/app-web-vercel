@@ -165,8 +165,8 @@ def get_playlist_channels(playlist_name: str):
 @app.post("/api/play")
 async def play_acestream_channel(request: dict):
     """
-    Convert AceStream hash to playable HLS stream URL
-    Uses AceStream Engine on Railway to convert P2P to HLS
+    Convert AceStream hash to playable stream URL via Railway proxy
+    The backend proxies the AceStream Engine stream to make it accessible from browsers
     """
     acestream_hash = request.get("hash")
     
@@ -176,32 +176,66 @@ async def play_acestream_channel(request: dict):
     # Remove any whitespace or special characters
     acestream_hash = acestream_hash.strip()
     
-    # Get the AceStream Engine base URL (should be http://127.0.0.1:6878 on Railway)
+    # IMPORTANT: Return the PROXY URL, not the local AceStream Engine URL
+    # The proxy endpoint /api/stream/{hash} will forward requests to AceStream Engine
+    proxy_url = f"/api/stream/{acestream_hash}"
+    
+    return {
+        "status": "success",
+        "hash": acestream_hash,
+        "stream_url": proxy_url,
+        "hls_url": proxy_url,
+        "type": "railway_proxy",
+        "backend": "railway",
+        "message": "Stream ready via Railway proxy - No AceStream installation required!"
+    }
+
+
+@app.get("/api/stream/{acestream_hash}")
+async def proxy_acestream_stream(acestream_hash: str):
+    """
+    Proxy endpoint that forwards AceStream Engine stream to the client
+    This makes the local AceStream Engine accessible from the internet
+    """
+    import httpx
+    from fastapi.responses import StreamingResponse
+    
+    if not acestream_hash or len(acestream_hash) < 32:
+        raise HTTPException(status_code=400, detail="Invalid AceStream hash")
+    
+    acestream_hash = acestream_hash.strip()
     acestream_base = os.getenv("ACESTREAM_BASE_URL", "http://127.0.0.1:6878")
+    acestream_url = f"{acestream_base}/ace/getstream?id={acestream_hash}"
     
     try:
-        # Request stream from AceStream Engine
-        stream_url = f"{acestream_base}/ace/getstream?id={acestream_hash}"
+        # Stream the content from AceStream Engine to the client
+        async def stream_generator():
+            async with httpx.AsyncClient(timeout=None) as client:
+                async with client.stream("GET", acestream_url) as response:
+                    if response.status_code != 200:
+                        raise HTTPException(
+                            status_code=response.status_code,
+                            detail=f"AceStream Engine error: {response.status_code}"
+                        )
+                    async for chunk in response.aiter_bytes(chunk_size=8192):
+                        yield chunk
         
-        return {
-            "status": "success",
-            "hash": acestream_hash,
-            "stream_url": stream_url,
-            "hls_url": stream_url,  # AceStream Engine returns HTTP stream
-            "type": "acestream_proxy",
-            "backend": "railway",
-            "message": "Stream ready - No AceStream installation required!"
-        }
+        return StreamingResponse(
+            stream_generator(),
+            media_type="video/mp2t",
+            headers={
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET, OPTIONS",
+                "Access-Control-Allow-Headers": "*",
+                "Cache-Control": "no-cache, no-store, must-revalidate",
+                "Connection": "keep-alive",
+            }
+        )
     except Exception as e:
-        # Fallback options
-        return {
-            "status": "partial",
-            "hash": acestream_hash,
-            "stream_url": f"{acestream_base}/ace/getstream?id={acestream_hash}",
-            "hls_url": f"{acestream_base}/ace/getstream?id={acestream_hash}",
-            "error": str(e),
-            "message": "Backend is starting up, please retry in a few seconds"
-        }
+        raise HTTPException(
+            status_code=503,
+            detail=f"Cannot connect to AceStream Engine: {str(e)}"
+        )
 
 
 @app.get("/api/stream/{acestream_hash}")

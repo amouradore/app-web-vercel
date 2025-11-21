@@ -47,8 +47,15 @@ const UnifiedStreamPlayer = ({ channel, onClose }) => {
       setProgress(60);
       
       // Utiliser hls_url ou stream_url selon ce que le backend retourne
-      const streamUrl = response.hls_url || response.stream_url;
-      response.hls_url = streamUrl; // S'assurer que hls_url est défini
+      let streamUrl = response.hls_url || response.stream_url;
+      
+      // IMPORTANT: Si l'URL est relative, la convertir en URL absolue vers Railway
+      if (streamUrl && streamUrl.startsWith('/')) {
+        const backendUrl = process.env.REACT_APP_API_URL || 'http://localhost:8000';
+        streamUrl = `${backendUrl}${streamUrl}`;
+      }
+      
+      response.hls_url = streamUrl; // S'assurer que hls_url est défini avec l'URL complète
       
       setProgress(80);
       
