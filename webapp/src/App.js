@@ -13,6 +13,7 @@ import SimpleWorkingPlayer from './SimpleWorkingPlayer';
 import NoInstallStreamPlayer from './NoInstallStreamPlayer';
 import RealIPTVPlayer from './RealIPTVPlayer';
 import GuaranteedStreamPlayer from './GuaranteedStreamPlayer';
+import WorkingStreamPlayer from './WorkingStreamPlayer';
 import './ImprovedWebPlayer.css';
 import TestPlayer from './TestPlayer';
 
@@ -518,12 +519,15 @@ function App() {
               </div>
             </header>
 
-            <div className="alert alert-success text-center fw-bold" role="alert">
+            <div className="alert alert-info text-center fw-bold" role="alert">
               {activeTab === 'events' 
-                ? '🏆 SOURCES OFFICIELLES ! Pluto TV, Red Bull, FIFA+, YouTube garantis ! 💯' 
-                : '📺 CHAÎNES OFFICIELLES ! Streaming garanti sans installation ! 💯'}
+                ? '🏆 Plus de 4000 événements sportifs avec hash AceStream !' 
+                : '📺 Chaînes TV AceStream organisées et prêtes à l\'emploi !'}
               <br />
-              <small className="text-muted">Cliquez sur "🌐 Navigateur" pour accéder aux plateformes officielles qui fonctionnent à 100% !</small>
+              <small className="text-muted">
+                💡 Cliquez sur "🌐 Navigateur" pour voir toutes les méthodes de streaming (Web, Mobile, VLC...) | 
+                Cliquez sur "🚀 AceStream" si vous l'avez déjà installé
+              </small>
             </div>
 
             {error && <div className="alert alert-danger">Erreur: {error}</div>}
@@ -742,7 +746,7 @@ function App() {
                 onError={() => setUseWebPlayer(false)}
               />
             ) : (
-              <SmartStreamPlayer
+              <WorkingStreamPlayer
                 streamId={currentStream.contentId}
                 onClose={closeVideoPlayer}
                 channelInfo={currentStream}
