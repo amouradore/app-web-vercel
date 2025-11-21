@@ -203,7 +203,7 @@ async def get_hls_playlist(acestream_hash: str):
     Get HLS playlist for an AceStream hash
     FFmpeg converts MPEG-TS to HLS on-the-fly
     """
-    from .hls_converter import converter
+    import subprocess
     
     if not acestream_hash or len(acestream_hash) < 32:
         raise HTTPException(status_code=400, detail="Invalid AceStream hash")
@@ -212,17 +212,48 @@ async def get_hls_playlist(acestream_hash: str):
     acestream_base = os.getenv("ACESTREAM_BASE_URL", "http://127.0.0.1:6878")
     acestream_url = f"{acestream_base}/ace/getstream?id={acestream_hash}"
     
-    # Check if playlist already exists
-    playlist_path = converter.get_playlist_path(acestream_hash)
+    # Create output directory for this stream
+    storage_dir = Path("/app/storage/hls")
+    storage_dir.mkdir(parents=True, exist_ok=True)
     
+    output_dir = storage_dir / acestream_hash
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
+    playlist_path = output_dir / "playlist.m3u8"
+    
+    # Check if FFmpeg is already running for this hash
+    # (Simple check: if playlist exists and is recent, use it)
     if not playlist_path.exists():
         # Start FFmpeg conversion
+        ffmpeg_cmd = [
+            'ffmpeg',
+            '-i', acestream_url,           # Input: AceStream MPEG-TS stream
+            '-c:v', 'copy',                # Copy video codec (no re-encoding)
+            '-c:a', 'copy',                # Copy audio codec (no re-encoding)
+            '-f', 'hls',                   # Output format: HLS
+            '-hls_time', '4',              # Segment duration: 4 seconds
+            '-hls_list_size', '10',        # Keep last 10 segments in playlist
+            '-hls_flags', 'delete_segments+append_list',  # Delete old segments
+            '-hls_segment_filename', str(output_dir / 'segment_%03d.ts'),
+            '-y',                          # Overwrite output
+            str(playlist_path)
+        ]
+        
         try:
-            await converter.start_conversion(acestream_hash, acestream_url)
+            # Start FFmpeg process in background
+            process = await asyncio.create_subprocess_exec(
+                *ffmpeg_cmd,
+                stdout=asyncio.subprocess.PIPE,
+                stderr=asyncio.subprocess.PIPE
+            )
+            
+            # Wait a bit for first segments to be created (5 seconds)
+            await asyncio.sleep(5)
+            
         except Exception as e:
             raise HTTPException(
                 status_code=503,
-                detail=f"Failed to start HLS conversion: {str(e)}"
+                detail=f"Failed to start FFmpeg: {str(e)}"
             )
     
     # Wait for playlist to be created (max 10 seconds)
