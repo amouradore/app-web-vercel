@@ -1,10 +1,12 @@
 import os
 import re
+import asyncio
 from pathlib import Path
 from typing import Dict, List
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
 
 # Configuration
 app = FastAPI(title="AceStream HLS Proxy", version="2.1.0")
