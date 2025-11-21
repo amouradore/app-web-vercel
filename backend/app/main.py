@@ -12,10 +12,12 @@ app = FastAPI(title="AceStream HLS Proxy", version="2.1.0")
 # CORS - Allow all origins
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["*"],  # Permet tous les domaines (Vercel, etc.)
     allow_credentials=True,
-    allow_methods=["*"],
+    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],  # Inclure OPTIONS pour preflight
     allow_headers=["*"],
+    expose_headers=["*"],  # Expose tous les headers
+    max_age=3600,  # Cache preflight requests pour 1 heure
 )
 
 # Cache des playlists M3U
