@@ -170,8 +170,8 @@ def get_playlist_channels(playlist_name: str):
 @app.post("/api/play")
 async def play_acestream_channel(request: dict):
     """
-    Convert AceStream hash to playable stream URL via Railway proxy
-    The backend proxies the AceStream Engine stream to make it accessible from browsers
+    Convert AceStream hash to playable HLS stream via Railway
+    Returns HLS playlist URL for browser-compatible streaming
     """
     acestream_hash = request.get("hash")
     
@@ -181,19 +181,88 @@ async def play_acestream_channel(request: dict):
     # Remove any whitespace or special characters
     acestream_hash = acestream_hash.strip()
     
-    # IMPORTANT: Return the PROXY URL, not the local AceStream Engine URL
-    # The proxy endpoint /api/stream/{hash} will forward requests to AceStream Engine
-    proxy_url = f"/api/stream/{acestream_hash}"
+    # Return HLS playlist URL (FFmpeg will convert MPEG-TS to HLS)
+    hls_playlist_url = f"/api/stream/{acestream_hash}/playlist.m3u8"
     
     return {
         "status": "success",
         "hash": acestream_hash,
-        "stream_url": proxy_url,
-        "hls_url": proxy_url,
-        "type": "railway_proxy",
-        "backend": "railway",
-        "message": "Stream ready via Railway proxy - No AceStream installation required!"
+        "stream_url": hls_playlist_url,
+        "hls_url": hls_playlist_url,
+        "type": "hls_conversion",
+        "backend": "railway_ffmpeg",
+        "message": "HLS stream ready - No AceStream installation required!"
     }
+
+
+@app.get("/api/stream/{acestream_hash}/playlist.m3u8")
+async def get_hls_playlist(acestream_hash: str):
+    """
+    Get HLS playlist for an AceStream hash
+    FFmpeg converts MPEG-TS to HLS on-the-fly
+    """
+    from .hls_converter import converter
+    
+    if not acestream_hash or len(acestream_hash) < 32:
+        raise HTTPException(status_code=400, detail="Invalid AceStream hash")
+    
+    acestream_hash = acestream_hash.strip()
+    acestream_base = os.getenv("ACESTREAM_BASE_URL", "http://127.0.0.1:6878")
+    acestream_url = f"{acestream_base}/ace/getstream?id={acestream_hash}"
+    
+    # Check if playlist already exists
+    playlist_path = converter.get_playlist_path(acestream_hash)
+    
+    if not playlist_path.exists():
+        # Start FFmpeg conversion
+        try:
+            await converter.start_conversion(acestream_hash, acestream_url)
+        except Exception as e:
+            raise HTTPException(
+                status_code=503,
+                detail=f"Failed to start HLS conversion: {str(e)}"
+            )
+    
+    # Wait for playlist to be created (max 10 seconds)
+    for _ in range(20):
+        if playlist_path.exists():
+            return FileResponse(
+                playlist_path,
+                media_type="application/vnd.apple.mpegurl",
+                headers={
+                    "Access-Control-Allow-Origin": "*",
+                    "Cache-Control": "no-cache",
+                }
+            )
+        await asyncio.sleep(0.5)
+    
+    raise HTTPException(
+        status_code=503,
+        detail="HLS playlist not ready yet, please retry in a few seconds"
+    )
+
+
+@app.get("/api/stream/{acestream_hash}/segment_{segment_id}.ts")
+async def get_hls_segment(acestream_hash: str, segment_id: str):
+    """
+    Get HLS segment file
+    """
+    if not acestream_hash or len(acestream_hash) < 32:
+        raise HTTPException(status_code=400, detail="Invalid AceStream hash")
+    
+    segment_path = Path(f"/app/storage/hls/{acestream_hash}/segment_{segment_id}.ts")
+    
+    if not segment_path.exists():
+        raise HTTPException(status_code=404, detail="Segment not found")
+    
+    return FileResponse(
+        segment_path,
+        media_type="video/mp2t",
+        headers={
+            "Access-Control-Allow-Origin": "*",
+            "Cache-Control": "public, max-age=31536000",
+        }
+    )
 
 
 @app.api_route("/api/stream/{acestream_hash}", methods=["GET", "HEAD", "OPTIONS"])

@@ -1,14 +1,15 @@
 # Backend Dockerfile - Avec AceStream Engine intégré
 FROM python:3.11-slim
 
-# Installer les dépendances système
+# Installer les dépendances système incluant FFmpeg pour conversion HLS
 RUN apt-get update && apt-get install -y \
     ffmpeg \
     wget \
     curl \
     net-tools \
     libpython3.9 \
-    && rm -rf /var/lib/apt/lists/*
+    && rm -rf /var/lib/apt/lists/* \
+    && ffmpeg -version
 
 # Installer AceStream Engine
 RUN wget -q -O - http://dl.acestream.org/linux/acestream_3.1.49_ubuntu_20.04_x86_64.tar.gz | tar -xz -C /opt/ \
