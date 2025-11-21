@@ -1,6 +1,20 @@
 {
-  "buildCommand": "npm run build",
-  "installCommand": "npm install",
-  "outputDirectory": "build",
-  "framework": "create-react-app"
+  "buildCommand": "cd webapp && npm install && npm run build",
+  "installCommand": "cd webapp && npm install",
+  "outputDirectory": "webapp/build",
+  "framework": null,
+  "env": {
+    "REACT_APP_API_BASE": "https://app-web-vercel-production.up.railway.app"
+  },
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
+    }
+  ]
 }
