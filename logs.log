@@ -1,60 +1,41 @@
-Erreur playChannel: Error: Not Found
-    m https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-main.0120a1f5.js:2:199164
-Erreur de démarrage: Error: Not Found
-    m https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-main.0120a1f5.js:2:199864
-XHRPOST
-https://app-web-vercel-production.up.railway.app//api/play
-[HTTP/2 404  263ms]
-
-Erreur playChannel: Error: Not Found
-    m https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    h https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    onClick https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    Xc https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    td https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    It https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    td https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    xf https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    wf https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-main.0120a1f5.js:2:199164
-Erreur de démarrage: Error: Not Found
-    m https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    h https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    onClick https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    Xc https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    td https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    It https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    td https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    xf https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    wf https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-main.0120a1f5.js:2:199864
-XHRPOST
-https://app-web-vercel-production.up.railway.app//api/play
-[HTTP/2 404  103ms]
-
-Erreur playChannel: Error: Not Found
-    m https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    h https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    onClick https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    Xc https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    td https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    It https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    td https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    xf https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    wf https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-main.0120a1f5.js:2:199164
-Erreur de démarrage: Error: Not Found
-    m https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    h https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    onClick https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    Xc https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    td https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    It https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    td https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    xf https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-    wf https://webapp-je2bzk2qp-amouradores-projects.vercel.app/static/js/main.0120a1f5.js:2
-main.0120a1f5.js:2:199864
-
-​
+HLS error 
+Object { type: "networkError", details: "manifestParsingError", fatal: true, url: "https://app-web-vercel-production.up.railway.app/api/stream/eb6ffec065b26259ad3d1811e0bbb0a5332ed276", err: Error, error: Error, reason: "no EXTM3U delimiter", response: {…}, context: {…}, networkDetails: XMLHttpRequest, … }
+main.88dbd0bd.js:2:197762
+Erreur du lecteur: 
+Object { type: "networkError", details: "manifestParsingError", fatal: true, url: "https://app-web-vercel-production.up.railway.app/api/stream/eb6ffec065b26259ad3d1811e0bbb0a5332ed276", err: Error, error: Error, reason: "no EXTM3U delimiter", response: {…}, context: {…}, networkDetails: XMLHttpRequest, … }
+main.88dbd0bd.js:2:201115
+HLS error 
+Object { type: "networkError", details: "manifestParsingError", fatal: true, url: "https://app-web-vercel-production.up.railway.app/api/stream/eb6ffec065b26259ad3d1811e0bbb0a5332ed276", err: Error, error: Error, reason: "no EXTM3U delimiter", response: {…}, context: {…}, networkDetails: XMLHttpRequest, … }
+main.88dbd0bd.js:2:197762
+Erreur du lecteur: 
+Object { type: "networkError", details: "manifestParsingError", fatal: true, url: "https://app-web-vercel-production.up.railway.app/api/stream/eb6ffec065b26259ad3d1811e0bbb0a5332ed276", err: Error, error: Error, reason: "no EXTM3U delimiter", response: {…}, context: {…}, networkDetails: XMLHttpRequest, … }
+main.88dbd0bd.js:2:201115
+HLS error 
+Object { type: "networkError", details: "manifestParsingError", fatal: true, url: "https://app-web-vercel-production.up.railway.app/api/stream/eb6ffec065b26259ad3d1811e0bbb0a5332ed276", err: Error, error: Error, reason: "no EXTM3U delimiter", response: {…}, context: {…}, networkDetails: XMLHttpRequest, … }
+main.88dbd0bd.js:2:197762
+Erreur du lecteur: 
+Object { type: "networkError", details: "manifestParsingError", fatal: true, url: "https://app-web-vercel-production.up.railway.app/api/stream/eb6ffec065b26259ad3d1811e0bbb0a5332ed276", err: Error, error: Error, reason: "no EXTM3U delimiter", response: {…}, context: {…}, networkDetails: XMLHttpRequest, … }
+main.88dbd0bd.js:2:201115
+HLS error 
+Object { type: "networkError", details: "manifestParsingError", fatal: true, url: "https://app-web-vercel-production.up.railway.app/api/stream/eb6ffec065b26259ad3d1811e0bbb0a5332ed276", err: Error, error: Error, reason: "no EXTM3U delimiter", response: {…}, context: {…}, networkDetails: XMLHttpRequest, … }
+main.88dbd0bd.js:2:197762
+Erreur du lecteur: 
+Object { type: "networkError", details: "manifestParsingError", fatal: true, url: "https://app-web-vercel-production.up.railway.app/api/stream/eb6ffec065b26259ad3d1811e0bbb0a5332ed276", err: Error, error: Error, reason: "no EXTM3U delimiter", response: {…}, context: {…}, networkDetails: XMLHttpRequest, … }
+main.88dbd0bd.js:2:201115
+HLS error 
+Object { type: "networkError", details: "manifestParsingError", fatal: true, url: "https://app-web-vercel-production.up.railway.app/api/stream/eb6ffec065b26259ad3d1811e0bbb0a5332ed276", err: Error, error: Error, reason: "no EXTM3U delimiter", response: {…}, context: {…}, networkDetails: XMLHttpRequest, … }
+main.88dbd0bd.js:2:197762
+Erreur du lecteur: 
+Object { type: "networkError", details: "manifestParsingError", fatal: true, url: "https://app-web-vercel-production.up.railway.app/api/stream/eb6ffec065b26259ad3d1811e0bbb0a5332ed276", err: Error, error: Error, reason: "no EXTM3U delimiter", response: {…}, context: {…}, networkDetails: XMLHttpRequest, … }
+main.88dbd0bd.js:2:201115
+HLS error 
+Object { type: "networkError", details: "manifestParsingError", fatal: true, url: "https://app-web-vercel-production.up.railway.app/api/stream/eb6ffec065b26259ad3d1811e0bbb0a5332ed276", err: Error, error: Error, reason: "no EXTM3U delimiter", response: {…}, context: {…}, networkDetails: XMLHttpRequest, … }
+main.88dbd0bd.js:2:197762
+Erreur du lecteur: 
+Object { type: "networkError", details: "manifestParsingError", fatal: true, url: "https://app-web-vercel-production.up.railway.app/api/stream/eb6ffec065b26259ad3d1811e0bbb0a5332ed276", err: Error, error: Error, reason: "no EXTM3U delimiter", response: {…}, context: {…}, networkDetails: XMLHttpRequest, … }
+main.88dbd0bd.js:2:201115
+HLS error 
+Object { type: "networkError", details: "manifestParsingError", fatal: true, url: "https://app-web-vercel-production.up.railway.app/api/stream/eb6ffec065b26259ad3d1811e0bbb0a5332ed276", err: Error, error: Error, reason: "no EXTM3U delimiter", response: {…}, context: {…}, networkDetails: XMLHttpRequest, … }
+main.88dbd0bd.js:2:197762
+Erreur du lecteur: 
+Object { type: "networkError", details: "manifestParsingError", fatal: true, url: "https://app-web-vercel-production.up.railway.app/api/stream/eb6ffec065b26259ad3d1811e0bbb0a5332ed276", err: Error, error: Error, reason: "no EXTM3U delimiter", response: {…}, context: {…}, networkDetails: XMLHttpRequest, … }
