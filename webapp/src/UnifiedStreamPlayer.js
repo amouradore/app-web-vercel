@@ -21,9 +21,7 @@ const UnifiedStreamPlayer = ({ channel, onClose }) => {
 
     // Cleanup on unmount
     return () => {
-      if (sessionIdRef.current) {
-        stopStream(sessionIdRef.current).catch(console.error);
-      }
+      // Cleanup si nécessaire
     };
   }, [channel]);
 
@@ -36,44 +34,36 @@ const UnifiedStreamPlayer = ({ channel, onClose }) => {
       // Étape 1: Connexion au backend
       setProgress(30);
       
-      // Étape 2: Démarrage de la conversion AceStream → HLS
+      // Étape 2: Démarrage de la conversion AceStream → HLS via Railway
       const response = await playChannel(channel.acestream_hash);
       
+      console.log('Backend response:', response);
+      
+      // Vérifier que nous avons reçu une URL de stream
+      if (!response.hls_url && !response.stream_url) {
+        throw new Error('Le backend n\'a pas retourné d\'URL de stream');
+      }
+      
       setProgress(60);
-      sessionIdRef.current = response.session_id;
       
-      // Étape 3: Attendre que le flux soit prêt
-      await waitForStreamReady(response.hls_url);
+      // Utiliser hls_url ou stream_url selon ce que le backend retourne
+      const streamUrl = response.hls_url || response.stream_url;
+      response.hls_url = streamUrl; // S'assurer que hls_url est défini
       
+      setProgress(80);
+      
+      // Pas besoin d'attendre - AceStream Engine sur Railway gère cela
       setProgress(100);
       setStreamData(response);
       setStatus('ready');
       
     } catch (err) {
       console.error('Erreur de démarrage:', err);
-      setError(err.message || 'Impossible de démarrer le stream');
+      setError(err.message || 'Impossible de démarrer le stream. Le backend Railway est peut-être en cours de démarrage.');
       setStatus('error');
     }
   };
 
-  const waitForStreamReady = async (hlsUrl, maxAttempts = 20) => {
-    for (let i = 0; i < maxAttempts; i++) {
-      try {
-        const response = await fetch(hlsUrl, { method: 'HEAD' });
-        if (response.ok) {
-          return true;
-        }
-      } catch (e) {
-        // Continue trying
-      }
-      
-      // Attendre 1 seconde entre chaque tentative
-      await new Promise(resolve => setTimeout(resolve, 1000));
-      setProgress(60 + (i * 2)); // Progress bar de 60% à 100%
-    }
-    
-    throw new Error('Timeout: le flux n\'a pas démarré à temps');
-  };
 
   const handleRetry = () => {
     startStream();
