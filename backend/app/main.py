@@ -196,14 +196,27 @@ async def play_acestream_channel(request: dict):
     }
 
 
-@app.get("/api/stream/{acestream_hash}")
+@app.api_route("/api/stream/{acestream_hash}", methods=["GET", "HEAD", "OPTIONS"])
 async def proxy_acestream_stream(acestream_hash: str):
     """
     Proxy endpoint that forwards AceStream Engine stream to the client
     This makes the local AceStream Engine accessible from the internet
+    Supports GET, HEAD, and OPTIONS methods for compatibility
     """
     import httpx
-    from fastapi.responses import StreamingResponse
+    from fastapi.responses import StreamingResponse, Response
+    from fastapi import Request
+    
+    # Handle OPTIONS preflight
+    if Request.method == "OPTIONS":
+        return Response(
+            status_code=200,
+            headers={
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET, HEAD, OPTIONS",
+                "Access-Control-Allow-Headers": "*",
+            }
+        )
     
     if not acestream_hash or len(acestream_hash) < 32:
         raise HTTPException(status_code=400, detail="Invalid AceStream hash")
@@ -213,7 +226,20 @@ async def proxy_acestream_stream(acestream_hash: str):
     acestream_url = f"{acestream_base}/ace/getstream?id={acestream_hash}"
     
     try:
-        # Stream the content from AceStream Engine to the client
+        # For HEAD requests, just check if AceStream Engine responds
+        async with httpx.AsyncClient(timeout=10.0) as client:
+            if Request.method == "HEAD":
+                response = await client.head(acestream_url)
+                return Response(
+                    status_code=response.status_code,
+                    headers={
+                        "Access-Control-Allow-Origin": "*",
+                        "Access-Control-Allow-Methods": "GET, HEAD, OPTIONS",
+                        "Content-Type": "video/mp2t",
+                    }
+                )
+        
+        # For GET requests, stream the content
         async def stream_generator():
             async with httpx.AsyncClient(timeout=None) as client:
                 async with client.stream("GET", acestream_url) as response:
@@ -230,7 +256,7 @@ async def proxy_acestream_stream(acestream_hash: str):
             media_type="video/mp2t",
             headers={
                 "Access-Control-Allow-Origin": "*",
-                "Access-Control-Allow-Methods": "GET, OPTIONS",
+                "Access-Control-Allow-Methods": "GET, HEAD, OPTIONS",
                 "Access-Control-Allow-Headers": "*",
                 "Cache-Control": "no-cache, no-store, must-revalidate",
                 "Connection": "keep-alive",
