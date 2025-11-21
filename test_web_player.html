@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test AceStream Web Player</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .test-container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        .test-title {
+            color: #2563eb;
+            border-bottom: 2px solid #2563eb;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        .test-item {
+            background: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 10px 0;
+        }
+        .hash-display {
+            font-family: monospace;
+            background: #1e293b;
+            color: #e2e8f0;
+            padding: 5px 10px;
+            border-radius: 4px;
+            display: inline-block;
+            font-size: 0.9em;
+        }
+        .test-button {
+            background: #059669;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            margin: 5px;
+            transition: background 0.3s;
+        }
+        .test-button:hover {
+            background: #047857;
+        }
+        .iframe-container {
+            margin-top: 15px;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .status {
+            padding: 10px;
+            border-radius: 6px;
+            margin: 10px 0;
+        }
+        .success { background: #d1fae5; color: #065f46; }
+        .error { background: #fee2e2; color: #991b1b; }
+        .warning { background: #fef3c7; color: #92400e; }
+    </style>
+</head>
+<body>
+    <h1>🧪 Test du AceStream Web Player</h1>
+    
+    <div class="test-container">
+        <h2 class="test-title">📊 Tests des Services Web AceStream</h2>
+        <p>Ces tests vérifieront si les services web AceStream fonctionnent avec vos hash existants.</p>
+        
+        <!-- Test 1: DAZN F1 -->
+        <div class="test-item">
+            <h3>🏎️ Test 1: DAZN F1 HD</h3>
+            <p><strong>Hash:</strong> <span class="hash-display">d65257bb934b73647374224fd62d836815804be2</span></p>
+            <button class="test-button" onclick="testService1('d65257bb934b73647374224fd62d836815804be2')">
+                🧪 Tester acestream.me
+            </button>
+            <button class="test-button" onclick="testService2('d65257bb934b73647374224fd62d836815804be2')">
+                🔄 Tester acestream.org
+            </button>
+            <div id="result1"></div>
+        </div>
+        
+        <!-- Test 2: LaLiga -->
+        <div class="test-item">
+            <h3>⚽ Test 2: DAZN LaLiga</h3>
+            <p><strong>Hash:</strong> <span class="hash-display">dda5d2cace9bc4cb0918e62bc50d657d4a10496a</span></p>
+            <button class="test-button" onclick="testService1('dda5d2cace9bc4cb0918e62bc50d657d4a10496a')">
+                🧪 Tester acestream.me
+            </button>
+            <button class="test-button" onclick="testService2('dda5d2cace9bc4cb0918e62bc50d657d4a10496a')">
+                🔄 Tester acestream.org
+            </button>
+            <div id="result2"></div>
+        </div>
+        
+        <!-- Test 3: La 1 -->
+        <div class="test-item">
+            <h3>📺 Test 3: La 1 HD</h3>
+            <p><strong>Hash:</strong> <span class="hash-display">b55d1a3d7a5121af685668d5f5e7baeb3ebab70e</span></p>
+            <button class="test-button" onclick="testService1('b55d1a3d7a5121af685668d5f5e7baeb3ebab70e')">
+                🧪 Tester acestream.me
+            </button>
+            <button class="test-button" onclick="testService2('b55d1a3d7a5121af685668d5f5e7baeb3ebab70e')">
+                🔄 Tester acestream.org
+            </button>
+            <div id="result3"></div>
+        </div>
+    </div>
+    
+    <div class="test-container">
+        <h2 class="test-title">🔧 Test du Composant React</h2>
+        <p>Vérifiez que votre application React se lance correctement :</p>
+        
+        <div class="status warning">
+            <strong>📱 Étapes à suivre :</strong><br>
+            1. Votre serveur React devrait se lancer automatiquement<br>
+            2. Ouvrez <a href="http://localhost:3000" target="_blank">http://localhost:3000</a><br>
+            3. Testez le bouton "🌐 Navigateur" sur un événement<br>
+            4. Vérifiez que le nouveau player s'affiche
+        </div>
+    </div>
+
+    <div class="test-container">
+        <h2 class="test-title">📋 Checklist de Test</h2>
+        <div class="test-item">
+            <h4>✅ Tests Fonctionnels</h4>
+            <ul>
+                <li>☐ L'application React se lance sans erreur</li>
+                <li>☐ Les événements s'affichent correctement</li>
+                <li>☐ Le bouton "🌐 Navigateur" est visible</li>
+                <li>☐ Le clic ouvre le nouveau web player</li>
+                <li>☐ L'iframe acestream.me se charge</li>
+                <li>☐ Le bouton de fermeture fonctionne</li>
+                <li>☐ Le fallback vers acestream.org marche</li>
+            </ul>
+        </div>
+        
+        <div class="test-item">
+            <h4>📱 Tests Responsive</h4>
+            <ul>
+                <li>☐ Interface mobile adaptée</li>
+                <li>☐ Player responsive sur smartphone</li>
+                <li>☐ Boutons accessibles sur tablette</li>
+                <li>☐ Overlay correctement centré</li>
+            </ul>
+        </div>
+        
+        <div class="test-item">
+            <h4>🔄 Tests de Fallback</h4>
+            <ul>
+                <li>☐ Service principal (acestream.me) accessible</li>
+                <li>☐ Basculement automatique si erreur</li>
+                <li>☐ Gestion d'erreur claire</li>
+                <li>☐ Bouton réessayer fonctionnel</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        function testService1(hash) {
+            const url = `https://acestream.me/embed/${hash}`;
+            showIframe(url, 'result1', 'acestream.me');
+        }
+        
+        function testService2(hash) {
+            const url = `https://acestream.org/play/${hash}`;
+            showIframe(url, 'result2', 'acestream.org');
+        }
+        
+        function showIframe(url, resultId, serviceName) {
+            const resultDiv = document.getElementById(resultId);
+            resultDiv.innerHTML = `
+                <div class="status warning">
+                    🔄 Test en cours de ${serviceName}...
+                </div>
+                <div class="iframe-container">
+                    <iframe 
+                        src="${url}" 
+                        width="100%" 
+                        height="400px" 
+                        frameborder="0"
+                        onload="handleIframeLoad('${resultId}', '${serviceName}')"
+                        onerror="handleIframeError('${resultId}', '${serviceName}')"
+                    ></iframe>
+                </div>
+                <p><strong>URL testée:</strong> <code>${url}</code></p>
+            `;
+        }
+        
+        function handleIframeLoad(resultId, serviceName) {
+            const statusDiv = document.querySelector(`#${resultId} .status`);
+            if (statusDiv) {
+                statusDiv.className = 'status success';
+                statusDiv.innerHTML = `✅ ${serviceName} : Service accessible !`;
+            }
+        }
+        
+        function handleIframeError(resultId, serviceName) {
+            const statusDiv = document.querySelector(`#${resultId} .status`);
+            if (statusDiv) {
+                statusDiv.className = 'status error';
+                statusDiv.innerHTML = `❌ ${serviceName} : Service indisponible ou erreur de chargement`;
+            }
+        }
+        
+        // Vérification automatique de l'état du serveur React
+        function checkReactServer() {
+            fetch('http://localhost:3000')
+                .then(response => {
+                    if (response.ok) {
+                        document.body.insertAdjacentHTML('afterbegin', `
+                            <div class="status success" style="margin-bottom: 20px;">
+                                ✅ Serveur React actif sur http://localhost:3000
+                            </div>
+                        `);
+                    }
+                })
+                .catch(() => {
+                    document.body.insertAdjacentHTML('afterbegin', `
+                        <div class="status error" style="margin-bottom: 20px;">
+                            ❌ Serveur React non accessible. Vérifiez que 'npm start' fonctionne.
+                        </div>
+                    `);
+                });
+        }
+        
+        // Vérifier le serveur au chargement
+        setTimeout(checkReactServer, 2000);
+    </script>
+</body>
+</html>

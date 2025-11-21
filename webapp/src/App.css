@@ -1,492 +1,359 @@
-body {
-  background-color: #1a1a1a;
-  color: #e0e0e0;
+/* App principale */
+.App {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
+
+/* Header de l'app */
+.app-header {
+  text-align: center;
+  padding: 2rem;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+}
+
+.app-header h1 {
+  font-size: 2.5rem;
   margin: 0;
-  padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
-.match-card {
-  background-color: #2d2d2d;
-  color: #ffffff;
-  border-radius: 12px;
-  margin-bottom: 0.75rem;
-  padding: 1rem;
-  display: flex;
-  align-items: center;
-  text-decoration: none;
-  border: 1px solid #444;
-  transition: transform 0.2s, box-shadow 0.2s;
+.app-header p {
+  font-size: 1.2rem;
+  margin: 0.5rem 0 0 0;
+  opacity: 0.9;
+}
+
+/* Container principal */
+.channel-list-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding-bottom: 2rem;
+}
+
+/* Section playlists */
+.playlists-section {
+  padding: 2rem;
+}
+
+.playlists-section h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.playlist-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem;
+  padding: 0 1rem;
+}
+
+.playlist-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  border-radius: 15px;
+  padding: 2rem;
   cursor: pointer;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-  position: relative;
-  flex-direction: column;
-  align-items: stretch;
-}
-
-.match-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-  background-color: #333333;
-}
-
-.match-card-content {
-  display: flex;
-  align-items: center;
-  width: 100%;
-  gap: 0.5rem;
-  justify-content: space-around;
-  margin-bottom: 0.5rem;
-}
-
-.team-section {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  min-width: 80px;
-  flex: 1;
+  transition: all 0.3s ease;
   text-align: center;
 }
 
-.team-section.left {
-  align-items: flex-end;
-  text-align: right;
-  order: 1;
+.playlist-card:hover {
+  transform: translateY(-5px);
+  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.4);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
 }
 
-.vs-divider {
+.playlist-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.playlist-card h3 {
+  margin: 0;
+  font-size: 1.3rem;
+}
+
+/* Section chaînes */
+.channels-section {
+  padding: 1rem 2rem;
+}
+
+.channels-header {
   display: flex;
   align-items: center;
-  justify-content: center;
-  order: 2;
-  margin: 0 0.25rem;
-  min-width: 30px;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+  gap: 1rem;
 }
 
-.vs-text {
+.back-button {
+  background: rgba(255, 255, 255, 0.2);
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+}
+
+.back-button:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: translateX(-5px);
+}
+
+.channels-header h2 {
+  margin: 0;
+  font-size: 1.8rem;
+}
+
+.channel-count {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
   font-size: 0.9rem;
-  font-weight: bold;
-  color: #FFC107;
-  text-align: center;
 }
 
-.team-section.right {
-  align-items: flex-start;
-  text-align: left;
-  order: 3;
+/* Barre de recherche */
+.search-bar {
+  margin-bottom: 2rem;
 }
 
-.team-name {
-  font-size: 0.95rem;
-  font-weight: 600;
-  margin-bottom: 0.25rem;
-  text-align: center;
-  max-width: 100px;
-  overflow: hidden;
-  text-overflow: ellipsis;
+.search-bar input {
+  width: 100%;
+  padding: 1rem 1.5rem;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-radius: 25px;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: 1.1rem;
+  outline: none;
+  transition: all 0.3s ease;
 }
 
-.info-section {
+.search-bar input::placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.search-bar input:focus {
+  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+/* Liste des chaînes */
+.channels-list {
+  margin-top: 2rem;
+}
+
+.channel-group {
+  margin-bottom: 3rem;
+}
+
+.group-title {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem 1rem;
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.channel-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.channel-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  border-radius: 15px;
+  padding: 1.5rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  min-width: 80px;
+  gap: 1rem;
+}
+
+.channel-card:hover {
+  transform: translateY(-5px);
+  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.4);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.channel-logo {
   width: 100%;
+  height: 100px;
+  object-fit: contain;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  padding: 0.5rem;
+}
+
+.channel-info {
+  flex: 1;
+}
+
+.channel-info h4 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.1rem;
+}
+
+.channel-id {
+  font-size: 0.85rem;
+  opacity: 0.7;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 0.25rem 0.5rem;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.play-button {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: none;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.play-button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+/* Loading */
+.loading {
+  text-align: center;
+  padding: 3rem;
+  font-size: 1.3rem;
+}
+
+/* Messages d'erreur */
+.error-message {
+  background: rgba(220, 38, 38, 0.2);
+  border: 2px solid rgba(220, 38, 38, 0.5);
+  border-radius: 15px;
+  padding: 2rem;
+  margin: 2rem;
+  text-align: center;
+}
+
+.error-message button {
+  background: rgba(255, 255, 255, 0.2);
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 1rem;
+  transition: all 0.3s ease;
+}
+
+.error-message button:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+/* Footer */
+.app-footer {
+  text-align: center;
+  padding: 2rem;
+  margin-top: 3rem;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+}
+
+.app-footer p {
+  margin: 0.5rem 0;
+  opacity: 0.8;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .app-header h1 {
+    font-size: 1.8rem;
+  }
+
+  .app-header p {
+    font-size: 1rem;
+  }
+
+  .playlist-grid,
+  .channel-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .channels-header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .back-button {
+    width: 100%;
+  }
+}
+
+/* Progress bar */
+.progress-bar {
+  width: 100%;
+  height: 8px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 1rem 0;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+  transition: width 0.3s ease;
+}
+
+.progress-text {
+  font-size: 1.2rem;
+  font-weight: bold;
   margin: 0.5rem 0;
 }
 
 .info-text {
-  text-align: center;
-  margin-bottom: 0.25rem;
-  display: flex;
-  justify-content: center;
-  gap: 1rem;
-  flex-wrap: wrap;
-}
-
-.match-time {
   font-size: 0.9rem;
-  font-weight: bold;
-  color: #4CAF50;
-  margin-bottom: 0.25rem;
+  opacity: 0.8;
+  line-height: 1.6;
 }
 
-.match-competition {
-  font-size: 0.75rem;
-  color: #FF9800;
-  margin-bottom: 0.25rem;
-}
-
-.match-channel {
-  font-size: 0.75rem;
-  color: #9E9E9E;
-  text-align: center;
-}
-
-.play-link {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: linear-gradient(45deg, #2196F3, #21CBF3);
-  color: white;
-  text-decoration: none;
-  padding: 0.6rem 1rem;
-  border-radius: 25px;
-  font-weight: bold;
-  transition: all 0.3s ease;
+/* Badges */
+.badge {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  border-radius: 15px;
   font-size: 0.85rem;
-  min-width: 80px;
-  box-shadow: 0 2px 5px rgba(33, 150, 243, 0.3);
-  width: 100%;
-  margin-top: 0.5rem;
-  max-width: 200px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.play-link:hover {
-  background: linear-gradient(45deg, #1976D2, #03A9F4);
-  color: white;
-  text-decoration: none;
-  transform: scale(1.05);
-  box-shadow: 0 4px 10px rgba(33, 150, 243, 0.4);
-}
-
-.channel-logo {
-  width: 30px;
-  height: 30px;
-  object-fit: contain;
-  border-radius: 50%;
-  border: 1px solid #666;
-  margin-bottom: 0.25rem;
-}
-
-.competition-section {
-  margin-bottom: 1.5rem;
-}
-
-.competition-title {
-  color: #FFC107;
-  font-size: 1.1rem;
-  margin-bottom: 0.75rem;
-  padding-bottom: 0.25rem;
-  border-bottom: 1px solid #FFC107;
-  text-align: center;
   font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
+  margin: 0.25rem;
 }
 
-.competition-logo {
-  width: 30px;
-  height: 30px;
-  object-fit: contain;
-  border-radius: 50%;
+.badge-success {
+  background: rgba(16, 185, 129, 0.3);
+  border: 1px solid rgba(16, 185, 129, 0.5);
 }
 
-.ad-space {
-  display: none;
+.badge-info {
+  background: rgba(59, 130, 246, 0.3);
+  border: 1px solid rgba(59, 130, 246, 0.5);
 }
 
-/* Styles pour les groupes de chaînes TV */
-.tv-channels-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 1rem;
+.stream-info {
   margin-top: 1rem;
-}
-
-.tv-group-card {
-  background-color: #2d2d2d;
-  color: #ffffff;
-  border-radius: 12px;
-  margin-bottom: 0.75rem;
-  padding: 1rem;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-decoration: none;
-  border: 1px solid #444;
-  transition: transform 0.2s, box-shadow 0.2s;
-  cursor: pointer;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-  position: relative;
-}
-
-.tv-group-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-  background-color: #333333;
-  color: #ffffff;
-}
-
-.tv-group-content {
-  display: flex;
-  align-items: center;
-  width: 100%;
-  margin-bottom: 0.5rem;
-}
-
-.tv-group-info {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  flex: 1;
-}
-
-.tv-group-name {
-  font-size: 1.2rem;
-  font-weight: bold;
-  margin-bottom: 0.25rem;
   text-align: center;
-  color: #FFC107;
-}
-
-.tv-group-count {
-  font-size: 0.9rem;
-  color: #9E9E9E;
-  text-align: center;
-}
-
-.tv-group-channels-preview {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.5rem;
-  margin: 0.5rem 0;
-  width: 100%;
-}
-
-.tv-group-channel-logo {
-  width: 30px;
-  height: 30px;
-  object-fit: contain;
-  border-radius: 50%;
-  border: 1px solid #ccc;
-}
-
-.tv-group-more {
-  font-size: 0.8rem;
-  color: #FFC107;
-  font-weight: bold;
-}
-
-.tv-group-play-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  background: linear-gradient(45deg, #2196F3, #21CBF3);
-  color: white;
-  text-decoration: none;
-  padding: 0.5rem 1rem;
-  border-radius: 25px;
-  font-weight: bold;
-  transition: all 0.3s ease;
-  font-size: 0.9rem;
-  min-width: 120px;
-  box-shadow: 0 2px 5px rgba(33, 150, 243, 0.3);
-  margin-top: 0.5rem;
-}
-
-.tv-group-play-link:hover {
-  background: linear-gradient(45deg, #1976D2, #03A9F4);
-  color: white;
-  text-decoration: none;
-  transform: scale(1.05);
-  box-shadow: 0 4px 10px rgba(33, 150, 243, 0.4);
-}
-
-.tabs-navigation {
-  margin-bottom: 1rem;
-}
-
-.tabs-navigation .nav-tabs {
-  border-bottom: 1px solid #444;
-}
-
-.tabs-navigation .nav-link {
-  border: 1px solid transparent;
-  border-top-left-radius: 0.375rem;
-  border-top-right-radius: 0.375rem;
-  color: #adb5bd;
-  background-color: #2d2d2d;
-  cursor: pointer;
-}
-
-.tabs-navigation .nav-link:hover {
-  border-color: #444;
-  background-color: #333;
-}
-
-.tabs-navigation .nav-link.active {
-  color: #e0e0e0;
-  background-color: #1a1a1a;
-  border-color: #444 #444 #1a1a1a;
-  font-weight: bold;
-}
-
-.ad-space {
-  min-height: 100vh;
-  color: #e0e0e0;
-}
-
-.alert-info {
-  background-color: #282c34;
-  color: #e0e0e0;
-  border-color: #444;
-}
-
-.alert-link {
-  color: #87ceeb;
-}
-
-/* Styles pour la vue des chaînes individuelles */
-.tv-channel-card {
-  background-color: #2d2d2d;
-  border-radius: 12px;
-  padding: 1rem;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-between; /* Change to space-between */
-  text-decoration: none;
-  border: 1px solid #444;
-  transition: transform 0.2s, box-shadow 0.2s;
-  cursor: pointer;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-  text-align: center;
-  height: 100%; /* Make cards of equal height */
-}
-
-.tv-channel-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-  background-color: #333333;
-}
-
-.tv-channel-logo {
-  width: 80px;
-  height: 80px;
-  object-fit: contain;
-  margin-bottom: 0.75rem;
-  border-radius: 8px;
-}
-
-.tv-channel-name {
-  color: #e0e0e0;
-  font-size: 0.9rem;
-  font-weight: 600;
-  margin-bottom: 1rem;
-  flex-grow: 1; /* Allow name to take available space */
-  /* Gérer les noms longs */
-  white-space: normal; /* Allow wrapping */
-  overflow: hidden;
-  text-overflow: ellipsis;
-  display: -webkit-box;
-  -webkit-line-clamp: 2; /* Limit to 2 lines */
-  -webkit-box-orient: vertical;
-  width: 100%;
-}
-
-/* Ajuster le bouton play pour ce contexte */
-.tv-channel-card .play-link {
-  width: 80%;
-  margin-top: auto; /* Pousse le bouton vers le bas */
-}
-
-/* Adaptation pour mobile */
-@media (min-width: 769px) {
-  .match-card {
-    flex-direction: row;
-  }
-  
-  .match-card-content {
-    margin-bottom: 0;
-  }
-  
-  .info-section {
-    margin: 0 1rem;
-    width: auto;
-  }
-  
-  .play-link {
-    width: auto;
-    margin: 0 0 0 auto;
-    max-width: none;
-  }
-}
-
-@media (max-width: 768px) {
-  .match-card {
-    flex-direction: column;
-    align-items: stretch;
-    padding: 0.75rem;
-  }
-  
-  .match-card-content {
-    margin-bottom: 0.5rem;
-  }
-  
-  .team-section {
-    justify-content: center;
-    margin-bottom: 0.25rem;
-  }
-  
-  .team-section.right {
-    margin-top: 0.25rem;
-  }
-  
-  .info-section {
-    margin: 0.5rem 0;
-  }
-  
-  .play-link {
-    align-self: center;
-    margin: 0.5rem auto;
-  }
-  
-  .team-name {
-    font-size: 0.9rem;
-    margin: 0 0.1rem;
-  }
-  
-  .match-time {
-    font-size: 0.85rem;
-  }
-  
-  .match-channel {
-    font-size: 0.7rem;
-  }
-  
-  .channel-logo {
-    width: 30px;
-    height: 30px;
-  }
-  
-  .competition-title {
-    font-size: 1.2rem;
-  }
-  
-  .container {
-    padding: 0 0.5rem;
-  }
-  
-  .match-card-content {
-    margin-bottom: 0;
-  }
-  
-  .info-section {
-    margin: 0 1rem;
-    width: auto;
-  }
-  
-  .play-link {
-    width: auto;
-    margin: 0 0 0 auto;
-    max-width: none;
-  }
 }

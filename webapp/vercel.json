@@ -1,0 +1,21 @@
+{
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "outputDirectory": "build",
+  "framework": "create-react-app",
+  "headers": [
+    {
+      "source": "/lista.m3u",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "audio/x-mpegurl"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
+    }
+  ]
+}

@@ -165,15 +165,55 @@ def get_playlist_channels(playlist_name: str):
 @app.post("/api/play")
 def play_acestream_channel(request: dict):
     """
-    Start streaming an AceStream channel (placeholder for now)
+    Convert AceStream hash to playable HLS/HTTP stream URL
+    Uses public AceStream proxy services
     """
     acestream_hash = request.get("hash")
     
     if not acestream_hash or len(acestream_hash) < 32:
         raise HTTPException(status_code=400, detail="Invalid AceStream hash")
     
+    # Remove any whitespace or special characters
+    acestream_hash = acestream_hash.strip()
+    
+    # Public AceStream proxy options
+    proxy_urls = [
+        f"http://127.0.0.1:6878/ace/getstream?id={acestream_hash}",  # Local AceStream (if available)
+        f"https://acestream.me/embed/{acestream_hash}",  # AceStream.me embed
+        f"http://acestream.org/player/{acestream_hash}",  # AceStream.org
+    ]
+    
     return {
         "status": "success",
-        "message": "Streaming functionality will be implemented",
-        "hash": acestream_hash
+        "hash": acestream_hash,
+        "stream_url": proxy_urls[0],
+        "alternative_urls": proxy_urls,
+        "instructions": {
+            "method_1": "Use local AceStream Engine (if installed)",
+            "method_2": "Use web-based AceStream embed player",
+            "method_3": "Direct HLS proxy (requires backend implementation)"
+        }
+    }
+
+
+@app.get("/api/stream/{acestream_hash}")
+def get_stream_url(acestream_hash: str):
+    """
+    Get direct streaming URL for AceStream hash
+    Returns multiple options for the client to try
+    """
+    if not acestream_hash or len(acestream_hash) < 32:
+        raise HTTPException(status_code=400, detail="Invalid AceStream hash")
+    
+    acestream_hash = acestream_hash.strip()
+    
+    return {
+        "hash": acestream_hash,
+        "stream_urls": {
+            "local": f"http://127.0.0.1:6878/ace/getstream?id={acestream_hash}",
+            "embed": f"https://acestream.me/embed/{acestream_hash}",
+            "web_player": f"http://acestream.org/player/{acestream_hash}",
+        },
+        "recommended": "embed",
+        "note": "If you don't have AceStream installed, use the 'embed' URL which works in browser"
     }

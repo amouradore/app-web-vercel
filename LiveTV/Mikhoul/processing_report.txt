@@ -1,0 +1,263 @@
+M3U Collector Processing Report
+Country: Mikhoul
+Generated: 2025-10-13 13:51:03
+============================================================
+
+PROCESSING STATISTICS
+-------------------------
+Total Lines Processed: 7999
+Total Channels Found: 1270
+Parsing Errors: 0
+Urls Validated: 1052
+Active Urls: 796
+Geo Blocked Urls: 135
+Validation Time: 108.36332154273987
+Inactive By Error: {'http_404': 170, 'http_502': 4, 'inactive': 52, 'http_401': 3, 'http_400': 4, 'http_504': 8, 'invalid_content': 8, 'http_503': 2, 'http_500': 5}
+Total Processing Time: 144.398916721344
+Final Channel Count: 796
+Source Urls Processed: 8
+Total Skipped Urls: 145
+
+CHANNEL DISTRIBUTION
+--------------------
+6. |FR|🇫🇷 LOCALES - RÉGIONALES: 111 channels
+Uncategorized: 85 channels
+Music: 50 channels
+2. |FR|🇫🇷 GÉNÉRALISTES: 44 channels
+Sports: 40 channels
+5. |FR|🇫🇷 SPORT - SÉRIES / FILMS: 40 channels
+1. |FR|🇫🇷 INFORMATION: 37 channels
+General: 37 channels
+Généraliste: 33 channels
+10. |TR|🇹🇷 ÇOCUK - SPOR: 28 channels
+Kids: 20 channels
+News: 18 channels
+3. |FR|🇫🇷 MUSIQUE - JEUNESSE: 14 channels
+100% Français: 14 channels
+À Binge-Watch: 12 channels
+Kids & Family: 12 channels
+FRANCE: 12 channels
+Divertissement: 10 channels
+Cinéma: 10 channels
+Movies: 9 channels
+Séries Policières: 9 channels
+Classic TV: 9 channels
+Lifestyle: 9 channels
+Actualités: 8 channels
+Animation: 8 channels
+Crime & Mystère: 8 channels
+TV Réalité: 7 channels
+House of Horror: 7 channels
+Documentaire: 7 channels
+Nature & Travel: 7 channels
+Musique: 6 channels
+Daytime TV: 6 channels
+Legislative: 5 channels
+Comedy: 5 channels
+Nouveau sur Pluto TV: 4 channels
+Sports & Auto: 4 channels
+Sci-Fi & Action: 4 channels
+History & Science: 4 channels
+Communautaire: 3 channels
+Quebec TV: 3 channels
+Emissions cultes: 3 channels
+Comédie: 3 channels
+Affaires Publiques: 2 channels
+Series: 2 channels
+Outdoor: 2 channels
+Anime & Gaming, Kids & Family: 2 channels
+True Crime: 2 channels
+International: 2 channels
+Drama TV: 2 channels
+Hit TV, True Crime: 2 channels
+Reality: 2 channels
+Educatif: 1 channels
+Film: 1 channels
+Comedie: 1 channels
+Réréalité: 1 channels
+Thématique: 1 channels
+Cuisine: 1 channels
+Movies;Series: 1 channels
+Weather: 1 channels
+Shop: 1 channels
+Hit TV: 1 channels
+Anime & Gaming: 1 channels
+Hit TV, Game Shows: 1 channels
+Drama TV, Movies: 1 channels
+
+VALIDATION FAILURE BREAKDOWN
+----------------------------
+HTTP 400 Errors: 4 channels
+HTTP 401 Errors: 3 channels
+HTTP 404 Errors: 170 channels
+HTTP 500 Errors: 5 channels
+HTTP 502 Errors: 4 channels
+HTTP 503 Errors: 2 channels
+HTTP 504 Errors: 8 channels
+Inactive: 52 channels
+Invalid Content: 8 channels
+
+SKIPPED URLS (Invalid, Non-HTTP, or Duplicate)
+---------------------------------------------
+--- From Source: https://github.com/Sphinxroot/QC-TV/raw/16afc34391cf7a1dbc0b6a8273476a7d3f9ca33b/Quebec.m3u (101 skipped) ---
+URL: plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.youtube/play/?video_id=t7Ix1-hmJSo (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.youtube/play/?video_id=46IDituRcRY (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.youtube/play/?video_id=5tIuEe-uKBE (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCSiM-2Rl7d95puhwt0gUL-w/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCVSWLtm3ijS-rTwa__Ww2Rg/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.vtele/?url=direct&sourceUrl=direct (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCO3BwNN_1uT00Nd7pGKoyDA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.twitch.tv/telemagtv (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6341717443112&sourceUrl=ref%3Atva_6341717443112 (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5gfYXsS_p1EV5e42a2RKjQ/live (Reason: Invalid/Non-HTTP)
+URL: 0.0.0.0 (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMZiT0umFpHmKxJfvLKh_TA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCfxsdqbjfbGb5cxZB00Kl0g/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9JZPWL5qLWyDbIUCA4g-mQ/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.infologique.TVAgo/?url=ref%3ATVASports_1_BO_VMedia&sourceUrl=ref%3ATVASports_1_BO_VMedia (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.infologique.TVAgo/?url=ref%3ATVASports_2_BO_VMedia&sourceUrl=ref%3ATVASports_2_BO_VMedia (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x82yo9k (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x834g9n (Reason: Invalid/Non-HTTP)
+URL: 0.0.0.0 (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/user/bellahdjel/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCY1ZdEVlbTvpUzmoWtKSsA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.streamlink-tester/?action=play&url=https://player.castr.com/live_f88ae0808c9911ee9d20297cbe04ce6d (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.streamlink-tester/?action=play&url=https://player.castr.com/live_ee53b1d08d9511ee89c1a3cd362d5ce1 (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnLHq8falZ_amWrLZx72t3g/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCj7mjJ8KYA7tLly9RUAb6XA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCSuQcFLCBp5OpgJ8gLgxmKQ/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCbpWeJEG79mzbvZQMK3-BjA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCbgIbDt25VGDd_lt1roFNpA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.twitch.tv/tvctklive (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.streamlink-tester/?action=play&url=https://player.castr.com/live_d6983bc091e611edbddd7fe8982d8daf (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live (Reason: Invalid/Non-HTTP)
+URL: 0.0.0.0 (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCAEDRKAof_vZLRLVoyIJpgw/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCi82jQda34Gm2vHWK6h5alA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCFwHb97ovTJRco03JzANMZA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6346413536112&sourceUrl=ref%3Atva_6346413536112 (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC1u7tEGWEYZ5lEoKwn3iWdw/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCOMiX82BXn07GLGPWGZgz3w/live (Reason: Invalid/Non-HTTP)
+URL: 0.0.0.0 (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_848K2Cs600aXnMoS-94cA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCdm7VF1WNDPw_MggKc_2V5w/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCY3_KU8qXQeNnPQ_YHI00mw/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x8azdl4 (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCpFChfApiGgM5k_qG6Fmo8w/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5juy2fbHq4kKmpUq3IkHoQ/live (Reason: Invalid/Non-HTTP)
+URL: 0.0.0.0 (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.twitch.tv/blvd_fm (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.twitch.tv/djmixradio (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.twitch.tv/fm93quebec (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.twitch.tv/dupontlematin (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.twitch.tv/quebecreveille (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.twitch.tv/peeweeradiodj (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.twitch.tv/radiotalbot (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.twitch.tv/sousecoute (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.twitch.tv/afterpt (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.twitch.tv/djshoo (Reason: Invalid/Non-HTTP)
+URL: 0.0.0.0 (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCm3eAbiTKAowAPMpSdd1Xg/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCjc4KzaBWz4FwyYL9N5uRGA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCyzhllULjCifNrOCi7Q6jnQ/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCb7WCk6Cx9JPxCesBM3CWbQ/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwKXgS_J5Bnw_mc14y6_lEg/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC8VoCstt3TotzFpVADWl5jA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5GoNK27LOCirP-5wdF323A/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMfCCq3Ywv0nQ1Gnjf902Mw/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCpccfkL7YGGvmsJ4mOhxskA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCLjiZDTS2KBfeHQ5nntCh5w/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0INBWQnm9MeTzIc9E8Y8Tg/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPKTIkU-K6gFfv-YdoB_UTA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCJGmU9-dA7gD5Imke8Aw-A/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCfpIBTNbtRWKFaifJ2r7xKg/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCiLRZm4-Hui38qhoIQw_uXg/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZrHMtnkrI2wvYFRweKNOtA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCB8xSBDp2gaDN8sBbxk_2QQ/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMICLOPoQo4JSKJe5wIYZpw/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCo8iejNpzPUCa7bkoKMNW_Q/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCo0pCT0QZsA1Tgeg71r-V4w/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC42OBIMKLHziilr3BwKmfEA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCLX8fMJOxWo9WmWPr-ws-w/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCL-Hr2FSsbz2OcW6neLeCmA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCho_cik7f5pK2CjJ0f5dxSA/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnbUxJeL47QJWzNWApY7hgg/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC4UyW0CoFiJaFCFaOzoQQ5w/live (Reason: Invalid/Non-HTTP)
+URL: 0.0.0.0 (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UChb298sZlCxkN0BbyPdWYTg/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCNNsE_Xj2ndAAnQETObPrVQ/live (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.youtube/play/?video_id=ak1hE3SnR4o (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.youtube/play/?video_id=Z0t8KczeFJA (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.youtube/play/?video_id=FxZnGW0XthA (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.youtube/play/?video_id=mjbAK-Au4uI (Reason: Invalid/Non-HTTP)
+URL: 0.0.0.0 (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6348290074112&sourceUrl=ref%3Atva_6348290074112 (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6311644419112&sourceUrl=ref%3Atva_6311644419112 (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6309384716112&sourceUrl=ref%3Atva_6309384716112 (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6309386882112&sourceUrl=ref%3Atva_6309386882112 (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4 (Reason: Invalid/Non-HTTP)
+URL: plugin://plugin.video.youtube/play/?video_id=WHhzK7k22q0 (Reason: Invalid/Non-HTTP)
+
+--- From Source: https://github.com/ipstreet312/freeiptv/raw/refs/heads/master/ressources/allgr.m3u (19 skipped) ---
+URL: https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8 (Reason: Duplicate)
+URL: https://new.cache-stream.workers.dev/channel/UCCCPCZNChQdGa9EkATeye4g/live.m3u8 (Reason: Duplicate)
+URL: error: No playable streams found on this URL: https://www.tf1.fr/tf1/direct (Reason: Invalid/Non-HTTP)
+URL: https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8 (Reason: Duplicate)
+URL: https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_Brefcinema/playlist.m3u8 (Reason: Duplicate)
+URL: https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8 (Reason: Duplicate)
+URL: https://indisponible (Reason: Duplicate)
+URL: https://section (Reason: Duplicate)
+URL: https://section (Reason: Duplicate)
+URL: https://section (Reason: Duplicate)
+URL: https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8 (Reason: Duplicate)
+URL: https://section (Reason: Duplicate)
+URL: https://section (Reason: Duplicate)
+URL: https://hls.savoir.media/live/stream.m3u8 (Reason: Duplicate)
+URL: https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8 (Reason: Duplicate)
+URL: https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8 (Reason: Duplicate)
+URL: https://trkvz-live.daioncdn.net/minikago/minikago.m3u8 (Reason: Duplicate)
+URL: https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8 (Reason: Duplicate)
+URL: https://trkvz-live.daioncdn.net/aspor/aspor.m3u8 (Reason: Duplicate)
+
+--- From Source: https://iptv-org.github.io/iptv/countries/ca.m3u (10 skipped) ---
+URL: https://hls.savoir.media/live/stream.m3u8 (Reason: Duplicate)
+URL: https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8 (Reason: Duplicate)
+URL: https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8 (Reason: Duplicate)
+URL: https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8 (Reason: Duplicate)
+URL: https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8 (Reason: Duplicate)
+URL: https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8 (Reason: Duplicate)
+URL: https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8 (Reason: Duplicate)
+URL: https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8 (Reason: Duplicate)
+URL: https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8 (Reason: Duplicate)
+URL: https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8 (Reason: Duplicate)
+
+--- From Source: https://tinyurl.com/Stream2IPTV?region=fr&service=SamsungTVPlus (5 skipped) ---
+URL: https://jmp2.uk/sam-FR2600004SS.m3u8 (Reason: Duplicate)
+URL: https://jmp2.uk/sam-FRAJ3800002W5.m3u8 (Reason: Duplicate)
+URL: https://jmp2.uk/sam-FRAJ38000089S.m3u8 (Reason: Duplicate)
+URL: https://jmp2.uk/sam-FRAJ38000035M.m3u8 (Reason: Duplicate)
+URL: https://jmp2.uk/sam-FRBD5100002NL.m3u8 (Reason: Duplicate)
+
+--- From Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_rakuten.m3u (10 skipped) ---
+URL: https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8 (Reason: Duplicate)
+URL: https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8 (Reason: Duplicate)
+URL: https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047 (Reason: Duplicate)
+URL: https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8 (Reason: Duplicate)
+URL: https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8 (Reason: Duplicate)
+URL: https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8 (Reason: Duplicate)
+URL: https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8 (Reason: Duplicate)
+URL: https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8 (Reason: Duplicate)
+URL: https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8 (Reason: Duplicate)
+URL: https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8 (Reason: Duplicate)
+
+
+CONFIGURATION
+-------------
+Link checking: True
+Deduplication: True
+Quality sorting: True
+Excluded groups: 57

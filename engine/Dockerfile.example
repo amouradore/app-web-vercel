@@ -1,0 +1,8 @@
+# Exemple indicatif si vous avez un paquet/binaire AceStream Engine
+# NOTE: à compléter selon votre source de paquets/binaire légal
+# FROM debian:stable-slim
+# RUN apt-get update && apt-get install -y wget ca-certificates && rm -rf /var/lib/apt/lists/*
+# # Copiez ou installez vos binaires AceStream ici
+# COPY ./acestream/ /opt/acestream/
+# EXPOSE 6878
+# CMD ["/opt/acestream/start-engine.sh"]

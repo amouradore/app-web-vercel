@@ -1,30 +1,10 @@
-(base) PS C:\Users\DELL\Desktop\app2\webapp> vercel login
-Vercel CLI 48.2.0
-
-  Visit https://vercel.com/oauth/device?user_code=LMTG-WCKW
-
-  Congratulations! You are now signed in.
-
-  To deploy something, run `vercel`.
-
-  💡 To deploy every commit automatically,
-  connect a Git Repository (vercel.link/git (https://vercel.link/git)).
-(base) PS C:\Users\DELL\Desktop\app2\webapp> vercel --prod
-Vercel CLI 48.2.0
-? Set up and deploy “~\Desktop\app2\webapp”? yes
-? Which scope should contain your project? amouradore's projects
-? Link to existing project? no
-? What’s your project’s name? souabni
-? In which directory is your code located? ./
-Local settings detected in vercel.json:
-Auto-detected Project Settings (Create React App):
-- Build Command: react-scripts build
-- Development Command: react-scripts start
-- Install Command: `yarn install`, `pnpm install`, `npm install`, or `bun install`
-- Output Directory: build
-? Want to modify these settings? no
-? Do you want to change additional project settings? no
-🔗  Linked to amouradores-projects/souabni (created .vercel and added it to .gitignore)
-🔍  Inspect: https://vercel.com/amouradores-projects/souabni/8VRHfSNfC8jhUST27KEcA5quDeQm [4s]
-✅  Production: https://souabni-krrdsmf39-amouradores-projects.vercel.app [4s]
-(base) PS C:\Users\DELL\Desktop\app2\webapp>
+10:55:19.652 Running build in Washington, D.C., USA (East) � iad1
+10:55:19.653 Build machine configuration: 2 cores, 8 GB
+10:55:19.790 Cloning github.com/amouradore/app-web-vercel (Branch: main, Commit: e5775fb)
+10:55:19.791 Previous build caches not available.
+10:55:20.272 Cloning completed: 482.000ms
+10:55:20.664 Running "vercel build"
+10:55:21.057 Vercel CLI 48.10.5
+10:55:21.655 Running "install" command: `cd webapp && npm install`...
+10:55:21.659 sh: line 1: cd: webapp: No such file or directory
+10:55:21.663 Error: Command "cd webapp && npm install" exited with 1

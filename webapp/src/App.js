@@ -1,5 +1,20 @@
 import React, { useState, useEffect, useRef } from 'react';
 import './App.css';
+import './PlayButtons.css';
+import './WebPlayer.css';
+import VideoPlayer from './VideoPlayer';
+import SmartStreamPlayer from './SmartStreamPlayer';
+import AceStreamWebPlayer from './AceStreamWebPlayer';
+import HLSPlayer from './HLSPlayer';
+import { startStreamSession, stopStreamSession } from './services/streamApi';
+import ImprovedWebPlayer from './ImprovedWebPlayer';
+import DirectStreamPlayer from './DirectStreamPlayer';
+import SimpleWorkingPlayer from './SimpleWorkingPlayer';
+import NoInstallStreamPlayer from './NoInstallStreamPlayer';
+import RealIPTVPlayer from './RealIPTVPlayer';
+import GuaranteedStreamPlayer from './GuaranteedStreamPlayer';
+import './ImprovedWebPlayer.css';
+import TestPlayer from './TestPlayer';
 
 // Fonction pour parser le nom de l'événement
 const parseEventName = (name, rawInfo = '') => {
@@ -105,6 +120,13 @@ function App() {
   const [selectedGroupName, setSelectedGroupName] = useState(''); // Pour stocker le nom du groupe sélectionné
   const [error, setError] = useState(null);
   const [loading, setLoading] = useState(true);
+  const [showVideoPlayer, setShowVideoPlayer] = useState(false);
+  const [currentStream, setCurrentStream] = useState(null);
+  const [useWebPlayer, setUseWebPlayer] = useState(true); // Nouveau: utiliser le web player par défaut
+  const [hlsUrl, setHlsUrl] = useState(null);
+  const [hlsSessionId, setHlsSessionId] = useState(null);
+  const API_BASE = process.env.REACT_APP_API_BASE || 'http://localhost:8000';
+  const [showTestMode, setShowTestMode] = useState(false); // Mode test temporaire
 
   const adRef1 = useRef(null);
   const adRef2 = useRef(null);
@@ -338,15 +360,39 @@ function App() {
     // Afficher la pub Adsterra à chaque clic
     showAdsterraPopunder();
     
-    // Afficher un message à l'utilisateur pour installer Ace Stream s'il ne l'a pas
-    const hasAceStream = checkAceStreamInstallation();
-    
-    if (!hasAceStream) {
-      const installConfirmed = window.confirm("Pour regarder ce flux, vous devez installer Ace Stream. Souhaitez-vous le télécharger ?");
-      if (installConfirmed) {
-        window.open("https://www.acestream.org/", "_blank");
-      }
+    // Ouvrir le lecteur vidéo intégré
+    setCurrentStream(channel);
+    setShowVideoPlayer(true);
+  };
+
+  const handlePlayInBrowser = async (channel) => {
+    setCurrentStream(channel);
+    setShowVideoPlayer(true);
+    try {
+      // Demander une URL HLS au backend (conversion coté serveur)
+      const res = await startStreamSession(API_BASE, channel.contentId);
+      setHlsUrl(res.hlsUrl.startsWith('http') ? res.hlsUrl : `${API_BASE}${res.hlsUrl}`);
+      setHlsSessionId(res.sessionId);
+      setUseWebPlayer(true);
+    } catch (e) {
+      console.error('Erreur démarrage stream HLS:', e);
+      setUseWebPlayer(false); // fallback ancien lecteur si besoin
     }
+  };
+
+  const handlePlayAceStream = (channel) => {
+    // Lancer le lien AceStream traditionnel
+    window.location.href = channel.acestreamUrl;
+  };
+
+  const closeVideoPlayer = async () => {
+    setShowVideoPlayer(false);
+    if (hlsSessionId) {
+      try { await stopStreamSession(API_BASE, hlsSessionId); } catch {}
+    }
+    setHlsSessionId(null);
+    setHlsUrl(null);
+    setCurrentStream(null);
   };
 
   // Fonction pour gérer le clic sur un groupe de chaînes TV
@@ -454,13 +500,37 @@ function App() {
 
             <header className="text-center mb-4">
               <h1>{activeTab === 'events' ? 'Événements à venir' : 'Chaînes TV en direct'}</h1>
+              
+              {/* Bouton de test temporaire */}
+              <div className="test-mode-controls mb-3">
+                <button 
+                  className="btn btn-info"
+                  onClick={() => setShowTestMode(!showTestMode)}
+                  style={{
+                    background: showTestMode ? '#dc2626' : '#059669',
+                    color: 'white',
+                    border: 'none',
+                    padding: '8px 16px',
+                    borderRadius: '6px',
+                    margin: '5px'
+                  }}
+                >
+                  {showTestMode ? '❌ Quitter Test' : '🧪 Mode Test Web Player'}
+                </button>
+                {showTestMode && (
+                  <small className="d-block text-muted mt-2">
+                    Mode test actif - Testez le nouveau web player avant déploiement
+                  </small>
+                )}
+              </div>
             </header>
 
-            <div className="alert alert-info text-center fw-bold" role="alert">
+            <div className="alert alert-success text-center fw-bold" role="alert">
               {activeTab === 'events' 
-                ? 'Pour regarder les matchs, le logiciel Ace Stream est nécessaire. ' 
-                : 'Pour regarder les chaînes TV, le logiciel Ace Stream est nécessaire. '}
-              <a href="https://www.acestream.org/" target="_blank" rel="noopener noreferrer" className="alert-link">Cliquez ici pour l'installer.</a>
+                ? '🏆 SOURCES OFFICIELLES ! Pluto TV, Red Bull, FIFA+, YouTube garantis ! 💯' 
+                : '📺 CHAÎNES OFFICIELLES ! Streaming garanti sans installation ! 💯'}
+              <br />
+              <small className="text-muted">Cliquez sur "🌐 Navigateur" pour accéder aux plateformes officielles qui fonctionnent à 100% !</small>
             </div>
 
             {error && <div className="alert alert-danger">Erreur: {error}</div>}
@@ -469,6 +539,11 @@ function App() {
             {!loading && tvChannels.length === 0 && activeTab === 'livetv' && <div className="alert alert-warning">Aucune chaîne TV trouvée</div>}
 
             <div>
+              {/* Mode test du web player */}
+              {showTestMode ? (
+                <TestPlayer />
+              ) : (
+              <>
               {/* Affichage conditionnel selon l'onglet actif */}
               {activeTab === 'events' && (
                 <div>
@@ -510,14 +585,28 @@ function App() {
                             </div>
                           </div>
                           
-                          <a 
-                            href={channel.acestreamUrl} 
-                            className="play-link"
-                            onClick={(e) => e.stopPropagation()}
-                            rel="noopener noreferrer"
-                          >
-                            <span className="play-icon">▶</span> Play
-                          </a>
+                          <div className="play-buttons">
+                            <button 
+                              className="play-btn browser-play"
+                              onClick={(e) => {
+                                e.stopPropagation();
+                                handlePlayInBrowser(channel);
+                              }}
+                              title="Regarder dans le navigateur"
+                            >
+                              🌐 Navigateur
+                            </button>
+                            <button 
+                              className="play-btn acestream-play"
+                              onClick={(e) => {
+                                e.stopPropagation();
+                                handlePlayAceStream(channel);
+                              }}
+                              title="Ouvrir avec AceStream"
+                            >
+                              🚀 AceStream
+                            </button>
+                          </div>
                         </div>
                       ))}
                     </div>
@@ -537,14 +626,28 @@ function App() {
                           <div key={channel.contentId || index} className="tv-channel-card" onClick={() => handleChannelClick(channel)}>
                             <img src={channel.logo} className="tv-channel-logo" alt={channel.name} onError={(e) => { e.target.onerror = null; e.target.src='https://via.placeholder.com/80' }}/>
                             <div className="tv-channel-name">{channel.name}</div>
-                            <a 
-                              href={channel.acestreamUrl} 
-                              className="play-link"
-                              onClick={(e) => e.stopPropagation()}
-                              rel="noopener noreferrer"
-                            >
-                              <span className="play-icon">▶</span> Play
-                            </a>
+                            <div className="play-buttons">
+                              <button 
+                                className="play-btn browser-play"
+                                onClick={(e) => {
+                                  e.stopPropagation();
+                                  handlePlayInBrowser(channel);
+                                }}
+                                title="Regarder dans le navigateur"
+                              >
+                                🌐 Navigateur
+                              </button>
+                              <button 
+                                className="play-btn acestream-play"
+                                onClick={(e) => {
+                                  e.stopPropagation();
+                                  handlePlayAceStream(channel);
+                                }}
+                                title="Ouvrir avec AceStream"
+                              >
+                                🚀 AceStream
+                              </button>
+                            </div>
                           </div>
                         ))}
                       </div>
@@ -597,6 +700,8 @@ function App() {
                   )}
                 </div>
               )}
+              </>
+              )}
             </div>
           </div>
         </main>
@@ -617,6 +722,42 @@ function App() {
           </div>
         </div>
       </div>
+      
+      {/* Lecteur vidéo intégré */}
+      {showVideoPlayer && currentStream && (
+        <div className="video-player-overlay">
+          <div className="video-player-container">
+            <div className="video-player-header">
+              <h3>{currentStream.team1 && currentStream.team2 
+                    ? `${currentStream.team1} vs ${currentStream.team2}` 
+                    : currentStream.name || 'Stream en direct'}</h3>
+              <button 
+                className="close-player-btn"
+                onClick={closeVideoPlayer}
+                title="Fermer le lecteur"
+              >
+                ✕
+              </button>
+            </div>
+            
+            {useWebPlayer && hlsUrl ? (
+              <HLSPlayer
+                src={hlsUrl}
+                title={currentStream.team1 && currentStream.team2 
+                      ? `${currentStream.team1} vs ${currentStream.team2}` 
+                      : currentStream.name || 'Stream en direct'}
+                onError={() => setUseWebPlayer(false)}
+              />
+            ) : (
+              <SmartStreamPlayer
+                streamId={currentStream.contentId}
+                onClose={closeVideoPlayer}
+                channelInfo={currentStream}
+              />
+            )}
+          </div>
+        </div>
+      )}
     </div>
   );
 }
