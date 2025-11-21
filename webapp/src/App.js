@@ -368,16 +368,9 @@ function App() {
   const handlePlayInBrowser = async (channel) => {
     setCurrentStream(channel);
     setShowVideoPlayer(true);
-    try {
-      // Demander une URL HLS au backend (conversion coté serveur)
-      const res = await startStreamSession(API_BASE, channel.contentId);
-      setHlsUrl(res.hlsUrl.startsWith('http') ? res.hlsUrl : `${API_BASE}${res.hlsUrl}`);
-      setHlsSessionId(res.sessionId);
-      setUseWebPlayer(true);
-    } catch (e) {
-      console.error('Erreur démarrage stream HLS:', e);
-      setUseWebPlayer(false); // fallback ancien lecteur si besoin
-    }
+    setUseWebPlayer(false); // Utiliser SmartStreamPlayer directement (pas de conversion HLS)
+    setHlsUrl(null);
+    setHlsSessionId(null);
   };
 
   const handlePlayAceStream = (channel) => {
