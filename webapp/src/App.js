@@ -13,7 +13,7 @@ import SimpleWorkingPlayer from './SimpleWorkingPlayer';
 import NoInstallStreamPlayer from './NoInstallStreamPlayer';
 import RealIPTVPlayer from './RealIPTVPlayer';
 import GuaranteedStreamPlayer from './GuaranteedStreamPlayer';
-import WorkingStreamPlayer from './WorkingStreamPlayer';
+import UnifiedStreamPlayer from './UnifiedStreamPlayer';
 import './ImprovedWebPlayer.css';
 import TestPlayer from './TestPlayer';
 
@@ -369,7 +369,7 @@ function App() {
   const handlePlayInBrowser = async (channel) => {
     setCurrentStream(channel);
     setShowVideoPlayer(true);
-    setUseWebPlayer(false); // Utiliser SmartStreamPlayer directement (pas de conversion HLS)
+    setUseWebPlayer(true); // IMPORTANT: Utiliser UnifiedStreamPlayer avec backend Railway
     setHlsUrl(null);
     setHlsSessionId(null);
   };
@@ -737,20 +737,21 @@ function App() {
               </button>
             </div>
             
-            {useWebPlayer && hlsUrl ? (
-              <HLSPlayer
-                src={hlsUrl}
-                title={currentStream.team1 && currentStream.team2 
-                      ? `${currentStream.team1} vs ${currentStream.team2}` 
-                      : currentStream.name || 'Stream en direct'}
-                onError={() => setUseWebPlayer(false)}
+            {useWebPlayer ? (
+              <UnifiedStreamPlayer
+                channel={{
+                  ...currentStream,
+                  acestream_hash: currentStream.contentId,
+                  name: currentStream.team1 && currentStream.team2 
+                    ? `${currentStream.team1} vs ${currentStream.team2}` 
+                    : currentStream.name || 'Stream en direct'
+                }}
+                onClose={closeVideoPlayer}
               />
             ) : (
-              <WorkingStreamPlayer
-                streamId={currentStream.contentId}
-                onClose={closeVideoPlayer}
-                channelInfo={currentStream}
-              />
+              <div className="alert alert-info">
+                Chargement du player...
+              </div>
             )}
           </div>
         </div>
