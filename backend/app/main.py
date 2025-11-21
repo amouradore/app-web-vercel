@@ -7,7 +7,7 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
 # Configuration
-app = FastAPI(title="AceStream HLS Proxy", version="2.0.0")
+app = FastAPI(title="AceStream HLS Proxy", version="2.1.0")
 
 # CORS - Allow all origins
 app.add_middleware(
@@ -83,18 +83,21 @@ def parse_m3u_content(content: str) -> List[Dict]:
 def root():
     return {
         "service": "AceStream → HLS Proxy",
-        "version": "2.0.0",
+        "version": "2.1.0",
         "status": "running",
         "port": os.getenv("PORT", "unknown"),
         "features": [
             "M3U Playlist Parsing",
-            "AceStream → HLS Conversion",
-            "No Client Installation Required"
+            "AceStream → HTTP Streaming via Proxy",
+            "No Client Installation Required",
+            "Public streaming via Railway proxy endpoint"
         ],
         "endpoints": {
             "playlists": "/api/playlists",
             "channels": "/api/playlists/{name}/channels",
-            "health": "/health"
+            "play": "/api/play (POST)",
+            "stream_proxy": "/api/stream/{hash} (GET)",
+            "health": "/api/health/acestream"
         }
     }
 
@@ -238,26 +241,6 @@ async def proxy_acestream_stream(acestream_hash: str):
         )
 
 
-@app.get("/api/stream/{acestream_hash}")
-async def get_stream_url(acestream_hash: str):
-    """
-    Get direct streaming URL for AceStream hash via Railway backend
-    No client installation required!
-    """
-    if not acestream_hash or len(acestream_hash) < 32:
-        raise HTTPException(status_code=400, detail="Invalid AceStream hash")
-    
-    acestream_hash = acestream_hash.strip()
-    acestream_base = os.getenv("ACESTREAM_BASE_URL", "http://127.0.0.1:6878")
-    
-    return {
-        "hash": acestream_hash,
-        "hls_url": f"{acestream_base}/ace/getstream?id={acestream_hash}",
-        "stream_url": f"{acestream_base}/ace/getstream?id={acestream_hash}",
-        "type": "direct_proxy",
-        "backend": "railway_acestream_engine",
-        "note": "Stream is processed by Railway backend - No installation needed!"
-    }
 
 
 @app.get("/api/health/acestream")
