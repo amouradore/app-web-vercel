@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2025-11-25 10:42:41" total="357">
+<eventos generado="2025-11-25 11:13:06" total="357">
   <evento id="1">
     <nombre>India –  Sudáfrica</nombre>
     <deporte>Fútbol</deporte>
@@ -8,8 +8,15 @@
     <hora>05:30</hora>
     <url>https://livetv.sx/es/eventinfo/321380248_india_sudandaacute_frica/</url>
     <datetime_iso>2025-11-25T05:30:00</datetime_iso>
-    <streams total="1">
+    <streams total="2">
       <stream id="1">
+        <url>https://emb.apl385.me/
+player/live.php?id=243844&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=243844&amp;lang=es&amp;eid=321380248&amp;lid=2879705&amp;ci=433&amp;si=41</enlace_original>
+      </stream>
+      <stream id="2">
         <url>https://daddylive3.com/my/stream-346.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
@@ -60,54 +67,18 @@
     <hora>07:10</hora>
     <url>https://livetv.sx/es/eventinfo/321349925_atp_challenger_islamabad/</url>
     <datetime_iso>2025-11-25T07:10:00</datetime_iso>
-    <streams total="8">
+    <streams total="2">
       <stream id="1">
+        <url>https://dovkembed.pw/livetv/ex11426161</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890557&amp;lang=es&amp;eid=321349925&amp;lid=2890557&amp;ci=362&amp;si=4</enlace_original>
+      </stream>
+      <stream id="2">
         <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDIzMjk5</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890643&amp;lang=es&amp;eid=321349925&amp;lid=2890643&amp;ci=362&amp;si=4</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://dovkembed.pw/livetv/ex11422260</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890277&amp;lang=es&amp;eid=321349925&amp;lid=2890277&amp;ci=362&amp;si=4</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://dovkembed.pw/livetv/ex11422250</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890504&amp;lang=es&amp;eid=321349925&amp;lid=2890504&amp;ci=362&amp;si=4</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://dovkembed.pw/livetv/ex11422251</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890503&amp;lang=es&amp;eid=321349925&amp;lid=2890503&amp;ci=362&amp;si=4</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDIyMjUz</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890502&amp;lang=es&amp;eid=321349925&amp;lid=2890502&amp;ci=362&amp;si=4</enlace_original>
-      </stream>
-      <stream id="6">
-        <url>https://dovkembed.pw/livetv/ex11426162</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890279&amp;lang=es&amp;eid=321349925&amp;lid=2890279&amp;ci=362&amp;si=4</enlace_original>
-      </stream>
-      <stream id="7">
-        <url>https://dovkembed.pw/livetv/ex11422258</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890278&amp;lang=es&amp;eid=321349925&amp;lid=2890278&amp;ci=362&amp;si=4</enlace_original>
-      </stream>
-      <stream id="8">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDIyMjYx</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890512&amp;lang=es&amp;eid=321349925&amp;lid=2890512&amp;ci=362&amp;si=4</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -119,14 +90,7 @@
     <hora>07:40</hora>
     <url>https://livetv.sx/es/eventinfo/320366312_hazawa__ichikawa_pearson__hulme/</url>
     <datetime_iso>2025-11-25T07:40:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDIwNDcx</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890509&amp;lang=es&amp;eid=320366312&amp;lid=2890509&amp;ci=6501&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="5">
     <nombre>Hazawa / Ichikawa – Pearson / Hulme</nombre>
@@ -146,7 +110,7 @@
     <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/321421747_world_youth_championships_cluj_napoca/</url>
     <datetime_iso>2025-11-25T09:00:00</datetime_iso>
-    <streams total="4">
+    <streams total="3">
       <stream id="1">
         <url>https://www.youtube.com/embed/aQUR9iW5x1I?autoplay=1</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
@@ -154,18 +118,12 @@
         <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=aQUR9iW5x1I&amp;lang=es&amp;eid=321421747&amp;lid=2890542&amp;ci=610&amp;si=39</enlace_original>
       </stream>
       <stream id="2">
-        <url>https://www.youtube.com/embed/Ih4apJh28hg?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=Ih4apJh28hg&amp;lang=es&amp;eid=321421747&amp;lid=2890540&amp;ci=610&amp;si=39</enlace_original>
-      </stream>
-      <stream id="3">
         <url>https://www.youtube.com/embed/mzE87DgT6JI?autoplay=1</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=mzE87DgT6JI&amp;lang=es&amp;eid=321421747&amp;lid=2890539&amp;ci=610&amp;si=39</enlace_original>
       </stream>
-      <stream id="4">
+      <stream id="3">
         <url>https://www.youtube.com/embed/XfZaMpqQpVE?autoplay=1</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
@@ -183,16 +141,16 @@
     <datetime_iso>2025-11-25T09:10:00</datetime_iso>
     <streams total="4">
       <stream id="1">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDIzMjE0</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890560&amp;lang=es&amp;eid=321349646&amp;lid=2890560&amp;ci=4935&amp;si=4</enlace_original>
-      </stream>
-      <stream id="2">
         <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDMxNzM1</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890506&amp;lang=es&amp;eid=321349646&amp;lid=2890506&amp;ci=4935&amp;si=4</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDIzMjE0</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890560&amp;lang=es&amp;eid=321349646&amp;lid=2890560&amp;ci=4935&amp;si=4</enlace_original>
       </stream>
       <stream id="3">
         <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDIzMjEy</url>
@@ -420,20 +378,7 @@ player/live.php?id=244187&amp;w=700&amp;h=480</url>
     <hora>10:30</hora>
     <url>https://livetv.sx/es/eventinfo/321238968_adrian_arcon_johan_nikles/</url>
     <datetime_iso>2025-11-25T10:30:00</datetime_iso>
-    <streams total="2">
-      <stream id="1">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDIyMjU0</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890513&amp;lang=es&amp;eid=321238968&amp;lid=2890513&amp;ci=362&amp;si=4</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://dovkembed.pw/livetv/ex11422254</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890591&amp;lang=es&amp;eid=321238968&amp;lid=2890591&amp;ci=362&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="22">
     <nombre>Atyrau-2 –  Tobol-2</nombre>
@@ -443,14 +388,7 @@ player/live.php?id=244187&amp;w=700&amp;h=480</url>
     <hora>10:30</hora>
     <url>https://livetv.sx/es/eventinfo/319533326_atyrau_2_tobol_2/</url>
     <datetime_iso>2025-11-25T10:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/W7PztiLwBYs?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/37.png</idioma>
-        <idioma_nombre>Bandera #37</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=W7PztiLwBYs&amp;lang=es&amp;eid=319533326&amp;lid=2889806&amp;ci=1482&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="23">
     <nombre>ATP Challenger. Atenas 2</nombre>
@@ -468,16 +406,16 @@ player/live.php?id=244187&amp;w=700&amp;h=480</url>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890558&amp;lang=es&amp;eid=321354761&amp;lid=2890558&amp;ci=362&amp;si=4</enlace_original>
       </stream>
       <stream id="2">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDIzMjky</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890519&amp;lang=es&amp;eid=321354761&amp;lid=2890519&amp;ci=362&amp;si=4</enlace_original>
-      </stream>
-      <stream id="3">
         <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDIzMjk2</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890521&amp;lang=es&amp;eid=321354761&amp;lid=2890521&amp;ci=362&amp;si=4</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDIzMjky</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890519&amp;lang=es&amp;eid=321354761&amp;lid=2890519&amp;ci=362&amp;si=4</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -489,14 +427,7 @@ player/live.php?id=244187&amp;w=700&amp;h=480</url>
     <hora>10:40</hora>
     <url>https://livetv.sx/es/eventinfo/321354765_sergio_callejon_hernando_olle_wallin/</url>
     <datetime_iso>2025-11-25T10:40:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDIzMjk2</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890521&amp;lang=es&amp;eid=321354765&amp;lid=2890521&amp;ci=362&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="25">
     <nombre>Carlo Alberto Caniato –  James Story</nombre>
@@ -506,14 +437,7 @@ player/live.php?id=244187&amp;w=700&amp;h=480</url>
     <hora>10:40</hora>
     <url>https://livetv.sx/es/eventinfo/321354766_carlo_alberto_caniato_james_story/</url>
     <datetime_iso>2025-11-25T10:40:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDIzMjky</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890519&amp;lang=es&amp;eid=321354766&amp;lid=2890519&amp;ci=362&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="26">
     <nombre>Michael Geerts –  Giles Hussey</nombre>
@@ -523,14 +447,7 @@ player/live.php?id=244187&amp;w=700&amp;h=480</url>
     <hora>10:40</hora>
     <url>https://livetv.sx/es/eventinfo/321354767_michael_geerts_giles_hussey/</url>
     <datetime_iso>2025-11-25T10:40:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDIzMjk0</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890520&amp;lang=es&amp;eid=321354767&amp;lid=2890520&amp;ci=362&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="27">
     <nombre>Alexander Ritschard –  Radu Albot</nombre>
@@ -540,14 +457,7 @@ player/live.php?id=244187&amp;w=700&amp;h=480</url>
     <hora>10:40</hora>
     <url>https://livetv.sx/es/eventinfo/321349655_alexander_ritschard_radu_albot/</url>
     <datetime_iso>2025-11-25T10:40:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDIzMjE4</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890514&amp;lang=es&amp;eid=321349655&amp;lid=2890514&amp;ci=4935&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="28">
     <nombre>ATP Challenger. Atenas 2</nombre>
@@ -706,28 +616,7 @@ player/live.php?id=244187&amp;w=700&amp;h=480</url>
     <hora>11:20</hora>
     <url>https://livetv.sx/es/eventinfo/321220862_mikhail_voronin_cup_moscow/</url>
     <datetime_iso>2025-11-25T11:20:00</datetime_iso>
-    <streams total="3">
-      <stream id="1">
-        <url>https://emb.apl385.me/
-player/live.php?id=243838&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=243838&amp;lang=es&amp;eid=321220862&amp;lid=2890647&amp;ci=588&amp;si=58</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl385.me/
-player/live.php?id=243920&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=243920&amp;lang=es&amp;eid=321220862&amp;lid=2880157&amp;ci=588&amp;si=58</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://antenasport.org/matcharena.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2869912&amp;lang=es&amp;eid=321220862&amp;lid=2869912&amp;ci=588&amp;si=58</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="36">
     <nombre>UK Championship</nombre>
@@ -737,20 +626,27 @@ player/live.php?id=243920&amp;w=700&amp;h=480</url>
     <hora>11:30</hora>
     <url>https://livetv.sx/es/eventinfo/321261899_uk_championship/</url>
     <datetime_iso>2025-11-25T11:30:00</datetime_iso>
-    <streams total="3">
+    <streams total="4">
       <stream id="1">
+        <url>https://emb.apl385.me/
+player/live.php?id=230233&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=230233&amp;lang=es&amp;eid=321261899&amp;lid=2890662&amp;ci=234&amp;si=29</enlace_original>
+      </stream>
+      <stream id="2">
         <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDI5Njk2</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890649&amp;lang=es&amp;eid=321261899&amp;lid=2890649&amp;ci=234&amp;si=29</enlace_original>
       </stream>
-      <stream id="2">
+      <stream id="3">
         <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDI5Njk4</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890651&amp;lang=es&amp;eid=321261899&amp;lid=2890651&amp;ci=234&amp;si=29</enlace_original>
       </stream>
-      <stream id="3">
+      <stream id="4">
         <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDI5Njk3</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
@@ -963,7 +859,7 @@ player/live.php?id=242262&amp;w=700&amp;h=480</url>
     <hora>12:00</hora>
     <url>https://livetv.sx/es/eventinfo/321262207_copa_del_mundo_falun/</url>
     <datetime_iso>2025-11-25T12:00:00</datetime_iso>
-    <streams total="2">
+    <streams total="4">
       <stream id="1">
         <url>https://emb.apl385.me/
 player/live.php?id=244063&amp;w=700&amp;h=480</url>
@@ -972,6 +868,20 @@ player/live.php?id=244063&amp;w=700&amp;h=480</url>
         <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=244063&amp;lang=es&amp;eid=321262207&amp;lid=2881250&amp;ci=403&amp;si=18</enlace_original>
       </stream>
       <stream id="2">
+        <url>https://emb.apl385.me/
+player/live.php?id=241815&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=241815&amp;lang=es&amp;eid=321262207&amp;lid=2890598&amp;ci=403&amp;si=18</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://emb.apl385.me/
+player/live.php?id=241816&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=241816&amp;lang=es&amp;eid=321262207&amp;lid=2822880&amp;ci=403&amp;si=18</enlace_original>
+      </stream>
+      <stream id="4">
         <url>https://daddylive3.com/my/stream-57.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
@@ -1353,35 +1263,7 @@ player/live.php?id=242262&amp;w=700&amp;h=480</url>
     <hora>12:00</hora>
     <url>https://livetv.sx/es/eventinfo/321262207_world_cup_falun/</url>
     <datetime_iso>2025-11-25T12:00:00</datetime_iso>
-    <streams total="4">
-      <stream id="1">
-        <url>https://emb.apl385.me/
-player/live.php?id=244063&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=244063&amp;lang=es&amp;eid=321262207&amp;lid=2881250&amp;ci=403&amp;si=18</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl385.me/
-player/live.php?id=241815&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=241815&amp;lang=es&amp;eid=321262207&amp;lid=2890598&amp;ci=403&amp;si=18</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://emb.apl385.me/
-player/live.php?id=241816&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=241816&amp;lang=es&amp;eid=321262207&amp;lid=2822880&amp;ci=403&amp;si=18</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://daddylive3.com/my/stream-57.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890387&amp;lang=es&amp;eid=321262207&amp;lid=2890387&amp;ci=403&amp;si=18</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="64">
     <nombre>ATP Challenger. Maia</nombre>
@@ -1391,12 +1273,24 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
     <hora>12:10</hora>
     <url>https://livetv.sx/es/eventinfo/320882087_atp_challenger_maia/</url>
     <datetime_iso>2025-11-25T12:10:00</datetime_iso>
-    <streams total="1">
+    <streams total="3">
       <stream id="1">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDMzOTYy</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890563&amp;lang=es&amp;eid=320882087&amp;lid=2890563&amp;ci=3490&amp;si=4</enlace_original>
+      </stream>
+      <stream id="2">
         <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDMzOTYz</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890646&amp;lang=es&amp;eid=320882087&amp;lid=2890646&amp;ci=3490&amp;si=4</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://dovkembed.pw/livetv/ex11423540</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890605&amp;lang=es&amp;eid=320882087&amp;lid=2890605&amp;ci=3490&amp;si=4</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -1649,54 +1543,30 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
     <hora>13:00</hora>
     <url>https://livetv.sx/es/eventinfo/316993402__/</url>
     <datetime_iso>2025-11-25T13:00:00</datetime_iso>
-    <streams total="8">
+    <streams total="4">
       <stream id="1">
-        <url>https://playerhls.com/tv/video-player.php?url=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692435d41ea1b60e809f4f30.m3u8</url>
+        <url>https://playerhls.com/tv/video-player.php?url=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692435d41ea1b60e809f4f30.m3u8</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
         <idioma_nombre>Danés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890565&amp;lang=es&amp;eid=316993402&amp;lid=2890565&amp;ci=322&amp;si=2</enlace_original>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890566&amp;lang=es&amp;eid=316993402&amp;lid=2890566&amp;ci=322&amp;si=2</enlace_original>
       </stream>
       <stream id="2">
-        <url>https://playerhls.com/tv/video-player.php?url=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692435c1109a6801f3cf8bb9.m3u8</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
-        <idioma_nombre>Danés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890570&amp;lang=es&amp;eid=316993402&amp;lid=2890570&amp;ci=322&amp;si=2</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://playerhls.com/tv/video-player.php?url=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692435c1109a6801f3cf8bb9.m3u8</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
-        <idioma_nombre>Danés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890569&amp;lang=es&amp;eid=316993402&amp;lid=2890569&amp;ci=322&amp;si=2</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://streambetter.cyou/play/play.php?id=24</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
-        <idioma_nombre>Danés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890568&amp;lang=es&amp;eid=316993402&amp;lid=2890568&amp;ci=322&amp;si=2</enlace_original>
-      </stream>
-      <stream id="5">
         <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDg5NDI3Mjg=</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
         <idioma_nombre>Danés</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890573&amp;lang=es&amp;eid=316993402&amp;lid=2890573&amp;ci=322&amp;si=2</enlace_original>
       </stream>
-      <stream id="6">
-        <url>https://playerhls.com/tv/video-player.php?url=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692435d41ea1b60e809f4f30.m3u8</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
-        <idioma_nombre>Danés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890567&amp;lang=es&amp;eid=316993402&amp;lid=2890567&amp;ci=322&amp;si=2</enlace_original>
-      </stream>
-      <stream id="7">
+      <stream id="3">
         <url>https://topembed.pw/channel/ex8942728</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
         <idioma_nombre>Danés</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890572&amp;lang=es&amp;eid=316993402&amp;lid=2890572&amp;ci=322&amp;si=2</enlace_original>
       </stream>
-      <stream id="8">
-        <url>https://playerhls.com/tv/video-player.php?url=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692435d41ea1b60e809f4f30.m3u8</url>
+      <stream id="4">
+        <url>https://playerhls.com/tv/video-player.php?url=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692435c1109a6801f3cf8bb9.m3u8</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
         <idioma_nombre>Danés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890566&amp;lang=es&amp;eid=316993402&amp;lid=2890566&amp;ci=322&amp;si=2</enlace_original>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890569&amp;lang=es&amp;eid=316993402&amp;lid=2890569&amp;ci=322&amp;si=2</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -1725,7 +1595,14 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
     <hora>13:00</hora>
     <url>https://livetv.sx/es/eventinfo/316992851__/</url>
     <datetime_iso>2025-11-25T13:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/OE6DluLWSeI?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=OE6DluLWSeI&amp;lang=es&amp;eid=316992851&amp;lid=2890670&amp;ci=831&amp;si=5</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="83">
     <nombre>Gaziantep – Bursa BBSK</nombre>
@@ -1796,7 +1673,14 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
     <hora>13:30</hora>
     <url>https://livetv.sx/es/eventinfo/321354771_charlie_robertson_eliakim_coulibaly/</url>
     <datetime_iso>2025-11-25T13:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDMxOTc1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890663&amp;lang=es&amp;eid=321354771&amp;lid=2890663&amp;ci=362&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="88">
     <nombre>Petr Brunclik – Matthew Summers</nombre>
@@ -1806,7 +1690,14 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
     <hora>13:30</hora>
     <url>https://livetv.sx/es/eventinfo/321349659_petr_brunclik_matthew_summers/</url>
     <datetime_iso>2025-11-25T13:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDMxNzM3</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890664&amp;lang=es&amp;eid=321349659&amp;lid=2890664&amp;ci=4935&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="89">
     <nombre>Maximilian Homberg – Aziz Ouakaa</nombre>
@@ -1950,7 +1841,14 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
     <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/321354772_alberto_barroso_campos_pavlos_tsitsipas/</url>
     <datetime_iso>2025-11-25T14:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDMxOTc4</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890665&amp;lang=es&amp;eid=321354772&amp;lid=2890665&amp;ci=362&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="102">
     <nombre>Alexey Vatutin – Franco Agamenone</nombre>
@@ -1960,7 +1858,14 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
     <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/321312890__/</url>
     <datetime_iso>2025-11-25T14:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDMzOTY1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890666&amp;lang=es&amp;eid=321312890&amp;lid=2890666&amp;ci=3490&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="103">
     <nombre>Lorenzo Giustino – Cezar Cretu</nombre>
@@ -1970,7 +1875,14 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
     <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/321312891__/</url>
     <datetime_iso>2025-11-25T14:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://antenasport.org/channel/exY3VzdG9tU2FsdDExNDMzOTY0</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2890576&amp;lang=es&amp;eid=321312891&amp;lid=2890576&amp;ci=3490&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="104">
     <nombre>Akkus Bld – TFL Altekma</nombre>
@@ -1980,7 +1892,14 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
     <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/317002458__/</url>
     <datetime_iso>2025-11-25T14:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/tw9HMXeOSRE?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=tw9HMXeOSRE&amp;lang=es&amp;eid=317002458&amp;lid=2890062&amp;ci=831&amp;si=5</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="105">
     <nombre>Kostanay – Mangystau</nombre>
@@ -1990,7 +1909,14 @@ player/live.php?id=241816&amp;w=700&amp;h=480</url>
     <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/320894458_kostanay_mangystau/</url>
     <datetime_iso>2025-11-25T14:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/IoOFUmUK9Jw?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=IoOFUmUK9Jw&amp;lang=es&amp;eid=320894458&amp;lid=2890552&amp;ci=2465&amp;si=5</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="106">
     <nombre>Chengdu Rongcheng – Sanfrecce Hiroshima</nombre>
