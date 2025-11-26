@@ -1,11 +1,5 @@
 <?xml version="1.0" ?>
 <channels>
-  <channel name="Antena 3 Spain">
-    <url>https://deporte-libre.click/en-vivo-online/antena-3/embed.php</url>
-    <url>https://deporte-libre.click/en-vivo-online/antena-3/embed2.php</url>
-    <url>https://deporte-libre.click/en-vivo-online/antena-3/embed3.php</url>
-    <url>/en-vivo-online/antena-3/embed.php</url>
-  </channel>
   <channel name="Azteca 7 MX">
     <url>https://bolaloca.my/player/3/108</url>
     <url>https://deportelibres.shop/total/stream-844.php</url>
@@ -426,6 +420,9 @@
   </channel>
   <channel name="Digi Sport 1 Romania">
     <url>https://deportelibres.shop/total/stream-400.php</url>
+  </channel>
+  <channel name="Digi Sport 2 Romania">
+    <url>https://deportelibres.shop/total/stream-401.php</url>
   </channel>
   <channel name="Digi Sport 3 Romania">
     <url>https://deportelibres.shop/total/stream-402.php</url>
@@ -903,6 +900,12 @@
     <url>https://deporte-libre.click/en-vivo-online/liga1max/embed3.php</url>
     <url>/en-vivo-online/liga1max/embed.php</url>
   </channel>
+  <channel name="LaLiga Hypermotion">
+    <url>https://deporte-libre.click/en-vivo-online/liga-hipermotion/embed.php</url>
+    <url>https://deporte-libre.click/en-vivo-online/liga-hipermotion/embed2.php</url>
+    <url>https://deporte-libre.click/en-vivo-online/liga-hipermotion/embed3.php</url>
+    <url>/en-vivo-online/liga-hipermotion/embed.php</url>
+  </channel>
   <channel name="LaLigaTV UK">
     <url>https://deportelibres.shop/total/stream-276.php</url>
   </channel>
@@ -970,6 +973,11 @@
     <url>https://deporte-libre.click/en-vivo-online/m-deportes-3/embed.php</url>
     <url>https://deporte-libre.click/en-vivo-online/m-deportes-3/embed2.php</url>
     <url>/en-vivo-online/m-deportes-3/embed.php</url>
+  </channel>
+  <channel name="Movistar Deportes 4 Spain">
+    <url>https://deporte-libre.click/en-vivo-online/m-deportes-4/embed.php</url>
+    <url>https://deporte-libre.click/en-vivo-online/m-deportes-4/embed2.php</url>
+    <url>/en-vivo-online/m-deportes-4/embed.php</url>
   </channel>
   <channel name="Movistar Golf Spain">
     <url>https://deportelibres.shop/total/stream-528.php</url>
@@ -1855,6 +1863,9 @@
   </channel>
   <channel name="18+ (Canal-12)">
     <url>https://deportelibres.shop/total/stream-512.php</url>
+  </channel>
+  <channel name="18+ (Canal-13)">
+    <url>https://deportelibres.shop/total/stream-513.php</url>
   </channel>
   <channel name="18+ (Canal-14)">
     <url>https://deportelibres.shop/total/stream-514.php</url>
