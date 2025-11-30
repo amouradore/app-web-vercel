@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-11-30 13:31:47" total="1577">
-  <evento>
-    <nombre>Crystal Palace –  Manchester Utd</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. Premier League</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318616618_crystal_palace_manchester_utd/</url>
-  </evento>
-  <evento>
-    <nombre>Brujas –  Royal Antwerp</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bélgica. Pro League</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>14:30</hora>
-    <url>https://livetv.sx/es/eventinfo/318611305_brujas_royal_antwerp/</url>
-  </evento>
+<eventos generado="2025-11-30 14:24:13" total="1610">
   <evento>
     <nombre>Real Zaragoza –  Leganés</nombre>
     <deporte>Fútbol</deporte>
@@ -49,28 +33,100 @@
     <url>https://livetv.sx/es/eventinfo/318636332_go_ahead_eagles_utrecht/</url>
   </evento>
   <evento>
-    <nombre>Rostov –  Lokomotiv M</nombre>
+    <nombre>Pisa –  Inter</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Rusia. Premier Liga</competicion>
+    <competicion>Italia. Serie A</competicion>
     <fecha>30 de noviembre</fecha>
-    <hora>15:30</hora>
-    <url>https://livetv.sx/es/eventinfo/318636973_rostov_lokomotiv_m/</url>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318641166_pisa_inter/</url>
   </evento>
   <evento>
-    <nombre>Ajmat –  Dinamo M</nombre>
+    <nombre>Estrasburgo –  Brest</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Rusia. Premier Liga</competicion>
+    <competicion>Francia. Ligue 1</competicion>
     <fecha>30 de noviembre</fecha>
-    <hora>15:30</hora>
-    <url>https://livetv.sx/es/eventinfo/318636974_ajmat_dinamo_m/</url>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318643641_estrasburgo_brest/</url>
   </evento>
   <evento>
-    <nombre>Cuprum Lubin –  Projekt Warszawa</nombre>
+    <nombre>Leipzig –  Hannover-Burgdorf</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Polonia. PlusLiga</competicion>
+    <competicion>Alemania. Bundesliga</competicion>
     <fecha>30 de noviembre</fecha>
-    <hora>15:45</hora>
-    <url>https://livetv.sx/es/eventinfo/318266555_cuprum_lubin_projekt_warszawa/</url>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318640590_leipzig_hannover_burgdorf/</url>
+  </evento>
+  <evento>
+    <nombre>Bjerringbro-Silkeborg –  Fredericia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dinamarca. Handboldligaen</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318640750_bjerringbro_silkeborg_fredericia/</url>
+  </evento>
+  <evento>
+    <nombre>Aston Villa –  Wolverhampton</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:05</hora>
+    <url>https://livetv.sx/es/eventinfo/318646718_aston_villa_wolverhampton/</url>
+  </evento>
+  <evento>
+    <nombre>West Ham United –  Liverpool</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:05</hora>
+    <url>https://livetv.sx/es/eventinfo/318646719_west_ham_united_liverpool/</url>
+  </evento>
+  <evento>
+    <nombre>Nottingham Forest –  Brighton</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:05</hora>
+    <url>https://livetv.sx/es/eventinfo/318646720_nottingham_forest_brighton/</url>
+  </evento>
+  <evento>
+    <nombre>Simulcast</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:05</hora>
+    <url>https://livetv.sx/es/eventinfo/321355455_simulcast/</url>
+  </evento>
+  <evento>
+    <nombre>Hamburgo –  Stuttgart</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318647177_hamburgo_stuttgart/</url>
+  </evento>
+  <evento>
+    <nombre>Polonia (M) –   Túnez (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. Campeonato mundial</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318647537__polonia_m__t__nez_m/</url>
+  </evento>
+  <evento>
+    <nombre>Islas Feroe (M) –   Paraguay (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. Campeonato mundial</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318647538__islas_feroe_m__paraguay_m/</url>
+  </evento>
+  <evento>
+    <nombre>Islandia (M) –   Uruguay (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. Campeonato mundial</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318647539__islandia_m__uruguay_m/</url>
   </evento>
   <evento>
     <nombre>Sydney Sixers (W) –  Sydney Thunder (W)</nombre>
@@ -105,14 +161,6 @@
     <url>https://livetv.sx/es/eventinfo/322056016_india_sud__frica/</url>
   </evento>
   <evento>
-    <nombre>Shakhtyor Sl –  Slavutych</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bielorrusia. Extraliga</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318605902_shakhtyor_sl_slavutych/</url>
-  </evento>
-  <evento>
     <nombre>Rocks –  Warriors</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Sudáfrica. T20 Challenge</competicion>
@@ -137,140 +185,12 @@
     <url>https://livetv.sx/es/eventinfo/322710645_elmer_moller_andrej_martin/</url>
   </evento>
   <evento>
-    <nombre>PSV –  Volendam</nombre>
+    <nombre>Crystal Palace –  Manchester Utd</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Países Bajos. Eredivisie</competicion>
+    <competicion>Inglaterra. Premier League</competicion>
     <fecha>30 de noviembre</fecha>
-    <hora>13:15</hora>
-    <url>https://livetv.sx/es/eventinfo/318613440_psv_volendam/</url>
-  </evento>
-  <evento>
-    <nombre>MVV Maastricht –  Roda JC</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Países Bajos. Eerste Divisie</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:15</hora>
-    <url>https://livetv.sx/es/eventinfo/318613465_mvv_maastricht_roda_jc/</url>
-  </evento>
-  <evento>
-    <nombre>Farjestad U20 –  Rogle U-20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. J20 Nationell</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:15</hora>
-    <url>https://livetv.sx/es/eventinfo/321797203_farjestad_u20_rogle_u_20/</url>
-  </evento>
-  <evento>
-    <nombre>Lecce –  Turín</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Italia. Serie A</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/318612167_lecce_tur__n/</url>
-  </evento>
-  <evento>
-    <nombre>Puente Genil –  Logroño La Rioja</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Liga ASOBAL</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/318274114_puente_genil_logro__o_la_rioja/</url>
-  </evento>
-  <evento>
-    <nombre>Struga –  Bashkimi</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Macedonia del Norte. 1. MFL</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/316394301_struga_bashkimi/</url>
-  </evento>
-  <evento>
-    <nombre>Zaglebie –  Gwardia Opole</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Polonia. Superliga</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/318613815_zaglebie_gwardia_opole/</url>
-  </evento>
-  <evento>
-    <nombre>Geylang International –  Balestier Khalsa</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Singapur. Copa</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/318614156_geylang_international_balestier_khalsa/</url>
-  </evento>
-  <evento>
-    <nombre>Kulikiv –  Skala 1911</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Ucrania. 2 liha</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/321802628_kulikiv_skala_1911/</url>
-  </evento>
-  <evento>
-    <nombre>Mogo –  Panter Tallin</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. LHL</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/322748917_mogo_panter_tallin/</url>
-  </evento>
-  <evento>
-    <nombre>Emlak Konut (W) –  Melikgazi Kayseri (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Turquía. Mujeres. KBSL</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/321294238_emlak_konut_w_melikgazi_kayseri_w/</url>
-  </evento>
-  <evento>
-    <nombre>Juventus NG Sub-23 –  Perugia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Italia. Serie C. Grupo B</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/318612234__juventus_ng_sub_23_perugia/</url>
-  </evento>
-  <evento>
-    <nombre>Rudes –  Karlovac</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Croacia. Prva NL</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/322764853_rudes_karlovac/</url>
-  </evento>
-  <evento>
-    <nombre>Pattaya United –  Nong Bua</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Tailandia. Thai League 2</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/321549182_pattaya_united_nong_bua/</url>
-  </evento>
-  <evento>
-    <nombre>Orebro U20 –  Malmo U20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. J20 Nationell</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/321797204_orebro_u20_malmo_u20/</url>
-  </evento>
-  <evento>
-    <nombre>China U17 –  Bangladesh U17</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa Asiática Sub-17</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:35</hora>
-    <url>https://livetv.sx/es/eventinfo/321243474_china_u17_bangladesh_u17/</url>
-  </evento>
-  <evento>
-    <nombre>Konya BBSK –  Goztepe</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Turquía. TBL</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:45</hora>
-    <url>https://livetv.sx/es/eventinfo/321294244_konya_bbsk_goztepe/</url>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318616618_crystal_palace_manchester_utd/</url>
   </evento>
   <evento>
     <nombre>Bohemians –  Teplice</nombre>
@@ -349,7 +269,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Rusia. Mujeres. Premier League</competicion>
     <fecha>30 de noviembre</fecha>
-    <hora>55:66</hora>
+    <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/318619418__nadezhda_m__ummc_ekaterimburgo_m/</url>
   </evento>
   <evento>
@@ -569,6 +489,14 @@
     <url>https://livetv.sx/es/eventinfo/318622696_ratisbona_hansa_rostock/</url>
   </evento>
   <evento>
+    <nombre>Brujas –  Royal Antwerp</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Pro League</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318611305_brujas_royal_antwerp/</url>
+  </evento>
+  <evento>
     <nombre>Gabala –  Araz-Najicheván</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Azerbaiyán. Premier League</competicion>
@@ -629,7 +557,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Asia</competicion>
     <fecha>30 de noviembre</fecha>
-    <hora>14:30</hora>
+    <hora>57:81</hora>
     <url>https://livetv.sx/es/eventinfo/318624766_india_arabia_saudita/</url>
   </evento>
   <evento>
@@ -817,19 +745,11 @@
     <url>https://livetv.sx/es/eventinfo/318669320_nairobi_united_maniema_union/</url>
   </evento>
   <evento>
-    <nombre>Ararat-Armenia –  Shirak</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Armenia. Premier League</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>15:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318628104_ararat_armenia_shirak/</url>
-  </evento>
-  <evento>
     <nombre>Sparta and K (M) –   Dynamo Novosibirsk (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Rusia. Mujeres. Premier League</competicion>
     <fecha>30 de noviembre</fecha>
-    <hora>38:28</hora>
+    <hora>70:49</hora>
     <url>https://livetv.sx/es/eventinfo/318630845__sparta_and_k_m__dynamo_novosibirsk_m/</url>
   </evento>
   <evento>
@@ -837,7 +757,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Polonia. Mujeres. BLK</competicion>
     <fecha>30 de noviembre</fecha>
-    <hora>26:34</hora>
+    <hora>55:80</hora>
     <url>https://livetv.sx/es/eventinfo/322140974__polonia_varsovia_m__umcs_lublin_m/</url>
   </evento>
   <evento>
@@ -893,7 +813,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Africa</competicion>
     <fecha>30 de noviembre</fecha>
-    <hora>16:30</hora>
+    <hora>45:57</hora>
     <url>https://livetv.sx/es/eventinfo/318630533_libia_cabo_verde/</url>
   </evento>
   <evento>
@@ -905,7 +825,7 @@
     <url>https://livetv.sx/es/eventinfo/321294232_fenerbahce_2_w_kirklareli_w/</url>
   </evento>
   <evento>
-    <nombre>Solberg –  NTNUI</nombre>
+    <nombre>Solberg –  NTNUИ</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Noruega. Elitserien</competicion>
     <fecha>30 de noviembre</fecha>
@@ -1007,6 +927,22 @@
     <fecha>30 de noviembre</fecha>
     <hora>15:15</hora>
     <url>https://livetv.sx/es/eventinfo/321312402_kocaeli_zeytinburnu/</url>
+  </evento>
+  <evento>
+    <nombre>Rostov –  Lokomotiv M</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. Premier Liga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318636973_rostov_lokomotiv_m/</url>
+  </evento>
+  <evento>
+    <nombre>Ajmat –  Dinamo M</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. Premier Liga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318636974_ajmat_dinamo_m/</url>
   </evento>
   <evento>
     <nombre>Epitsentr –  Metalist 1925</nombre>
@@ -1161,6 +1097,414 @@
     <url>https://livetv.sx/es/eventinfo/318642848_arka_gdynia_rakow/</url>
   </evento>
   <evento>
+    <nombre>Cuprum Lubin –  Projekt Warszawa</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. PlusLiga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>15:45</hora>
+    <url>https://livetv.sx/es/eventinfo/318266555_cuprum_lubin_projekt_warszawa/</url>
+  </evento>
+  <evento>
+    <nombre>Rangers –  Falkirk</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Escocia. Premiership</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318644253_rangers_falkirk/</url>
+  </evento>
+  <evento>
+    <nombre>Juve Stabia –  Monza</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie B</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318641136_juve_stabia_monza/</url>
+  </evento>
+  <evento>
+    <nombre>Lokomotiva –  Rijeka</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Croacia. HNL</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318643771_lokomotiva_rijeka/</url>
+  </evento>
+  <evento>
+    <nombre>Antalyaspor –  Goztepe</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. Superliga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318643480_antalyaspor_goztepe/</url>
+  </evento>
+  <evento>
+    <nombre>Ak Bars –  Kunlun RS</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318641428_ak_bars_kunlun_rs/</url>
+  </evento>
+  <evento>
+    <nombre>Portimonense –  Maritimo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Segunda Liga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318642875_portimonense_maritimo/</url>
+  </evento>
+  <evento>
+    <nombre>Domzale –  Bravo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Eslovenia. PrvaLiga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318643260_domzale_bravo/</url>
+  </evento>
+  <evento>
+    <nombre>Kolding –  Aarhus Fremad</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dinamarca. 1 División</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318640702_kolding_aarhus_fremad/</url>
+  </evento>
+  <evento>
+    <nombre>Horsens –  AaB</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dinamarca. 1 División</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318640703_horsens_aab/</url>
+  </evento>
+  <evento>
+    <nombre>Dinamo Szynnik –  Stalnye Lisy</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318643081_dinamo_szynnik_stalnye_lisy/</url>
+  </evento>
+  <evento>
+    <nombre>Ocelari Trinec –  Sparta Praga</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>República Checa. Extraliga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318643983_ocelari_trinec_sparta_praga/</url>
+  </evento>
+  <evento>
+    <nombre>Bili Tygri Liberec –  Dynamo Pardubice</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>República Checa. Extraliga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318643984_bili_tygri_liberec_dynamo_pardubice/</url>
+  </evento>
+  <evento>
+    <nombre>Chekhovskie Medvedi –  Dynamo Sungul</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. Superliga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321922651_chekhovskie_medvedi_dynamo_sungul/</url>
+  </evento>
+  <evento>
+    <nombre>Chelny –  Tambov</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318642961_chelny_tambov/</url>
+  </evento>
+  <evento>
+    <nombre>SKA-VMF –  Norilsk</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318642962_ska_vmf_norilsk/</url>
+  </evento>
+  <evento>
+    <nombre>Neftyanik –  Rostov</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318642963_neftyanik_rostov/</url>
+  </evento>
+  <evento>
+    <nombre>Dinamo St Pburg –  Sokol Krasnoyarsk</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318642964_dinamo_st_pburg_sokol_krasnoyarsk/</url>
+  </evento>
+  <evento>
+    <nombre>Zrinjski –  Posusje</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Premijer liga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318254822_zrinjski_posusje/</url>
+  </evento>
+  <evento>
+    <nombre>Mladost DG –  Sutjeska</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Montenegro. Primera División</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318671834_mladost_dg_sutjeska/</url>
+  </evento>
+  <evento>
+    <nombre>Cergy-Pontoise –  Anglet</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue Magnus</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318643674_cergy_pontoise_anglet/</url>
+  </evento>
+  <evento>
+    <nombre>Herning Blue Fox –  Herlev</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dinamarca. Metal Ligaen</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318640725_herning_blue_fox_herlev/</url>
+  </evento>
+  <evento>
+    <nombre>GOG –  Skjern</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dinamarca. Handboldligaen</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318640749_gog_skjern/</url>
+  </evento>
+  <evento>
+    <nombre>Friedrichshafen 2 –  Gotha</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/322658679_friedrichshafen_2_gotha/</url>
+  </evento>
+  <evento>
+    <nombre>Freisen (W) –  Unterhaching (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>2 Bundesliga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/322658557_freisen_w_unterhaching_w/</url>
+  </evento>
+  <evento>
+    <nombre>NawaRo Straubing (W) –  Planegg-Krailling (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>2 Bundesliga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/322658677_nawaro_straubing_w_planegg_krailling_w/</url>
+  </evento>
+  <evento>
+    <nombre>Berlin (M) –  Dingolfing (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>2 Bundesliga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/322658678_berlin_m_dingolfing_w/</url>
+  </evento>
+  <evento>
+    <nombre>Phantom –  SkyUp</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. 1 Liga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/322155964_phantom_skyup/</url>
+  </evento>
+  <evento>
+    <nombre>Sepsi (M) –  Sportul (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rumania. Mujeres. Divizia A1</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321293934_sepsi_m_sportul_w/</url>
+  </evento>
+  <evento>
+    <nombre>Iraq –  Irán</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Asia</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>21:21</hora>
+    <url>https://livetv.sx/es/eventinfo/318642641_iraq_ir__n/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Hussein –  Al-Salt</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Jordania. Copa</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/322518401_al_hussein_al_salt/</url>
+  </evento>
+  <evento>
+    <nombre>Zhetysu –  Atyrau</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Kazajistán. Campeonato</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/322995026_zhetysu_atyrau/</url>
+  </evento>
+  <evento>
+    <nombre>Lekrings –  Talsi</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Letonia. Elite League</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/322163018_lekrings_talsi/</url>
+  </evento>
+  <evento>
+    <nombre>Stabaek –  Ready</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Noruega. Elitserien</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321802402_stabaek_ready/</url>
+  </evento>
+  <evento>
+    <nombre>Kalix –  Wings</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Hockeyettan. Norte</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318644203_kalix_wings/</url>
+  </evento>
+  <evento>
+    <nombre>Kiruna IF –  Vaesby IK</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Hockeyettan. Norte</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318644204_kiruna_if_vaesby_ik/</url>
+  </evento>
+  <evento>
+    <nombre>Clemensnaes –  Forshaga</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Hockeyettan. Norte</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318644205_clemensnaes_forshaga/</url>
+  </evento>
+  <evento>
+    <nombre>Linkoeping (M) –   Skelleftea (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Mujeres. SDHL</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/322475883__linkoeping_m__skelleftea_m/</url>
+  </evento>
+  <evento>
+    <nombre>Azerbaijan –  Luxemburgo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EuroBasket. Calificación</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/322689524_azerbaijan_luxemburgo/</url>
+  </evento>
+  <evento>
+    <nombre>Partizanske (W) –  Snipers Bratislava (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Eslovaquia. Mujeres. Extraliga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/322155803_partizanske_w_snipers_bratislava_w/</url>
+  </evento>
+  <evento>
+    <nombre>Mafra –  Lusitano Ginasio</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Liga 3</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318642860_mafra_lusitano_ginasio/</url>
+  </evento>
+  <evento>
+    <nombre>Ziraat Bankasi-2 –  Arkas Spor</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. 1. Lig</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321305556_ziraat_bankasi_2_arkas_spor/</url>
+  </evento>
+  <evento>
+    <nombre>Algeria (M) –   Kenia (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Selecciones</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/322106672__algeria_m__kenia_m/</url>
+  </evento>
+  <evento>
+    <nombre>Irán U17 –  India U17</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa Asiática Sub-17</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321243481_irand225_n_u17_india_u17/</url>
+  </evento>
+  <evento>
+    <nombre>Azerbaijan U17 (M) –  Bélgica U17 (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>IHF Trophy. Europa</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321312150_azerbaijan_u17_m_bandeacute_lgica_u17_m/</url>
+  </evento>
+  <evento>
+    <nombre>Irtysh (W) –  Oqschetpes (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Vysheyshaya Liga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321801894_irtysh_w_oqschetpes_w/</url>
+  </evento>
+  <evento>
+    <nombre>Landas (M) –  La Roche (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Mujeres. LFB</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:15</hora>
+    <url>https://livetv.sx/es/eventinfo/321802028_landas_m_la_roche_w/</url>
+  </evento>
+  <evento>
+    <nombre>Montpellier (M) –   Bourges (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Mujeres. LFB</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:15</hora>
+    <url>https://livetv.sx/es/eventinfo/322659323__montpellier_m__bourges_m/</url>
+  </evento>
+  <evento>
+    <nombre>Landes (M) –   Roche Vendee (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Mujeres. LFB</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:15</hora>
+    <url>https://livetv.sx/es/eventinfo/322921352__landes_m__roche_vendee_m/</url>
+  </evento>
+  <evento>
+    <nombre>Viktoria Pilsen –  Mladá-Boleslav</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>República Checa. 1. liga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318650513_viktoria_pilsen_mlad___boleslav/</url>
+  </evento>
+  <evento>
+    <nombre>Slovan Liberec –  Sigma</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>República Checa. 1. liga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318650514_slovan_liberec_sigma/</url>
+  </evento>
+  <evento>
     <nombre>Real Sociedad – Villarreal</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Primera División</competicion>
@@ -1241,94 +1585,6 @@
     <url>https://livetv.sx/es/eventinfo/318740278__/</url>
   </evento>
   <evento>
-    <nombre>Rimini – Torres</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Italia. Serie C. Grupo B</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/318612233__/</url>
-  </evento>
-  <evento>
-    <nombre>Juventus NG Sub-23 – Perugia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Italia. Serie C. Grupo B</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/318612234__/</url>
-  </evento>
-  <evento>
-    <nombre>Rudes – Karlovac</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Croacia. Prva NL</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/322764853__/</url>
-  </evento>
-  <evento>
-    <nombre>Struga – Bashkimi</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Macedonia del Norte. 1. MFL</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/316394301__/</url>
-  </evento>
-  <evento>
-    <nombre>Pattaya United – Nong Bua</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Tailandia. Thai League 2</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/321549182__/</url>
-  </evento>
-  <evento>
-    <nombre>Geylang International – Balestier Khalsa</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Singapur. Copa</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/318614156__/</url>
-  </evento>
-  <evento>
-    <nombre>Lecce – Turín</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Italia. Serie A</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/318612167__/</url>
-  </evento>
-  <evento>
-    <nombre>Crystal Palace – Manchester Utd</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. Premier League</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318616618__/</url>
-  </evento>
-  <evento>
-    <nombre>Vardar – Shkupi</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Macedonia del Norte. 1. MFL</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/316394300__/</url>
-  </evento>
-  <evento>
-    <nombre>Singapur U17 – Hong Kong U17</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa Asiática Sub-17</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/321243475_singapore_u17_hong_kong_u17/</url>
-  </evento>
-  <evento>
-    <nombre>Vietnam U17 – Malasia U17</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa Asiática Sub-17</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/321243476_vietnam_u17_malaysia_u17/</url>
-  </evento>
-  <evento>
     <nombre>Nakhon Pathom United – Khonkaen Utd</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Tailandia. Thai League 2</competicion>
@@ -1337,28 +1593,12 @@
     <url>https://livetv.sx/es/eventinfo/321549183__/</url>
   </evento>
   <evento>
-    <nombre>Buriram Utd – Ratchaburi MItrphol</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Tailandia. Thai League 1</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318619798__/</url>
-  </evento>
-  <evento>
     <nombre>Bohemians – Teplice</nombre>
     <deporte>Fútbol</deporte>
     <competicion>República Checa. 1. liga</competicion>
     <fecha>30 de noviembre</fecha>
     <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/318620339__/</url>
-  </evento>
-  <evento>
-    <nombre>Hibernian – Celtic</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Escocia. Premiership</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318620665__/</url>
   </evento>
   <evento>
     <nombre>Johor DT – Kuching City</nombre>
@@ -1863,14 +2103,6 @@
     <fecha>30 de noviembre</fecha>
     <hora>16:05</hora>
     <url>https://livetv.sx/es/eventinfo/318646719__/</url>
-  </evento>
-  <evento>
-    <nombre>Simulcast</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. Premier League</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>16:05</hora>
-    <url>https://livetv.sx/es/eventinfo/321355455_simulcast/</url>
   </evento>
   <evento>
     <nombre>Nottingham Forest – Brighton</nombre>
@@ -3777,6 +4009,14 @@
     <url>https://livetv.sx/es/eventinfo/322335826__/</url>
   </evento>
   <evento>
+    <nombre>Suecia (M) –  Francia (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. Liga de las Naciones</competicion>
+    <fecha>2 de diciembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323039147__/</url>
+  </evento>
+  <evento>
     <nombre>Stade Ls Ouchy – Winterthur</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Suiza. Copa</competicion>
@@ -5105,6 +5345,126 @@
     <url>https://livetv.sx/es/eventinfo/322364125__/</url>
   </evento>
   <evento>
+    <nombre>Petrolul – U Craiova</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rumania. Copa</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319895602__/</url>
+  </evento>
+  <evento>
+    <nombre>Always Ready – Aurora</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bolivia. Primera División</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319892591__/</url>
+  </evento>
+  <evento>
+    <nombre>Charleroi – Malinas</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Copa</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/319899195__/</url>
+  </evento>
+  <evento>
+    <nombre>Genk – Anderlecht</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Copa</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/319899196__/</url>
+  </evento>
+  <evento>
+    <nombre>Aarau – Sion</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. Copa</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/322089721__/</url>
+  </evento>
+  <evento>
+    <nombre>Zawisza – Wisla Cracovia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. Copa</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/319908836__/</url>
+  </evento>
+  <evento>
+    <nombre>Manchester Utd – West Ham United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319905958__/</url>
+  </evento>
+  <evento>
+    <nombre>Lincoln Red Imps – Glacis United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Gibraltar. Primera División</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319906532__/</url>
+  </evento>
+  <evento>
+    <nombre>Lazio – Milán</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Copa</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319907058__/</url>
+  </evento>
+  <evento>
+    <nombre>Porto – Guimaraes</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Copa de la Liga</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>22:15</hora>
+    <url>https://livetv.sx/es/eventinfo/319915868__/</url>
+  </evento>
+  <evento>
+    <nombre>Atlético Junior – América de Cali</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Colombia. Primera A</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320111905__/</url>
+  </evento>
+  <evento>
+    <nombre>Atlético Nacional – Ind Medellín</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Colombia. Primera A</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320111906__/</url>
+  </evento>
+  <evento>
+    <nombre>Universitario de Vinto – The Strongest</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bolivia. Primera División</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319933935__/</url>
+  </evento>
+  <evento>
+    <nombre>Cruzeiro-MG – Botafogo-RJ</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Serie A</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>00:30</hora>
+    <url>https://livetv.sx/es/eventinfo/319940848__/</url>
+  </evento>
+  <evento>
+    <nombre>Bolívar – Nacional Potosí</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bolivia. Primera División</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319961545__/</url>
+  </evento>
+  <evento>
     <nombre>Eisbaeren Berlín – Koelner Haie</nombre>
     <deporte>Hockey</deporte>
     <competicion>Alemania. DEL</competicion>
@@ -5183,30 +5543,6 @@
     <fecha>1 de diciembre</fecha>
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/318795434__/</url>
-  </evento>
-  <evento>
-    <nombre>Shakhtyor Sl – Slavutych</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Bielorrusia. Extraliga</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318605902__/</url>
-  </evento>
-  <evento>
-    <nombre>Grums – Visby Roma</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318609793__/</url>
-  </evento>
-  <evento>
-    <nombre>Mogo – Panter Tallin</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Letonia. LHL</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/322748917__/</url>
   </evento>
   <evento>
     <nombre>Aktobe – Beibarys Atyrau</nombre>
@@ -7681,6 +8017,54 @@
     <url>https://livetv.sx/es/eventinfo/320122275__/</url>
   </evento>
   <evento>
+    <nombre>Toros – Khimik Vs</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320129380__/</url>
+  </evento>
+  <evento>
+    <nombre>Aktobe – Saryarka</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Kazajistán. Campeonato</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320127591__/</url>
+  </evento>
+  <evento>
+    <nombre>Beibarys Atyrau – Gornyak Rudny</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Kazajistán. Campeonato</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320127592__/</url>
+  </evento>
+  <evento>
+    <nombre>Avtomobilist – Severstal</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320127708__/</url>
+  </evento>
+  <evento>
+    <nombre>Salavat Yulaev – Ak Bars</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320127709__/</url>
+  </evento>
+  <evento>
+    <nombre>Traktor – CSKA</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320127710__/</url>
+  </evento>
+  <evento>
     <nombre>Harem Spor – Final Spor</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Turquía. TBL</competicion>
@@ -7695,6 +8079,14 @@
     <fecha>30 de noviembre</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/318685431__/</url>
+  </evento>
+  <evento>
+    <nombre>Rinascita Rimini – Cividale</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Italia. Serie A2</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/318685432__/</url>
   </evento>
   <evento>
     <nombre>Utah – Houston</nombre>
@@ -7745,14 +8137,6 @@
     <url>https://livetv.sx/es/eventinfo/318811232__/</url>
   </evento>
   <evento>
-    <nombre>Nadezhda (M) –  UMMC Ekaterimburgo (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Rusia. Mujeres. Premier League</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318619418__/</url>
-  </evento>
-  <evento>
     <nombre>India – Arabia Saudita</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Clasificación para la Copa Mundial. Asia</competicion>
@@ -7791,14 +8175,6 @@
     <fecha>30 de noviembre</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/321293934_sepsi_w_sportul_w/</url>
-  </evento>
-  <evento>
-    <nombre>Irtysh (W) – Oqschetpes (W)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Kazajistán. Mujeres. Vysheyshaya Liga</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/321801894_irtysh_w_oqschetpes_w/</url>
   </evento>
   <evento>
     <nombre>Iraq – Irán</nombre>
@@ -8103,14 +8479,6 @@
     <fecha>30 de noviembre</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/322689527__/</url>
-  </evento>
-  <evento>
-    <nombre>Rinascita Rimini – Cividale</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Italia. Serie A2</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318685432__/</url>
   </evento>
   <evento>
     <nombre>Ruvo Di Puglia – Scafati</nombre>
@@ -10769,12 +11137,12 @@
     <url>https://livetv.sx/es/eventinfo/320119377__/</url>
   </evento>
   <evento>
-    <nombre>Trophies of Northern Palmyra</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Torneo amistoso</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>12:30</hora>
-    <url>https://livetv.sx/es/eventinfo/322143170_trophies_of_northern_palmyra/</url>
+    <nombre>Chelbasket – Metallurg</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Rusia. Superliga</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320129527__/</url>
   </evento>
   <evento>
     <nombre>Arthur Fery – Michael Geerts</nombre>
@@ -10969,6 +11337,14 @@
     <url>https://livetv.sx/es/eventinfo/318266558__/</url>
   </evento>
   <evento>
+    <nombre>Avarca de Menorca (W) – Socuellamos (W)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>España. Mujeres. Superliga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321802035_avarca_de_menorca_w_socuellamos_w/</url>
+  </evento>
+  <evento>
     <nombre>Modena – Scuola Grottazzolina</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Italia. Serie A</competicion>
@@ -11041,44 +11417,12 @@
     <url>https://livetv.sx/es/eventinfo/322720610__/</url>
   </evento>
   <evento>
-    <nombre>NawaRo Straubing (W) – Planegg-Krailling (W)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Alemania. Mujeres. 2 Bundesliga</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/322658677_nawaro_straubing_w_planegg_krailling_w/</url>
-  </evento>
-  <evento>
     <nombre>Berlin (M) – Dingolfing (W)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Alemania. Mujeres. 2 Bundesliga</competicion>
     <fecha>30 de noviembre</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/322658678_berlin_w_dingolfing_w/</url>
-  </evento>
-  <evento>
-    <nombre>Friedrichshafen 2 – Gotha</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Alemania. 2 Bundesliga</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/322658679_friedrichshafen_2_gotha/</url>
-  </evento>
-  <evento>
-    <nombre>Ziraat Bankasi-2 – Arkas Spor</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Turquía. 1. Lig</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/321305556_ziraat_bankasi_2_arkas_spor/</url>
-  </evento>
-  <evento>
-    <nombre>Freisen (W) – Unterhaching (W)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Alemania. Mujeres. 2 Bundesliga</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/322658557_freisen_w_unterhaching_w/</url>
   </evento>
   <evento>
     <nombre>Pinerolo (M) –  Vallefoglia (M)</nombre>
@@ -11239,14 +11583,6 @@
     <fecha>30 de noviembre</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/322161682_negrini_cte_acqui_terme_stadium_mirandola/</url>
-  </evento>
-  <evento>
-    <nombre>Avarca de Menorca (W) – Socuellamos (W)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>España. Mujeres. Superliga</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/321802035_avarca_de_menorca_w_socuellamos_w/</url>
   </evento>
   <evento>
     <nombre>Montana – Neftohimik</nombre>
@@ -11673,12 +12009,12 @@
     <url>https://livetv.sx/es/eventinfo/321248204_qatar_grand_prix/</url>
   </evento>
   <evento>
-    <nombre>Stabaek – Ready</nombre>
+    <nombre>Solberg – NTNUИ</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Noruega. Elitserien</competicion>
     <fecha>30 de noviembre</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/321802402_stabaek_ready/</url>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321802401_solberg_ntnu/</url>
   </evento>
   <evento>
     <nombre>Sayany – Rodina</nombre>
@@ -11759,22 +12095,6 @@
     <fecha>3 de diciembre</fecha>
     <hora>20:30</hora>
     <url>https://livetv.sx/es/eventinfo/321802406_drammen_hk_ulleval/</url>
-  </evento>
-  <evento>
-    <nombre>Zhetysu – Atyrau</nombre>
-    <deporte>Futsal</deporte>
-    <competicion>Kazajistán. Campeonato</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/322995026_zhetysu_atyrau/</url>
-  </evento>
-  <evento>
-    <nombre>Phantom – SkyUp</nombre>
-    <deporte>Futsal</deporte>
-    <competicion>Ucrania. 1 Liga</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/322155964_phantom_skyup/</url>
   </evento>
   <evento>
     <nombre>Traipu – Atletico-PI</nombre>
@@ -11889,14 +12209,6 @@
     <url>https://livetv.sx/es/eventinfo/322647135_flc_03_psp/</url>
   </evento>
   <evento>
-    <nombre>Puente Genil – Logroño La Rioja</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>España. Liga ASOBAL</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/318274114__/</url>
-  </evento>
-  <evento>
     <nombre>Polonia (M) –  Túnez (M)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Mujeres. Campeonato mundial</competicion>
@@ -11919,6 +12231,14 @@
     <fecha>30 de noviembre</fecha>
     <hora>16:30</hora>
     <url>https://livetv.sx/es/eventinfo/318647539__/</url>
+  </evento>
+  <evento>
+    <nombre>BHC – Hamburgo</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>30 de noviembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/318661087__/</url>
   </evento>
   <evento>
     <nombre>Huesca – Barcelona</nombre>
@@ -11969,52 +12289,12 @@
     <url>https://livetv.sx/es/eventinfo/318730907__/</url>
   </evento>
   <evento>
-    <nombre>Zaglebie – Gwardia Opole</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Polonia. Superliga</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/318613815__/</url>
-  </evento>
-  <evento>
-    <nombre>Bulgaria U17 (M) – Reino Unido U17 (M)</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>IHF Trophy. Europa</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/321312149_bulgaria_u17_w_united_kingdom_u17_w/</url>
-  </evento>
-  <evento>
-    <nombre>Galichanka (M) – Spartak-SHVSM (W)</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Ucrania. Mujeres. Superliga</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/322441185_galichanka_w_spartak_shvsm_w/</url>
-  </evento>
-  <evento>
-    <nombre>ASK/MSG – Latgols</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Letonia. Copa</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/322999280_ask_msg_latgols/</url>
-  </evento>
-  <evento>
     <nombre>VHC Sviesa – Raasiku/Mistra</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Liga Báltica</competicion>
     <fecha>30 de noviembre</fecha>
     <hora>15:00</hora>
     <url>https://livetv.sx/es/eventinfo/321294553_vhc_sviesa_raasiku_mistra/</url>
-  </evento>
-  <evento>
-    <nombre>Chekhovskie Medvedi – Dynamo Sungul</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Rusia. Superliga</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/321922651_chekhovskie_medvedi_dynamo_sungul/</url>
   </evento>
   <evento>
     <nombre>GOG – Skjern</nombre>
@@ -12087,14 +12367,6 @@
     <fecha>30 de noviembre</fecha>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/318664523__/</url>
-  </evento>
-  <evento>
-    <nombre>BHC – Hamburgo</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Alemania. Bundesliga</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>17:30</hora>
-    <url>https://livetv.sx/es/eventinfo/318661087__/</url>
   </evento>
   <evento>
     <nombre>Fuechse Berlin – Lemgo</nombre>
@@ -12567,14 +12839,6 @@
     <fecha>4 de diciembre</fecha>
     <hora>21:45</hora>
     <url>https://livetv.sx/es/eventinfo/319907502__/</url>
-  </evento>
-  <evento>
-    <nombre>Copa del Mundo, InnsbruckHombres</nombre>
-    <deporte>Deporte_18</deporte>
-    <competicion>Bobsleigh</competicion>
-    <fecha>30 de noviembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/321318887_world_cup_innsbruck/</url>
   </evento>
   <evento>
     <nombre>Copa del Mundo, Ruka</nombre>
