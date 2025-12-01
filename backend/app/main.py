@@ -9,7 +9,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 
 # Configuration
-app = FastAPI(title="AceStream HLS Proxy", version="2.1.0")
+app = FastAPI(title="AceStream HLS Proxy", version="2.2.0")
 
 # CORS - Allow all origins
 app.add_middleware(
@@ -87,7 +87,7 @@ def parse_m3u_content(content: str) -> List[Dict]:
 def root():
     return {
         "service": "AceStream → HLS Proxy",
-        "version": "2.1.0",
+        "version": "2.2.0",
         "status": "running",
         "port": os.getenv("PORT", "unknown"),
         "features": [
