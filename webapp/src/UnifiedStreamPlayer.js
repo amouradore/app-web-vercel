@@ -1,85 +1,97 @@
 import React, { useState, useEffect, useRef } from 'react';
-import HLSPlayer from './HLSPlayer';
-import { playChannel, stopStream } from './services/streamApi';
+import ReactPlayer from 'react-player';
+import { playChannel, checkBackendHealth } from './services/streamApi';
 import './VideoPlayer.css';
 
 /**
- * UnifiedStreamPlayer - Lecteur unifié qui utilise le backend HLS
- * Ne nécessite AUCUNE installation AceStream côté client
+ * UnifiedStreamPlayer - Lecteur Web via Backend
+ * Utilise le backend Python pour convertir AceStream en HLS.
  */
 const UnifiedStreamPlayer = ({ channel, onClose }) => {
-  const [status, setStatus] = useState('initializing'); // initializing, loading, ready, error
-  const [streamData, setStreamData] = useState(null);
-  const [error, setError] = useState('');
-  const [progress, setProgress] = useState(0);
-  const sessionIdRef = useRef(null);
+  const [streamUrl, setStreamUrl] = useState(null);
+  const [isEmbed, setIsEmbed] = useState(false);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState(null);
+  const [statusMessage, setStatusMessage] = useState('Initialisation...');
+  const [backendReady, setBackendReady] = useState(false);
+
+  const playerRef = useRef(null);
 
   useEffect(() => {
-    if (channel?.acestream_hash) {
-      startStream();
+    let mounted = true;
+
+    const initStream = async () => {
+      try {
+        setIsLoading(true);
+        setError(null);
+        setStreamUrl(null);
+        setIsEmbed(false);
+
+        // 1. Vérifier le backend
+        setStatusMessage('Vérification du serveur...');
+        const health = await checkBackendHealth();
+
+        if (!mounted) return;
+
+        if (!health.available) {
+          throw new Error("Le serveur de streaming n'est pas accessible. Assurez-vous que le backend Python est lancé.");
+        }
+
+        setBackendReady(true);
+
+        // 2. Demander le flux
+        setStatusMessage('Préparation du flux vidéo...');
+        console.log('Demande de flux pour:', channel.acestream_hash);
+
+        const data = await playChannel(channel.acestream_hash);
+
+        if (!mounted) return;
+
+        console.log('Flux reçu:', data);
+        
+        if (data.type === 'web_embed' || data.backend === 'web_iframe') {
+            setIsEmbed(true);
+            setStreamUrl(data.stream_url); // Note: backend returns stream_url (snake_case)
+            setStatusMessage('Chargement du lecteur web...');
+        } else {
+            setIsEmbed(false);
+            setStreamUrl(data.stream_url || data.hls_url);
+            setStatusMessage('Chargement de la vidéo...');
+        }
+        
+        // Pour les embeds, on arrête le loading quand l'iframe charge (ou on laisse un court délai)
+        if (data.type === 'web_embed') {
+            setTimeout(() => setIsLoading(false), 1000);
+        }
+
+      } catch (err) {
+        console.error('Erreur streaming:', err);
+        if (mounted) {
+          setError(err.message || "Impossible de démarrer le flux.");
+          setIsLoading(false);
+        }
+      }
+    };
+
+    if (channel && channel.acestream_hash) {
+      initStream();
     }
 
-    // Cleanup on unmount
     return () => {
-      // Cleanup si nécessaire
+      mounted = false;
     };
   }, [channel]);
 
-  const startStream = async () => {
-    try {
-      setStatus('loading');
-      setProgress(10);
-      setError('');
+  const handlePlayerReady = () => {
+    setIsLoading(false);
+    setStatusMessage('');
+  };
 
-      // Étape 1: Connexion au backend
-      setProgress(30);
-      
-      // Étape 2: Démarrage de la conversion AceStream → HLS via Railway
-      const response = await playChannel(channel.acestream_hash);
-      
-      console.log('Backend response:', response);
-      
-      // Vérifier que nous avons reçu une URL de stream
-      if (!response.hls_url && !response.stream_url) {
-        throw new Error('Le backend n\'a pas retourné d\'URL de stream');
-      }
-      
-      setProgress(60);
-      
-      // Utiliser hls_url ou stream_url selon ce que le backend retourne
-      let streamUrl = response.hls_url || response.stream_url;
-      
-      // IMPORTANT: Si l'URL est relative, la convertir en URL absolue vers Railway
-      if (streamUrl && streamUrl.startsWith('/')) {
-        const backendUrl = process.env.REACT_APP_API_URL || 'http://localhost:8000';
-        streamUrl = `${backendUrl}${streamUrl}`;
-      }
-      
-      response.hls_url = streamUrl; // S'assurer que hls_url est défini avec l'URL complète
-      
-      setProgress(80);
-      
-      // Pas besoin d'attendre - AceStream Engine sur Railway gère cela
-      setProgress(100);
-      setStreamData(response);
-      setStatus('ready');
-      
-    } catch (err) {
-      console.error('Erreur de démarrage:', err);
-      setError(err.message || 'Impossible de démarrer le stream. Le backend Railway est peut-être en cours de démarrage.');
-      setStatus('error');
+  const handlePlayerError = (e) => {
+    console.error('Erreur lecteur:', e);
+    if (streamUrl && !isEmbed) {
+      setStatusMessage('Attente des segments vidéo...');
     }
-  };
-
-
-  const handleRetry = () => {
-    startStream();
-  };
-
-  const handlePlayerError = (error) => {
-    console.error('Erreur du lecteur:', error);
-    setError('Erreur de lecture. Vérifiez votre connexion.');
-    setStatus('error');
   };
 
   return (
@@ -87,99 +99,100 @@ const UnifiedStreamPlayer = ({ channel, onClose }) => {
       <div className="video-player-container">
         {/* Header */}
         <div className="video-player-header">
-          <h3>
-            {channel?.name || 'Lecture en cours'}
-          </h3>
+          <div className="header-info">
+            <h3>{channel.name || 'Lecture en cours'}</h3>
+            <span className="service-badge">
+              {isEmbed ? '🌐 Lecteur Web' : '⚡ Serveur HLS'}
+            </span>
+          </div>
           <button className="close-button" onClick={onClose}>×</button>
         </div>
 
         {/* Content */}
         <div className="video-player-content">
-          {/* Loading State */}
-          {status === 'loading' && (
-            <div className="status-message">
-              <div className="spinner"></div>
-              <p>Démarrage du flux HLS...</p>
-              <div className="progress-bar">
-                <div 
-                  className="progress-fill" 
-                  style={{ width: `${progress}%` }}
-                ></div>
-              </div>
-              <p className="progress-text">{progress}%</p>
-              <p className="info-text">
-                ⏳ Conversion AceStream → HLS en cours<br/>
-                📡 Aucune installation requise!
-              </p>
-            </div>
-          )}
-
-          {/* Ready State - HLS Player */}
-          {status === 'ready' && streamData && (
-            <div className="player-wrapper">
-              <HLSPlayer 
-                src={streamData.hls_url}
-                title={channel?.name}
-                onError={handlePlayerError}
-                onReady={() => console.log('Stream prêt!')}
-              />
-              <div className="stream-info">
-                <span className="badge badge-success">🔴 EN DIRECT</span>
-                <span className="badge badge-info">HLS (Pas d'installation)</span>
-              </div>
-            </div>
-          )}
-
-          {/* Error State */}
-          {status === 'error' && (
+          {error ? (
             <div className="status-message error">
-              <h4>❌ Erreur de streaming</h4>
+              <h4>❌ Erreur de lecture</h4>
               <p>{error}</p>
               <div className="error-actions">
-                <button onClick={handleRetry} className="retry-button">
+                <button onClick={() => window.location.reload()} className="retry-button">
                   🔄 Réessayer
                 </button>
-                <button onClick={onClose} className="secondary-button">
-                  Fermer
-                </button>
+                <div className="help-text">
+                  <p>Si le problème persiste, le serveur est peut-être surchargé ou le flux hors ligne.</p>
+                  <a href={`acestream://${channel.acestream_hash}`} className="acestream-link">
+                    🚀 Ouvrir dans AceStream (App locale)
+                  </a>
+                </div>
               </div>
-              <div className="help-text">
-                <p><strong>Causes possibles:</strong></p>
-                <ul>
-                  <li>Le flux AceStream n'est pas disponible</li>
-                  <li>Le backend est en cours de démarrage</li>
-                  <li>Problème de connexion réseau</li>
-                </ul>
-              </div>
+            </div>
+          ) : (
+            <div className="player-wrapper" style={{ position: 'relative', width: '100%', height: '100%', minHeight: '450px', background: '#000' }}>
+              {isLoading && (
+                <div className="loading-overlay" style={{
+                  position: 'absolute', top: 0, left: 0, right: 0, bottom: 0,
+                  display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
+                  background: 'rgba(0,0,0,0.8)', color: 'white', zIndex: 10
+                }}>
+                  <div className="spinner"></div>
+                  <p style={{ marginTop: '15px', textAlign: 'center' }}>{statusMessage}</p>
+                </div>
+              )}
+
+              {streamUrl && (
+                isEmbed ? (
+                    <iframe
+                        src={streamUrl}
+                        width="100%"
+                        height="100%"
+                        frameBorder="0"
+                        allowFullScreen
+                        title="AceStream Embed"
+                        style={{ background: '#000', border: 'none' }}
+                        onLoad={() => setIsLoading(false)}
+                    />
+                ) : (
+                    <ReactPlayer
+                      ref={playerRef}
+                      url={streamUrl}
+                      width="100%"
+                      height="100%"
+                      playing={true}
+                      controls={true}
+                      onReady={handlePlayerReady}
+                      onError={handlePlayerError}
+                      config={{
+                        file: {
+                          forceHLS: true,
+                          hlsOptions: {
+                            enableWorker: true,
+                            lowLatencyMode: true,
+                          }
+                        }
+                      }}
+                      style={{ background: '#000' }}
+                    />
+                )
+              )}
             </div>
           )}
         </div>
 
-        {/* Footer - Channel Info */}
-        {channel && (
-          <div className="video-player-info">
-            <div className="channel-details">
-              {channel.logo && (
-                <img src={channel.logo} alt="" className="channel-logo-small" />
-              )}
-              <div className="channel-text">
-                <div className="channel-name">
-                  {channel.name}
-                </div>
-                {channel.group && (
-                  <div className="channel-group">
-                    📁 {channel.group}
-                  </div>
-                )}
-                {channel.id && (
-                  <div className="channel-id">
-                    🆔 {channel.id}
-                  </div>
-                )}
-              </div>
+        {/* Footer */}
+        <div className="video-player-footer" style={{ padding: '10px', background: '#f8f9fa', borderTop: '1px solid #dee2e6' }}>
+          <div className="controls" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+            <div className="status-text">
+              <small className="text-muted">
+                {isEmbed ? 'Lecture via service web externe.' : 'Flux converti par le serveur.'} Aucune installation requise.
+              </small>
+            </div>
+            <div className="external-links">
+              <a href={`acestream://${channel.acestream_hash}`} className="btn btn-sm btn-outline-primary">
+                Ouvrir App Externe
+              </a>
             </div>
           </div>
-        )}
+        </div>
       </div>
     </div>
   );

@@ -4,7 +4,7 @@ import asyncio
 from pathlib import Path
 from typing import Dict, List
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 
@@ -172,8 +172,9 @@ def get_playlist_channels(playlist_name: str):
 @app.post("/api/play")
 async def play_acestream_channel(request: dict):
     """
-    Convert AceStream hash to playable HLS stream via Railway
-    Returns HLS playlist URL for browser-compatible streaming
+    Convert AceStream hash to playable stream
+    On Windows: Uses direct proxy (MPEG-TS)
+    On Linux/Docker: Uses HLS conversion
     """
     acestream_hash = request.get("hash")
     
@@ -183,18 +184,35 @@ async def play_acestream_channel(request: dict):
     # Remove any whitespace or special characters
     acestream_hash = acestream_hash.strip()
     
-    # Return HLS playlist URL (FFmpeg will convert MPEG-TS to HLS)
-    hls_playlist_url = f"/api/stream/{acestream_hash}/playlist.m3u8"
+    # Check if we're on Windows (where /ace/getstream doesn't work)
+    import sys
+    is_windows = sys.platform == "win32"
     
-    return {
-        "status": "success",
-        "hash": acestream_hash,
-        "stream_url": hls_playlist_url,
-        "hls_url": hls_playlist_url,
-        "type": "hls_conversion",
-        "backend": "railway_ffmpeg",
-        "message": "HLS stream ready - No AceStream installation required!"
-    }
+    if is_windows:
+        # Use direct proxy endpoint (MPEG-TS stream)
+        # This works with AceStream Engine on Windows
+        stream_url = f"/api/stream/{acestream_hash}"
+        return {
+            "status": "success",
+            "hash": acestream_hash,
+            "stream_url": stream_url,
+            "hls_url": stream_url,
+            "type": "direct_proxy",
+            "backend": "windows_acestream",
+            "message": "Direct MPEG-TS stream via proxy - No AceStream installation required!"
+        }
+    else:
+        # Use Web Embed (Iframe) solution for Render/Linux
+        # This avoids the need for AceStream Engine on the server
+        embed_url = f"https://acestream.me/embed/{acestream_hash}"
+        return {
+            "status": "success",
+            "hash": acestream_hash,
+            "stream_url": embed_url,
+            "type": "web_embed",
+            "backend": "web_iframe",
+            "message": "Web embed ready - No AceStream installation required!"
+        }
 
 
 @app.get("/api/stream/{acestream_hash}/playlist.m3u8")
@@ -213,7 +231,9 @@ async def get_hls_playlist(acestream_hash: str):
     acestream_url = f"{acestream_base}/ace/getstream?id={acestream_hash}"
     
     # Create output directory for this stream
-    storage_dir = Path("/app/storage/hls")
+    # Support both Linux (/app/storage) and Windows (./storage)
+    storage_base = os.getenv("STORAGE_DIR", "./storage/hls")
+    storage_dir = Path(storage_base)
     storage_dir.mkdir(parents=True, exist_ok=True)
     
     output_dir = storage_dir / acestream_hash
@@ -283,7 +303,9 @@ async def get_hls_segment(acestream_hash: str, segment_id: str):
     if not acestream_hash or len(acestream_hash) < 32:
         raise HTTPException(status_code=400, detail="Invalid AceStream hash")
     
-    segment_path = Path(f"/app/storage/hls/{acestream_hash}/segment_{segment_id}.ts")
+    # Support both Linux and Windows paths
+    storage_base = os.getenv("STORAGE_DIR", "./storage/hls")
+    segment_path = Path(f"{storage_base}/{acestream_hash}/segment_{segment_id}.ts")
     
     if not segment_path.exists():
         raise HTTPException(status_code=404, detail="Segment not found")
@@ -299,18 +321,18 @@ async def get_hls_segment(acestream_hash: str, segment_id: str):
 
 
 @app.api_route("/api/stream/{acestream_hash}", methods=["GET", "HEAD", "OPTIONS"])
-async def proxy_acestream_stream(acestream_hash: str):
+async def proxy_acestream_stream(acestream_hash: str, request: Request):
     """
-    Proxy endpoint that forwards AceStream Engine stream to the client
-    This makes the local AceStream Engine accessible from the internet
-    Supports GET, HEAD, and OPTIONS methods for compatibility
+    Proxy endpoint for AceStream Engine stream
+    On Windows: Uses AceStream Web Player proxy
+    On Linux: Uses direct /ace/getstream endpoint
     """
     import httpx
     from fastapi.responses import StreamingResponse, Response
-    from fastapi import Request
+    import sys
     
     # Handle OPTIONS preflight
-    if Request.method == "OPTIONS":
+    if request.method == "OPTIONS":
         return Response(
             status_code=200,
             headers={
@@ -325,7 +347,46 @@ async def proxy_acestream_stream(acestream_hash: str):
     
     acestream_hash = acestream_hash.strip()
     acestream_base = os.getenv("ACESTREAM_BASE_URL", "http://127.0.0.1:6878")
-    acestream_url = f"{acestream_base}/ace/getstream?id={acestream_hash}"
+    
+    # On Windows, use alternative AceStream API
+    is_windows = sys.platform == "win32"
+    
+    if is_windows:
+        # First, start the stream using AceStream API
+        try:
+            async with httpx.AsyncClient(timeout=10.0) as client:
+                # Get stream info using AceStream Windows API
+                response = await client.get(
+                    f"{acestream_base}/webui/api/service",
+                    params={
+                        "method": "get_stream",
+                        "id": acestream_hash,
+                        "format": "json"
+                    }
+                )
+                
+                if response.status_code == 200:
+                    result = response.json()
+                    if result.get("error"):
+                        # Try alternative method: embed player
+                        acestream_url = f"{acestream_base}/player/{acestream_hash}"
+                    else:
+                        # Use the returned stream URL if available
+                        stream_info = result.get("result", {})
+                        if "playback_url" in stream_info:
+                            acestream_url = stream_info["playback_url"]
+                        else:
+                            # Fallback to embed player
+                            acestream_url = f"{acestream_base}/player/{acestream_hash}"
+                else:
+                    # Fallback
+                    acestream_url = f"{acestream_base}/player/{acestream_hash}"
+        except Exception as e:
+            # If API call fails, try direct player URL
+            acestream_url = f"{acestream_base}/player/{acestream_hash}"
+    else:
+        # Linux/Docker: use standard API
+        acestream_url = f"{acestream_base}/ace/getstream?id={acestream_hash}"
     
     try:
         # For HEAD requests, just check if AceStream Engine responds
