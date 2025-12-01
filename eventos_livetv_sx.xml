@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-12-01 07:29:03" total="1294">
-  <evento>
-    <nombre>Nueva Zelanda –  Australia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Asia</competicion>
-    <fecha>1 de diciembre</fecha>
-    <hora>15:11</hora>
-    <url>https://livetv.sx/es/eventinfo/318884247_nueva_zelanda_australia/</url>
-  </evento>
+<eventos generado="2025-12-01 08:39:13" total="1301">
   <evento>
     <nombre>Russian Championship</nombre>
     <deporte>Fútbol</deporte>
@@ -17,20 +9,20 @@
     <url>https://livetv.sx/es/eventinfo/323271449_russian_championship/</url>
   </evento>
   <evento>
+    <nombre>WTT Feeder Parma</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>1 de diciembre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/322995400_wtt_feeder_parma/</url>
+  </evento>
+  <evento>
     <nombre>Hobart (W) –  Melbourne Stars (W)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Australia. Mujeres. WBBL</competicion>
     <fecha>1 de diciembre</fecha>
     <hora>10:10</hora>
     <url>https://livetv.sx/es/eventinfo/321257212_hobart_w_melbourne_stars_w/</url>
-  </evento>
-  <evento>
-    <nombre>WTT Feeder Parma</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>1 de diciembre</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/322995400_wtt_feeder_parma/</url>
   </evento>
   <evento>
     <nombre>Veronika Podrez (M) –   Alina Charaeva (M)</nombre>
@@ -71,6 +63,14 @@
     <fecha>1 de diciembre</fecha>
     <hora>12:00</hora>
     <url>https://livetv.sx/es/eventinfo/321796993_letonia_u19_m_israel_u19_m/</url>
+  </evento>
+  <evento>
+    <nombre>Letonia (M) Sub-19 –    Israel (M) Sub-19</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Calificación</competicion>
+    <fecha>1 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323280511___letonia_m_sub_19___israel_m_sub_19/</url>
   </evento>
   <evento>
     <nombre>Argentina (M) –  Colombia (M)</nombre>
@@ -255,6 +255,14 @@
     <fecha>1 de diciembre</fecha>
     <hora>12:00</hora>
     <url>https://livetv.sx/es/eventinfo/318628104__/</url>
+  </evento>
+  <evento>
+    <nombre>Letonia (M) Sub-19 –   Israel (M) Sub-19</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. Campeonato de Europa Sub-19. Calificación</competicion>
+    <fecha>1 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323280511__/</url>
   </evento>
   <evento>
     <nombre>Kazajstán U19 (W) – Malta U19 (M)</nombre>
@@ -3385,6 +3393,14 @@
     <url>https://livetv.sx/es/eventinfo/320373103__/</url>
   </evento>
   <evento>
+    <nombre>Central Coast Mariners – Sídney</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. A-League</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>10:35</hora>
+    <url>https://livetv.sx/es/eventinfo/320411848__/</url>
+  </evento>
+  <evento>
     <nombre>Sibir – Barys</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -6193,6 +6209,38 @@
     <url>https://livetv.sx/es/eventinfo/320388080__/</url>
   </evento>
   <evento>
+    <nombre>Stalnye Lisy – Almaz</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320402898__/</url>
+  </evento>
+  <evento>
+    <nombre>Tolpar – Dinamo Szynnik</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320402899__/</url>
+  </evento>
+  <evento>
+    <nombre>Belye Medvedi – JHC Dynamo SPb</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320402900__/</url>
+  </evento>
+  <evento>
+    <nombre>Avto – Krasnaya Armiya</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320402901__/</url>
+  </evento>
+  <evento>
     <nombre>Neftyanik (M) –  Dynamo Kursk (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Rusia. Mujeres. Premier League</competicion>
@@ -6263,14 +6311,6 @@
     <fecha>2 de diciembre</fecha>
     <hora>02:30</hora>
     <url>https://livetv.sx/es/eventinfo/319082085__/</url>
-  </evento>
-  <evento>
-    <nombre>Nueva Zelanda – Australia</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Clasificación para la Copa Mundial. Asia</competicion>
-    <fecha>1 de diciembre</fecha>
-    <hora>08:00</hora>
-    <url>https://livetv.sx/es/eventinfo/318884247__/</url>
   </evento>
   <evento>
     <nombre>Corea del Sur – China</nombre>
@@ -6663,46 +6703,6 @@
     <fecha>2 de diciembre</fecha>
     <hora>21:15</hora>
     <url>https://livetv.sx/es/eventinfo/323148602__/</url>
-  </evento>
-  <evento>
-    <nombre>Kansas – Connecticut Huskies</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>2 de diciembre</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319303295__/</url>
-  </evento>
-  <evento>
-    <nombre>Loyola Marymount Lions – St Louis Billikens</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>2 de diciembre</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319303296__/</url>
-  </evento>
-  <evento>
-    <nombre>California Golden Bears – Utah Utes</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>2 de diciembre</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319303297__/</url>
-  </evento>
-  <evento>
-    <nombre>Creighton Bluejays – Nicholls Colonels</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>2 de diciembre</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319303298__/</url>
-  </evento>
-  <evento>
-    <nombre>Oregon Ducks – USC Trojans</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>2 de diciembre</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319303299__/</url>
   </evento>
   <evento>
     <nombre>Osasco – Botafogo</nombre>
@@ -7113,12 +7113,52 @@
     <url>https://livetv.sx/es/eventinfo/319380293__/</url>
   </evento>
   <evento>
+    <nombre>Kansas – Connecticut Huskies</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319303295__/</url>
+  </evento>
+  <evento>
+    <nombre>Creighton Bluejays – Nicholls Colonels</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319303298__/</url>
+  </evento>
+  <evento>
     <nombre>Kentucky Wildcats – North Carolina Tar Heels</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
     <fecha>3 de diciembre</fecha>
     <hora>04:30</hora>
     <url>https://livetv.sx/es/eventinfo/319387649__/</url>
+  </evento>
+  <evento>
+    <nombre>Loyola Marymount Lions – St Louis Billikens</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319303296__/</url>
+  </evento>
+  <evento>
+    <nombre>California Golden Bears – Utah Utes</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319303297__/</url>
+  </evento>
+  <evento>
+    <nombre>Oregon Ducks – USC Trojans</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319303299__/</url>
   </evento>
   <evento>
     <nombre>Nevada Wolf Pack – San Diego Tritons</nombre>
@@ -9105,6 +9145,14 @@
     <url>https://livetv.sx/es/eventinfo/319043228__/</url>
   </evento>
   <evento>
+    <nombre>Belgrado (M) –  Sremska Mitrovica (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Serbia. Mujeres. Super Liga</competicion>
+    <fecha>1 de diciembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323289853__/</url>
+  </evento>
+  <evento>
     <nombre>Maringa (M) –  Volei Bauru (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Brasil. Mujeres. Superliga</competicion>
@@ -9831,6 +9879,14 @@
     <fecha>1 de diciembre</fecha>
     <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/321438722_crvena_zvezda_metaloplastika/</url>
+  </evento>
+  <evento>
+    <nombre>Estrella Roja – Metaloplastika</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Serbia. Superliga</competicion>
+    <fecha>1 de diciembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/323286035__/</url>
   </evento>
   <evento>
     <nombre>República Checa (M) –  Cuba (M)</nombre>
