@@ -263,6 +263,7 @@ async def get_hls_playlist(acestream_hash: str):
         ]
         
         try:
+            print(f"Starting FFmpeg: {' '.join(ffmpeg_cmd)}")
             # Start FFmpeg process in background
             process = await asyncio.create_subprocess_exec(
                 *ffmpeg_cmd,
@@ -273,7 +274,18 @@ async def get_hls_playlist(acestream_hash: str):
             # Wait a bit for first segments to be created (5 seconds)
             await asyncio.sleep(5)
             
+            # Check if process is still running
+            if process.returncode is not None:
+                stdout, stderr = await process.communicate()
+                print(f"FFmpeg exited early with code {process.returncode}")
+                print(f"FFmpeg stderr: {stderr.decode()}")
+                raise HTTPException(
+                    status_code=503,
+                    detail=f"FFmpeg failed: {stderr.decode()}"
+                )
+            
         except Exception as e:
+            print(f"FFmpeg Exception: {str(e)}")
             raise HTTPException(
                 status_code=503,
                 detail=f"Failed to start FFmpeg: {str(e)}"
