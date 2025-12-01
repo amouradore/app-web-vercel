@@ -48,20 +48,27 @@ const UnifiedStreamPlayer = ({ channel, onClose }) => {
         if (!mounted) return;
 
         console.log('Flux reçu:', data);
-        
+
+        // Handle different stream types
         if (data.type === 'web_embed' || data.backend === 'web_iframe') {
-            setIsEmbed(true);
-            setStreamUrl(data.stream_url); // Note: backend returns stream_url (snake_case)
-            setStatusMessage('Chargement du lecteur web...');
+          setIsEmbed(true);
+          setStreamUrl(data.stream_url);
+          setStatusMessage('Chargement du lecteur web...');
+        } else if (data.type === 'aceproxy' || data.backend === 'aceproxy_docker') {
+          // AceProxy returns HTTP MP4 stream - use ReactPlayer
+          setIsEmbed(false);
+          setStreamUrl(data.stream_url);
+          setStatusMessage('Chargement du flux AceProxy...');
         } else {
-            setIsEmbed(false);
-            setStreamUrl(data.stream_url || data.hls_url);
-            setStatusMessage('Chargement de la vidéo...');
+          // HLS or direct proxy
+          setIsEmbed(false);
+          setStreamUrl(data.stream_url || data.hls_url);
+          setStatusMessage('Chargement de la vidéo...');
         }
-        
-        // Pour les embeds, on arrête le loading quand l'iframe charge (ou on laisse un court délai)
+
+        // For embeds, stop loading when iframe loads
         if (data.type === 'web_embed') {
-            setTimeout(() => setIsLoading(false), 1000);
+          setTimeout(() => setIsLoading(false), 1000);
         }
 
       } catch (err) {
@@ -141,37 +148,37 @@ const UnifiedStreamPlayer = ({ channel, onClose }) => {
 
               {streamUrl && (
                 isEmbed ? (
-                    <iframe
-                        src={streamUrl}
-                        width="100%"
-                        height="100%"
-                        frameBorder="0"
-                        allowFullScreen
-                        title="AceStream Embed"
-                        style={{ background: '#000', border: 'none' }}
-                        onLoad={() => setIsLoading(false)}
-                    />
+                  <iframe
+                    src={streamUrl}
+                    width="100%"
+                    height="100%"
+                    frameBorder="0"
+                    allowFullScreen
+                    title="AceStream Embed"
+                    style={{ background: '#000', border: 'none' }}
+                    onLoad={() => setIsLoading(false)}
+                  />
                 ) : (
-                    <ReactPlayer
-                      ref={playerRef}
-                      url={streamUrl}
-                      width="100%"
-                      height="100%"
-                      playing={true}
-                      controls={true}
-                      onReady={handlePlayerReady}
-                      onError={handlePlayerError}
-                      config={{
-                        file: {
-                          forceHLS: true,
-                          hlsOptions: {
-                            enableWorker: true,
-                            lowLatencyMode: true,
-                          }
+                  <ReactPlayer
+                    ref={playerRef}
+                    url={streamUrl}
+                    width="100%"
+                    height="100%"
+                    playing={true}
+                    controls={true}
+                    onReady={handlePlayerReady}
+                    onError={handlePlayerError}
+                    config={{
+                      file: {
+                        forceHLS: true,
+                        hlsOptions: {
+                          enableWorker: true,
+                          lowLatencyMode: true,
                         }
-                      }}
-                      style={{ background: '#000' }}
-                    />
+                      }
+                    }}
+                    style={{ background: '#000' }}
+                  />
                 )
               )}
             </div>

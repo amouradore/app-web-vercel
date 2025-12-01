@@ -202,16 +202,17 @@ async def play_acestream_channel(request: dict):
             "message": "Direct MPEG-TS stream via proxy - No AceStream installation required!"
         }
     else:
-        # Use Web Embed (Iframe) solution for Render/Linux
-        # This avoids the need for AceStream Engine on the server
-        embed_url = f"https://acestream.me/embed/{acestream_hash}"
+        # Use AceProxy Docker service for Render/Linux
+        # AceProxy converts AceStream to HTTP stream
+        aceproxy_url = os.getenv("ACEPROXY_URL", "http://localhost:8000")
+        stream_url = f"{aceproxy_url}/pid/{acestream_hash}/stream.mp4"
         return {
             "status": "success",
             "hash": acestream_hash,
-            "stream_url": embed_url,
-            "type": "web_embed",
-            "backend": "web_iframe",
-            "message": "Web embed ready - No AceStream installation required!"
+            "stream_url": stream_url,
+            "type": "aceproxy",
+            "backend": "aceproxy_docker",
+            "message": "Stream ready via AceProxy - No AceStream installation required!"
         }
 
 
