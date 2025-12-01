@@ -204,7 +204,10 @@ async def play_acestream_channel(request: dict):
     else:
         # Use HLS conversion from Railway AceStream Server
         # Backend will proxy and convert MPEG-TS to HLS
-        hls_playlist_url = f"/api/stream/{acestream_hash}/playlist.m3u8"
+        # CRITICAL: Must return ABSOLUTE URL because frontend is on different domain
+        base_url = str(request.base_url).rstrip('/')
+        hls_playlist_url = f"{base_url}/api/stream/{acestream_hash}/playlist.m3u8"
+        
         return {
             "status": "success",
             "hash": acestream_hash,
