@@ -205,7 +205,8 @@ async def play_acestream_channel(request: dict):
         # Use HLS conversion from Railway AceStream Server
         # Backend will proxy and convert MPEG-TS to HLS
         # CRITICAL: Must return ABSOLUTE URL because frontend is on different domain
-        base_url = str(request.base_url).rstrip('/')
+        # Use Render env var if available, otherwise hardcode or use request
+        base_url = os.getenv("RENDER_EXTERNAL_URL", "https://app-web-vercel.onrender.com")
         hls_playlist_url = f"{base_url}/api/stream/{acestream_hash}/playlist.m3u8"
         
         return {
@@ -274,8 +275,8 @@ async def get_hls_playlist(acestream_hash: str):
                 stderr=asyncio.subprocess.PIPE
             )
             
-            # Wait a bit for first segments to be created (5 seconds)
-            await asyncio.sleep(5)
+            # Wait a bit for first segments to be created (10 seconds for cold start)
+            await asyncio.sleep(10)
             
             # Check if process is still running
             if process.returncode is not None:
@@ -294,8 +295,8 @@ async def get_hls_playlist(acestream_hash: str):
                 detail=f"Failed to start FFmpeg: {str(e)}"
             )
     
-    # Wait for playlist to be created (max 10 seconds)
-    for _ in range(20):
+    # Wait for playlist to be created (max 30 seconds)
+    for _ in range(60):
         if playlist_path.exists():
             return FileResponse(
                 playlist_path,
