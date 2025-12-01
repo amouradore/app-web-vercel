@@ -202,17 +202,18 @@ async def play_acestream_channel(request: dict):
             "message": "Direct MPEG-TS stream via proxy - No AceStream installation required!"
         }
     else:
-        # Use AceProxy Docker service for Render/Linux
-        # AceProxy converts AceStream to HTTP stream
-        aceproxy_url = os.getenv("ACEPROXY_URL", "http://localhost:8000")
-        stream_url = f"{aceproxy_url}/pid/{acestream_hash}/stream.mp4"
+        # Use AceStream server (magnetikonline) for Render/Linux
+        # API endpoint: /ace/getstream?id=HASH
+        aceproxy_url = os.getenv("ACEPROXY_URL", "http://localhost:6878")
+        # magnetikonline uses standard AceStream API endpoint
+        stream_url = f"{aceproxy_url}/ace/getstream?id={acestream_hash}"
         return {
             "status": "success",
             "hash": acestream_hash,
             "stream_url": stream_url,
-            "type": "aceproxy",
-            "backend": "aceproxy_docker",
-            "message": "Stream ready via AceProxy - No AceStream installation required!"
+            "type": "acestream_server",
+            "backend": "magnetikonline_docker",
+            "message": "Stream ready via AceStream Server - No local installation required!"
         }
 
 

@@ -12,8 +12,24 @@
 3. Sélectionnez **"Deploy from Docker Image"**
 
 ### 1.2 Configurer l'image Docker
-- **Image** : `ikatson/docker-acestream-proxy:latest`
-- **Port** : `8000`
+
+**⚠️ IMPORTANT - Images Docker Alternatives**
+
+L'image `ikatson/docker-acestream-proxy` n'est plus accessible. Utilisez l'une de ces alternatives :
+
+**Option 1 (Recommandée) :** `magnetikonline/acestream-server`
+```
+magnetikonline/acestream-server
+```
+
+**Option 2 :** `blaiseludvig/acestream-server`
+```
+blaiseludvig/acestream-server
+```
+
+**Configuration :**
+- **Port** : `6878` (pour magnetikonline)
+- **Variables d'environnement** : Aucune requise
 
 ### 1.3 Déployer
 1. Cliquez sur **"Deploy"**
