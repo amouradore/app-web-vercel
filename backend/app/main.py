@@ -202,18 +202,17 @@ async def play_acestream_channel(request: dict):
             "message": "Direct MPEG-TS stream via proxy - No AceStream installation required!"
         }
     else:
-        # Use AceStream server (magnetikonline) for Render/Linux
-        # API endpoint: /ace/getstream?id=HASH
-        aceproxy_url = os.getenv("ACEPROXY_URL", "http://localhost:6878")
-        # magnetikonline uses standard AceStream API endpoint
-        stream_url = f"{aceproxy_url}/ace/getstream?id={acestream_hash}"
+        # Use HLS conversion from Railway AceStream Server
+        # Backend will proxy and convert MPEG-TS to HLS
+        hls_playlist_url = f"/api/stream/{acestream_hash}/playlist.m3u8"
         return {
             "status": "success",
             "hash": acestream_hash,
-            "stream_url": stream_url,
-            "type": "acestream_server",
-            "backend": "magnetikonline_docker",
-            "message": "Stream ready via AceStream Server - No local installation required!"
+            "stream_url": hls_playlist_url,
+            "hls_url": hls_playlist_url,
+            "type": "hls_conversion",
+            "backend": "railway_ffmpeg",
+            "message": "HLS stream ready via Railway - No AceStream installation required!"
         }
 
 
@@ -229,8 +228,10 @@ async def get_hls_playlist(acestream_hash: str):
         raise HTTPException(status_code=400, detail="Invalid AceStream hash")
     
     acestream_hash = acestream_hash.strip()
-    acestream_base = os.getenv("ACESTREAM_BASE_URL", "http://127.0.0.1:6878")
-    acestream_url = f"{acestream_base}/ace/getstream?id={acestream_hash}"
+    
+    # Use Railway AceStream Server instead of localhost
+    aceproxy_url = os.getenv("ACEPROXY_URL", "http://localhost:6878")
+    acestream_url = f"{aceproxy_url}/ace/getstream?id={acestream_hash}"
     
     # Create output directory for this stream
     # Support both Linux (/app/storage) and Windows (./storage)
