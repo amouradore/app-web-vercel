@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-12-02 04:36:47" total="1758">
-  <evento>
-    <nombre>Utah –  Houston</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>2 de diciembre</fecha>
-    <hora>30:12</hora>
-    <url>https://livetv.sx/es/eventinfo/319100504_utah_houston/</url>
-  </evento>
+<eventos generado="2025-12-02 05:26:46" total="1758">
   <evento>
     <nombre>San José –  Utah Mammoth</nombre>
     <deporte>Fútbol</deporte>
@@ -21,7 +13,7 @@
     <deporte>Fútbol</deporte>
     <competicion>No especificado</competicion>
     <fecha>2 de diciembre</fecha>
-    <hora>63:79</hora>
+    <hora>08:12</hora>
     <url>https://livetv.sx/es/eventinfo/319112771_la_lakers_phoenix/</url>
   </evento>
   <evento>
@@ -45,7 +37,7 @@
     <deporte>Fútbol</deporte>
     <competicion>NCAA</competicion>
     <fecha>2 de diciembre</fecha>
-    <hora>75:53</hora>
+    <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/319112662_stanford_cardinal_portland_pilots/</url>
   </evento>
   <evento>
@@ -159,6 +151,14 @@
     <fecha>2 de diciembre</fecha>
     <hora>12:00</hora>
     <url>https://livetv.sx/es/eventinfo/319491616_musspor_konyaspor/</url>
+  </evento>
+  <evento>
+    <nombre>SKA-VMF –  Sokol Krasnoyarsk</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>2 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319194333_ska_vmf_sokol_krasnoyarsk/</url>
   </evento>
   <evento>
     <nombre>Ebro – Osasuna</nombre>
@@ -7585,28 +7585,28 @@
     <url>https://livetv.sx/es/eventinfo/320773145__/</url>
   </evento>
   <evento>
-    <nombre>Denver – Dallas</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>2 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319100503__/</url>
-  </evento>
-  <evento>
-    <nombre>Utah – Houston</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>2 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319100504__/</url>
-  </evento>
-  <evento>
     <nombre>LA Lakers – Phoenix</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>No especificado</competicion>
     <fecha>2 de diciembre</fecha>
     <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/319112771__/</url>
+  </evento>
+  <evento>
+    <nombre>iLab – Ankaragucu</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Turquía. TBL</competicion>
+    <fecha>2 de diciembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323386232_ilab_ankaragucu/</url>
+  </evento>
+  <evento>
+    <nombre>AS Mónaco – Paris</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Francia. Copa</competicion>
+    <fecha>2 de diciembre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/322089722__/</url>
   </evento>
   <evento>
     <nombre>La-Rochelle – Le Mans</nombre>
@@ -7665,22 +7665,6 @@
     <url>https://livetv.sx/es/eventinfo/319365058__/</url>
   </evento>
   <evento>
-    <nombre>Stanford Cardinal – Portland Pilots</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>2 de diciembre</fecha>
-    <hora>05:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319112662__/</url>
-  </evento>
-  <evento>
-    <nombre>iLab – Ankaragucu</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Turquía. TBL</competicion>
-    <fecha>2 de diciembre</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323386232_ilab_ankaragucu/</url>
-  </evento>
-  <evento>
     <nombre>Kaspiy-Aktau – Astana</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Kazajistán. Liga Nacional</competicion>
@@ -7711,14 +7695,6 @@
     <fecha>2 de diciembre</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/319241340__/</url>
-  </evento>
-  <evento>
-    <nombre>AS Mónaco – Paris</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Francia. Copa</competicion>
-    <fecha>2 de diciembre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/322089722__/</url>
   </evento>
   <evento>
     <nombre>Tindastoll (M) –  Haukar (M)</nombre>
@@ -11583,6 +11559,30 @@
     <fecha>6 de diciembre</fecha>
     <hora>23:00</hora>
     <url>https://livetv.sx/es/eventinfo/320640102__/</url>
+  </evento>
+  <evento>
+    <nombre>Upstate Spartans – Western Carolina Catamounts</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320640104__/</url>
+  </evento>
+  <evento>
+    <nombre>W – Evansville Purple Aces</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320640105__/</url>
+  </evento>
+  <evento>
+    <nombre>Rio Claro – Fortaleza Cearense</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Brasil. NBB</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320637920__/</url>
   </evento>
   <evento>
     <nombre>Alina Korneeva (M) –  Darja Semenistaja (M)</nombre>
