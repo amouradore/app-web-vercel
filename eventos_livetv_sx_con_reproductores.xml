@@ -1,6 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2025-12-03 04:49:06" total="360">
+<eventos generado="2025-12-03 05:38:50" total="346">
   <evento id="1">
+    <nombre>Golden State –  Oklahoma</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>44:63</hora>
+    <url>https://livetv.sx/es/eventinfo/319408820_golden_state_oklahoma/</url>
+    <datetime_iso>2025-12-03T00:00:00</datetime_iso>
+    <streams total="8">
+      <stream id="1">
+        <url>https://emb.apl385.me/
+player/live.php?id=242914&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=242914&amp;lang=es&amp;eid=319408820&amp;lid=2828767&amp;ci=3&amp;si=3</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://emb.apl385.me/
+player/live.php?id=243692&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=243692&amp;lang=es&amp;eid=319408820&amp;lid=2879197&amp;ci=3&amp;si=3</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://emb.apl385.me/
+player/live.php?id=243859&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=243859&amp;lang=es&amp;eid=319408820&amp;lid=2879702&amp;ci=3&amp;si=3</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://emb.apl385.me/
+player/live.php?id=244171&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=244171&amp;lang=es&amp;eid=319408820&amp;lid=2884541&amp;ci=3&amp;si=3</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://emb.apl385.me/
+player/live.php?id=244363&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/4.png</idioma>
+        <idioma_nombre>Italiano (Italia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=244363&amp;lang=es&amp;eid=319408820&amp;lid=2893319&amp;ci=3&amp;si=3</enlace_original>
+      </stream>
+      <stream id="6">
+        <url>https://emb.apl385.me/
+player/live.php?id=244387&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/11.png</idioma>
+        <idioma_nombre>Alemán</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=244387&amp;lang=es&amp;eid=319408820&amp;lid=2895072&amp;ci=3&amp;si=3</enlace_original>
+      </stream>
+      <stream id="7">
+        <url>https://emb.apl385.me/
+player/live.php?id=244448&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=244448&amp;lang=es&amp;eid=319408820&amp;lid=2897263&amp;ci=3&amp;si=3</enlace_original>
+      </stream>
+      <stream id="8">
+        <url>https://emb.apl385.me/
+player/live.php?id=242305&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=242305&amp;lang=es&amp;eid=319408820&amp;lid=2897085&amp;ci=3&amp;si=3</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="2">
     <nombre>Nueva Zelanda –  West Indies</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Test</competicion>
@@ -55,96 +122,12 @@ player/live.php?id=243845&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="2">
-    <nombre>Notre Dame Fighting Irish –  Missouri Tigers</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>74:71</hora>
-    <url>https://livetv.sx/es/eventinfo/319380289_notre_dame_fighting_irish_missouri_tigers/</url>
-    <datetime_iso>2025-12-03T00:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
   <evento id="3">
-    <nombre>Florida Seminoles –  Georgia Bulldogs</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>73:10</hora>
-    <url>https://livetv.sx/es/eventinfo/319380290_florida_seminoles_georgia_bulldogs/</url>
-    <datetime_iso>2025-12-03T00:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="4">
-    <nombre>Kentucky Wildcats –  North Carolina Tar Heels</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>53:49</hora>
-    <url>https://livetv.sx/es/eventinfo/319387649_kentucky_wildcats_north_carolina_tar_heels/</url>
-    <datetime_iso>2025-12-03T00:00:00</datetime_iso>
-    <streams total="3">
-      <stream id="1">
-        <url>https://emb.apl385.me/
-player/live.php?id=243694&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
-        <idioma_nombre>Coreano</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=243694&amp;lang=es&amp;eid=319387649&amp;lid=2879200&amp;ci=428&amp;si=3</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://voodc.com/embed/1/85818c95a389a284847a8595a58d98868b7b.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897570&amp;lang=es&amp;eid=319387649&amp;lid=2897570&amp;ci=428&amp;si=3</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://daddylive3.com/my/stream-44.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2896317&amp;lang=es&amp;eid=319387649&amp;lid=2896317&amp;ci=428&amp;si=3</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="5">
-    <nombre>Loyola Marymount Lions –  St Louis Billikens</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>39:56</hora>
-    <url>https://livetv.sx/es/eventinfo/319303296_loyola_marymount_lions_st_louis_billikens/</url>
-    <datetime_iso>2025-12-03T00:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c95a38a998c847a85969c8798868b7e.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897498&amp;lang=es&amp;eid=319303296&amp;lid=2897498&amp;ci=428&amp;si=3</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="6">
-    <nombre>California Golden Bears –  Utah Utes</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>56:53</hora>
-    <url>https://livetv.sx/es/eventinfo/319303297_california_golden_bears_utah_utes/</url>
-    <datetime_iso>2025-12-03T00:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c95a38a998c847a8595a59098868b80.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897497&amp;lang=es&amp;eid=319303297&amp;lid=2897497&amp;ci=428&amp;si=3</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="7">
     <nombre>Oregon Ducks –  USC Trojans</nombre>
     <deporte>Fútbol</deporte>
     <competicion>NCAA</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>41:44</hora>
+    <hora>73:75</hora>
     <url>https://livetv.sx/es/eventinfo/319303299_oregon_ducks_usc_trojans/</url>
     <datetime_iso>2025-12-03T00:00:00</datetime_iso>
     <streams total="2">
@@ -162,342 +145,7 @@ player/live.php?id=243694&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="8">
-    <nombre>Nevada Wolf Pack –  San Diego Tritons</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>46:47</hora>
-    <url>https://livetv.sx/es/eventinfo/319394801_nevada_wolf_pack_san_diego_tritons/</url>
-    <datetime_iso>2025-12-03T00:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c95a38a998c847a85969c8898868b7f.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897499&amp;lang=es&amp;eid=319394801&amp;lid=2897499&amp;ci=428&amp;si=3</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="9">
-    <nombre>Edmonton –  Minnesota</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319380598_edmonton_minnesota/</url>
-    <datetime_iso>2025-12-03T04:00:00</datetime_iso>
-    <streams total="8">
-      <stream id="1">
-        <url>https://flixxlive.pro/live/ch13_english.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2710049&amp;lang=es&amp;eid=319380598&amp;lid=2710049&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://flixxlive.pro/live/nhl7_english.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2850945&amp;lang=es&amp;eid=319380598&amp;lid=2850945&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://voodc.com/embed/1/85818c95a389a086847a8595a48998868a82.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897488&amp;lang=es&amp;eid=319380598&amp;lid=2897488&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://voodc.com/embed/1/85818c95a389a086847a8595a48898868a81.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897487&amp;lang=es&amp;eid=319380598&amp;lid=2897487&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://daddylive3.com/my/stream-15.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2896306&amp;lang=es&amp;eid=319380598&amp;lid=2896306&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="6">
-        <url>https://streamcenter.xyz/embed/ch57.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897776&amp;lang=es&amp;eid=319380598&amp;lid=2897776&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="7">
-        <url>https://e2link.link/ch.php?id=77</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2896287&amp;lang=es&amp;eid=319380598&amp;lid=2896287&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="8">
-        <url>https://dabac.link/ch?id=33</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897780&amp;lang=es&amp;eid=319380598&amp;lid=2897780&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="10">
-    <nombre>Colorado –  Vancouver</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319380599_colorado_vancouver/</url>
-    <datetime_iso>2025-12-03T04:00:00</datetime_iso>
-    <streams total="8">
-      <stream id="1">
-        <url>https://emb.apl385.me/
-player/live.php?id=243686&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=243686&amp;lang=es&amp;eid=319380599&amp;lid=2879199&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://flixxlive.pro/live/ch14_english.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2710047&amp;lang=es&amp;eid=319380599&amp;lid=2710047&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://flixxlive.pro/live/nhl8_english.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2850944&amp;lang=es&amp;eid=319380599&amp;lid=2850944&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://voodc.com/embed/1/85818c95a389a086847a8595a48b98868b7a.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897490&amp;lang=es&amp;eid=319380599&amp;lid=2897490&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://voodc.com/embed/1/85818c95a389a086847a8595a48a98868a83.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897489&amp;lang=es&amp;eid=319380599&amp;lid=2897489&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="6">
-        <url>https://daddylive3.com/my/stream-16.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2896308&amp;lang=es&amp;eid=319380599&amp;lid=2896308&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="7">
-        <url>https://streamingon.org/nhl/hd-7.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897762&amp;lang=es&amp;eid=319380599&amp;lid=2897762&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="8">
-        <url>https://welivesports.shop/hockey/nova1cz.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897771&amp;lang=es&amp;eid=319380599&amp;lid=2897771&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="11">
-    <nombre>Kansas –  Connecticut Huskies</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319303295_kansas_connecticut_huskies/</url>
-    <datetime_iso>2025-12-03T04:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="12">
-    <nombre>Creighton Bluejays –  Nicholls Colonels</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319303298_creighton_bluejays_nicholls_colonels/</url>
-    <datetime_iso>2025-12-03T04:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="13">
-    <nombre>Ole Miss Rebels –  Miami Hurricanes</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319380291_ole_miss_rebels_miami_hurricanes/</url>
-    <datetime_iso>2025-12-03T04:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="14">
-    <nombre>Grand Canyon Antelopes –  Stetson Hatters</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319380292_grand_canyon_antelopes_stetson_hatters/</url>
-    <datetime_iso>2025-12-03T04:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="15">
-    <nombre>Pepperdine Waves –  ACU Wildcats</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319380293_pepperdine_waves_acu_wildcats/</url>
-    <datetime_iso>2025-12-03T04:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="16">
-    <nombre>Rip City Remix –  San Diego Clippers</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NBA. G League</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/321802019_rip_city_remix_san_diego_clippers/</url>
-    <datetime_iso>2025-12-03T04:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="17">
-    <nombre>Valley Suns –  Santa Cruz Warriors</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NBA. G League</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/321802020_valley_suns_santa_cruz_warriors/</url>
-    <datetime_iso>2025-12-03T04:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="18">
-    <nombre>Edmonton – Minnesota</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319380598__/</url>
-    <datetime_iso>2025-12-03T04:00:00</datetime_iso>
-    <streams total="8">
-      <stream id="1">
-        <url>https://flixxlive.pro/live/ch13_english.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2710049&amp;lang=es&amp;eid=319380598&amp;lid=2710049&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://flixxlive.pro/live/nhl7_english.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2850945&amp;lang=es&amp;eid=319380598&amp;lid=2850945&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://voodc.com/embed/1/85818c95a389a086847a8595a48998868a82.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897488&amp;lang=es&amp;eid=319380598&amp;lid=2897488&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://voodc.com/embed/1/85818c95a389a086847a8595a48898868a81.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897487&amp;lang=es&amp;eid=319380598&amp;lid=2897487&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://daddylive3.com/my/stream-15.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2896306&amp;lang=es&amp;eid=319380598&amp;lid=2896306&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="6">
-        <url>https://streamcenter.xyz/embed/ch57.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897776&amp;lang=es&amp;eid=319380598&amp;lid=2897776&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="7">
-        <url>https://e2link.link/ch.php?id=77</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2896287&amp;lang=es&amp;eid=319380598&amp;lid=2896287&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="8">
-        <url>https://dabac.link/ch?id=33</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897780&amp;lang=es&amp;eid=319380598&amp;lid=2897780&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-    </streams>
-  </evento>
-  <evento id="19">
-    <nombre>Colorado – Vancouver</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319380599__/</url>
-    <datetime_iso>2025-12-03T04:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="20">
-    <nombre>Notre Dame Fighting Irish – Missouri Tigers</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319380289__/</url>
-    <datetime_iso>2025-12-03T04:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="21">
-    <nombre>Florida Seminoles – Georgia Bulldogs</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319380290__/</url>
-    <datetime_iso>2025-12-03T04:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="22">
-    <nombre>Ole Miss Rebels – Miami Hurricanes</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319380291__/</url>
-    <datetime_iso>2025-12-03T04:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="23">
-    <nombre>Grand Canyon Antelopes – Stetson Hatters</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319380292__/</url>
-    <datetime_iso>2025-12-03T04:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="24">
-    <nombre>Pepperdine Waves – ACU Wildcats</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319380293__/</url>
-    <datetime_iso>2025-12-03T04:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="25">
-    <nombre>Kansas – Connecticut Huskies</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319303295__/</url>
-    <datetime_iso>2025-12-03T04:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="26">
+  <evento id="4">
     <nombre>Kentucky Wildcats – North Carolina Tar Heels</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -505,29 +153,9 @@ player/live.php?id=243686&amp;w=700&amp;h=480</url>
     <hora>04:30</hora>
     <url>https://livetv.sx/es/eventinfo/319387649__/</url>
     <datetime_iso>2025-12-03T04:30:00</datetime_iso>
-    <streams total="3">
-      <stream id="1">
-        <url>https://emb.apl385.me/
-player/live.php?id=243694&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
-        <idioma_nombre>Coreano</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=243694&amp;lang=es&amp;eid=319387649&amp;lid=2879200&amp;ci=428&amp;si=3</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://voodc.com/embed/1/85818c95a389a284847a8595a58d98868b7b.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897570&amp;lang=es&amp;eid=319387649&amp;lid=2897570&amp;ci=428&amp;si=3</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://daddylive3.com/my/stream-44.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2896317&amp;lang=es&amp;eid=319387649&amp;lid=2896317&amp;ci=428&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
-  <evento id="27">
+  <evento id="5">
     <nombre>Vegas –  Chicago</nombre>
     <deporte>Fútbol</deporte>
     <competicion>No especificado</competicion>
@@ -579,14 +207,14 @@ player/live.php?id=243694&amp;w=700&amp;h=480</url>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897824&amp;lang=es&amp;eid=319395108&amp;lid=2897824&amp;ci=2&amp;si=2</enlace_original>
       </stream>
       <stream id="8">
-        <url>https://e2link.link/ch.php?id=34</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2886328&amp;lang=es&amp;eid=319395108&amp;lid=2886328&amp;ci=2&amp;si=2</enlace_original>
+        <url>https://vuen.link/ch?id=34</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897829&amp;lang=es&amp;eid=319395108&amp;lid=2897829&amp;ci=2&amp;si=2</enlace_original>
       </stream>
     </streams>
   </evento>
-  <evento id="28">
+  <evento id="6">
     <nombre>Abbotsford Canucks –  Stockton Heat</nombre>
     <deporte>Fútbol</deporte>
     <competicion>EUA. AHL</competicion>
@@ -609,7 +237,37 @@ player/live.php?id=243694&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="29">
+  <evento id="7">
+    <nombre>Loyola Marymount Lions –  St Louis Billikens</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319303296_loyola_marymount_lions_st_louis_billikens/</url>
+    <datetime_iso>2025-12-03T05:00:00</datetime_iso>
+    <streams total="0" />
+  </evento>
+  <evento id="8">
+    <nombre>California Golden Bears –  Utah Utes</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319303297_california_golden_bears_utah_utes/</url>
+    <datetime_iso>2025-12-03T05:00:00</datetime_iso>
+    <streams total="0" />
+  </evento>
+  <evento id="9">
+    <nombre>Nevada Wolf Pack –  San Diego Tritons</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319394801_nevada_wolf_pack_san_diego_tritons/</url>
+    <datetime_iso>2025-12-03T05:00:00</datetime_iso>
+    <streams total="0" />
+  </evento>
+  <evento id="10">
     <nombre>Saint Mary`s Gaels (M) –   USC Trojans (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. NCAA</competicion>
@@ -617,16 +275,9 @@ player/live.php?id=243694&amp;w=700&amp;h=480</url>
     <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/323627709__saint_marys_gaels_m__usc_trojans_m/</url>
     <datetime_iso>2025-12-03T05:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c95a38a998c847a85969c8998868b81.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897527&amp;lang=es&amp;eid=323627709&amp;lid=2897527&amp;ci=1447&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
-  <evento id="30">
+  <evento id="11">
     <nombre>Vegas – Chicago</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -685,7 +336,7 @@ player/live.php?id=243694&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="31">
+  <evento id="12">
     <nombre>Abbotsford Canucks – Stockton Heat</nombre>
     <deporte>Hockey</deporte>
     <competicion>EUA. AHL</competicion>
@@ -708,7 +359,7 @@ player/live.php?id=243694&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="32">
+  <evento id="13">
     <nombre>Loyola Marymount Lions – St Louis Billikens</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -716,16 +367,9 @@ player/live.php?id=243694&amp;w=700&amp;h=480</url>
     <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/319303296__/</url>
     <datetime_iso>2025-12-03T05:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c95a38a998c847a85969c8798868b7e.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897498&amp;lang=es&amp;eid=319303296&amp;lid=2897498&amp;ci=428&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
-  <evento id="33">
+  <evento id="14">
     <nombre>California Golden Bears – Utah Utes</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -733,16 +377,9 @@ player/live.php?id=243694&amp;w=700&amp;h=480</url>
     <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/319303297__/</url>
     <datetime_iso>2025-12-03T05:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c95a38a998c847a8595a59098868b80.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897497&amp;lang=es&amp;eid=319303297&amp;lid=2897497&amp;ci=428&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
-  <evento id="34">
+  <evento id="15">
     <nombre>Oregon Ducks – USC Trojans</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -750,22 +387,9 @@ player/live.php?id=243694&amp;w=700&amp;h=480</url>
     <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/319303299__/</url>
     <datetime_iso>2025-12-03T05:00:00</datetime_iso>
-    <streams total="2">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c95a38a998c847a8595a58f98868b7d.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897496&amp;lang=es&amp;eid=319303299&amp;lid=2897496&amp;ci=428&amp;si=3</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://daddylive3.com/my/stream-39.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2896316&amp;lang=es&amp;eid=319303299&amp;lid=2896316&amp;ci=428&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
-  <evento id="35">
+  <evento id="16">
     <nombre>Saint Mary`s Gaels (M) –  USC Trojans (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Mujeres. NCAA</competicion>
@@ -773,16 +397,9 @@ player/live.php?id=243694&amp;w=700&amp;h=480</url>
     <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/323627709__/</url>
     <datetime_iso>2025-12-03T05:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c95a38a998c847a85969c8998868b81.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897527&amp;lang=es&amp;eid=323627709&amp;lid=2897527&amp;ci=1447&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
-  <evento id="36">
+  <evento id="17">
     <nombre>Nevada Wolf Pack – San Diego Tritons</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -790,16 +407,9 @@ player/live.php?id=243694&amp;w=700&amp;h=480</url>
     <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/319394801__/</url>
     <datetime_iso>2025-12-03T05:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c95a38a998c847a85969c8898868b7f.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897499&amp;lang=es&amp;eid=319394801&amp;lid=2897499&amp;ci=428&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
-  <evento id="37">
+  <evento id="18">
     <nombre>Los Ángeles –  Washington</nombre>
     <deporte>Fútbol</deporte>
     <competicion>No especificado</competicion>
@@ -858,7 +468,7 @@ player/live.php?id=243694&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="38">
+  <evento id="19">
     <nombre>Guwahati Masters</nombre>
     <deporte>Fútbol</deporte>
     <competicion>BWF World Tour</competicion>
@@ -868,7 +478,7 @@ player/live.php?id=243694&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T05:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="39">
+  <evento id="20">
     <nombre>Los Ángeles – Washington</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -908,16 +518,16 @@ player/live.php?id=243694&amp;w=700&amp;h=480</url>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897834&amp;lang=es&amp;eid=319402094&amp;lid=2897834&amp;ci=2&amp;si=2</enlace_original>
       </stream>
       <stream id="6">
-        <url>https://e1link.link/ch?id=35</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897839&amp;lang=es&amp;eid=319402094&amp;lid=2897839&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="7">
         <url>https://vuen.link/ch?id=75</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
         <idioma_nombre>Sueco</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2896909&amp;lang=es&amp;eid=319402094&amp;lid=2896909&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+      <stream id="7">
+        <url>https://e1link.link/ch?id=35</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897839&amp;lang=es&amp;eid=319402094&amp;lid=2897839&amp;ci=2&amp;si=2</enlace_original>
       </stream>
       <stream id="8">
         <url>https://dovkembed.pw/livetv/BallySportsWest[USA]</url>
@@ -927,7 +537,7 @@ player/live.php?id=243694&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="40">
+  <evento id="21">
     <nombre>Golden State – Oklahoma</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>No especificado</competicion>
@@ -994,84 +604,122 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
       </stream>
     </streams>
   </evento>
-  <evento id="41">
-    <nombre>Kuanysh-2 (W) – Karaganda-2 (W)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Kazajistán. Mujeres. Vysheyshaya Liga Sub 21</competicion>
+  <evento id="22">
+    <nombre>Sydney Sixers (W) –  Melbourne Stars (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Mujeres. WBBL</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>06:40</hora>
+    <url>https://livetv.sx/es/eventinfo/323279411_sydney_sixers_w_melbourne_stars_w/</url>
+    <datetime_iso>2025-12-03T06:40:00</datetime_iso>
+    <streams total="3">
+      <stream id="1">
+        <url>https://emb.apl385.me/
+player/live.php?id=244503&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=244503&amp;lang=es&amp;eid=323279411&amp;lid=2897522&amp;ci=1734&amp;si=41</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://dovkembed.pw/livetv/SkySportsCricket[UK]</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2850274&amp;lang=es&amp;eid=323279411&amp;lid=2850274&amp;ci=1734&amp;si=41</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://daddylive3.com/livemy/stream-598.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897734&amp;lang=es&amp;eid=323279411&amp;lid=2897734&amp;ci=1734&amp;si=41</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="23">
+    <nombre>Copa del Mundo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa del Mundo</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>07:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323321986_copa_del_mundo/</url>
+    <datetime_iso>2025-12-03T07:00:00</datetime_iso>
+    <streams total="2">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/Bw91pnAvv6k?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=Bw91pnAvv6k&amp;lang=es&amp;eid=323321986&amp;lid=2897606&amp;ci=1526&amp;si=39</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://www.youtube.com/embed/wTFPq4jItHI?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=wTFPq4jItHI&amp;lang=es&amp;eid=323321986&amp;lid=2897607&amp;ci=1526&amp;si=39</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="24">
+    <nombre>Kuanysh-2 (W) –  Karaganda-2 (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Vysheyshaya Liga Sub 21</competicion>
     <fecha>3 de diciembre</fecha>
     <hora>07:00</hora>
     <url>https://livetv.sx/es/eventinfo/323525419_kuanysh_2_w_karaganda_2_w/</url>
     <datetime_iso>2025-12-03T07:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="42">
-    <nombre>Golden State –  Oklahoma</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>08:13</hora>
-    <url>https://livetv.sx/es/eventinfo/319408820_golden_state_oklahoma/</url>
-    <datetime_iso>2025-12-03T08:13:00</datetime_iso>
-    <streams total="8">
+    <streams total="1">
       <stream id="1">
-        <url>https://emb.apl385.me/
-player/live.php?id=242914&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=242914&amp;lang=es&amp;eid=319408820&amp;lid=2828767&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl385.me/
-player/live.php?id=243692&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=243692&amp;lang=es&amp;eid=319408820&amp;lid=2879197&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://emb.apl385.me/
-player/live.php?id=243859&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
-        <idioma_nombre>Italiano</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=243859&amp;lang=es&amp;eid=319408820&amp;lid=2879702&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://emb.apl385.me/
-player/live.php?id=244171&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
-        <idioma_nombre>Italiano</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=244171&amp;lang=es&amp;eid=319408820&amp;lid=2884541&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://emb.apl385.me/
-player/live.php?id=244363&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/4.png</idioma>
-        <idioma_nombre>Italiano (Italia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=244363&amp;lang=es&amp;eid=319408820&amp;lid=2893319&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="6">
-        <url>https://emb.apl385.me/
-player/live.php?id=244387&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/11.png</idioma>
-        <idioma_nombre>Alemán</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=244387&amp;lang=es&amp;eid=319408820&amp;lid=2895072&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="7">
-        <url>https://emb.apl385.me/
-player/live.php?id=244448&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
-        <idioma_nombre>Italiano</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=244448&amp;lang=es&amp;eid=319408820&amp;lid=2897263&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="8">
-        <url>https://emb.apl385.me/
-player/live.php?id=242305&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=242305&amp;lang=es&amp;eid=319408820&amp;lid=2897085&amp;ci=3&amp;si=3</enlace_original>
+        <url>https://www.youtube.com/embed/dvVhqBAd2Sg?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=dvVhqBAd2Sg&amp;lang=es&amp;eid=323525419&amp;lid=2897907&amp;ci=7202&amp;si=5</enlace_original>
       </stream>
     </streams>
   </evento>
-  <evento id="43">
+  <evento id="25">
+    <nombre>Copa Mundial Sub-21</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Taekwondo</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>08:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323403192_copa_mundial_sub_21/</url>
+    <datetime_iso>2025-12-03T08:00:00</datetime_iso>
+    <streams total="4">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/1w8F-9dDdkg?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=1w8F-9dDdkg&amp;lang=es&amp;eid=323403192&amp;lid=2896725&amp;ci=926&amp;si=75</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://www.youtube.com/embed/AfGtgqx1d1M?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=AfGtgqx1d1M&amp;lang=es&amp;eid=323403192&amp;lid=2896726&amp;ci=926&amp;si=75</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://www.youtube.com/embed/Spy8HMQAERg?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=Spy8HMQAERg&amp;lang=es&amp;eid=323403192&amp;lid=2896727&amp;ci=926&amp;si=75</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://www.youtube.com/embed/_6cJgxWPjPU?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=_6cJgxWPjPU&amp;lang=es&amp;eid=323403192&amp;lid=2896728&amp;ci=926&amp;si=75</enlace_original>
+      </stream>
+    </streams>
+  </evento>
+  <evento id="26">
+    <nombre>NZ Breakers –  Sydney Kings</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NBL</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>08:30</hora>
+    <url>https://livetv.sx/es/eventinfo/319439494_nz_breakers_sydney_kings/</url>
+    <datetime_iso>2025-12-03T08:30:00</datetime_iso>
+    <streams total="0" />
+  </evento>
+  <evento id="27">
     <nombre>NZ Breakers – Sydney Kings</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Australia. NBL</competicion>
@@ -1079,21 +727,18 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <hora>08:30</hora>
     <url>https://livetv.sx/es/eventinfo/319439494__/</url>
     <datetime_iso>2025-12-03T08:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://voodc.com/embed/1/85818c95a38b9c88847a85969d8898868c80.html</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2897908&amp;lang=es&amp;eid=319439494&amp;lid=2897908&amp;ci=596&amp;si=3</enlace_original>
+      </stream>
+    </streams>
   </evento>
-  <evento id="44">
-    <nombre>Aktobe-2 (W) – Astana-2 (W)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Kazajistán. Mujeres. Vysheyshaya Liga Sub 21</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>09:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323525422_aktobe_2_w_astana_2_w/</url>
-    <datetime_iso>2025-12-03T09:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="45">
+  <evento id="28">
     <nombre>Russian Championship</nombre>
-    <deporte>Boxeo</deporte>
+    <deporte>Fútbol</deporte>
     <competicion>Boxeo</competicion>
     <fecha>3 de diciembre</fecha>
     <hora>09:00</hora>
@@ -1101,7 +746,37 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T09:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="46">
+  <evento id="29">
+    <nombre>Aktobe-2 (W) –  Astana-2 (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Vysheyshaya Liga Sub 21</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323525422_aktobe_2_w_astana_2_w/</url>
+    <datetime_iso>2025-12-03T09:00:00</datetime_iso>
+    <streams total="0" />
+  </evento>
+  <evento id="30">
+    <nombre>India –  Sudáfrica</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323092392_india_sud__frica/</url>
+    <datetime_iso>2025-12-03T10:00:00</datetime_iso>
+    <streams total="0" />
+  </evento>
+  <evento id="31">
+    <nombre>Eurocopa 2025</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Campeonato Europeo</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323407345_eurocopa_2025/</url>
+    <datetime_iso>2025-12-03T10:00:00</datetime_iso>
+    <streams total="0" />
+  </evento>
+  <evento id="32">
     <nombre>SKSO (W) – Agidel (M)</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. Mujeres. WHL</competicion>
@@ -1111,7 +786,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T10:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="47">
+  <evento id="33">
     <nombre>Laos U22 – Vietnam U22</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Juegos del Sudeste Asiático Sub-23</competicion>
@@ -1121,7 +796,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T11:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="48">
+  <evento id="34">
     <nombre>Tamara Korpatsch (M) –  Anna Siskova (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Angers</competicion>
@@ -1131,7 +806,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T11:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="49">
+  <evento id="35">
     <nombre>BEREL-2 (W) – Turan-2 (W)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Kazajistán. Mujeres. Vysheyshaya Liga Sub 21</competicion>
@@ -1141,7 +816,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T11:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="50">
+  <evento id="36">
     <nombre>Suwon Bluewings – Jeju United</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Corea del Sur. K-League</competicion>
@@ -1151,7 +826,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T12:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="51">
+  <evento id="37">
     <nombre>Imisli – Sabah</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Azerbaiyán. Copa</competicion>
@@ -1161,7 +836,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T12:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="52">
+  <evento id="38">
     <nombre>Shamakhi – Baku Sporting</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Azerbaiyán. Copa</competicion>
@@ -1171,7 +846,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T12:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="53">
+  <evento id="39">
     <nombre>AKM-Junior – JHC Atlant</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. MHL</competicion>
@@ -1181,7 +856,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T12:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="54">
+  <evento id="40">
     <nombre>Dinamo-Neva (W) – Biryusa (M)</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. Mujeres. WHL</competicion>
@@ -1191,7 +866,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T12:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="55">
+  <evento id="41">
     <nombre>Smorgon – Belshyna</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bielorrusia. Vysheyshaya Liga</competicion>
@@ -1201,7 +876,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T12:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="56">
+  <evento id="42">
     <nombre>Linda Klimovicova (M) –  Kamilla Rakhimova (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Angers</competicion>
@@ -1211,7 +886,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T12:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="57">
+  <evento id="43">
     <nombre>Mahasarakham – Trat</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Tailandia. Thai League 2</competicion>
@@ -1221,7 +896,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T13:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="58">
+  <evento id="44">
     <nombre>Chiangmai Utd – Khonkaen Utd</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Tailandia. Thai League 2</competicion>
@@ -1231,7 +906,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T13:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="59">
+  <evento id="45">
     <nombre>Avia Swidnik – Polonia Bytom</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Polonia. Copa</competicion>
@@ -1241,7 +916,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T13:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="60">
+  <evento id="46">
     <nombre>Septemvri – CSKA 1948</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bulgaria. Parva Liga</competicion>
@@ -1251,7 +926,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T13:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="61">
+  <evento id="47">
     <nombre>Braga Sub-23 –  Gil Vicente Sub-23</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Portugal. Liga U23</competicion>
@@ -1261,7 +936,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T13:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="62">
+  <evento id="48">
     <nombre>Taipei Taishin Mars – Hsinchu Jko Lioneers</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Taiwán. TPBL</competicion>
@@ -1271,7 +946,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T13:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="63">
+  <evento id="49">
     <nombre>Zhetysu-2 (W) – Almaty-2 (W)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Kazajistán. Mujeres. Vysheyshaya Liga Sub 21</competicion>
@@ -1281,7 +956,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T13:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="64">
+  <evento id="50">
     <nombre>Russian Championship</nombre>
     <deporte>Boxeo</deporte>
     <competicion>Boxeo</competicion>
@@ -1291,7 +966,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T13:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="65">
+  <evento id="51">
     <nombre>Ellas Syrou – Olympiakos</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Grecia. Copa</competicion>
@@ -1301,7 +976,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T13:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="66">
+  <evento id="52">
     <nombre>Krasnoyarskiye Rysi – AKM Novomoskovsk</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. MHL</competicion>
@@ -1311,7 +986,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T13:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="67">
+  <evento id="53">
     <nombre>Mladost Zdralovi – Rijeka</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Croacia. Copa</competicion>
@@ -1321,7 +996,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="68">
+  <evento id="54">
     <nombre>Tailandia Sub-23 –  Timor Oriental Sub-23</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Juegos del Sudeste Asiático Sub-23</competicion>
@@ -1331,7 +1006,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="69">
+  <evento id="55">
     <nombre>Timor-Leste U-22 – Tailandia U22</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Juegos del Sudeste Asiático Sub-23</competicion>
@@ -1341,7 +1016,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="70">
+  <evento id="56">
     <nombre>Graficar – Radnicki Nis</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Serbia. Copa</competicion>
@@ -1351,7 +1026,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="71">
+  <evento id="57">
     <nombre>Vrsac – Voivodina</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Serbia. Copa</competicion>
@@ -1361,7 +1036,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="72">
+  <evento id="58">
     <nombre>Nong Bua – Nakhon Pathom United</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Tailandia. Thai League 2</competicion>
@@ -1371,7 +1046,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="73">
+  <evento id="59">
     <nombre>Algeria – Sudán</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Copa de Naciones Árabe</competicion>
@@ -1381,7 +1056,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="74">
+  <evento id="60">
     <nombre>Sanatatea Cluj – Gloria Bistrita</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Rumania. Copa</competicion>
@@ -1391,7 +1066,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="75">
+  <evento id="61">
     <nombre>Rudar Prijedor – Zrinjski</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bosnia y Herzegovina. Premijer liga</competicion>
@@ -1401,7 +1076,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="76">
+  <evento id="62">
     <nombre>Radomlje – Primorje</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Eslovenia. Copa</competicion>
@@ -1411,7 +1086,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="77">
+  <evento id="63">
     <nombre>Bravo – Rudar</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Eslovenia. Copa</competicion>
@@ -1421,7 +1096,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="78">
+  <evento id="64">
     <nombre>Shuai Zhang (M) –  Marina Bassols-Ribera (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Angers</competicion>
@@ -1431,7 +1106,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="79">
+  <evento id="65">
     <nombre>Sayany – Rodina</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Rusia. Superliga</competicion>
@@ -1441,7 +1116,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T14:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="80">
+  <evento id="66">
     <nombre>Esenler Erokspor – Fatih Karagumruk</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Turquía. Copa</competicion>
@@ -1451,7 +1126,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T14:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="81">
+  <evento id="67">
     <nombre>Ittihad Al-Ramtha – Al-Yarmouk</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Jordania. División 1</competicion>
@@ -1461,7 +1136,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T14:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="82">
+  <evento id="68">
     <nombre>Sibir – Spartak M</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -1471,7 +1146,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T14:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="83">
+  <evento id="69">
     <nombre>Athens Kallithea – Kavala</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Grecia. Copa</competicion>
@@ -1481,7 +1156,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T15:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="84">
+  <evento id="70">
     <nombre>Marko – Levadiakos</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Grecia. Copa</competicion>
@@ -1491,7 +1166,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T15:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="85">
+  <evento id="71">
     <nombre>Beroe – Cherno More</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bulgaria. Parva Liga</competicion>
@@ -1501,7 +1176,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T15:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="86">
+  <evento id="72">
     <nombre>Belye Medvedi – Mikhailov Academy</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. MHL</competicion>
@@ -1511,7 +1186,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T15:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="87">
+  <evento id="73">
     <nombre>Gornyak Uchaly – Yuzhny Ural</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
@@ -1521,7 +1196,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T15:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="88">
+  <evento id="74">
     <nombre>Polina Kudermetova (M) –  Anna-Lena Friedsam (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Angers</competicion>
@@ -1531,7 +1206,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T15:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="89">
+  <evento id="75">
     <nombre>AEL – Atromitos</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Grecia. Copa</competicion>
@@ -1541,7 +1216,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T16:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="90">
+  <evento id="76">
     <nombre>Atalanta – Genoa</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Italia. Copa</competicion>
@@ -1551,7 +1226,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T16:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="91">
+  <evento id="77">
     <nombre>Avtomobilist – Metallurg Mg</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -1561,7 +1236,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T16:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="92">
+  <evento id="78">
     <nombre>Toros – Torpedo-Gorki</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
@@ -1571,7 +1246,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T16:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="93">
+  <evento id="79">
     <nombre>Kaspiy-Aktau – Astana</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Kazajistán. Liga Nacional</competicion>
@@ -1581,7 +1256,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T16:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="94">
+  <evento id="80">
     <nombre>Campeonato Mundial</nombre>
     <deporte>Boxeo</deporte>
     <competicion>Boxeo</competicion>
@@ -1591,7 +1266,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T16:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="95">
+  <evento id="81">
     <nombre>Nilufer – Giresunspor</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Turquía. Superliga</competicion>
@@ -1601,7 +1276,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T16:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="96">
+  <evento id="82">
     <nombre>Georgia U17 (M) – Bélgica U17 (M)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>IHF Trophy. Europa</competicion>
@@ -1611,7 +1286,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T16:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="97">
+  <evento id="83">
     <nombre>Copa del Mundo, OestersundHombres</nombre>
     <deporte>Deporte_18</deporte>
     <competicion>Biatlón</competicion>
@@ -1621,7 +1296,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T16:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="98">
+  <evento id="84">
     <nombre>Spartak Subotica – Zemun</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Serbia. Copa</competicion>
@@ -1631,7 +1306,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T16:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="99">
+  <evento id="85">
     <nombre>Iraq – Bahréin</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Copa de Naciones Árabe</competicion>
@@ -1641,7 +1316,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T16:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="100">
+  <evento id="86">
     <nombre>Ladia – Sibirskie Snaypery</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. MHL</competicion>
@@ -1651,7 +1326,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T16:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="101">
+  <evento id="87">
     <nombre>Progress – JHC Ryazan VDV</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. NMHL</competicion>
@@ -1661,7 +1336,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T16:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="102">
+  <evento id="88">
     <nombre>Izhstal – Khimik Vs</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
@@ -1671,7 +1346,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T16:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="103">
+  <evento id="89">
     <nombre>Volga Ulyanovsk – Yenisey</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Rusia. Superliga</competicion>
@@ -1681,7 +1356,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T16:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="104">
+  <evento id="90">
     <nombre>República Checa (M) –  Angola (M)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Mujeres. Campeonato mundial</competicion>
@@ -1691,7 +1366,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T16:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="105">
+  <evento id="91">
     <nombre>Japón (M) –  Suiza (M)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Mujeres. Campeonato mundial</competicion>
@@ -1701,7 +1376,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T16:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="106">
+  <evento id="92">
     <nombre>Botosani – Hermannstadt</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Rumania. Copa</competicion>
@@ -1711,7 +1386,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="107">
+  <evento id="93">
     <nombre>Asteras – Ilioupolis</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Grecia. Copa</competicion>
@@ -1721,7 +1396,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="108">
+  <evento id="94">
     <nombre>Qarabag – Karvan</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Azerbaiyán. Copa</competicion>
@@ -1731,7 +1406,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="109">
+  <evento id="95">
     <nombre>Radnik Bijeljina – Borac Bania Luka</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bosnia y Herzegovina. Premijer liga</competicion>
@@ -1741,7 +1416,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="110">
+  <evento id="96">
     <nombre>Jyvaskyla Sub-20 –  Sport Vaasan Sub-20</nombre>
     <deporte>Hockey</deporte>
     <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
@@ -1751,7 +1426,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="111">
+  <evento id="97">
     <nombre>KooKoo Sub-20 –  SaiPa Sub-20</nombre>
     <deporte>Hockey</deporte>
     <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
@@ -1761,7 +1436,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="112">
+  <evento id="98">
     <nombre>Jukurit Sub-20 –  KalPa Sub-20</nombre>
     <deporte>Hockey</deporte>
     <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
@@ -1771,7 +1446,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="113">
+  <evento id="99">
     <nombre>Proton – CSK VVS</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. NMHL</competicion>
@@ -1781,7 +1456,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="114">
+  <evento id="100">
     <nombre>Kupol-Rodniki – Temp-Sumz</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Rusia. Superliga</competicion>
@@ -1791,7 +1466,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="115">
+  <evento id="101">
     <nombre>Zlatorog – Krka</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Eslovenia. Liga Nova KBM</competicion>
@@ -1801,7 +1476,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="116">
+  <evento id="102">
     <nombre>Sepsi (M) – Agronomia Bucuresti (W)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Rumania. Mujeres. Divizia A1</competicion>
@@ -1811,7 +1486,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="117">
+  <evento id="103">
     <nombre>Polona Hercog (M) –  Oleksandra Oliynykova (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Quito</competicion>
@@ -1821,7 +1496,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="118">
+  <evento id="104">
     <nombre>Luisina Giovannini (M) –  Maja Chwalinska (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Quito</competicion>
@@ -1831,7 +1506,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="119">
+  <evento id="105">
     <nombre>Zeren Spor (M) –  LKS Lodz (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Liga de Campeones</competicion>
@@ -1841,7 +1516,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="120">
+  <evento id="106">
     <nombre>AEK – OFI</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Grecia. Copa</competicion>
@@ -1851,7 +1526,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="121">
+  <evento id="107">
     <nombre>Dukla Jihlava – Berani Zlin</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 1 Liga</competicion>
@@ -1861,7 +1536,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="122">
+  <evento id="108">
     <nombre>Reaktor – Loko-76</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. MHL</competicion>
@@ -1871,7 +1546,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="123">
+  <evento id="109">
     <nombre>Studio Zagreb (W) – Montana (W)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Mujeres. Liga del Adriático</competicion>
@@ -1881,7 +1556,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="124">
+  <evento id="110">
     <nombre>Belogorie – Kuzbass Kemerovo</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Rusia. Superliga</competicion>
@@ -1891,7 +1566,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="125">
+  <evento id="111">
     <nombre>Start – Uralskij Trubnik</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Rusia. Superliga</competicion>
@@ -1901,7 +1576,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="126">
+  <evento id="112">
     <nombre>Toledo Walleye – Bloomington Bison</nombre>
     <deporte>Hockey</deporte>
     <competicion>EUA. ECHL</competicion>
@@ -1911,7 +1586,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T17:35:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="127">
+  <evento id="113">
     <nombre>Varazdin – Osijek</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Croacia. Copa</competicion>
@@ -1921,7 +1596,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="128">
+  <evento id="114">
     <nombre>Dinamo de Bucarest – Concordia Chiajna</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Rumania. Copa</competicion>
@@ -1931,7 +1606,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="129">
+  <evento id="115">
     <nombre>Macva – IMT Novi Beograd</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Serbia. Copa</competicion>
@@ -1941,7 +1616,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="130">
+  <evento id="116">
     <nombre>Novi Pazar – Dubocica</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Serbia. Copa</competicion>
@@ -1951,7 +1626,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="131">
+  <evento id="117">
     <nombre>CSKA Sofia – Lokomotiv Plovdiv</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bulgaria. Parva Liga</competicion>
@@ -1961,7 +1636,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="132">
+  <evento id="118">
     <nombre>Ak Bars – Traktor</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -1971,17 +1646,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="133">
-    <nombre>Ocelari Trinec – Mountfield</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>República Checa. Extraliga</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323346706__/</url>
-    <datetime_iso>2025-12-03T18:00:00</datetime_iso>
-    <streams total="0" />
-  </evento>
-  <evento id="134">
+  <evento id="119">
     <nombre>Severstal – Dynamo Msk</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -1991,7 +1656,17 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="135">
+  <evento id="120">
+    <nombre>Ocelari Trinec – Mountfield</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>República Checa. Extraliga</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323346706__/</url>
+    <datetime_iso>2025-12-03T18:00:00</datetime_iso>
+    <streams total="0" />
+  </evento>
+  <evento id="121">
     <nombre>AKM – Rubin Tyumen</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
@@ -2001,7 +1676,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="136">
+  <evento id="122">
     <nombre>Ryazan – Zauralie</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
@@ -2011,7 +1686,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="137">
+  <evento id="123">
     <nombre>Dizel – Omskiye Kryliya</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
@@ -2021,7 +1696,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="138">
+  <evento id="124">
     <nombre>Olimpiya – Zvezda Moscú</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
@@ -2031,7 +1706,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="139">
+  <evento id="125">
     <nombre>Ártico – Fakel Salejard</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. NMHL</competicion>
@@ -2041,7 +1716,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="140">
+  <evento id="126">
     <nombre>Austria U20 – Eslovenia U20</nombre>
     <deporte>Hockey</deporte>
     <competicion>Partido amistoso. Selecciones</competicion>
@@ -2051,7 +1726,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="141">
+  <evento id="127">
     <nombre>Frydek Mistek – Stadion Litomerice</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 1 Liga</competicion>
@@ -2061,7 +1736,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="142">
+  <evento id="128">
     <nombre>Gvardia – Belgorod</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. NMHL</competicion>
@@ -2071,7 +1746,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="143">
+  <evento id="129">
     <nombre>Brno – Nymburk</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>República Checa. NBL</competicion>
@@ -2081,7 +1756,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="144">
+  <evento id="130">
     <nombre>College Park Skyhawks – Westchester</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NBA. G League</competicion>
@@ -2091,7 +1766,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="145">
+  <evento id="131">
     <nombre>Motor City Cruise – Wisconsin Herd</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NBA. G League</competicion>
@@ -2101,7 +1776,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="146">
+  <evento id="132">
     <nombre>Krka – Zlatorog</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Eslovenia. Liga Nova KBM</competicion>
@@ -2111,7 +1786,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="147">
+  <evento id="133">
     <nombre>Arad (W) – Rapid Bucuresti (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Rumania. Mujeres. Divizia A1</competicion>
@@ -2121,7 +1796,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="148">
+  <evento id="134">
     <nombre>Panathinaikos (M) –  Duedingen (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Copa Challenge</competicion>
@@ -2131,7 +1806,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="149">
+  <evento id="135">
     <nombre>Vodnik – Kuzbass Kemerovo</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Rusia. Superliga</competicion>
@@ -2141,7 +1816,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="150">
+  <evento id="136">
     <nombre>Ak Bars-Dynamo – SKA-Neftyanik</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Rusia. Superliga</competicion>
@@ -2151,7 +1826,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="151">
+  <evento id="137">
     <nombre>Bulgaria U17 (M) – Kosovo U17 (W)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>IHF Trophy. Europa</competicion>
@@ -2161,7 +1836,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="152">
+  <evento id="138">
     <nombre>Slask – Rakow</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Polonia. Copa</competicion>
@@ -2171,7 +1846,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="153">
+  <evento id="139">
     <nombre>Farul – Dinamo de Bucarest</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Rumania. Copa</competicion>
@@ -2181,7 +1856,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="154">
+  <evento id="140">
     <nombre>Casertana –  Atalanta Sub-23</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Italia. Serie C. Grupo C</competicion>
@@ -2191,7 +1866,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="155">
+  <evento id="141">
     <nombre>DAC 1904 – Zemplin Michalovce</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Eslovaquia. Copa</competicion>
@@ -2201,7 +1876,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="156">
+  <evento id="142">
     <nombre>Kunlun RS – Salavat Yulaev</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -2211,7 +1886,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="157">
+  <evento id="143">
     <nombre>Opava – Technika Brno</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 2. Liga</competicion>
@@ -2221,7 +1896,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="158">
+  <evento id="144">
     <nombre>Hodonin – Koprivnice</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 2. Liga</competicion>
@@ -2231,7 +1906,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="159">
+  <evento id="145">
     <nombre>Vsetin – Poruba</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 1 Liga</competicion>
@@ -2241,7 +1916,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="160">
+  <evento id="146">
     <nombre>TPS – Kiekko-Espoo</nombre>
     <deporte>Hockey</deporte>
     <competicion>Finlandia. Liiga</competicion>
@@ -2251,7 +1926,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="161">
+  <evento id="147">
     <nombre>Tappara – Jyvaskyla</nombre>
     <deporte>Hockey</deporte>
     <competicion>Finlandia. Liiga</competicion>
@@ -2261,7 +1936,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="162">
+  <evento id="148">
     <nombre>Pelicans – KooKoo</nombre>
     <deporte>Hockey</deporte>
     <competicion>Finlandia. Liiga</competicion>
@@ -2271,7 +1946,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="163">
+  <evento id="149">
     <nombre>HPK Sub-20 –  Jokerit Sub-20</nombre>
     <deporte>Hockey</deporte>
     <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
@@ -2281,7 +1956,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="164">
+  <evento id="150">
     <nombre>HIFK – Assat</nombre>
     <deporte>Hockey</deporte>
     <competicion>Finlandia. Liiga</competicion>
@@ -2291,7 +1966,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="165">
+  <evento id="151">
     <nombre>Ilves Sub-20 –  Tappara Sub-20</nombre>
     <deporte>Hockey</deporte>
     <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
@@ -2301,7 +1976,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="166">
+  <evento id="152">
     <nombre>Allen Americans – Utah Grizzlies</nombre>
     <deporte>Hockey</deporte>
     <competicion>EUA. ECHL</competicion>
@@ -2311,7 +1986,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="167">
+  <evento id="153">
     <nombre>CSKA – Torpedo NN</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -2321,7 +1996,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="168">
+  <evento id="154">
     <nombre>Vitkovice – Olomouc</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. Extraliga</competicion>
@@ -2331,7 +2006,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="169">
+  <evento id="155">
     <nombre>Pribram – Hronov</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 2. Liga</competicion>
@@ -2341,7 +2016,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="170">
+  <evento id="156">
     <nombre>Zug – Lukko</nombre>
     <deporte>Hockey</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -2351,7 +2026,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="171">
+  <evento id="157">
     <nombre>Lukko – Zug</nombre>
     <deporte>Hockey</deporte>
     <competicion>Liga de Campeones</competicion>
@@ -2361,7 +2036,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="172">
+  <evento id="158">
     <nombre>Juventus – Nevezis</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Lituania. Copa</competicion>
@@ -2371,7 +2046,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="173">
+  <evento id="159">
     <nombre>Sada Nahimana  (M) –  Leolia Jeanjean (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Quito</competicion>
@@ -2381,7 +2056,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="174">
+  <evento id="160">
     <nombre>LKPS Lublino – Trefl Gdansk</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Polonia. PlusLiga</competicion>
@@ -2391,7 +2066,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="175">
+  <evento id="161">
     <nombre>Galatasaray (M) –  Porto (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Copa CEV</competicion>
@@ -2401,7 +2076,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="176">
+  <evento id="162">
     <nombre>RoKi Sub-20 –  Karpat Sub-20</nombre>
     <deporte>Hockey</deporte>
     <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
@@ -2411,7 +2086,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:40:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="177">
+  <evento id="163">
     <nombre>Dinamo Moscú – Sibselmash</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Rusia. Superliga</competicion>
@@ -2421,7 +2096,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T18:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="178">
+  <evento id="164">
     <nombre>Slovan Bratislava – Ruzomberok</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Eslovaquia. 1. liga</competicion>
@@ -2431,7 +2106,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="179">
+  <evento id="165">
     <nombre>Jordania – EAU</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Copa de Naciones Árabe</competicion>
@@ -2441,7 +2116,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="180">
+  <evento id="166">
     <nombre>Podbrezova – Spartak Trnava</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Eslovaquia. 1. liga</competicion>
@@ -2451,7 +2126,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="181">
+  <evento id="167">
     <nombre>Napoli – Cagliari</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Italia. Copa</competicion>
@@ -2461,7 +2136,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="182">
+  <evento id="168">
     <nombre>Friburgo – Darmstadt</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Alemania. DFB Pokal</competicion>
@@ -2471,7 +2146,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="183">
+  <evento id="169">
     <nombre>Bochum – Stuttgart</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Alemania. DFB Pokal</competicion>
@@ -2481,7 +2156,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="184">
+  <evento id="170">
     <nombre>Lisen – Sparta Praga</nombre>
     <deporte>Fútbol</deporte>
     <competicion>República Checa. Coppa</competicion>
@@ -2491,7 +2166,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="185">
+  <evento id="171">
     <nombre>Esbjerg – Copenhague</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Dinamarca. Copa</competicion>
@@ -2501,7 +2176,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="186">
+  <evento id="172">
     <nombre>Simulcast</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Alemania. DFB Pokal</competicion>
@@ -2511,7 +2186,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="187">
+  <evento id="173">
     <nombre>Kazincbarcika – Gyori ETO</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Hungría. NB I</competicion>
@@ -2521,7 +2196,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="188">
+  <evento id="174">
     <nombre>Mura – Nafta</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Eslovenia. Copa</competicion>
@@ -2531,7 +2206,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="189">
+  <evento id="175">
     <nombre>Zemgale – HS Riga</nombre>
     <deporte>Hockey</deporte>
     <competicion>Letonia. LHL</competicion>
@@ -2541,7 +2216,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="190">
+  <evento id="176">
     <nombre>Jestrabi Prostejov – Uhersky Brod</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 2. Liga</competicion>
@@ -2551,7 +2226,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="191">
+  <evento id="177">
     <nombre>Sumperk – Havirov</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 2. Liga</competicion>
@@ -2561,7 +2236,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="192">
+  <evento id="178">
     <nombre>Valasske Mezirici – Velke Mezirici</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 2. Liga</competicion>
@@ -2571,7 +2246,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="193">
+  <evento id="179">
     <nombre>Zdar nad Sazavou – Znojmo</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 2. Liga</competicion>
@@ -2581,7 +2256,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="194">
+  <evento id="180">
     <nombre>Dynamo Pardubice B – Pirati</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 1 Liga</competicion>
@@ -2591,7 +2266,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="195">
+  <evento id="181">
     <nombre>Banik Sokolov – Tabor</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 1 Liga</competicion>
@@ -2601,7 +2276,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="196">
+  <evento id="182">
     <nombre>Kolin – Zubr Prerov</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 1 Liga</competicion>
@@ -2611,7 +2286,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="197">
+  <evento id="183">
     <nombre>Slavia Praga – Horacka Slavia</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 1 Liga</competicion>
@@ -2621,7 +2296,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="198">
+  <evento id="184">
     <nombre>Benatky – Vrchlabi</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 2. Liga</competicion>
@@ -2631,7 +2306,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="199">
+  <evento id="185">
     <nombre>Decin – Slovan Ustecti Lvi</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 2. Liga</competicion>
@@ -2641,7 +2316,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="200">
+  <evento id="186">
     <nombre>Rebel Havlickuv Brod – Pisek</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 2. Liga</competicion>
@@ -2651,7 +2326,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="201">
+  <evento id="187">
     <nombre>Kobra Praha – Kralupy</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 2. Liga</competicion>
@@ -2661,7 +2336,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="202">
+  <evento id="188">
     <nombre>Mostecti Lvi – Cheb</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 2. Liga</competicion>
@@ -2671,7 +2346,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="203">
+  <evento id="189">
     <nombre>HIFK Sub-20 –  TPS Sub-20</nombre>
     <deporte>Hockey</deporte>
     <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
@@ -2681,7 +2356,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="204">
+  <evento id="190">
     <nombre>Lulea (M) –  Linkoeping (M)</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. Mujeres. SDHL</competicion>
@@ -2691,7 +2366,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="205">
+  <evento id="191">
     <nombre>Birmingham Squadron – Memphis Hustle</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NBA. G League</competicion>
@@ -2701,7 +2376,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="206">
+  <evento id="192">
     <nombre>Orlovi (W) – Rilski Sportist (W)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Mujeres. Liga del Adriático</competicion>
@@ -2711,7 +2386,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="207">
+  <evento id="193">
     <nombre>Opava – Dinamo Zagreb</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>ENBL</competicion>
@@ -2721,7 +2396,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="208">
+  <evento id="194">
     <nombre>Lipscomb Bisons – Tennessee Tech Golden Eagles</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -2731,7 +2406,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="209">
+  <evento id="195">
     <nombre>UIC Flames – Arkansas-Pine Lions</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -2741,7 +2416,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="210">
+  <evento id="196">
     <nombre>Basket Ostrava (M) –  Hradec Kralove (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>República Checa. Mujeres. ZBL</competicion>
@@ -2751,7 +2426,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="211">
+  <evento id="197">
     <nombre>Valmiera Glass – Voluntari</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>ENBL</competicion>
@@ -2761,7 +2436,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="212">
+  <evento id="198">
     <nombre>AZS Poznan (M) –  Polonia Varsovia (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Polonia. Mujeres. BLK</competicion>
@@ -2771,7 +2446,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="213">
+  <evento id="199">
     <nombre>Bydgoszcz (M) –  Wisla Cracovia (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Polonia. Mujeres. BLK</competicion>
@@ -2781,7 +2456,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="214">
+  <evento id="200">
     <nombre>Sleza Wroclaw (M) –  Zaglebie Sosnowiec (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Polonia. Mujeres. BLK</competicion>
@@ -2791,7 +2466,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="215">
+  <evento id="201">
     <nombre>Arka Gdynia (M) –  Gorzow Wielkopolski (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Polonia. Mujeres. BLK</competicion>
@@ -2801,7 +2476,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="216">
+  <evento id="202">
     <nombre>Contimax-MOSiR (M) –  UMCS Lublin (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Polonia. Mujeres. BLK</competicion>
@@ -2811,7 +2486,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="217">
+  <evento id="203">
     <nombre>Zabiny Brno (M) –  DSK Brandys (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>República Checa. Mujeres. ZBL</competicion>
@@ -2821,7 +2496,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="218">
+  <evento id="204">
     <nombre>Pribram – Lvi Prague</nombre>
     <deporte>Voleibol</deporte>
     <competicion>República Checa. Coppa</competicion>
@@ -2831,7 +2506,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="219">
+  <evento id="205">
     <nombre>Usti – Karlovarsko</nombre>
     <deporte>Voleibol</deporte>
     <competicion>República Checa. Coppa</competicion>
@@ -2841,7 +2516,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="220">
+  <evento id="206">
     <nombre>Olymp Praga (M) –  Rae Spordikool (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Copa Challenge</competicion>
@@ -2851,7 +2526,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="221">
+  <evento id="207">
     <nombre>Campeonato Mundial</nombre>
     <deporte>Boxeo</deporte>
     <competicion>Boxeo</competicion>
@@ -2861,7 +2536,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="222">
+  <evento id="208">
     <nombre>Brasil (M) –  Corea del Sur (M)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Mujeres. Campeonato mundial</competicion>
@@ -2871,7 +2546,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="223">
+  <evento id="209">
     <nombre>Hungría (M) –  Rumania (M)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Mujeres. Campeonato mundial</competicion>
@@ -2881,7 +2556,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="224">
+  <evento id="210">
     <nombre>Karviná – Pilsen</nombre>
     <deporte>Balonmano</deporte>
     <competicion>República Checa. Extraliga</competicion>
@@ -2891,7 +2566,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="225">
+  <evento id="211">
     <nombre>Dukla Praga – Jicin</nombre>
     <deporte>Balonmano</deporte>
     <competicion>República Checa. Extraliga</competicion>
@@ -2901,7 +2576,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="226">
+  <evento id="212">
     <nombre>Mogo – Liepaja</nombre>
     <deporte>Hockey</deporte>
     <competicion>Letonia. LHL</competicion>
@@ -2911,7 +2586,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="227">
+  <evento id="213">
     <nombre>Kyiv Capitals – Panter Tallin</nombre>
     <deporte>Hockey</deporte>
     <competicion>Letonia. LHL</competicion>
@@ -2921,7 +2596,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="228">
+  <evento id="214">
     <nombre>Lokomotiv Plovdiv – Spartak Pleven</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Bulgaria. NBL</competicion>
@@ -2931,7 +2606,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="229">
+  <evento id="215">
     <nombre>Maccabi Netanya – Asdod</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Israel. Liga Premier</competicion>
@@ -2941,7 +2616,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="230">
+  <evento id="216">
     <nombre>Dolomiti Bellunesi –  Inter Sub-23</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Italia. Serie C. Grupo A</competicion>
@@ -2951,7 +2626,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="231">
+  <evento id="217">
     <nombre>Panathinaikos – Kifisia FC</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Grecia. Copa</competicion>
@@ -2961,7 +2636,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="232">
+  <evento id="218">
     <nombre>Zeljeznicar – Siroki Brijeg</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bosnia y Herzegovina. Premijer liga</competicion>
@@ -2971,7 +2646,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="233">
+  <evento id="219">
     <nombre>Ferencvaros – Salzburgo</nombre>
     <deporte>Hockey</deporte>
     <competicion>Austria. Eishockey-Liga</competicion>
@@ -2981,7 +2656,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="234">
+  <evento id="220">
     <nombre>Milevsko – Kadan</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 2. Liga</competicion>
@@ -2991,7 +2666,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="235">
+  <evento id="221">
     <nombre>Graz – Viena</nombre>
     <deporte>Hockey</deporte>
     <competicion>Austria. Eishockey-Liga</competicion>
@@ -3001,7 +2676,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="236">
+  <evento id="222">
     <nombre>Rigas Zelli – Olomoucko</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>ENBL</competicion>
@@ -3011,7 +2686,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="237">
+  <evento id="223">
     <nombre>TSA Tallinn (W) – Siauliai (W)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Mujeres. Liga Báltica</competicion>
@@ -3021,7 +2696,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="238">
+  <evento id="224">
     <nombre>Amandine Monnot (M) –  Zeynep Sonmez (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Angers</competicion>
@@ -3031,7 +2706,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="239">
+  <evento id="225">
     <nombre>Lokomotiv Avia – Levski Sofia</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Bulgaria. Superliga</competicion>
@@ -3041,7 +2716,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="240">
+  <evento id="226">
     <nombre>Skjern – SoenderjyskE</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Dinamarca. Handboldligaen</competicion>
@@ -3051,7 +2726,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="241">
+  <evento id="227">
     <nombre>SBS Ostrava (M) –  Levharti Chomutov (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>República Checa. Mujeres. ZBL</competicion>
@@ -3061,7 +2736,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:40:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="242">
+  <evento id="228">
     <nombre>Ironi Tiberíades – Beitar Jerusalén</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Israel. Liga Premier</competicion>
@@ -3071,7 +2746,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="243">
+  <evento id="229">
     <nombre>Dinamo Bucuresti – Aalborg</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Liga de Campeones de la EHF</competicion>
@@ -3081,7 +2756,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="244">
+  <evento id="230">
     <nombre>Zagreb – Pelister</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Liga de Campeones de la EHF</competicion>
@@ -3091,7 +2766,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T19:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="245">
+  <evento id="231">
     <nombre>Athletic de Bilbao – Real Madrid</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Primera División</competicion>
@@ -3101,7 +2776,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="246">
+  <evento id="232">
     <nombre>Borac 1926 – Jedinstvo Ub</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Serbia. Copa</competicion>
@@ -3111,7 +2786,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="247">
+  <evento id="233">
     <nombre>Kahraba Ismailia – Pyramids</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Egipto. Premier League</competicion>
@@ -3121,7 +2796,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="248">
+  <evento id="234">
     <nombre>Maccabi Tel Aviv – Hapoel Haifa</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Israel. Liga Premier</competicion>
@@ -3131,7 +2806,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="249">
+  <evento id="235">
     <nombre>SDE (M) –  HV71 (M)</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. Mujeres. SDHL</competicion>
@@ -3141,7 +2816,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="250">
+  <evento id="236">
     <nombre>Troja/Ljungby – MODO</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. Allsvenskan</competicion>
@@ -3151,7 +2826,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="251">
+  <evento id="237">
     <nombre>Karlskoga – Vimmerby</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. Allsvenskan</competicion>
@@ -3161,7 +2836,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="252">
+  <evento id="238">
     <nombre>Bjorkloven – Vasteras</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. Allsvenskan</competicion>
@@ -3171,7 +2846,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="253">
+  <evento id="239">
     <nombre>Nybro Vikings – Sodertalje</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. Allsvenskan</competicion>
@@ -3181,7 +2856,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="254">
+  <evento id="240">
     <nombre>Kalmar – Oestersund</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. Allsvenskan</competicion>
@@ -3191,7 +2866,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="255">
+  <evento id="241">
     <nombre>Oskarshamn – Almtuna</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. Allsvenskan</competicion>
@@ -3201,7 +2876,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="256">
+  <evento id="242">
     <nombre>AIK – Mora</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. Allsvenskan</competicion>
@@ -3211,7 +2886,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="257">
+  <evento id="243">
     <nombre>Lindloeven – Stroemsbro</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. Hockeyettan. Norte</competicion>
@@ -3221,7 +2896,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="258">
+  <evento id="244">
     <nombre>Vaesby IK – Surahammar</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. Hockeyettan. Norte</competicion>
@@ -3231,7 +2906,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="259">
+  <evento id="245">
     <nombre>Sollentuna – Norrtalje</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. Hockeyettan. Norte</competicion>
@@ -3241,7 +2916,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="260">
+  <evento id="246">
     <nombre>Dalen – Graestorp</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. Hockeyettan. Sur</competicion>
@@ -3251,7 +2926,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="261">
+  <evento id="247">
     <nombre>Moerrum – Vasterviks</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. Hockeyettan. Sur</competicion>
@@ -3261,7 +2936,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="262">
+  <evento id="248">
     <nombre>Boraas – Kungalvs</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. Hockeyettan. Sur</competicion>
@@ -3271,7 +2946,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="263">
+  <evento id="249">
     <nombre>Energa Torun (M) –  Jelenia Gora (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Polonia. Mujeres. BLK</competicion>
@@ -3281,7 +2956,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="264">
+  <evento id="250">
     <nombre>Podcetrtek – Iliria</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Eslovenia. Liga Nova KBM</competicion>
@@ -3291,7 +2966,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="265">
+  <evento id="251">
     <nombre>Kriva Palanka (W) – Badel 1862 (W)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Macedonia del Norte. Mujeres. Prva Liga</competicion>
@@ -3301,7 +2976,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="266">
+  <evento id="252">
     <nombre>GS Dafni Dafniou – Papagu</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Grecia. A2 Ethniki</competicion>
@@ -3311,7 +2986,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="267">
+  <evento id="253">
     <nombre>Trutnov (M) –  USK Praga (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>República Checa. Mujeres. ZBL</competicion>
@@ -3321,7 +2996,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="268">
+  <evento id="254">
     <nombre>Estrasburgo – Cholet</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Francia. Copa</competicion>
@@ -3331,7 +3006,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="269">
+  <evento id="255">
     <nombre>Tarragona – Conqueridor Valencia</nombre>
     <deporte>Voleibol</deporte>
     <competicion>España. Superliga</competicion>
@@ -3341,7 +3016,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="270">
+  <evento id="256">
     <nombre>Leganés – Guaguas</nombre>
     <deporte>Voleibol</deporte>
     <competicion>España. Superliga</competicion>
@@ -3351,7 +3026,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="271">
+  <evento id="257">
     <nombre>GEN-I (M) –  Kúpele Brusno (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Copa Challenge</competicion>
@@ -3361,7 +3036,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="272">
+  <evento id="258">
     <nombre>Ried – Aich/Dob</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Austria. Bundesliga</competicion>
@@ -3371,7 +3046,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="273">
+  <evento id="259">
     <nombre>Zeleznicar (M) –  Vero Volley Milán (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Liga de Campeones</competicion>
@@ -3381,7 +3056,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="274">
+  <evento id="260">
     <nombre>Graz (M) –  Holte (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Copa Challenge</competicion>
@@ -3391,7 +3066,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="275">
+  <evento id="261">
     <nombre>Giesen – Luneburgo</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Alemania. Bundesliga</competicion>
@@ -3401,7 +3076,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="276">
+  <evento id="262">
     <nombre>Ready – Roa</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Noruega. Elitserien</competicion>
@@ -3411,7 +3086,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="277">
+  <evento id="263">
     <nombre>Sarpsborg – Mjondalen</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Noruega. Elitserien</competicion>
@@ -3421,7 +3096,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="278">
+  <evento id="264">
     <nombre>Ullern – Stabaek</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Noruega. Elitserien</competicion>
@@ -3431,7 +3106,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="279">
+  <evento id="265">
     <nombre>Fehervar AV19 – Olimpija</nombre>
     <deporte>Hockey</deporte>
     <competicion>Austria. Eishockey-Liga</competicion>
@@ -3441,7 +3116,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="280">
+  <evento id="266">
     <nombre>Villach – Bolzano</nombre>
     <deporte>Hockey</deporte>
     <competicion>Austria. Eishockey-Liga</competicion>
@@ -3451,7 +3126,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="281">
+  <evento id="267">
     <nombre>Linz – Innsbruck</nombre>
     <deporte>Hockey</deporte>
     <competicion>Austria. Eishockey-Liga</competicion>
@@ -3461,7 +3136,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="282">
+  <evento id="268">
     <nombre>Bregenzerwald – Cortina</nombre>
     <deporte>Hockey</deporte>
     <competicion>Alps Hockey League</competicion>
@@ -3471,7 +3146,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="283">
+  <evento id="269">
     <nombre>Varvara Lepchenko (M) –  Elvina Kalieva (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Quito</competicion>
@@ -3481,7 +3156,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="284">
+  <evento id="270">
     <nombre>Drammen HK – Ulleval</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Noruega. Elitserien</competicion>
@@ -3491,7 +3166,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="285">
+  <evento id="271">
     <nombre>Pustertal Wolfe – Klagenfurt</nombre>
     <deporte>Hockey</deporte>
     <competicion>Austria. Eishockey-Liga</competicion>
@@ -3501,7 +3176,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="286">
+  <evento id="272">
     <nombre>Fribourg – Rapperswil-Jona</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suiza. National League</competicion>
@@ -3511,7 +3186,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="287">
+  <evento id="273">
     <nombre>Davos – Ginebra</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suiza. National League</competicion>
@@ -3521,7 +3196,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="288">
+  <evento id="274">
     <nombre>ZSC Lions – Lugano</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suiza. National League</competicion>
@@ -3531,7 +3206,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="289">
+  <evento id="275">
     <nombre>Berna – Biel</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suiza. National League</competicion>
@@ -3541,7 +3216,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T20:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="290">
+  <evento id="276">
     <nombre>Blooming – ABB</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bolivia. Primera División</competicion>
@@ -3551,7 +3226,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="291">
+  <evento id="277">
     <nombre>Crewe Alexandra – Stockport</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Inglaterra. EFL Trophy</competicion>
@@ -3561,7 +3236,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="292">
+  <evento id="278">
     <nombre>PEC Zwolle – AZ</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Países Bajos. KNVB Copa</competicion>
@@ -3571,7 +3246,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="293">
+  <evento id="279">
     <nombre>UTA Arad – FCSB</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Rumania. Copa</competicion>
@@ -3581,7 +3256,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="294">
+  <evento id="280">
     <nombre>Zug 94 – Lucerna</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Suiza. Copa</competicion>
@@ -3591,7 +3266,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="295">
+  <evento id="281">
     <nombre>Winterthur – Grasshopper Wildcats</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Suiza. NLB</competicion>
@@ -3601,7 +3276,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="296">
+  <evento id="282">
     <nombre>UTB Metropole – Elan Chalon</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Francia. Copa</competicion>
@@ -3611,7 +3286,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="297">
+  <evento id="283">
     <nombre>Veronika Podrez (M) –  Antonia Ruzic (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Angers</competicion>
@@ -3621,7 +3296,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="298">
+  <evento id="284">
     <nombre>Rio Duero Soria – Manacor</nombre>
     <deporte>Voleibol</deporte>
     <competicion>España. Superliga</competicion>
@@ -3631,7 +3306,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="299">
+  <evento id="285">
     <nombre>Cisneros Alter – Melilla</nombre>
     <deporte>Voleibol</deporte>
     <competicion>España. Superliga</competicion>
@@ -3641,7 +3316,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="300">
+  <evento id="286">
     <nombre>Kanti Schaffhausen (M) –  Ostrava (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Copa Challenge</competicion>
@@ -3651,7 +3326,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="301">
+  <evento id="287">
     <nombre>Charleroi (M) –  Olympiada Neapolis (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Copa Challenge</competicion>
@@ -3661,7 +3336,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="302">
+  <evento id="288">
     <nombre>Skra Belchatow – Warta Zawiercie</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Polonia. PlusLiga</competicion>
@@ -3671,7 +3346,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="303">
+  <evento id="289">
     <nombre>OK Nebo (M) –  Balta (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Copa Challenge</competicion>
@@ -3681,7 +3356,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="304">
+  <evento id="290">
     <nombre>Le Cannet (M) –  Scandicci (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Liga de Campeones</competicion>
@@ -3691,7 +3366,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="305">
+  <evento id="291">
     <nombre>Benfica (M) –  Budowlani Lodz (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Liga de Campeones</competicion>
@@ -3701,7 +3376,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="306">
+  <evento id="292">
     <nombre>Vallefoglia (M) –  AEK (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Copa Challenge</competicion>
@@ -3711,7 +3386,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="307">
+  <evento id="293">
     <nombre>Selfoss – IR Reykjavik</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Islandia. Urvalsdeild</competicion>
@@ -3721,7 +3396,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="308">
+  <evento id="294">
     <nombre>Viborg – Vejle</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Dinamarca. Copa</competicion>
@@ -3731,7 +3406,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="309">
+  <evento id="295">
     <nombre>Rapperswil-Jona – San Galo</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Suiza. Copa</competicion>
@@ -3741,7 +3416,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="310">
+  <evento id="296">
     <nombre>Njardvik (M) –  Stjarnan (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Islandia. Mujeres. Urvalsdeild</competicion>
@@ -3751,7 +3426,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="311">
+  <evento id="297">
     <nombre>Wolverhampton – Nottingham Forest</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Inglaterra. Premier League</competicion>
@@ -3761,7 +3436,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="312">
+  <evento id="298">
     <nombre>Brighton – Aston Villa</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Inglaterra. Premier League</competicion>
@@ -3771,7 +3446,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="313">
+  <evento id="299">
     <nombre>Arsenal – Brentford</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Inglaterra. Premier League</competicion>
@@ -3781,7 +3456,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="314">
+  <evento id="300">
     <nombre>Simulcast</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Inglaterra. Premier League</competicion>
@@ -3791,7 +3466,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="315">
+  <evento id="301">
     <nombre>Cercle – Gante</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bélgica. Copa</competicion>
@@ -3801,7 +3476,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="316">
+  <evento id="302">
     <nombre>Royal Antwerp – Sint-Truidense</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bélgica. Copa</competicion>
@@ -3811,7 +3486,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="317">
+  <evento id="303">
     <nombre>Union Saint-Gilloise – Zulte Waregem</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bélgica. Copa</competicion>
@@ -3821,7 +3496,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="318">
+  <evento id="304">
     <nombre>Sturm Graz – Swarovski Tirol</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Austria. Bundesliga</competicion>
@@ -3831,7 +3506,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="319">
+  <evento id="305">
     <nombre>Oud-Heverlee – Brujas</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bélgica. Copa</competicion>
@@ -3841,7 +3516,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="320">
+  <evento id="306">
     <nombre>Piast Gliwice – Lech Poznan</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Polonia. Copa</competicion>
@@ -3851,7 +3526,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="321">
+  <evento id="307">
     <nombre>Burnley – Crystal Palace</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Inglaterra. Premier League</competicion>
@@ -3861,7 +3536,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="322">
+  <evento id="308">
     <nombre>Aris – PAOK</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Grecia. Copa</competicion>
@@ -3871,7 +3546,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="323">
+  <evento id="309">
     <nombre>Yverdon – Lausana</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Suiza. Copa</competicion>
@@ -3881,7 +3556,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="324">
+  <evento id="310">
     <nombre>Avellino – Fortitudo Bologna</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Italia. Serie A2</competicion>
@@ -3891,7 +3566,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="325">
+  <evento id="311">
     <nombre>Brindisi – Mestre</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Italia. Serie A2</competicion>
@@ -3901,7 +3576,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="326">
+  <evento id="312">
     <nombre>Villars – Centre National</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Suiza. NLB</competicion>
@@ -3911,7 +3586,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="327">
+  <evento id="313">
     <nombre>Vacallo –  Lugano Tigers Sub-23</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Suiza. NLB</competicion>
@@ -3921,7 +3596,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="328">
+  <evento id="314">
     <nombre>Newcastle Eagles – Iraklis</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>ENBL</competicion>
@@ -3931,7 +3606,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="329">
+  <evento id="315">
     <nombre>Swiss Central Basket – Goldcoast Wallabies</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Suiza. NLB</competicion>
@@ -3941,7 +3616,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="330">
+  <evento id="316">
     <nombre>Bernex – Meyrin</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Suiza. NLB</competicion>
@@ -3951,7 +3626,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="331">
+  <evento id="317">
     <nombre>Scuola Grottazzolina – Perugia</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Italia. Serie A</competicion>
@@ -3961,7 +3636,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="332">
+  <evento id="318">
     <nombre>Piacenza – Padova</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Italia. Serie A</competicion>
@@ -3971,7 +3646,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="333">
+  <evento id="319">
     <nombre>Verona – Latina</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Italia. Serie A</competicion>
@@ -3981,7 +3656,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="334">
+  <evento id="320">
     <nombre>Trentino – Modena</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Italia. Serie A</competicion>
@@ -3991,7 +3666,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="335">
+  <evento id="321">
     <nombre>San Roque Batán – Benidorm</nombre>
     <deporte>Voleibol</deporte>
     <competicion>España. Superliga</competicion>
@@ -4001,7 +3676,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="336">
+  <evento id="322">
     <nombre>Sporting (M) –  Vandoeuvre Nancy (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Copa CEV</competicion>
@@ -4011,7 +3686,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="337">
+  <evento id="323">
     <nombre>Noruega (M) –  Suecia (M)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Mujeres. Campeonato mundial</competicion>
@@ -4021,7 +3696,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="338">
+  <evento id="324">
     <nombre>Dinamarca (M) –  Senegal (M)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Mujeres. Campeonato mundial</competicion>
@@ -4031,7 +3706,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="339">
+  <evento id="325">
     <nombre>Afturelding – HK Kopavogur</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Islandia. Urvalsdeild</competicion>
@@ -4041,7 +3716,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:30:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="340">
+  <evento id="326">
     <nombre>Heart – Kilmarnock</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Escocia. Premiership</competicion>
@@ -4051,7 +3726,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="341">
+  <evento id="327">
     <nombre>Falkirk – Motherwell</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Escocia. Premiership</competicion>
@@ -4061,7 +3736,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="342">
+  <evento id="328">
     <nombre>Dundee United – Rangers</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Escocia. Premiership</competicion>
@@ -4071,7 +3746,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="343">
+  <evento id="329">
     <nombre>Celtic – Dundee</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Escocia. Premiership</competicion>
@@ -4081,7 +3756,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="344">
+  <evento id="330">
     <nombre>Aberdeen – St Mirren</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Escocia. Premiership</competicion>
@@ -4091,7 +3766,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="345">
+  <evento id="331">
     <nombre>Union Berlín – Bayern de Múnich</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Alemania. DFB Pokal</competicion>
@@ -4101,7 +3776,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="346">
+  <evento id="332">
     <nombre>Hamburgo – Holstein Kiel</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Alemania. DFB Pokal</competicion>
@@ -4111,7 +3786,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="347">
+  <evento id="333">
     <nombre>Simulcast</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Alemania. DFB Pokal</competicion>
@@ -4121,7 +3796,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="348">
+  <evento id="334">
     <nombre>Monza – Lube</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Italia. Serie A</competicion>
@@ -4131,7 +3806,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="349">
+  <evento id="335">
     <nombre>Barcelona – PSG</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Liga de Campeones de la EHF</competicion>
@@ -4141,7 +3816,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T21:45:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="350">
+  <evento id="336">
     <nombre>Atlético Antoniano – Villarreal</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
@@ -4151,7 +3826,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T22:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="351">
+  <evento id="337">
     <nombre>Torrente – Real Betis</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
@@ -4161,7 +3836,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T22:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="352">
+  <evento id="338">
     <nombre>Reus Deportiu – Real Sociedad</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
@@ -4171,7 +3846,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T22:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="353">
+  <evento id="339">
     <nombre>Hound Dogs – Europa</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Gibraltar. Primera División</competicion>
@@ -4181,7 +3856,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T22:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="354">
+  <evento id="340">
     <nombre>Inter – Venecia</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Italia. Copa</competicion>
@@ -4191,7 +3866,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T22:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="355">
+  <evento id="341">
     <nombre>Liverpool – Sunderland</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Inglaterra. Premier League</competicion>
@@ -4201,7 +3876,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T22:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="356">
+  <evento id="342">
     <nombre>Leeds Utd – Chelsea</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Inglaterra. Premier League</competicion>
@@ -4211,7 +3886,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T22:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="357">
+  <evento id="343">
     <nombre>Haukar – Akureyri</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Islandia. Urvalsdeild</competicion>
@@ -4221,7 +3896,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T22:15:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="358">
+  <evento id="344">
     <nombre>Benfica (M) –  Sporting (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Portugal. Mujeres. LFB</competicion>
@@ -4231,7 +3906,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T23:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="359">
+  <evento id="345">
     <nombre>Braga (M) –  Haro Rioja (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Copa Challenge</competicion>
@@ -4241,7 +3916,7 @@ player/live.php?id=242305&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-03T23:00:00</datetime_iso>
     <streams total="0" />
   </evento>
-  <evento id="360">
+  <evento id="346">
     <nombre>Uberlandia Monte Carmelo – SESI Bauru</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Brasil. Superliga</competicion>
