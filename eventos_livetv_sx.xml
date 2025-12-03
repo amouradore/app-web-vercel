@@ -1,44 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-12-03 20:32:08" total="2039">
+<eventos generado="2025-12-03 21:24:04" total="2028">
   <evento>
-    <nombre>Mirandés –  Sporting Gijon</nombre>
+    <nombre>Wolverhampton –  Nottingham Forest</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
+    <competicion>Inglaterra. Premier League</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323790233_mirand__s_sporting_gijon/</url>
-  </evento>
-  <evento>
-    <nombre>Eldense –  Almería</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323790234_eldense_almer__a/</url>
-  </evento>
-  <evento>
-    <nombre>Cultural Leonesa –  FC Andorra</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323790235_cultural_leonesa_fc_andorra/</url>
-  </evento>
-  <evento>
-    <nombre>Talavera –  Málaga</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323790236_talavera_m__laga/</url>
-  </evento>
-  <evento>
-    <nombre>Real Murcia –  Cádiz</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323790237_real_murcia_c__diz/</url>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/319594401_wolverhampton_nottingham_forest/</url>
   </evento>
   <evento>
     <nombre>Burnley –  Crystal Palace</nombre>
@@ -57,12 +25,28 @@
     <url>https://livetv.sx/es/eventinfo/319594403_brighton_aston_villa/</url>
   </evento>
   <evento>
-    <nombre>Simulcast</nombre>
+    <nombre>Arsenal –  Brentford</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Inglaterra. Premier League</competicion>
     <fecha>3 de diciembre</fecha>
     <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/321355457_simulcast/</url>
+    <url>https://livetv.sx/es/eventinfo/319594404_arsenal_brentford/</url>
+  </evento>
+  <evento>
+    <nombre>San Roque Batán –  Benidorm</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Superliga</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/319595442_san_roque_bat__n_benidorm/</url>
+  </evento>
+  <evento>
+    <nombre>Barcelona –  PSG</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga de Campeones de la EHF</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>38:33</hora>
+    <url>https://livetv.sx/es/eventinfo/319603872_barcelona_psg/</url>
   </evento>
   <evento>
     <nombre>Reus Deportiu –  Real Sociedad</nombre>
@@ -121,12 +105,28 @@
     <url>https://livetv.sx/es/eventinfo/323790241_orense_girona/</url>
   </evento>
   <evento>
+    <nombre>Liverpool –  Sunderland</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>22:15</hora>
+    <url>https://livetv.sx/es/eventinfo/319610299_liverpool_sunderland/</url>
+  </evento>
+  <evento>
     <nombre>Leeds Utd –  Chelsea</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Inglaterra. Premier League</competicion>
     <fecha>3 de diciembre</fecha>
     <hora>22:15</hora>
     <url>https://livetv.sx/es/eventinfo/319610300_leeds_utd_chelsea/</url>
+  </evento>
+  <evento>
+    <nombre>Uberlandia Monte Carmelo –  SESI Bauru</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Superliga</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>23:30</hora>
+    <url>https://livetv.sx/es/eventinfo/319626503_uberlandia_monte_carmelo_sesi_bauru/</url>
   </evento>
   <evento>
     <nombre>Campeonato Mundial</nombre>
@@ -137,38 +137,6 @@
     <url>https://livetv.sx/es/eventinfo/323318119_campeonato_mundial/</url>
   </evento>
   <evento>
-    <nombre>Fehervar AV19 –  Olimpija</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/319579050_fehervar_av19_olimpija/</url>
-  </evento>
-  <evento>
-    <nombre>Villach –  Bolzano</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/319579051_villach_bolzano/</url>
-  </evento>
-  <evento>
-    <nombre>Linz –  Innsbruck</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/319579052_linz_innsbruck/</url>
-  </evento>
-  <evento>
-    <nombre>Malmo U20 –  Rogle U-20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. J20 Nationell</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/323790574_malmo_u20_rogle_u_20/</url>
-  </evento>
-  <evento>
     <nombre>Copa Mosconi</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Pool</competicion>
@@ -177,84 +145,12 @@
     <url>https://livetv.sx/es/eventinfo/323690990_copa_mosconi/</url>
   </evento>
   <evento>
-    <nombre>Estepona (M) –   Gernika Bizkaia (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga Femenina</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/323800418__estepona_m__gernika_bizkaia_m/</url>
-  </evento>
-  <evento>
-    <nombre>Bregenzerwald –  Cortina</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alps Hockey League</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/319579103_bregenzerwald_cortina/</url>
-  </evento>
-  <evento>
     <nombre>Flisvos –  PAOK</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Grecia. Copa de la Liga</competicion>
     <fecha>3 de diciembre</fecha>
     <hora>20:30</hora>
     <url>https://livetv.sx/es/eventinfo/323835969_flisvos_paok/</url>
-  </evento>
-  <evento>
-    <nombre>Drammen HK –  Ulleval</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Noruega. Elitserien</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/321802406_drammen_hk_ulleval/</url>
-  </evento>
-  <evento>
-    <nombre>Nyon (W) –  Baden (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suiza. Mujeres. Copa</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/323830165_nyon_w_baden_w/</url>
-  </evento>
-  <evento>
-    <nombre>Play Off Sarajevo (W) –  Banovici (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Prvenstvo</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/323835579_play_off_sarajevo_w_banovici_w/</url>
-  </evento>
-  <evento>
-    <nombre>Fribourg –  Rapperswil-Jona</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suiza. National League</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/319590740_fribourg_rapperswil_jona/</url>
-  </evento>
-  <evento>
-    <nombre>Davos –  Ginebra</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suiza. National League</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/319590741_davos_ginebra/</url>
-  </evento>
-  <evento>
-    <nombre>Berna –  Biel</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suiza. National League</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/319590743_berna_biel/</url>
-  </evento>
-  <evento>
-    <nombre>Pustertal Wolfe –  Klagenfurt</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/319586571_pustertal_wolfe_klagenfurt/</url>
   </evento>
   <evento>
     <nombre>UK Championship</nombre>
@@ -271,6 +167,46 @@
     <fecha>3 de diciembre</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/320371592_pec_zwolle_az/</url>
+  </evento>
+  <evento>
+    <nombre>Mirandés –  Sporting Gijon</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323790233_mirand__s_sporting_gijon/</url>
+  </evento>
+  <evento>
+    <nombre>Eldense –  Almería</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323790234_eldense_almer__a/</url>
+  </evento>
+  <evento>
+    <nombre>Cultural Leonesa –  FC Andorra</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323790235_cultural_leonesa_fc_andorra/</url>
+  </evento>
+  <evento>
+    <nombre>Talavera –  Málaga</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323790236_talavera_m__laga/</url>
+  </evento>
+  <evento>
+    <nombre>Real Murcia –  Cádiz</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323790237_real_murcia_c__diz/</url>
   </evento>
   <evento>
     <nombre>UTA Arad –  FCSB</nombre>
@@ -309,7 +245,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Liga Femenina</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>56:66</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/323800419__cadi_la_seu_m__zaragoza_m/</url>
   </evento>
   <evento>
@@ -317,7 +253,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Liga Femenina</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>52:46</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/323800420__ensino_m__idk_guip__zcoa_m/</url>
   </evento>
   <evento>
@@ -325,7 +261,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Liga Femenina</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>77:79</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/323800421__estudiantes_m__ferrol_m/</url>
   </evento>
   <evento>
@@ -349,7 +285,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Francia. Copa</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>53:61</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/322089726_utb_metropole_elan_chalon/</url>
   </evento>
   <evento>
@@ -357,7 +293,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Islandia. Urvalsdeild</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>35:34</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/323643054_selfoss_ir_reykjavik/</url>
   </evento>
   <evento>
@@ -421,7 +357,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Suiza. NLB</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>61:83</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/323385783_winterthur_grasshopper_wildcats/</url>
   </evento>
   <evento>
@@ -453,7 +389,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Islandia. Mujeres. Urvalsdeild</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>80:57</hora>
+    <hora>21:15</hora>
     <url>https://livetv.sx/es/eventinfo/323577643__njardvik_m__stjarnan_m/</url>
   </evento>
   <evento>
@@ -461,24 +397,16 @@
     <deporte>Fútbol</deporte>
     <competicion>Islandia. Mujeres. Urvalsdeild</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>56:57</hora>
+    <hora>21:15</hora>
     <url>https://livetv.sx/es/eventinfo/323750693__grindavik_m__hamar_m/</url>
   </evento>
   <evento>
-    <nombre>Wolverhampton –  Nottingham Forest</nombre>
+    <nombre>Simulcast</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Inglaterra. Premier League</competicion>
     <fecha>3 de diciembre</fecha>
     <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/319594401_wolverhampton_nottingham_forest/</url>
-  </evento>
-  <evento>
-    <nombre>Arsenal –  Brentford</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. Premier League</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/319594404_arsenal_brentford/</url>
+    <url>https://livetv.sx/es/eventinfo/321355457_simulcast/</url>
   </evento>
   <evento>
     <nombre>Aris –  PAOK</nombre>
@@ -581,7 +509,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Liga de Campeones</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>11:11</hora>
+    <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/323300207_radnicki_havk_mladost/</url>
   </evento>
   <evento>
@@ -597,7 +525,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Liga Femenina</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>40:45</hora>
+    <hora>71:77</hora>
     <url>https://livetv.sx/es/eventinfo/323800422__jairis_m__spar_girona_m/</url>
   </evento>
   <evento>
@@ -605,7 +533,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. Campeonato mundial</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>27:15</hora>
+    <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/323404234__noruega_m__suecia_m/</url>
   </evento>
   <evento>
@@ -613,7 +541,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. Campeonato mundial</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>26:16</hora>
+    <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/323404238__dinamarca_m__senegal_m/</url>
   </evento>
   <evento>
@@ -621,7 +549,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Italia. Serie A2</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>53:31</hora>
+    <hora>85:62</hora>
     <url>https://livetv.sx/es/eventinfo/319595561_avellino_fortitudo_bologna/</url>
   </evento>
   <evento>
@@ -629,7 +557,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Italia. Serie A2</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>39:34</hora>
+    <hora>83:72</hora>
     <url>https://livetv.sx/es/eventinfo/319595562_brindisi_mestre/</url>
   </evento>
   <evento>
@@ -637,7 +565,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Islandia. Urvalsdeild</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>26:21</hora>
+    <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/323636678_afturelding_hk_kopavogur/</url>
   </evento>
   <evento>
@@ -647,14 +575,6 @@
     <fecha>3 de diciembre</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/323690465__sporting_m__vandoeuvre_nancy_m/</url>
-  </evento>
-  <evento>
-    <nombre>San Roque Batán –  Benidorm</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Superliga</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/319595442_san_roque_bat__n_benidorm/</url>
   </evento>
   <evento>
     <nombre>Villars –  Centre National</nombre>
@@ -669,7 +589,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Suiza. NLB</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>40:36</hora>
+    <hora>81:79</hora>
     <url>https://livetv.sx/es/eventinfo/323391046_vacallo__lugano_tigers_sub_23/</url>
   </evento>
   <evento>
@@ -677,7 +597,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Suiza. NLB</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>31:22</hora>
+    <hora>58:54</hora>
     <url>https://livetv.sx/es/eventinfo/323534066_swiss_central_basket_goldcoast_wallabies/</url>
   </evento>
   <evento>
@@ -685,7 +605,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Suiza. NLB</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>48:37</hora>
+    <hora>77:61</hora>
     <url>https://livetv.sx/es/eventinfo/323534067_bernex_meyrin/</url>
   </evento>
   <evento>
@@ -693,7 +613,7 @@
     <deporte>Fútbol</deporte>
     <competicion>ENBL</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>35:55</hora>
+    <hora>80:10</hora>
     <url>https://livetv.sx/es/eventinfo/323535694_newcastle_eagles_iraklis/</url>
   </evento>
   <evento>
@@ -769,14 +689,6 @@
     <url>https://livetv.sx/es/eventinfo/323423456_simulcast/</url>
   </evento>
   <evento>
-    <nombre>Barcelona –  PSG</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga de Campeones de la EHF</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>26:16</hora>
-    <url>https://livetv.sx/es/eventinfo/319603872_barcelona_psg/</url>
-  </evento>
-  <evento>
     <nombre>Monza –  Lube</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Italia. Serie A</competicion>
@@ -809,14 +721,6 @@
     <url>https://livetv.sx/es/eventinfo/309554219_hound_dogs_europa/</url>
   </evento>
   <evento>
-    <nombre>Liverpool –  Sunderland</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. Premier League</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>22:15</hora>
-    <url>https://livetv.sx/es/eventinfo/319610299_liverpool_sunderland/</url>
-  </evento>
-  <evento>
     <nombre>Haukar –  Akureyri</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Islandia. Urvalsdeild</competicion>
@@ -825,36 +729,28 @@
     <url>https://livetv.sx/es/eventinfo/323636679_haukar_akureyri/</url>
   </evento>
   <evento>
-    <nombre>Mirandés – Sporting Gijon</nombre>
+    <nombre>Abierto de Australia</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
+    <competicion>DP World Tour</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323790233__/</url>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323330299_abierto_de_australia/</url>
   </evento>
   <evento>
-    <nombre>Eldense – Almería</nombre>
+    <nombre>Benfica (M) –   Sporting (M)</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
+    <competicion>Portugal. Mujeres. LFB</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323790234__/</url>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323405635__benfica_m__sporting_m/</url>
   </evento>
   <evento>
-    <nombre>Cultural Leonesa – FC Andorra</nombre>
+    <nombre>Braga (M) –   Haro Rioja (M)</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
+    <competicion>Mujeres. Copa Challenge</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323790235__/</url>
-  </evento>
-  <evento>
-    <nombre>Talavera – Málaga</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323790236__/</url>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323649215__braga_m__haro_rioja_m/</url>
   </evento>
   <evento>
     <nombre>Real Murcia – Cádiz</nombre>
@@ -863,6 +759,22 @@
     <fecha>3 de diciembre</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/323790237__/</url>
+  </evento>
+  <evento>
+    <nombre>Burnley – Crystal Palace</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/319594402__/</url>
+  </evento>
+  <evento>
+    <nombre>Brighton – Aston Villa</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/319594403__/</url>
   </evento>
   <evento>
     <nombre>Atlético Antoniano – Villarreal</nombre>
@@ -897,6 +809,22 @@
     <url>https://livetv.sx/es/eventinfo/323790239__/</url>
   </evento>
   <evento>
+    <nombre>Pontevedra – Eibar</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323790240__/</url>
+  </evento>
+  <evento>
+    <nombre>Orense – Girona</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323790241__/</url>
+  </evento>
+  <evento>
     <nombre>Reus Deportiu – Real Sociedad</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
@@ -905,44 +833,12 @@
     <url>https://livetv.sx/es/eventinfo/323271650__/</url>
   </evento>
   <evento>
-    <nombre>Blooming – ABB</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bolivia. Primera División</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319586933__/</url>
-  </evento>
-  <evento>
     <nombre>Crewe Alexandra – Stockport</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Inglaterra. EFL Trophy</competicion>
     <fecha>3 de diciembre</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/319268741__/</url>
-  </evento>
-  <evento>
-    <nombre>PEC Zwolle – AZ</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Países Bajos. KNVB Copa</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/320371592__/</url>
-  </evento>
-  <evento>
-    <nombre>UTA Arad – FCSB</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rumania. Copa</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319589863__/</url>
-  </evento>
-  <evento>
-    <nombre>Zug 94 – Lucerna</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suiza. Copa</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/322089717__/</url>
   </evento>
   <evento>
     <nombre>Viborg – Vejle</nombre>
@@ -1015,22 +911,6 @@
     <fecha>3 de diciembre</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/319594401__/</url>
-  </evento>
-  <evento>
-    <nombre>Burnley – Crystal Palace</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. Premier League</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/319594402__/</url>
-  </evento>
-  <evento>
-    <nombre>Brighton – Aston Villa</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. Premier League</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/319594403__/</url>
   </evento>
   <evento>
     <nombre>Arsenal – Brentford</nombre>
@@ -1119,22 +999,6 @@
     <fecha>3 de diciembre</fecha>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/309554219__/</url>
-  </evento>
-  <evento>
-    <nombre>Pontevedra – Eibar</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323790240__/</url>
-  </evento>
-  <evento>
-    <nombre>Orense – Girona</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323790241__/</url>
   </evento>
   <evento>
     <nombre>Inter – Venecia</nombre>
@@ -4809,44 +4673,76 @@
     <url>https://livetv.sx/es/eventinfo/320880612__/</url>
   </evento>
   <evento>
-    <nombre>Troja/Ljungby – MODO</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319575928__/</url>
+    <nombre>Malinas – Charleroi</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Pro League</competicion>
+    <fecha>7 de diciembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/320877542__/</url>
   </evento>
   <evento>
-    <nombre>Karlskoga – Vimmerby</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319575929__/</url>
+    <nombre>Napredak – Zeleznicar Pancevo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Superliga</competicion>
+    <fecha>7 de diciembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320943171__/</url>
   </evento>
   <evento>
-    <nombre>Bjorkloven – Vasteras</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319575930__/</url>
+    <nombre>Jablonec – Bohemians</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>República Checa. 1. liga</competicion>
+    <fecha>7 de diciembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320887111__/</url>
   </evento>
   <evento>
-    <nombre>Nybro Vikings – Sodertalje</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319575931__/</url>
+    <nombre>Port – Uthai Thani</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Tailandia. Thai League 1</competicion>
+    <fecha>7 de diciembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320886648__/</url>
   </evento>
   <evento>
-    <nombre>AIK – Mora</nombre>
+    <nombre>Vardar – Arsimi</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Macedonia del Norte. 1. MFL</competicion>
+    <fecha>7 de diciembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320886421__/</url>
+  </evento>
+  <evento>
+    <nombre>Sileks – Bashkimi</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Macedonia del Norte. 1. MFL</competicion>
+    <fecha>7 de diciembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320886422__/</url>
+  </evento>
+  <evento>
+    <nombre>Shkupi – Tikvesh</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Macedonia del Norte. 1. MFL</competicion>
+    <fecha>7 de diciembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320886423__/</url>
+  </evento>
+  <evento>
+    <nombre>Skendija – Struga</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Macedonia del Norte. 1. MFL</competicion>
+    <fecha>7 de diciembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320886424__/</url>
+  </evento>
+  <evento>
+    <nombre>Fribourg – Rapperswil-Jona</nombre>
     <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
+    <competicion>Suiza. National League</competicion>
     <fecha>3 de diciembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319575934__/</url>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/319590740__/</url>
   </evento>
   <evento>
     <nombre>Davos – Ginebra</nombre>
@@ -4857,12 +4753,20 @@
     <url>https://livetv.sx/es/eventinfo/319590741__/</url>
   </evento>
   <evento>
-    <nombre>Berna – Biel</nombre>
+    <nombre>Grand Rapids Griffins – Cleveland Monsters</nombre>
     <deporte>Hockey</deporte>
-    <competicion>Suiza. National League</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/319590743__/</url>
+    <competicion>EUA. AHL</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319667917__/</url>
+  </evento>
+  <evento>
+    <nombre>Belleville Senators – Toronto Marlies</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>EUA. AHL</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319667918__/</url>
   </evento>
   <evento>
     <nombre>New Jersey – Dallas</nombre>
@@ -4871,6 +4775,14 @@
     <fecha>4 de diciembre</fecha>
     <hora>02:00</hora>
     <url>https://livetv.sx/es/eventinfo/319667183__/</url>
+  </evento>
+  <evento>
+    <nombre>Rochester Americans – Utica Comets</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>EUA. AHL</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>02:05</hora>
+    <url>https://livetv.sx/es/eventinfo/319675815__/</url>
   </evento>
   <evento>
     <nombre>Montreal – Winnipeg</nombre>
@@ -4889,108 +4801,20 @@
     <url>https://livetv.sx/es/eventinfo/319675079__/</url>
   </evento>
   <evento>
-    <nombre>SDE (M) –  HV71 (M)</nombre>
+    <nombre>Chicago Wolves – Manitoba Moose</nombre>
     <deporte>Hockey</deporte>
-    <competicion>Suecia. Mujeres. SDHL</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323114820__/</url>
+    <competicion>EUA. AHL</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319683746__/</url>
   </evento>
   <evento>
-    <nombre>Lindloeven – Stroemsbro</nombre>
+    <nombre>Milwaukee – Iowa Wild</nombre>
     <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Norte</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319576008__/</url>
-  </evento>
-  <evento>
-    <nombre>Vaesby IK – Surahammar</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Norte</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319576009__/</url>
-  </evento>
-  <evento>
-    <nombre>Sollentuna – Norrtalje</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Norte</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319576010__/</url>
-  </evento>
-  <evento>
-    <nombre>Dalen – Graestorp</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319576048__/</url>
-  </evento>
-  <evento>
-    <nombre>Moerrum – Vasterviks</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319576049__/</url>
-  </evento>
-  <evento>
-    <nombre>Boraas – Kungalvs</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319576050__/</url>
-  </evento>
-  <evento>
-    <nombre>Fehervar AV19 – Olimpija</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/319579050__/</url>
-  </evento>
-  <evento>
-    <nombre>Villach – Bolzano</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/319579051__/</url>
-  </evento>
-  <evento>
-    <nombre>Linz – Innsbruck</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/319579052__/</url>
-  </evento>
-  <evento>
-    <nombre>Bregenzerwald – Cortina</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Alps Hockey League</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/319579103__/</url>
-  </evento>
-  <evento>
-    <nombre>Pustertal Wolfe – Klagenfurt</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/319586571__/</url>
-  </evento>
-  <evento>
-    <nombre>Fribourg – Rapperswil-Jona</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suiza. National League</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/319590740__/</url>
+    <competicion>EUA. AHL</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319683747__/</url>
   </evento>
   <evento>
     <nombre>Boston Fleet (W) – Vancouver Goldeneyes (W)</nombre>
@@ -5015,46 +4839,6 @@
     <fecha>4 de diciembre</fecha>
     <hora>02:00</hora>
     <url>https://livetv.sx/es/eventinfo/323790601_reading_royals_wheeling_nailers/</url>
-  </evento>
-  <evento>
-    <nombre>Grand Rapids Griffins – Cleveland Monsters</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>EUA. AHL</competicion>
-    <fecha>4 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319667917__/</url>
-  </evento>
-  <evento>
-    <nombre>Belleville Senators – Toronto Marlies</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>EUA. AHL</competicion>
-    <fecha>4 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319667918__/</url>
-  </evento>
-  <evento>
-    <nombre>Rochester Americans – Utica Comets</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>EUA. AHL</competicion>
-    <fecha>4 de diciembre</fecha>
-    <hora>02:05</hora>
-    <url>https://livetv.sx/es/eventinfo/319675815__/</url>
-  </evento>
-  <evento>
-    <nombre>Chicago Wolves – Manitoba Moose</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>EUA. AHL</competicion>
-    <fecha>4 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319683746__/</url>
-  </evento>
-  <evento>
-    <nombre>Milwaukee – Iowa Wild</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>EUA. AHL</competicion>
-    <fecha>4 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319683747__/</url>
   </evento>
   <evento>
     <nombre>Kansas City – Iowa Heartlanders</nombre>
@@ -5463,6 +5247,14 @@
     <fecha>4 de diciembre</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/319879234__/</url>
+  </evento>
+  <evento>
+    <nombre>Djurgarden (M) –  Froelunda (M)</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suecia. Mujeres. SDHL</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323887943__/</url>
   </evento>
   <evento>
     <nombre>MoDo (M) –  Brynas (M)</nombre>
@@ -8801,6 +8593,150 @@
     <url>https://livetv.sx/es/eventinfo/321097814__/</url>
   </evento>
   <evento>
+    <nombre>Rangers – Vegas</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321097815__/</url>
+  </evento>
+  <evento>
+    <nombre>Washington – Columbus</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321097816__/</url>
+  </evento>
+  <evento>
+    <nombre>Suecia U19 – Canada West U19</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Torneo amistoso. Selecciones</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323807208_sweden_u19_canada_west_u19/</url>
+  </evento>
+  <evento>
+    <nombre>San Diego Gulls – Texas Stars</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>EUA. AHL</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321113883__/</url>
+  </evento>
+  <evento>
+    <nombre>Anaheim – Chicago</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321113126__/</url>
+  </evento>
+  <evento>
+    <nombre>Estonia Sub-20 –  Japón Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Campeonato mundial Sub-20. Div I. Grupo B</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321220366__/</url>
+  </evento>
+  <evento>
+    <nombre>Austria Sub-20 –  Francia Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Campeonato mundial Sub-20. Div I. Grupo A</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/321224812__/</url>
+  </evento>
+  <evento>
+    <nombre>Austria U20 – Francia U20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Campeonato mundial Sub-20. Div I. Grupo A</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/323807216_austria_u20_france_u20/</url>
+  </evento>
+  <evento>
+    <nombre>Norilsk – Dinamo St Pburg</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321228487__/</url>
+  </evento>
+  <evento>
+    <nombre>Avto – Almaz</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/321242185__/</url>
+  </evento>
+  <evento>
+    <nombre>Stalnye Lisy – Dinamo Szynnik</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/321242186__/</url>
+  </evento>
+  <evento>
+    <nombre>Noruega Sub-20 –  Ucrania Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Campeonato mundial Sub-20. Div I. Grupo A</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321256606__/</url>
+  </evento>
+  <evento>
+    <nombre>Polonia Sub-20 –  Italia Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Campeonato mundial Sub-20. Div I. Grupo B</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321256608__/</url>
+  </evento>
+  <evento>
+    <nombre>Noruega U20 – Ucrania U20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Campeonato mundial Sub-20. Div I. Grupo A</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323807217_norway_u20_ukraine_u20/</url>
+  </evento>
+  <evento>
+    <nombre>Chaika – SKA-1946</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/321260622__/</url>
+  </evento>
+  <evento>
+    <nombre>Bars – Buran Voronezh</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/321260508__/</url>
+  </evento>
+  <evento>
+    <nombre>Tambov – Neftyanik</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/321260509__/</url>
+  </evento>
+  <evento>
+    <nombre>Mikhailov Academy – Krylia Sovetov</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321265449__/</url>
+  </evento>
+  <evento>
     <nombre>UTB Metropole – Elan Chalon</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Francia. Copa</competicion>
@@ -8879,46 +8815,6 @@
     <fecha>4 de diciembre</fecha>
     <hora>03:30</hora>
     <url>https://livetv.sx/es/eventinfo/319690618__/</url>
-  </evento>
-  <evento>
-    <nombre>Estepona (M) –  Gernika Bizkaia (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>España. Mujeres. Liga Femenina</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/323800418__/</url>
-  </evento>
-  <evento>
-    <nombre>Cadi La Seu (M) –  Zaragoza (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>España. Mujeres. Liga Femenina</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323800419__/</url>
-  </evento>
-  <evento>
-    <nombre>Ensino (M) –  IDK Guipúzcoa (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>España. Mujeres. Liga Femenina</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323800420__/</url>
-  </evento>
-  <evento>
-    <nombre>Estudiantes (M) –  Ferrol (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>España. Mujeres. Liga Femenina</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323800421__/</url>
-  </evento>
-  <evento>
-    <nombre>Winterthur – Grasshopper Wildcats</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Suiza. NLB</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323385783__/</url>
   </evento>
   <evento>
     <nombre>Grindavik (M) –  Hamar (M)</nombre>
@@ -12777,12 +12673,68 @@
     <url>https://livetv.sx/es/eventinfo/320537819__/</url>
   </evento>
   <evento>
-    <nombre>Polina Kudermetova (M) –  Anna-Lena Friedsam (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Angers</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>17:40</hora>
-    <url>https://livetv.sx/es/eventinfo/323352314__/</url>
+    <nombre>Decin – NH Ostrava</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>República Checa. NBL</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320537820__/</url>
+  </evento>
+  <evento>
+    <nombre>FSV Rijeka (W) – Zadar (Zh)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Croacia. Mujeres. Premijer Liga</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323386358_fsv_rijeka_w_zadar_zh/</url>
+  </evento>
+  <evento>
+    <nombre>Baden (W) – Elfic Fribourg (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Suiza. Mujeres. National League A</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323386362_baden_w_elfic_fribourg_w/</url>
+  </evento>
+  <evento>
+    <nombre>Cholet – Limoges</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Francia. LNB Pro A</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>19:10</hora>
+    <url>https://livetv.sx/es/eventinfo/320549511__/</url>
+  </evento>
+  <evento>
+    <nombre>Hapoel T-A – Hapoel Gilboa</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Israel. Ligat Ha'Al</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>19:10</hora>
+    <url>https://livetv.sx/es/eventinfo/320940953__/</url>
+  </evento>
+  <evento>
+    <nombre>Lietkabelis – Siauliai</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Lituania. LKL</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>19:10</hora>
+    <url>https://livetv.sx/es/eventinfo/320547227__/</url>
+  </evento>
+  <evento>
+    <nombre>Estrasburgo – ASVEL</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Francia. LNB Pro A</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>19:20</hora>
+    <url>https://livetv.sx/es/eventinfo/320549512__/</url>
+  </evento>
+  <evento>
+    <nombre>Pardubice – Slavia Praga</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>República Checa. NBL</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/320549688__/</url>
   </evento>
   <evento>
     <nombre>Varvara Lepchenko (M) –  Elvina Kalieva (M)</nombre>
@@ -12825,22 +12777,6 @@
     <url>https://livetv.sx/es/eventinfo/323635538__/</url>
   </evento>
   <evento>
-    <nombre>Panna Udvardy (M) –  Laura Samson (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Quito</competicion>
-    <fecha>4 de diciembre</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323685918__/</url>
-  </evento>
-  <evento>
-    <nombre>Veronika Erjavec (M) –  Laura Pigossi (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Quito</competicion>
-    <fecha>4 de diciembre</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323622778__/</url>
-  </evento>
-  <evento>
     <nombre>Tatjana Maria (M) –  Mell-Reasco Gonzalez (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Quito</competicion>
@@ -12849,11 +12785,19 @@
     <url>https://livetv.sx/es/eventinfo/323660667__/</url>
   </evento>
   <evento>
+    <nombre>Panna Udvardy (M) –  Laura Samson (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Quito</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323685918__/</url>
+  </evento>
+  <evento>
     <nombre>Anastasia Zolotareva (M) –  Despina Papamichail (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Quito</competicion>
     <fecha>4 de diciembre</fecha>
-    <hora>17:00</hora>
+    <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/323660668__/</url>
   </evento>
   <evento>
@@ -12863,6 +12807,14 @@
     <fecha>4 de diciembre</fecha>
     <hora>19:30</hora>
     <url>https://livetv.sx/es/eventinfo/323673132__/</url>
+  </evento>
+  <evento>
+    <nombre>Veronika Erjavec (M) –  Laura Pigossi (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Quito</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323622778__/</url>
   </evento>
   <evento>
     <nombre>Shuai Zhang (M) –  Mona Barthel (M)</nombre>
@@ -12911,6 +12863,22 @@
     <fecha>5 de diciembre</fecha>
     <hora>12:00</hora>
     <url>https://livetv.sx/es/eventinfo/323836757__/</url>
+  </evento>
+  <evento>
+    <nombre>Anna-Lena Friedsam (M) –  Zeynep Sonmez (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Angers</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323876871__/</url>
+  </evento>
+  <evento>
+    <nombre>Mell-Reasco Gonzalez (M) –  Luisina Giovannini (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Quito</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323876884__/</url>
   </evento>
   <evento>
     <nombre>Aryna Sabalenka – Naomi Osaka</nombre>
@@ -13025,14 +12993,6 @@
     <url>https://livetv.sx/es/eventinfo/319626504__/</url>
   </evento>
   <evento>
-    <nombre>Ried – Aich/Dob</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Austria. Bundesliga</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323526455__/</url>
-  </evento>
-  <evento>
     <nombre>Flisvos – PAOK</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Grecia. Copa de la Liga</competicion>
@@ -13041,52 +13001,12 @@
     <url>https://livetv.sx/es/eventinfo/323835969__/</url>
   </evento>
   <evento>
-    <nombre>Kanti Schaffhausen (M) –  Ostrava (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Copa Challenge</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323642902__/</url>
-  </evento>
-  <evento>
-    <nombre>Charleroi (M) –  Olympiada Neapolis (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Copa Challenge</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323642903__/</url>
-  </evento>
-  <evento>
     <nombre>Skra Belchatow – Warta Zawiercie</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Polonia. PlusLiga</competicion>
     <fecha>3 de diciembre</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/319554869__/</url>
-  </evento>
-  <evento>
-    <nombre>OK Nebo (M) –  Balta (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Copa Challenge</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323655517__/</url>
-  </evento>
-  <evento>
-    <nombre>Le Cannet (M) –  Scandicci (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Liga de Campeones</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319587465__/</url>
-  </evento>
-  <evento>
-    <nombre>Benfica (M) –  Budowlani Lodz (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Liga de Campeones</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319587466__/</url>
   </evento>
   <evento>
     <nombre>Vallefoglia (M) –  AEK (M)</nombre>
@@ -14439,14 +14359,6 @@
     <fecha>3 de diciembre</fecha>
     <hora>21:45</hora>
     <url>https://livetv.sx/es/eventinfo/319603872__/</url>
-  </evento>
-  <evento>
-    <nombre>Selfoss – IR Reykjavik</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Islandia. Urvalsdeild</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323643054__/</url>
   </evento>
   <evento>
     <nombre>Afturelding – HK Kopavogur</nombre>
