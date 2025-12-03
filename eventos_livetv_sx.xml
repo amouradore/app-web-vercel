@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-12-03 09:31:34" total="1873">
+<eventos generado="2025-12-03 10:32:09" total="1873">
   <evento>
     <nombre>Guwahati Masters</nombre>
     <deporte>Fútbol</deporte>
@@ -17,14 +17,6 @@
     <url>https://livetv.sx/es/eventinfo/323403192_copa_mundial_sub_21/</url>
   </evento>
   <evento>
-    <nombre>Russian Championship</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Boxeo</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>09:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323271454_russian_championship/</url>
-  </evento>
-  <evento>
     <nombre>India –  Sudáfrica</nombre>
     <deporte>Fútbol</deporte>
     <competicion>No especificado</competicion>
@@ -39,14 +31,6 @@
     <fecha>3 de diciembre</fecha>
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/323407345_eurocopa_2025/</url>
-  </evento>
-  <evento>
-    <nombre>SKSO (W) –  Agidel (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rusia. Mujeres. WHL</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>10:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323386673_skso_w_agidel_m/</url>
   </evento>
   <evento>
     <nombre>Sydney Thunder (W) –  Brisbane (M)</nombre>
@@ -159,6 +143,22 @@
     <fecha>3 de diciembre</fecha>
     <hora>13:00</hora>
     <url>https://livetv.sx/es/eventinfo/319492732_septemvri_cska_1948/</url>
+  </evento>
+  <evento>
+    <nombre>Avia Swidnik –  Polonia Bytom</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. Copa</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319495261_avia_swidnik_polonia_bytom/</url>
+  </evento>
+  <evento>
+    <nombre>Copa del Mundo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa del Mundo</competicion>
+    <fecha>3 de diciembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323321956_copa_del_mundo/</url>
   </evento>
   <evento>
     <nombre>Athletic de Bilbao – Real Madrid</nombre>
@@ -4215,14 +4215,6 @@
     <fecha>4 de diciembre</fecha>
     <hora>02:30</hora>
     <url>https://livetv.sx/es/eventinfo/319675079__/</url>
-  </evento>
-  <evento>
-    <nombre>SKSO (W) – Agidel (M)</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. Mujeres. WHL</competicion>
-    <fecha>3 de diciembre</fecha>
-    <hora>10:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323386673_skso_w_agidel_w/</url>
   </evento>
   <evento>
     <nombre>AKM-Junior – JHC Atlant</nombre>
@@ -9161,6 +9153,14 @@
     <url>https://livetv.sx/es/eventinfo/323381478_targu_mures_oradea/</url>
   </evento>
   <evento>
+    <nombre>Jonava – Gargzdu</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Lituania. Copa</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/323772704__/</url>
+  </evento>
+  <evento>
     <nombre>Cinkarna Celje (M) – Rilski Sportist (W)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Mujeres. Liga del Adriático</competicion>
@@ -9337,38 +9337,6 @@
     <url>https://livetv.sx/es/eventinfo/319906702__/</url>
   </evento>
   <evento>
-    <nombre>Irvine Anteaters – Riverside Highlanders</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>4 de diciembre</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319922271__/</url>
-  </evento>
-  <evento>
-    <nombre>Hawaii Rainbow Warriors – Davis Aggies</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>4 de diciembre</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319922272__/</url>
-  </evento>
-  <evento>
-    <nombre>Cal Fullerton Titans – Cal Poly Mustangs</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>4 de diciembre</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319922273__/</url>
-  </evento>
-  <evento>
-    <nombre>Santa Barbara Gauchos – Long Beach</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>4 de diciembre</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319922274__/</url>
-  </evento>
-  <evento>
     <nombre>Paulistano – Botafogo</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Brasil. NBB</competicion>
@@ -9481,12 +9449,44 @@
     <url>https://livetv.sx/es/eventinfo/319978252__/</url>
   </evento>
   <evento>
+    <nombre>Santa Barbara Gauchos – Long Beach</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319922274__/</url>
+  </evento>
+  <evento>
+    <nombre>Irvine Anteaters – Riverside Highlanders</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319922271__/</url>
+  </evento>
+  <evento>
+    <nombre>Cal Fullerton Titans – Cal Poly Mustangs</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/319922273__/</url>
+  </evento>
+  <evento>
     <nombre>Cal Northridge Matadors – Cal Bakersfield Roadrunners</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
     <fecha>5 de diciembre</fecha>
     <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/320005337__/</url>
+  </evento>
+  <evento>
+    <nombre>Hawaii Rainbow Warriors – Davis Aggies</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>06:59</hora>
+    <url>https://livetv.sx/es/eventinfo/319922272__/</url>
   </evento>
   <evento>
     <nombre>Bendigo Spirit (M) –  Geelong United (M)</nombre>
@@ -11985,14 +11985,6 @@
     <url>https://livetv.sx/es/eventinfo/320871794__/</url>
   </evento>
   <evento>
-    <nombre>Kiev-Basket – Goverla</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Ucrania. Superliga</competicion>
-    <fecha>7 de diciembre</fecha>
-    <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/320943528__/</url>
-  </evento>
-  <evento>
     <nombre>Tamara Korpatsch (M) –  Anna Siskova (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Angers</competicion>
@@ -12413,7 +12405,7 @@
     <deporte>Voleibol</deporte>
     <competicion>Brasil. Superliga</competicion>
     <fecha>4 de diciembre</fecha>
-    <hora>02:00</hora>
+    <hora>02:30</hora>
     <url>https://livetv.sx/es/eventinfo/319664818__/</url>
   </evento>
   <evento>
@@ -14535,6 +14527,14 @@
     <fecha>7 de diciembre</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/323404261__/</url>
+  </evento>
+  <evento>
+    <nombre>Paraguay (M) –  Croacia (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. Campeonato mundial</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323383254__/</url>
   </evento>
   <evento>
     <nombre>Copa del Mundo, OestersundHombres</nombre>
