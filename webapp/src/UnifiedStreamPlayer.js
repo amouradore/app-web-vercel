@@ -1,202 +1,189 @@
-import React, { useState, useEffect, useRef } from 'react';
-import ReactPlayer from 'react-player';
-import { playChannel, checkBackendHealth } from './services/streamApi';
+import React, { useState, useEffect } from 'react';
+import { playChannel } from './services/streamApi';
 import './VideoPlayer.css';
 
 /**
- * UnifiedStreamPlayer - Lecteur Web via Backend
- * Utilise le backend Python pour convertir AceStream en HLS.
+ * UnifiedStreamPlayer - Lecteur utilisant services externes
+ * AUCUNE installation AceStream requise !
  */
 const UnifiedStreamPlayer = ({ channel, onClose }) => {
-  const [streamUrl, setStreamUrl] = useState(null);
-  const [isEmbed, setIsEmbed] = useState(false);
+  const [streamData, setStreamData] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(null);
-  const [statusMessage, setStatusMessage] = useState('Initialisation...');
-  const [backendReady, setBackendReady] = useState(false);
-
-  const playerRef = useRef(null);
+  const [copySuccess, setCopySuccess] = useState(false);
 
   useEffect(() => {
-    let mounted = true;
-
     const initStream = async () => {
       try {
         setIsLoading(true);
         setError(null);
-        setStreamUrl(null);
-        setIsEmbed(false);
 
-        // 1. Vérifier le backend
-        setStatusMessage('Vérification du serveur...');
-        const health = await checkBackendHealth();
-
-        if (!mounted) return;
-
-        if (!health.available) {
-          throw new Error("Le serveur de streaming n'est pas accessible. Assurez-vous que le backend Python est lancé.");
-        }
-
-        setBackendReady(true);
-
-        // 2. Demander le flux
-        setStatusMessage('Préparation du flux vidéo...');
         console.log('Demande de flux pour:', channel.acestream_hash);
-
         const data = await playChannel(channel.acestream_hash);
-
-        if (!mounted) return;
-
-        console.log('Flux reçu:', data);
-
-        // Handle different stream types
-        if (data.type === 'web_embed' || data.backend === 'web_iframe') {
-          setIsEmbed(true);
-          setStreamUrl(data.stream_url);
-          setStatusMessage('Chargement du lecteur web...');
-        } else if (data.type === 'aceproxy' || data.backend === 'aceproxy_docker') {
-          // AceProxy returns HTTP MP4 stream - use ReactPlayer
-          setIsEmbed(false);
-          setStreamUrl(data.stream_url);
-          setStatusMessage('Chargement du flux AceProxy...');
-        } else {
-          // HLS or direct proxy
-          setIsEmbed(false);
-          setStreamUrl(data.stream_url || data.hls_url);
-          setStatusMessage('Chargement de la vidéo...');
-        }
-
-        // For embeds, stop loading when iframe loads
-        if (data.type === 'web_embed') {
-          setTimeout(() => setIsLoading(false), 1000);
-        }
-
+        
+        console.log('Données reçues:', data);
+        setStreamData(data);
+        setIsLoading(false);
       } catch (err) {
         console.error('Erreur streaming:', err);
-        if (mounted) {
-          setError(err.message || "Impossible de démarrer le flux.");
-          setIsLoading(false);
-        }
+        setError(err.message || "Impossible de charger le stream");
+        setIsLoading(false);
       }
     };
 
-    if (channel && channel.acestream_hash) {
+    if (channel?.acestream_hash) {
       initStream();
     }
-
-    return () => {
-      mounted = false;
-    };
   }, [channel]);
 
-  const handlePlayerReady = () => {
-    setIsLoading(false);
-    setStatusMessage('');
+  const handleCopyHash = () => {
+    navigator.clipboard.writeText(streamData?.hash || channel.acestream_hash);
+    setCopySuccess(true);
+    setTimeout(() => setCopySuccess(false), 2000);
   };
 
-  const handlePlayerError = (e) => {
-    console.error('Erreur lecteur:', e);
-    if (streamUrl && !isEmbed) {
-      setStatusMessage('Attente des segments vidéo...');
-    }
+  const openStream = (url) => {
+    window.open(url, '_blank', 'noopener,noreferrer');
   };
+
+  if (isLoading) {
+    return (
+      <div className="video-player-overlay">
+        <div className="video-player-container loading">
+          <button className="close-button" onClick={onClose}>✕</button>
+          <div className="loading-content" style={{ textAlign: 'center', padding: '50px' }}>
+            <div className="spinner"></div>
+            <p style={{ marginTop: '20px' }}>⏳ Chargement du stream...</p>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="video-player-overlay">
+        <div className="video-player-container error">
+          <button className="close-button" onClick={onClose}>✕</button>
+          <div className="error-content" style={{ textAlign: 'center', padding: '50px' }}>
+            <h3>❌ Erreur</h3>
+            <p>{error}</p>
+            <button onClick={onClose} className="retry-button" style={{ marginTop: '20px' }}>Fermer</button>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="video-player-overlay">
       <div className="video-player-container">
-        {/* Header */}
-        <div className="video-player-header">
-          <div className="header-info">
-            <h3>{channel.name || 'Lecture en cours'}</h3>
-            <span className="service-badge">
-              {isEmbed ? '🌐 Lecteur Web' : '⚡ Serveur HLS'}
-            </span>
-          </div>
-          <button className="close-button" onClick={onClose}>×</button>
+        <button className="close-button" onClick={onClose}>✕</button>
+        
+        <div className="video-header" style={{ padding: '20px', borderBottom: '1px solid #ddd' }}>
+          <h2 style={{ margin: 0 }}>🎬 {channel.name}</h2>
+          {channel.group && <span className="video-group" style={{ color: '#666', fontSize: '14px' }}>{channel.group}</span>}
         </div>
 
-        {/* Content */}
-        <div className="video-player-content">
-          {error ? (
-            <div className="status-message error">
-              <h4>❌ Erreur de lecture</h4>
-              <p>{error}</p>
-              <div className="error-actions">
-                <button onClick={() => window.location.reload()} className="retry-button">
-                  🔄 Réessayer
+        <div className="stream-options" style={{ padding: '30px' }}>
+          <h3 style={{ marginBottom: '20px' }}>🚀 Choisissez votre méthode de streaming :</h3>
+          
+          <div className="stream-buttons" style={{ display: 'flex', flexDirection: 'column', gap: '15px', marginBottom: '30px' }}>
+            {streamData?.embed_urls && (
+              <>
+                <button 
+                  onClick={() => openStream(streamData.embed_urls.acestream_me)}
+                  className="stream-btn primary"
+                  style={{
+                    padding: '15px 20px',
+                    fontSize: '16px',
+                    background: '#4CAF50',
+                    color: 'white',
+                    border: 'none',
+                    borderRadius: '8px',
+                    cursor: 'pointer',
+                    textAlign: 'left'
+                  }}
+                >
+                  <div>🌐 <strong>AceStream Web Player</strong></div>
+                  <small style={{ display: 'block', marginTop: '5px', opacity: 0.9 }}>Service officiel AceStream</small>
                 </button>
-                <div className="help-text">
-                  <p>Si le problème persiste, le serveur est peut-être surchargé ou le flux hors ligne.</p>
-                  <a href={`acestream://${channel.acestream_hash}`} className="acestream-link">
-                    🚀 Ouvrir dans AceStream (App locale)
-                  </a>
-                </div>
-              </div>
-            </div>
-          ) : (
-            <div className="player-wrapper" style={{ position: 'relative', width: '100%', height: '100%', minHeight: '450px', background: '#000' }}>
-              {isLoading && (
-                <div className="loading-overlay" style={{
-                  position: 'absolute', top: 0, left: 0, right: 0, bottom: 0,
-                  display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
-                  background: 'rgba(0,0,0,0.8)', color: 'white', zIndex: 10
-                }}>
-                  <div className="spinner"></div>
-                  <p style={{ marginTop: '15px', textAlign: 'center' }}>{statusMessage}</p>
-                </div>
-              )}
-
-              {streamUrl && (
-                isEmbed ? (
-                  <iframe
-                    src={streamUrl}
-                    width="100%"
-                    height="100%"
-                    frameBorder="0"
-                    allowFullScreen
-                    title="AceStream Embed"
-                    style={{ background: '#000', border: 'none' }}
-                    onLoad={() => setIsLoading(false)}
-                  />
-                ) : (
-                  <ReactPlayer
-                    ref={playerRef}
-                    url={streamUrl}
-                    width="100%"
-                    height="100%"
-                    playing={true}
-                    controls={true}
-                    onReady={handlePlayerReady}
-                    onError={handlePlayerError}
-                    config={{
-                      file: {
-                        forceHLS: true,
-                        hlsOptions: {
-                          enableWorker: true,
-                          lowLatencyMode: true,
-                        }
-                      }
-                    }}
-                    style={{ background: '#000' }}
-                  />
-                )
-              )}
-            </div>
-          )}
-        </div>
-
-        {/* Footer */}
-        <div className="video-player-footer" style={{ padding: '10px', background: '#f8f9fa', borderTop: '1px solid #dee2e6' }}>
-          <div className="controls" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-            <div className="status-text">
-              <small className="text-muted">
-                {isEmbed ? 'Lecture via service web externe.' : 'Flux converti par le serveur.'} Aucune installation requise.
-              </small>
-            </div>
-            <div className="external-links">
-              <a href={`acestream://${channel.acestream_hash}`} className="btn btn-sm btn-outline-primary">
-                Ouvrir App Externe
-              </a>
+                
+                <button 
+                  onClick={() => openStream(streamData.embed_urls.acestream_player)}
+                  className="stream-btn secondary"
+                  style={{
+                    padding: '15px 20px',
+                    fontSize: '16px',
+                    background: '#2196F3',
+                    color: 'white',
+                    border: 'none',
+                    borderRadius: '8px',
+                    cursor: 'pointer',
+                    textAlign: 'left'
+                  }}
+                >
+                  <div>▶️ <strong>AceStream Player</strong></div>
+                  <small style={{ display: 'block', marginTop: '5px', opacity: 0.9 }}>Player alternatif</small>
+                </button>
+                
+                <button 
+                  onClick={() => openStream(streamData.embed_urls.torrentstream)}
+                  className="stream-btn secondary"
+                  style={{
+                    padding: '15px 20px',
+                    fontSize: '16px',
+                    background: '#FF9800',
+                    color: 'white',
+                    border: 'none',
+                    borderRadius: '8px',
+                    cursor: 'pointer',
+                    textAlign: 'left'
+                  }}
+                >
+                  <div>📺 <strong>Torrent Stream</strong></div>
+                  <small style={{ display: 'block', marginTop: '5px', opacity: 0.9 }}>Service tiers</small>
+                </button>
+              </>
+            )}
+            
+            <button 
+              onClick={handleCopyHash}
+              className="stream-btn tertiary"
+              style={{
+                padding: '15px 20px',
+                fontSize: '16px',
+                background: copySuccess ? '#4CAF50' : '#6c757d',
+                color: 'white',
+                border: 'none',
+                borderRadius: '8px',
+                cursor: 'pointer',
+                textAlign: 'left'
+              }}
+            >
+              <div>{copySuccess ? '✅ Hash copié !' : '📋 Copier le Hash'}</div>
+              <small style={{ display: 'block', marginTop: '5px', opacity: 0.9 }}>Pour utiliser avec VLC ou app mobile</small>
+            </button>
+          </div>
+          
+          <div className="stream-info" style={{ background: '#f8f9fa', padding: '20px', borderRadius: '8px' }}>
+            <p style={{ margin: '0 0 10px 0' }}><strong>Hash AceStream:</strong></p>
+            <code style={{ 
+              display: 'block', 
+              padding: '10px', 
+              background: '#fff', 
+              borderRadius: '4px',
+              wordBreak: 'break-all',
+              fontSize: '12px'
+            }}>{streamData?.hash}</code>
+            
+            <div className="info-box" style={{ marginTop: '20px', fontSize: '14px' }}>
+              <p style={{ margin: '0 0 10px 0' }}><strong>💡 Conseils :</strong></p>
+              <ul style={{ margin: 0, paddingLeft: '20px' }}>
+                <li>Les boutons 🚀 ouvrent le stream dans un nouvel onglet</li>
+                <li>Si un service ne marche pas, essayez un autre</li>
+                <li>Le hash peut être utilisé avec n'importe quelle app AceStream</li>
+              </ul>
             </div>
           </div>
         </div>

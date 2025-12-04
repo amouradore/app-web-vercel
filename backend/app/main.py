@@ -170,13 +170,12 @@ def get_playlist_channels(playlist_name: str):
 
 
 @app.post("/api/play")
-async def play_acestream_channel(request: dict):
+async def play_acestream_channel(request: Request, body: dict):
     """
-    Convert AceStream hash to playable stream
-    On Windows: Uses direct proxy (MPEG-TS)
-    On Linux/Docker: Uses HLS conversion
+    Version simplifiée utilisant des services externes
+    Aucune installation AceStream Engine requise !
     """
-    acestream_hash = request.get("hash")
+    acestream_hash = body.get("hash")
     
     if not acestream_hash or len(acestream_hash) < 32:
         raise HTTPException(status_code=400, detail="Invalid AceStream hash")
@@ -184,40 +183,20 @@ async def play_acestream_channel(request: dict):
     # Remove any whitespace or special characters
     acestream_hash = acestream_hash.strip()
     
-    # Check if we're on Windows (where /ace/getstream doesn't work)
-    import sys
-    is_windows = sys.platform == "win32"
-    
-    if is_windows:
-        # Use direct proxy endpoint (MPEG-TS stream)
-        # This works with AceStream Engine on Windows
-        stream_url = f"/api/stream/{acestream_hash}"
-        return {
-            "status": "success",
-            "hash": acestream_hash,
-            "stream_url": stream_url,
-            "hls_url": stream_url,
-            "type": "direct_proxy",
-            "backend": "windows_acestream",
-            "message": "Direct MPEG-TS stream via proxy - No AceStream installation required!"
-        }
-    else:
-        # Use HLS conversion from Railway AceStream Server
-        # Backend will proxy and convert MPEG-TS to HLS
-        # CRITICAL: Must return ABSOLUTE URL because frontend is on different domain
-        # Use Render env var if available, otherwise hardcode or use request
-        base_url = os.getenv("RENDER_EXTERNAL_URL", "https://app-web-vercel.onrender.com")
-        hls_playlist_url = f"{base_url}/api/stream/{acestream_hash}/playlist.m3u8"
-        
-        return {
-            "status": "success",
-            "hash": acestream_hash,
-            "stream_url": hls_playlist_url,
-            "hls_url": hls_playlist_url,
-            "type": "hls_conversion",
-            "backend": "railway_ffmpeg",
-            "message": "HLS stream ready via Railway - No AceStream installation required!"
-        }
+    # Retourner les URLs des services externes AceStream
+    return {
+        "status": "success",
+        "hash": acestream_hash,
+        "embed_urls": {
+            "acestream_me": f"https://acestream.me/?id={acestream_hash}",
+            "acestream_player": f"https://acestream.org/webplayer/{acestream_hash}",
+            "torrentstream": f"http://torrentstream.net/watch/{acestream_hash}"
+        },
+        "direct_url": f"acestream://{acestream_hash}",
+        "type": "external_services",
+        "backend": "proxy_to_external",
+        "message": "Stream disponible via services externes - Aucune installation requise!"
+    }
 
 
 @app.get("/api/stream/{acestream_hash}/playlist.m3u8")
