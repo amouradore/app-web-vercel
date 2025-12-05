@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { getApiUrl } from './services/streamApi';
 
 /**
  * BackendStreamPlayer - Streaming via votre backend
@@ -12,10 +13,10 @@ const BackendStreamPlayer = ({ aceStreamHash, onClose }) => {
     useEffect(() => {
         if (aceStreamHash) {
             // URL du stream HLS via votre backend
-            const backendUrl = process.env.REACT_APP_API_URL || 'http://localhost:8000';
+            const backendUrl = getApiUrl();
             // Utiliser HLS playlist au lieu du stream direct
             const url = `${backendUrl}/api/stream/${aceStreamHash}/playlist.m3u8`;
-            
+
             setStreamUrl(url);
             setLoading(false);
         }
@@ -66,15 +67,15 @@ const BackendStreamPlayer = ({ aceStreamHash, onClose }) => {
                     <button onClick={onClose} className="close-button">✕</button>
                 </div>
                 <div className="stream-player-content">
-                    <video 
-                        controls 
-                        autoPlay 
+                    <video
+                        controls
+                        autoPlay
                         style={{ width: '100%', maxHeight: '70vh' }}
                         src={streamUrl}
                     >
                         Votre navigateur ne supporte pas la balise vidéo.
                     </video>
-                    
+
                     <div className="stream-info">
                         <p>
                             <strong>📡 Source :</strong> Votre serveur backend
@@ -91,7 +92,7 @@ const BackendStreamPlayer = ({ aceStreamHash, onClose }) => {
                         <h4>💡 Si la vidéo ne démarre pas :</h4>
                         <ol>
                             <li>Vérifiez que AceStream Engine est actif sur votre PC</li>
-                            <li>Vérifiez que le backend répond sur : {process.env.REACT_APP_API_URL || 'http://localhost:8000'}</li>
+                            <li>Vérifiez que le backend répond sur : {getApiUrl()}</li>
                             <li>Attendez quelques secondes pour la mise en mémoire tampon</li>
                         </ol>
                     </div>
@@ -108,7 +109,7 @@ const BackendStreamPlayer = ({ aceStreamHash, onClose }) => {
                         >
                             📋 Copier pour VLC
                         </button>
-                        
+
                         <button
                             onClick={() => {
                                 navigator.clipboard.writeText(aceStreamHash);

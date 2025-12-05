@@ -1,5 +1,41 @@
 // 🔧 CONFIGURATION: Remplacer par l'URL de votre backend déployé
-const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:8000';
+let API_URL = process.env.REACT_APP_API_URL || 'http://localhost:8000';
+
+// Initialiser l'URL depuis le localStorage si disponible
+const savedUrl = localStorage.getItem('iptv_api_url');
+if (savedUrl) {
+  API_URL = savedUrl;
+  console.log('🔗 API URL chargée depuis localStorage:', API_URL);
+}
+
+// Vérifier les paramètres d'URL pour une surcharge temporaire
+if (typeof window !== 'undefined') {
+  const params = new URLSearchParams(window.location.search);
+  const apiUrlParam = params.get('api');
+  if (apiUrlParam) {
+    API_URL = apiUrlParam;
+    localStorage.setItem('iptv_api_url', API_URL);
+    console.log('🔗 API URL mise à jour depuis URL param:', API_URL);
+  }
+}
+
+/**
+ * Obtient l'URL actuelle de l'API
+ */
+export const getApiUrl = () => API_URL;
+
+/**
+ * Définit une nouvelle URL d'API
+ */
+export const setApiUrl = (url) => {
+  if (!url) return;
+  // Retirer le slash final si présent
+  API_URL = url.endsWith('/') ? url.slice(0, -1) : url;
+  localStorage.setItem('iptv_api_url', API_URL);
+  console.log('🔗 API URL mise à jour:', API_URL);
+  // Recharger la page pour appliquer les changements partout si nécessaire
+  // window.location.reload();
+};
 
 /**
  * Récupère la liste des playlists M3U disponibles
@@ -108,7 +144,9 @@ export const checkBackendHealth = async () => {
 
 // Legacy compatibility
 export async function startStreamSession(apiBase, hash) {
-  const res = await fetch(`${apiBase}/api/streams`, {
+  // Ignorer apiBase si on a une URL configurée globalement
+  const baseUrl = API_URL || apiBase;
+  const res = await fetch(`${baseUrl}/api/streams`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ hash })
@@ -118,12 +156,15 @@ export async function startStreamSession(apiBase, hash) {
 }
 
 export async function stopStreamSession(apiBase, sessionId) {
-  const res = await fetch(`${apiBase}/api/streams/${sessionId}`, { method: 'DELETE' });
+  const baseUrl = API_URL || apiBase;
+  const res = await fetch(`${baseUrl}/api/streams/${sessionId}`, { method: 'DELETE' });
   if (!res.ok) throw new Error(`API error ${res.status}`);
   return res.json();
 }
 
 export default {
+  getApiUrl,
+  setApiUrl,
   getPlaylists,
   getChannels,
   playChannel,

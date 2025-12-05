@@ -6,7 +6,7 @@ import VideoPlayer from './VideoPlayer';
 import SmartStreamPlayer from './SmartStreamPlayer';
 import AceStreamWebPlayer from './AceStreamWebPlayer';
 import HLSPlayer from './HLSPlayer';
-import { startStreamSession, stopStreamSession } from './services/streamApi';
+import { startStreamSession, stopStreamSession, getApiUrl, setApiUrl } from './services/streamApi';
 import ImprovedWebPlayer from './ImprovedWebPlayer';
 import DirectStreamPlayer from './DirectStreamPlayer';
 import SimpleWorkingPlayer from './SimpleWorkingPlayer';
@@ -39,20 +39,20 @@ const parseEventName = (name, rawInfo = '') => {
   // Pour les formats avec 4 parties : [CATÉGORIE, COMPÉTITION, "Equipe1 vs Equipe2", CHAINE]
   if (parts.length >= 3) {
     let teamsPartIndex = 1; // Par défaut, l'index des équipes est 1
-    
+
     // Si la première partie est une grande catégorie (ex: Brazil, Europe), 
     // les équipes seront à l'index 2
-    if (parts.length >= 4 && 
-        (parts[0].toLowerCase() === 'brazil' || 
-         parts[0].toLowerCase() === 'europe' ||
-         parts[0].length <= 8)) { // On suppose que les catégories générales sont courtes
+    if (parts.length >= 4 &&
+      (parts[0].toLowerCase() === 'brazil' ||
+        parts[0].toLowerCase() === 'europe' ||
+        parts[0].length <= 8)) { // On suppose que les catégories générales sont courtes
       teamsPartIndex = 2;
       competition = parts[1]; // Compétition est entre catégorie et équipes
     } else {
       // Sinon, la compétition est à l'index 0
       competition = parts[0];
     }
-    
+
     // Extraire équipes de la partie appropriée
     const teamsPart = parts[teamsPartIndex];
     const vsIndex = teamsPart.toLowerCase().indexOf(' vs ');
@@ -60,7 +60,7 @@ const parseEventName = (name, rawInfo = '') => {
       team1 = teamsPart.substring(0, vsIndex).trim();
       team2 = teamsPart.substring(vsIndex + 4).trim();
     }
-    
+
     // La chaîne est la dernière partie
     channel = parts[parts.length - 1];
   } else if (parts.length === 2) {
@@ -107,13 +107,13 @@ const parseTvChannel = (info, apiBase) => {
   const nameMatch = info.match(/,(.+)/);
 
   const group = groupTitleMatch ? groupTitleMatch[1] : 'Autres';
-  
+
   // Utiliser le proxy backend pour les logos des chaînes TV aussi
   const rawLogoUrl = logoMatch ? logoMatch[1] : '';
   const logo = rawLogoUrl && rawLogoUrl.trim() !== ''
     ? `${apiBase}/api/proxy/logo?url=${encodeURIComponent(rawLogoUrl)}`
     : 'https://via.placeholder.com/35';
-  
+
   const name = nameMatch ? nameMatch[1].trim() : 'Chaîne inconnue';
 
   return { name, logo, group };
@@ -134,7 +134,7 @@ function App() {
   const [hlsUrl, setHlsUrl] = useState(null);
   const [hlsSessionId, setHlsSessionId] = useState(null);
   // Utiliser REACT_APP_API_URL pour cohérence avec les autres fichiers
-  const API_BASE = process.env.REACT_APP_API_URL || process.env.REACT_APP_API_BASE || 'http://localhost:8000';
+  const API_BASE = getApiUrl();
   const [showTestMode, setShowTestMode] = useState(false); // Mode test temporaire
 
   const adRef1 = useRef(null);
@@ -148,11 +148,11 @@ function App() {
         const xmlText = await response.text();
         const parser = new DOMParser();
         const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
-        
+
         // Extraire les logos de compétitions
         const leagues = xmlDoc.querySelectorAll('league');
         const competitionLogos = {};
-        
+
         leagues.forEach(league => {
           const name = league.getAttribute('name');
           const logoUrl = league.querySelector('logo_url')?.textContent;
@@ -160,7 +160,7 @@ function App() {
             competitionLogos[name] = logoUrl;
           }
         });
-        
+
         return competitionLogos;
       } catch (error) {
         console.error('Erreur lors du chargement des logos de compétitions:', error);
@@ -177,15 +177,15 @@ function App() {
         .then(response => response.text())
         .catch(() => '') // Gérer le cas où le fichier n'existe pas
     ])
-    .then(([data, competitionLogos, tvData]) => {
+      .then(([data, competitionLogos, tvData]) => {
         console.log('Données brutes reçues:', data.substring(0, 200) + '...'); // Log des premiers caractères
         // Utilisation d'une expression régulière universelle pour gérer tous les formats de nouvelle ligne
         const lines = data.split(/\r\n|\r|\n/g);
         console.log('Nombre de lignes:', lines.length);
-        
+
         const parsedChannels = [];
         const seenContentIds = new Set(); // Pour éviter les doublons
-        
+
         let extinfCount = 0;
         let processedCount = 0;
         for (let i = 0; i < lines.length; i++) {
@@ -194,26 +194,26 @@ function App() {
             const info = lines[i];
             const url = lines[i + 1];
             console.log(`Ligne ${i} EXTINF:`, info.substring(0, 100));
-            
+
             if (url && url.includes('getstream?id=')) {
               const urlParts = url.split('id=');
               if (urlParts.length < 2) {
                 console.log('URL invalide:', url);
                 continue; // Skip invalid lines
               }
-              
+
               const contentId = urlParts[1].split('&')[0].trim(); // Extraire l'ID de contenu sans paramètres supplémentaires
               console.log('Content ID extrait:', contentId);
-              
+
               // Éviter les doublons basés sur l'ID de contenu
               if (seenContentIds.has(contentId)) {
                 console.log('Doublon trouvé:', contentId);
                 i++; // Passer à la prochaine ligne
                 continue;
               }
-              
+
               seenContentIds.add(contentId);
-              
+
               // Créer une URL qui peut être utilisée dans le navigateur
               // Pour l'instant, on garde l'URL acestream mais avec gestion de l'installation
               const acestreamUrl = `acestream://${contentId}?player_fullscreen=1`;
@@ -221,24 +221,24 @@ function App() {
 
               const logoMatch = info.match(/tvg-logo="([^"]*)"/);
               const nameMatch = info.match(/,(.+)/);
-              
+
               console.log('Logo match:', logoMatch);
               console.log('Name match:', nameMatch);
-              
+
               // Utiliser le proxy backend pour les logos afin d'éviter les problèmes CORS
               const rawLogoUrl = logoMatch ? logoMatch[1] : '';
               const logo = rawLogoUrl && rawLogoUrl.trim() !== ''
                 ? `${API_BASE}/api/proxy/logo?url=${encodeURIComponent(rawLogoUrl)}`
                 : 'https://via.placeholder.com/35';
               const rawName = nameMatch ? nameMatch[1].trim() : 'Unnamed Channel';
-              
+
               const eventDetails = parseEventName(rawName, info);
 
-              parsedChannels.push({ 
-                ...eventDetails, 
-                logo, 
+              parsedChannels.push({
+                ...eventDetails,
+                logo,
                 acestreamUrl,
-                alternativeUrl, 
+                alternativeUrl,
                 contentId // Ajouter l'ID pour référence
               });
               processedCount++;
@@ -251,33 +251,33 @@ function App() {
         console.log('Total EXTINF trouvés:', extinfCount);
         console.log('Chaînes traitées:', processedCount);
         console.log('Chaînes parsées:', parsedChannels);
-        
+
         // Regrouper les chaînes par compétition
-        const groupedChannels = parsedChannels && parsedChannels.length > 0 
+        const groupedChannels = parsedChannels && parsedChannels.length > 0
           ? parsedChannels.reduce((acc, channel) => {
-              const competition = channel.competition || 'Autres';
-              if (!acc[competition]) {
-                acc[competition] = [];
-              }
-              acc[competition].push(channel);
-              return acc;
-            }, {})
+            const competition = channel.competition || 'Autres';
+            if (!acc[competition]) {
+              acc[competition] = [];
+            }
+            acc[competition].push(channel);
+            return acc;
+          }, {})
           : {};
 
         setChannels(groupedChannels);
-        
+
         // Traiter les chaînes TV si les données sont disponibles
         if (tvData) {
           console.log('Traitement des données TV...');
           console.log('Données TV brutes reçues:', tvData.substring(0, 200) + '...');
-          
+
           // Utilisation d'une expression régulière universelle pour gérer tous les formats de nouvelle ligne
           const tvLines = tvData.split(/\r\n|\r|\n/g);
           console.log('Nombre de lignes TV:', tvLines.length);
-          
+
           const parsedTvChannels = [];
           const seenTvContentIds = new Set(); // Pour éviter les doublons TV
-          
+
           let tvExtinfCount = 0;
           let tvProcessedCount = 0;
           for (let i = 0; i < tvLines.length; i++) {
@@ -286,39 +286,39 @@ function App() {
               const info = tvLines[i];
               const url = tvLines[i + 1];
               console.log(`Ligne TV ${i} EXTINF:`, info.substring(0, 100));
-              
+
               if (url && url.includes('getstream?id=')) {
                 const urlParts = url.split('id=');
                 if (urlParts.length < 2) {
                   console.log('URL TV invalide:', url);
                   continue; // Skip invalid lines
                 }
-                
+
                 const contentId = urlParts[1].split('&')[0].trim(); // Extraire l'ID de contenu sans paramètres supplémentaires
                 console.log('Content ID TV extrait:', contentId);
-                
+
                 // Éviter les doublons basés sur l'ID de contenu
                 if (seenTvContentIds.has(contentId)) {
                   console.log('Doublon TV trouvé:', contentId);
                   i++; // Passer à la prochaine ligne
                   continue;
                 }
-                
+
                 seenTvContentIds.add(contentId);
-                
+
                 // Créer une URL qui peut être utilisée dans le navigateur
                 // Pour l'instant, on garde l'URL acestream mais avec gestion de l'installation
                 const acestreamUrl = `acestream://${contentId}?player_fullscreen=1`;
                 const alternativeUrl = `http://127.0.0.1:6878/ace/getstream?id=${contentId}`; // Pour usage local
 
-                
+
                 // Extraire les informations de la chaîne TV
                 const channelDetails = parseTvChannel(info, API_BASE);
 
-                parsedTvChannels.push({ 
-                  ...channelDetails, 
+                parsedTvChannels.push({
+                  ...channelDetails,
                   acestreamUrl,
-                  alternativeUrl, 
+                  alternativeUrl,
                   contentId // Ajouter l'ID pour référence
                 });
                 tvProcessedCount++;
@@ -331,7 +331,7 @@ function App() {
           console.log('Total EXTINF TV trouvés:', tvExtinfCount);
           console.log('Chaînes TV traitées:', tvProcessedCount);
           console.log('Chaînes TV parsées:', parsedTvChannels);
-          
+
           // Regrouper les chaînes TV par groupe en utilisant la propriété `group`
           const groupedTvChannels = parsedTvChannels.reduce((acc, channel) => {
             const groupName = channel.group || 'Autres';
@@ -345,7 +345,7 @@ function App() {
           setTvChannels(parsedTvChannels);
           setGroupedTvChannels(groupedTvChannels);
         }
-        
+
         setLoading(false);
       })
       .catch(error => {
@@ -372,7 +372,7 @@ function App() {
   const handleChannelClick = (channel) => {
     // Afficher la pub Adsterra à chaque clic
     showAdsterraPopunder();
-    
+
     // Ouvrir le lecteur vidéo intégré
     setCurrentStream(channel);
     setShowVideoPlayer(true);
@@ -394,7 +394,7 @@ function App() {
   const closeVideoPlayer = async () => {
     setShowVideoPlayer(false);
     if (hlsSessionId) {
-      try { await stopStreamSession(API_BASE, hlsSessionId); } catch {}
+      try { await stopStreamSession(API_BASE, hlsSessionId); } catch { }
     }
     setHlsSessionId(null);
     setHlsUrl(null);
@@ -425,20 +425,20 @@ function App() {
       adContainer.style.width = '1px';
       adContainer.style.height = '1px';
       adContainer.style.overflow = 'hidden';
-      
+
       // Créer un iframe pour la pub
       const iframe = document.createElement('iframe');
       iframe.src = 'https://www.adsterra.com/pu/27725433';
       iframe.style.width = '800px';
       iframe.style.height = '600px';
       iframe.style.border = 'none';
-      
+
       // Ajouter l'iframe à la div cachée
       adContainer.appendChild(iframe);
-      
+
       // Ajouter la div au document
       document.body.appendChild(adContainer);
-      
+
       // Supprimer la pub après 10 secondes
       setTimeout(() => {
         try {
@@ -468,9 +468,9 @@ function App() {
           <div className="text-center mt-4">
             <h5 className="text-muted mb-3">Advertisement</h5>
             <div className="ad-container" ref={adRef1}>
-              <ins 
+              <ins
                 className="adsbygoogle"
-                style={{display:'block', minWidth: '150px', width: '100%', height: '600px'}}
+                style={{ display: 'block', minWidth: '150px', width: '100%', height: '600px' }}
                 data-ad-client="ca-pub-9547009217122053"
                 data-ad-slot="2199893828"
                 data-ad-format="auto"
@@ -486,7 +486,7 @@ function App() {
             <div className="tabs-navigation mb-4">
               <ul className="nav nav-tabs">
                 <li className="nav-item">
-                  <button 
+                  <button
                     className={`nav-link ${activeTab === 'events' ? 'active' : ''}`}
                     onClick={() => setActiveTab('events')}
                   >
@@ -494,7 +494,7 @@ function App() {
                   </button>
                 </li>
                 <li className="nav-item">
-                  <button 
+                  <button
                     className={`nav-link ${activeTab === 'livetv' ? 'active' : ''}`}
                     onClick={() => setActiveTab('livetv')}
                   >
@@ -506,10 +506,28 @@ function App() {
 
             <header className="text-center mb-4">
               <h1>{activeTab === 'events' ? 'Événements à venir' : 'Chaînes TV en direct'}</h1>
-              
+
               {/* Bouton de test temporaire */}
               <div className="test-mode-controls mb-3">
-                <button 
+                <button
+                  className="btn btn-secondary"
+                  onClick={() => {
+                    const currentUrl = getApiUrl();
+                    const newUrl = prompt("Entrez la nouvelle URL du Backend (Tunnel):", currentUrl);
+                    if (newUrl && newUrl !== currentUrl) {
+                      setApiUrl(newUrl);
+                      window.location.reload();
+                    }
+                  }}
+                  style={{
+                    margin: '5px',
+                    padding: '8px 16px',
+                    borderRadius: '6px'
+                  }}
+                >
+                  ⚙️ Configurer Backend
+                </button>
+                <button
                   className="btn btn-info"
                   onClick={() => setShowTestMode(!showTestMode)}
                   style={{
@@ -532,12 +550,12 @@ function App() {
             </header>
 
             <div className="alert alert-info text-center fw-bold" role="alert">
-              {activeTab === 'events' 
-                ? '🏆 Plus de 4000 événements sportifs avec hash AceStream !' 
+              {activeTab === 'events'
+                ? '🏆 Plus de 4000 événements sportifs avec hash AceStream !'
                 : '📺 Chaînes TV AceStream organisées et prêtes à l\'emploi !'}
               <br />
               <small className="text-muted">
-                💡 Cliquez sur "🌐 Navigateur" pour voir toutes les méthodes de streaming (Web, Mobile, VLC...) | 
+                💡 Cliquez sur "🌐 Navigateur" pour voir toutes les méthodes de streaming (Web, Mobile, VLC...) |
                 Cliquez sur "🚀 AceStream" si vous l'avez déjà installé
               </small>
             </div>
@@ -552,164 +570,164 @@ function App() {
               {showTestMode ? (
                 <TestPlayer />
               ) : (
-              <>
-              {/* Affichage conditionnel selon l'onglet actif */}
-              {activeTab === 'events' && (
-                <div>
-                  {Object.entries(channels).map(([competition, matches]) => (
-                    <div key={competition} className="competition-section">
-                      <h3 className="competition-title">
-                        {matches[0]?.competitionLogo && (
-                          <img 
-                            src={matches[0].competitionLogo} 
-                            className="competition-logo" 
-                            alt={competition}
-                            onError={(e) => { e.target.onerror = null; e.target.src='https://via.placeholder.com/30' }}
-                          />
-                        )}
-                        {competition}
-                      </h3>
-                      {matches.map((channel, index) => (
-                        <div key={channel.contentId || index} className="match-card" onClick={() => handleChannelClick(channel)}>
-                          <div className="match-card-content">
-                            <div className="team-section left">
-                              <span className="team-name">{channel.team1}</span>
-                            </div>
-                            
-                            <div className="vs-divider">
-                              <span className="vs-text">VS</span>
-                            </div>
-                            
-                            <div className="team-section right">
-                              <span className="team-name">{channel.team2}</span>
-                            </div>
-                          </div>
-                          
-                          <div className="info-section">
-                            <img src={channel.logo} className="channel-logo" alt="" onError={(e) => { e.target.onerror = null; e.target.src='https://via.placeholder.com/35' }}/>
-                            <div className="info-text">
-                              <div className="match-time">{channel.time}</div>
-                              <div className="match-competition">{channel.competition}</div>
-                              <div className="match-channel">{channel.channel}</div>
-                            </div>
-                          </div>
-                          
-                          <div className="play-buttons">
-                            <button 
-                              className="play-btn browser-play"
-                              onClick={(e) => {
-                                e.stopPropagation();
-                                handlePlayInBrowser(channel);
-                              }}
-                              title="Regarder dans le navigateur"
-                            >
-                              🌐 Navigateur
-                            </button>
-                            <button 
-                              className="play-btn acestream-play"
-                              onClick={(e) => {
-                                e.stopPropagation();
-                                handlePlayAceStream(channel);
-                              }}
-                              title="Ouvrir avec AceStream"
-                            >
-                              🚀 AceStream
-                            </button>
-                          </div>
-                        </div>
-                      ))}
-                    </div>
-                  ))}
-                </div>
-              )}
+                <>
+                  {/* Affichage conditionnel selon l'onglet actif */}
+                  {activeTab === 'events' && (
+                    <div>
+                      {Object.entries(channels).map(([competition, matches]) => (
+                        <div key={competition} className="competition-section">
+                          <h3 className="competition-title">
+                            {matches[0]?.competitionLogo && (
+                              <img
+                                src={matches[0].competitionLogo}
+                                className="competition-logo"
+                                alt={competition}
+                                onError={(e) => { e.target.onerror = null; e.target.src = 'https://via.placeholder.com/30' }}
+                              />
+                            )}
+                            {competition}
+                          </h3>
+                          {matches.map((channel, index) => (
+                            <div key={channel.contentId || index} className="match-card" onClick={() => handleChannelClick(channel)}>
+                              <div className="match-card-content">
+                                <div className="team-section left">
+                                  <span className="team-name">{channel.team1}</span>
+                                </div>
 
-              {activeTab === 'livetv' && (
-                <div>
-                  {selectedTvGroup ? (
-                    // Vue des chaînes d'un groupe sélectionné
-                    <div>
-                      <button className="btn btn-secondary mb-3" onClick={handleBackToGroups}>&larr; Retour aux groupes</button>
-                      <h3 className="competition-title">{selectedGroupName}</h3>
-                      <div className="tv-channels-grid">
-                        {selectedTvGroup.map((channel, index) => (
-                          <div key={channel.contentId || index} className="tv-channel-card" onClick={() => handleChannelClick(channel)}>
-                            <img src={channel.logo} className="tv-channel-logo" alt={channel.name} onError={(e) => { e.target.onerror = null; e.target.src='https://via.placeholder.com/80' }}/>
-                            <div className="tv-channel-name">{channel.name}</div>
-                            <div className="play-buttons">
-                              <button 
-                                className="play-btn browser-play"
-                                onClick={(e) => {
-                                  e.stopPropagation();
-                                  handlePlayInBrowser(channel);
-                                }}
-                                title="Regarder dans le navigateur"
-                              >
-                                🌐 Navigateur
-                              </button>
-                              <button 
-                                className="play-btn acestream-play"
-                                onClick={(e) => {
-                                  e.stopPropagation();
-                                  handlePlayAceStream(channel);
-                                }}
-                                title="Ouvrir avec AceStream"
-                              >
-                                🚀 AceStream
-                              </button>
-                            </div>
-                          </div>
-                        ))}
-                      </div>
-                    </div>
-                  ) : (
-                    // Vue des groupes de chaînes
-                    <div>
-                      {Object.keys(groupedTvChannels).length > 0 ? (
-                        <div className="tv-channels-grid">
-                          {Object.entries(groupedTvChannels).map(([groupName, channels]) => (
-                            <div key={groupName} className="tv-group-card" onClick={() => handleTvGroupClick(groupName, channels)}>
-                              <div className="tv-group-content">
-                                <div className="tv-group-info">
-                                  <div className="tv-group-name">{groupName}</div>
-                                  <div className="tv-group-count">{channels.length} chaînes</div>
+                                <div className="vs-divider">
+                                  <span className="vs-text">VS</span>
+                                </div>
+
+                                <div className="team-section right">
+                                  <span className="team-name">{channel.team2}</span>
                                 </div>
                               </div>
-                              <div className="tv-group-channels-preview">
-                                {channels.slice(0, 3).map((channel, index) => (
-                                  <img 
-                                    key={channel.contentId || index} 
-                                    src={channel.logo} 
-                                    className="tv-group-channel-logo" 
-                                    alt={channel.name} 
-                                    onError={(e) => { e.target.onerror = null; e.target.src='https://via.placeholder.com/35' }}
-                                  />
-                                ))}
-                                {channels.length > 3 && (
-                                  <div className="tv-group-more">+{channels.length - 3} autres</div>
-                                )}
+
+                              <div className="info-section">
+                                <img src={channel.logo} className="channel-logo" alt="" onError={(e) => { e.target.onerror = null; e.target.src = 'https://via.placeholder.com/35' }} />
+                                <div className="info-text">
+                                  <div className="match-time">{channel.time}</div>
+                                  <div className="match-competition">{channel.competition}</div>
+                                  <div className="match-channel">{channel.channel}</div>
+                                </div>
                               </div>
-                              <a 
-                                href="#" 
-                                className="tv-group-play-link"
-                                onClick={(e) => {
-                                  e.preventDefault();
-                                  handleTvGroupClick(groupName, channels);
-                                }}
-                                rel="noopener noreferrer"
-                              >
-                                <span className="play-icon">▶</span> Voir les chaînes
-                              </a>
+
+                              <div className="play-buttons">
+                                <button
+                                  className="play-btn browser-play"
+                                  onClick={(e) => {
+                                    e.stopPropagation();
+                                    handlePlayInBrowser(channel);
+                                  }}
+                                  title="Regarder dans le navigateur"
+                                >
+                                  🌐 Navigateur
+                                </button>
+                                <button
+                                  className="play-btn acestream-play"
+                                  onClick={(e) => {
+                                    e.stopPropagation();
+                                    handlePlayAceStream(channel);
+                                  }}
+                                  title="Ouvrir avec AceStream"
+                                >
+                                  🚀 AceStream
+                                </button>
+                              </div>
                             </div>
                           ))}
                         </div>
+                      ))}
+                    </div>
+                  )}
+
+                  {activeTab === 'livetv' && (
+                    <div>
+                      {selectedTvGroup ? (
+                        // Vue des chaînes d'un groupe sélectionné
+                        <div>
+                          <button className="btn btn-secondary mb-3" onClick={handleBackToGroups}>&larr; Retour aux groupes</button>
+                          <h3 className="competition-title">{selectedGroupName}</h3>
+                          <div className="tv-channels-grid">
+                            {selectedTvGroup.map((channel, index) => (
+                              <div key={channel.contentId || index} className="tv-channel-card" onClick={() => handleChannelClick(channel)}>
+                                <img src={channel.logo} className="tv-channel-logo" alt={channel.name} onError={(e) => { e.target.onerror = null; e.target.src = 'https://via.placeholder.com/80' }} />
+                                <div className="tv-channel-name">{channel.name}</div>
+                                <div className="play-buttons">
+                                  <button
+                                    className="play-btn browser-play"
+                                    onClick={(e) => {
+                                      e.stopPropagation();
+                                      handlePlayInBrowser(channel);
+                                    }}
+                                    title="Regarder dans le navigateur"
+                                  >
+                                    🌐 Navigateur
+                                  </button>
+                                  <button
+                                    className="play-btn acestream-play"
+                                    onClick={(e) => {
+                                      e.stopPropagation();
+                                      handlePlayAceStream(channel);
+                                    }}
+                                    title="Ouvrir avec AceStream"
+                                  >
+                                    🚀 AceStream
+                                  </button>
+                                </div>
+                              </div>
+                            ))}
+                          </div>
+                        </div>
                       ) : (
-                        <div className="alert alert-warning">Aucune chaîne TV trouvée</div>
+                        // Vue des groupes de chaînes
+                        <div>
+                          {Object.keys(groupedTvChannels).length > 0 ? (
+                            <div className="tv-channels-grid">
+                              {Object.entries(groupedTvChannels).map(([groupName, channels]) => (
+                                <div key={groupName} className="tv-group-card" onClick={() => handleTvGroupClick(groupName, channels)}>
+                                  <div className="tv-group-content">
+                                    <div className="tv-group-info">
+                                      <div className="tv-group-name">{groupName}</div>
+                                      <div className="tv-group-count">{channels.length} chaînes</div>
+                                    </div>
+                                  </div>
+                                  <div className="tv-group-channels-preview">
+                                    {channels.slice(0, 3).map((channel, index) => (
+                                      <img
+                                        key={channel.contentId || index}
+                                        src={channel.logo}
+                                        className="tv-group-channel-logo"
+                                        alt={channel.name}
+                                        onError={(e) => { e.target.onerror = null; e.target.src = 'https://via.placeholder.com/35' }}
+                                      />
+                                    ))}
+                                    {channels.length > 3 && (
+                                      <div className="tv-group-more">+{channels.length - 3} autres</div>
+                                    )}
+                                  </div>
+                                  <a
+                                    href="#"
+                                    className="tv-group-play-link"
+                                    onClick={(e) => {
+                                      e.preventDefault();
+                                      handleTvGroupClick(groupName, channels);
+                                    }}
+                                    rel="noopener noreferrer"
+                                  >
+                                    <span className="play-icon">▶</span> Voir les chaînes
+                                  </a>
+                                </div>
+                              ))}
+                            </div>
+                          ) : (
+                            <div className="alert alert-warning">Aucune chaîne TV trouvée</div>
+                          )}
+                        </div>
                       )}
                     </div>
                   )}
-                </div>
-              )}
-              </>
+                </>
               )}
             </div>
           </div>
@@ -719,9 +737,9 @@ function App() {
           <div className="text-center mt-4">
             <h5 className="text-muted mb-3">Advertisement</h5>
             <div className="ad-container" ref={adRef2}>
-              <ins 
+              <ins
                 className="adsbygoogle"
-                style={{display:'block', minWidth: '150px', width: '100%', height: '600px'}}
+                style={{ display: 'block', minWidth: '150px', width: '100%', height: '600px' }}
                 data-ad-client="ca-pub-9547009217122053"
                 data-ad-slot="2199893828"
                 data-ad-format="auto"
@@ -731,16 +749,16 @@ function App() {
           </div>
         </div>
       </div>
-      
+
       {/* Lecteur vidéo intégré */}
       {showVideoPlayer && currentStream && (
         <div className="video-player-overlay">
           <div className="video-player-container">
             <div className="video-player-header">
-              <h3>{currentStream.team1 && currentStream.team2 
-                    ? `${currentStream.team1} vs ${currentStream.team2}` 
-                    : currentStream.name || 'Stream en direct'}</h3>
-              <button 
+              <h3>{currentStream.team1 && currentStream.team2
+                ? `${currentStream.team1} vs ${currentStream.team2}`
+                : currentStream.name || 'Stream en direct'}</h3>
+              <button
                 className="close-player-btn"
                 onClick={closeVideoPlayer}
                 title="Fermer le lecteur"
@@ -748,7 +766,7 @@ function App() {
                 ✕
               </button>
             </div>
-            
+
             {useWebPlayer ? (
               <BackendStreamPlayer
                 aceStreamHash={currentStream.contentId}
