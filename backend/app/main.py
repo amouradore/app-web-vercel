@@ -318,6 +318,64 @@ async def get_hls_segment(acestream_hash: str, segment_id: str):
     )
 
 
+@app.get("/api/proxy/logo")
+async def proxy_logo(url: str):
+    """
+    Proxy pour les logos avec gestion CORS
+    Résout les problèmes d'affichage des images depuis Vercel
+    """
+    import httpx
+    from fastapi.responses import StreamingResponse, Response
+    
+    # Si pas d'URL, retourner une image placeholder
+    if not url or url.strip() == "":
+        raise HTTPException(status_code=400, detail="URL parameter required")
+    
+    # Liste des domaines autorisés pour éviter les abus
+    allowed_domains = [
+        "picon.pp.ua",
+        "i.ibb.co",
+        "raw.githubusercontent.com",
+        "via.placeholder.com",
+        "schedulesdirect-api20141201-logos.s3"
+    ]
+    
+    # Vérifier que le domaine est autorisé
+    from urllib.parse import urlparse
+    parsed = urlparse(url)
+    domain_allowed = any(domain in parsed.netloc for domain in allowed_domains)
+    
+    if not domain_allowed:
+        raise HTTPException(status_code=403, detail="Domain not allowed")
+    
+    try:
+        async with httpx.AsyncClient(timeout=10.0, follow_redirects=True) as client:
+            response = await client.get(url)
+            
+            if response.status_code == 200:
+                # Déterminer le type MIME
+                content_type = response.headers.get('content-type', 'image/png')
+                
+                return StreamingResponse(
+                    iter([response.content]),
+                    media_type=content_type,
+                    headers={
+                        "Access-Control-Allow-Origin": "*",
+                        "Access-Control-Allow-Methods": "GET, OPTIONS",
+                        "Access-Control-Allow-Headers": "*",
+                        "Cache-Control": "public, max-age=86400",  # Cache 24h
+                    }
+                )
+            else:
+                # Si l'image n'est pas accessible, retourner 404
+                raise HTTPException(status_code=404, detail=f"Logo not found (HTTP {response.status_code})")
+                
+    except httpx.TimeoutException:
+        raise HTTPException(status_code=504, detail="Logo fetch timeout")
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error fetching logo: {str(e)}")
+
+
 @app.api_route("/api/stream/{acestream_hash}", methods=["GET", "HEAD", "OPTIONS"])
 async def proxy_acestream_stream(acestream_hash: str, request: Request):
     """

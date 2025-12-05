@@ -100,13 +100,19 @@ const parseEventName = (name, rawInfo = '') => {
 };
 
 // Fonction pour parser les chaînes TV à partir des informations #EXTINF
-const parseTvChannel = (info) => {
+const parseTvChannel = (info, apiBase) => {
   const groupTitleMatch = info.match(/group-title="([^"]*)"/);
   const logoMatch = info.match(/tvg-logo="([^"]*)"/);
   const nameMatch = info.match(/,(.+)/);
 
   const group = groupTitleMatch ? groupTitleMatch[1] : 'Autres';
-  const logo = logoMatch ? logoMatch[1] : 'https://via.placeholder.com/35';
+  
+  // Utiliser le proxy backend pour les logos des chaînes TV aussi
+  const rawLogoUrl = logoMatch ? logoMatch[1] : '';
+  const logo = rawLogoUrl && rawLogoUrl.trim() !== ''
+    ? `${apiBase}/api/proxy/logo?url=${encodeURIComponent(rawLogoUrl)}`
+    : 'https://via.placeholder.com/35';
+  
   const name = nameMatch ? nameMatch[1].trim() : 'Chaîne inconnue';
 
   return { name, logo, group };
@@ -126,7 +132,8 @@ function App() {
   const [useWebPlayer, setUseWebPlayer] = useState(true); // Nouveau: utiliser le web player par défaut
   const [hlsUrl, setHlsUrl] = useState(null);
   const [hlsSessionId, setHlsSessionId] = useState(null);
-  const API_BASE = process.env.REACT_APP_API_BASE || 'http://localhost:8000';
+  // Utiliser REACT_APP_API_URL pour cohérence avec les autres fichiers
+  const API_BASE = process.env.REACT_APP_API_URL || process.env.REACT_APP_API_BASE || 'http://localhost:8000';
   const [showTestMode, setShowTestMode] = useState(false); // Mode test temporaire
 
   const adRef1 = useRef(null);
@@ -217,7 +224,11 @@ function App() {
               console.log('Logo match:', logoMatch);
               console.log('Name match:', nameMatch);
               
-              const logo = logoMatch ? logoMatch[1] : 'https://via.placeholder.com/35';
+              // Utiliser le proxy backend pour les logos afin d'éviter les problèmes CORS
+              const rawLogoUrl = logoMatch ? logoMatch[1] : '';
+              const logo = rawLogoUrl && rawLogoUrl.trim() !== ''
+                ? `${API_BASE}/api/proxy/logo?url=${encodeURIComponent(rawLogoUrl)}`
+                : 'https://via.placeholder.com/35';
               const rawName = nameMatch ? nameMatch[1].trim() : 'Unnamed Channel';
               
               const eventDetails = parseEventName(rawName, info);
@@ -301,7 +312,7 @@ function App() {
 
                 
                 // Extraire les informations de la chaîne TV
-                const channelDetails = parseTvChannel(info);
+                const channelDetails = parseTvChannel(info, API_BASE);
 
                 parsedTvChannels.push({ 
                   ...channelDetails, 
