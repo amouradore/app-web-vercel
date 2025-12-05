@@ -1,0 +1,111 @@
+{
+  "timestamp": "2025-12-04T12:12:21.091368",
+  "render": {
+    "service": "RENDER.COM",
+    "url": "https://app-web-vercel.onrender.com",
+    "timestamp": "2025-12-04T12:11:43.851200",
+    "tests": {
+      "connectivity": {
+        "status": "\u2705 OK",
+        "response": {
+          "status": "healthy",
+          "service": "acestream-hls-proxy"
+        }
+      },
+      "api_info": {
+        "status": "\u2705 OK",
+        "version": "2.2.0",
+        "port": "10000",
+        "features": [
+          "M3U Playlist Parsing",
+          "AceStream \u2192 HTTP Streaming via Proxy",
+          "No Client Installation Required",
+          "Public streaming via Railway proxy endpoint"
+        ]
+      },
+      "acestream": {
+        "status": "\u274c FAIL",
+        "acestream_status": "starting",
+        "engine_status": "initializing",
+        "error": "All connection attempts failed"
+      },
+      "playlists": {
+        "status": "\u2705 OK",
+        "total": 6,
+        "playlists": [
+          "canales_acestream_web.m3u",
+          "lista_web.m3u",
+          "canales_acestream.m3u",
+          "lista_icastresana.m3u",
+          "lista.m3u"
+        ]
+      },
+      "api_play": {
+        "status": "\u26a0\ufe0f  WARNING",
+        "stream_url": "/api/stream/d65257bb7856e13b718df1dfe65ee482d90dd384/playlist.m3u8",
+        "url_type": "relative",
+        "backend_type": "railway_ffmpeg",
+        "message": "HLS stream ready via Railway - No AceStream installation required!"
+      },
+      "hls_playlist": {
+        "status": "\u274c FAIL (503)",
+        "status_code": 503,
+        "content_preview": "{\"detail\":\"HLS playlist not ready yet, please retry in a few seconds\"}"
+      }
+    }
+  },
+  "railway": {
+    "service": "RAILWAY.APP",
+    "url": "https://app-web-vercel-production.up.railway.app",
+    "timestamp": "2025-12-04T12:12:02.741181",
+    "tests": {
+      "connectivity": {
+        "status": "\u2705 OK",
+        "response": {
+          "status": "healthy",
+          "service": "acestream-hls-proxy"
+        }
+      },
+      "api_info": {
+        "status": "\u2705 OK",
+        "version": "2.2.0",
+        "port": "8080",
+        "features": [
+          "M3U Playlist Parsing",
+          "AceStream \u2192 HTTP Streaming via Proxy",
+          "No Client Installation Required",
+          "Public streaming via Railway proxy endpoint"
+        ]
+      },
+      "acestream": {
+        "status": "\u274c FAIL",
+        "acestream_status": "starting",
+        "engine_status": "initializing",
+        "error": "All connection attempts failed"
+      },
+      "playlists": {
+        "status": "\u2705 OK",
+        "total": 6,
+        "playlists": [
+          "lista_web.m3u",
+          "lista_scraper_acestream_api.m3u",
+          "lista_icastresana.m3u",
+          "lista.m3u",
+          "canales_acestream_web.m3u"
+        ]
+      },
+      "api_play": {
+        "status": "\u26a0\ufe0f  WARNING",
+        "stream_url": "/api/stream/d65257bb7856e13b718df1dfe65ee482d90dd384/playlist.m3u8",
+        "url_type": "relative",
+        "backend_type": "railway_ffmpeg",
+        "message": "HLS stream ready via Railway - No AceStream installation required!"
+      },
+      "hls_playlist": {
+        "status": "\u274c FAIL (503)",
+        "status_code": 503,
+        "content_preview": "{\"detail\":\"HLS playlist not ready yet, please retry in a few seconds\"}"
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+========================================
+SOLUTION ULTRA SIMPLE - QUICK TUNNEL
+Pas besoin de configuration !
+========================================
+
+ETAPE 1 : Telechargez cloudflared manuellement
+   1. Ouvrez votre navigateur
+   2. Allez sur : https://github.com/cloudflare/cloudflared/releases/latest
+   3. Telechargez : cloudflared-windows-amd64.exe
+   4. Mettez-le dans : C:\Users\DELL\Desktop\cloudflared.exe
+
+ETAPE 2 : Demarrez le backend
+   1. Ouvrez PowerShell NORMAL (pas admin)
+   2. Allez dans votre projet :
+      cd C:\Users\DELL\Desktop\git\app2
+   3. Demarrez le backend :
+      cd backend
+      python -m uvicorn app.main:app --host 0.0.0.0 --port 8000
+
+ETAPE 3 : Demarrez le Quick Tunnel (dans une AUTRE fenetre PowerShell)
+   1. Ouvrez une NOUVELLE fenetre PowerShell
+   2. Allez sur le Bureau :
+      cd C:\Users\DELL\Desktop
+   3. Lancez le tunnel :
+      .\cloudflared.exe tunnel --url http://localhost:8000
+
+   Une URL va s'afficher comme :
+   https://xxxxx-yyyy-zzzz.trycloudflare.com
+
+   NOTEZ CETTE URL !
+
+ETAPE 4 : Configurez Vercel
+   Dans une AUTRE fenetre PowerShell :
+   cd C:\Users\DELL\Desktop\git\app2\webapp
+   
+   Creez le fichier .env.production avec :
+   REACT_APP_API_URL=https://votre-url-tunnel.trycloudflare.com
+
+   Puis deployez :
+   vercel --prod
+
+========================================
+AVANTAGES DE CETTE METHODE
+========================================
+
+- Pas besoin de configuration complexe
+- Pas de fichiers .ps1 casses
+- Fonctionne immediatement
+- URL change a chaque redemarrage (mais facile a mettre a jour)
+
+========================================
+C'EST PARTI !
+========================================
+
+Commencez par l'ETAPE 1 et dites-moi quand c'est fait !

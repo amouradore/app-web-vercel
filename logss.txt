@@ -1,0 +1,106 @@
+16:14:37.398 Running build in Washington, D.C., USA (East) – iad1
+16:14:37.399 Build machine configuration: 2 cores, 8 GB
+16:14:37.585 Retrieving list of deployment files...
+16:14:38.415 Downloading 155 deployment files...
+16:14:39.718 Restored build cache from previous deployment (A4foW44BkSgLDB3jBJVmti9jHKzp)
+16:14:40.422 Running "vercel build"
+16:14:40.865 Vercel CLI 49.0.0
+16:14:41.453 Running "install" command: `npm install`...
+16:14:44.382 
+16:14:44.383 up to date, audited 1406 packages in 3s
+16:14:44.384 
+16:14:44.384 279 packages are looking for funding
+16:14:44.384   run `npm fund` for details
+16:14:44.391 
+16:14:44.392 12 vulnerabilities (4 moderate, 8 high)
+16:14:44.392 
+16:14:44.393 To address issues that do not require attention, run:
+16:14:44.393   npm audit fix
+16:14:44.394 
+16:14:44.394 To address all issues (including breaking changes), run:
+16:14:44.395   npm audit fix --force
+16:14:44.395 
+16:14:44.395 Run `npm audit` for details.
+16:14:44.399 npm notice
+16:14:44.403 npm notice New major version of npm available! 10.9.4 -> 11.6.4
+16:14:44.403 npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.6.4
+16:14:44.404 npm notice To update run: npm install -g npm@11.6.4
+16:14:44.404 npm notice
+16:14:44.637 
+16:14:44.638 > webapp@0.1.0 build
+16:14:44.638 > react-scripts build
+16:14:44.638 
+16:14:45.196 [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+16:14:45.868 Creating an optimized production build...
+16:14:54.347 [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+16:14:58.229 Compiled with warnings.
+16:14:58.230 
+16:14:58.230 [eslint] 
+16:14:58.231 src/App.js
+16:14:58.231   Line 5:8:     'VideoPlayer' is defined but never used                                                                                                                                                                                                                                                                                                                            no-unused-vars
+16:14:58.231   Line 6:8:     'SmartStreamPlayer' is defined but never used                                                                                                                                                                                                                                                                                                                      no-unused-vars
+16:14:58.232   Line 7:8:     'AceStreamWebPlayer' is defined but never used                                                                                                                                                                                                                                                                                                                     no-unused-vars
+16:14:58.232   Line 8:8:     'HLSPlayer' is defined but never used                                                                                                                                                                                                                                                                                                                              no-unused-vars
+16:14:58.233   Line 9:10:    'startStreamSession' is defined but never used                                                                                                                                                                                                                                                                                                                     no-unused-vars
+16:14:58.236   Line 10:8:    'ImprovedWebPlayer' is defined but never used                                                                                                                                                                                                                                                                                                                      no-unused-vars
+16:14:58.236   Line 11:8:    'DirectStreamPlayer' is defined but never used                                                                                                                                                                                                                                                                                                                     no-unused-vars
+16:14:58.236   Line 12:8:    'SimpleWorkingPlayer' is defined but never used                                                                                                                                                                                                                                                                                                                    no-unused-vars
+16:14:58.237   Line 13:8:    'NoInstallStreamPlayer' is defined but never used                                                                                                                                                                                                                                                                                                                  no-unused-vars
+16:14:58.237   Line 14:8:    'RealIPTVPlayer' is defined but never used                                                                                                                                                                                                                                                                                                                         no-unused-vars
+16:14:58.237   Line 15:8:    'GuaranteedStreamPlayer' is defined but never used                                                                                                                                                                                                                                                                                                                 no-unused-vars
+16:14:58.237   Line 133:10:  'hlsUrl' is assigned a value but never used                                                                                                                                                                                                                                                                                                                        no-unused-vars
+16:14:58.237   Line 355:6:   React Hook useEffect has a missing dependency: 'API_BASE'. Either include it or remove the dependency array                                                                                                                                                                                                                                                        react-hooks/exhaustive-deps
+16:14:58.238   Line 457:9:   'checkAceStreamInstallation' is assigned a value but never used                                                                                                                                                                                                                                                                                                    no-unused-vars
+16:14:58.238   Line 690:31:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+16:14:58.238 
+16:14:58.238 src/DirectStreamPlayer.js
+16:14:58.238   Line 5:12:  'selectedMethod' is assigned a value but never used     no-unused-vars
+16:14:58.240   Line 5:28:  'setSelectedMethod' is assigned a value but never used  no-unused-vars
+16:14:58.240 
+16:14:58.240 src/ImprovedWebPlayer.js
+16:14:58.241   Line 5:27:   'setCurrentMethod' is assigned a value but never used  no-unused-vars
+16:14:58.241   Line 6:12:   'isLoading' is assigned a value but never used         no-unused-vars
+16:14:58.241   Line 7:12:   'hasError' is assigned a value but never used          no-unused-vars
+16:14:58.242   Line 53:11:  'currentSolution' is assigned a value but never used   no-unused-vars
+16:14:58.242 
+16:14:58.242 src/RealIPTVPlayer.js
+16:14:58.242   Line 52:11:  'getSportStreams' is assigned a value but never used  no-unused-vars
+16:14:58.243 
+16:14:58.243 src/SmartStreamPlayer.js
+16:14:58.243   Line 14:6:  React Hook useEffect has a missing dependency: 'fetchStreamUrls'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+16:14:58.243 
+16:14:58.244 src/VideoPlayer.js
+16:14:58.244   Line 13:6:  React Hook useEffect has a missing dependency: 'checkStreamAvailability'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+16:14:58.244 
+16:14:58.244 src/services/streamApi.js
+16:14:58.245   Line 126:1:  Assign object to a variable before exporting as module default  import/no-anonymous-default-export
+16:14:58.245 
+16:14:58.245 Search for the keywords to learn more about each warning.
+16:14:58.245 To ignore, add // eslint-disable-next-line to the line before.
+16:14:58.246 
+16:14:58.246 File sizes after gzip:
+16:14:58.247 
+16:14:58.252   68.1 kB  build/static/js/main.7eaa9aa6.js
+16:14:58.253   35.6 kB  build/static/css/main.70daebe4.css
+16:14:58.253   1.71 kB  build/static/js/206.918c7769.chunk.js
+16:14:58.254 
+16:14:58.254 The project was built assuming it is hosted at /.
+16:14:58.254 You can control this with the homepage field in your package.json.
+16:14:58.255 
+16:14:58.255 The build folder is ready to be deployed.
+16:14:58.255 You may serve it with a static server:
+16:14:58.255 
+16:14:58.256   npm install -g serve
+16:14:58.256   serve -s build
+16:14:58.256 
+16:14:58.256 Find out more about deployment here:
+16:14:58.257 
+16:14:58.257   https://cra.link/deployment
+16:14:58.257 
+16:14:58.328 Build Completed in /vercel/output [17s]
+16:14:58.431 Deploying outputs...
+16:15:00.645 Deployment completed
+16:15:01.257 Creating build cache...
+16:15:19.140 Created build cache: 17.879s
+16:15:19.141 Uploading build cache [53.70 MB]
+16:15:19.962 Build cache uploaded: 823.049ms

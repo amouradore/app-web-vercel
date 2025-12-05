@@ -1,0 +1,45 @@
+========================================
+INSTALLATION CLOUDFLARE TUNNEL
+Commandes a copier-coller UNE PAR UNE
+========================================
+
+ETAPE 1 : Ouvrez PowerShell en Administrateur
+   - Windows + X
+   - Cliquez sur "Windows PowerShell (admin)"
+
+ETAPE 2 : Copiez-collez ces commandes UNE PAR UNE
+
+
+Commande 1 - Creer le dossier :
+New-Item -ItemType Directory -Force -Path "C:\cloudflared"
+
+
+Commande 2 - Aller dans le dossier :
+cd C:\cloudflared
+
+
+Commande 3 - Telecharger cloudflared (ATTENDEZ 1-2 minutes) :
+Invoke-WebRequest -Uri "https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-windows-amd64.exe" -OutFile "cloudflared.exe"
+
+
+Commande 4 - Se connecter a Cloudflare (page web va s'ouvrir) :
+.\cloudflared.exe tunnel login
+
+
+Commande 5 - Creer le tunnel :
+.\cloudflared.exe tunnel create iptv-app
+
+
+Commande 6 - Voir le tunnel cree :
+.\cloudflared.exe tunnel list
+
+
+NOTEZ LE TUNNEL ID affiche !
+
+========================================
+APRES AVOIR NOTE LE TUNNEL ID
+========================================
+
+Revenez me dire le Tunnel ID et je vous donnerai la suite !
+
+NE LANCEZ PLUS install_cloudflared.ps1 - IL EST CASSE !

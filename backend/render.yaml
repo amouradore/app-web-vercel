@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: acestream-backend
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    plan: free
+    region: frankfurt
+    envVars:
+      - key: ACESTREAM_BASE_URL
+        value: http://127.0.0.1:6878
+      - key: STORAGE_DIR
+        value: /app/storage
+      - key: PORT
+        value: 8000
+      - key: PYTHON_VERSION
+        value: "3.11"
+      - key: FFMPEG_ENABLED
+        value: "true"
+      - key: FFMPEG_LOG_LEVEL
+        value: "warning"
+    healthCheckPath: /health

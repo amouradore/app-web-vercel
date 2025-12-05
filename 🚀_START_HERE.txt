@@ -1,0 +1,118 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║          🚀 BIENVENUE - DÉMARREZ VOTRE SERVEUR IPTV          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+📋 VOTRE CONFIGURATION : PARFAITE ✅
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ✅ PC Windows disponible 24/7
+  ✅ Connexion : 26.64 Mbps upload (excellent !)
+  ✅ AceStream Engine : Installé
+  ✅ FFmpeg 7.1 : Installé
+  ✅ Backend FastAPI : Configuré
+  ✅ Frontend React : Prêt pour Vercel
+
+
+🎯 DÉMARRAGE RAPIDE - 4 ÉTAPES (30 MINUTES)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Ouvrez PowerShell dans ce dossier et exécutez :
+
+
+  1️⃣  TEST DE CONFIGURATION (2 min)
+  ────────────────────────────────────
+  
+      .\test_local_setup.ps1
+  
+      ➜ Vérifie AceStream, FFmpeg, Python
+
+
+  2️⃣  INSTALLATION CLOUDFLARE TUNNEL (10 min)
+  ─────────────────────────────────────────────
+  
+      ⚠️ CLIC-DROIT → "Exécuter en tant qu'administrateur"
+  
+      .\install_cloudflared.ps1
+  
+      ➜ Télécharge cloudflared
+      ➜ Ouvre navigateur pour connexion Cloudflare
+      ➜ Crée le tunnel automatiquement
+
+
+  3️⃣  DÉMARRAGE DU SERVEUR (5 min)
+  ────────────────────────────────────
+  
+      .\start_server_tunnel.ps1
+  
+      ➜ Lance AceStream + Backend + Tunnel
+      ➜ 3 fenêtres PowerShell s'ouvrent (NE PAS FERMER !)
+      
+      📝 NOTEZ L'URL affichée dans la fenêtre tunnel :
+         https://xxxx-yyyy-zzzz.trycloudflare.com
+
+
+  4️⃣  CONFIGURATION VERCEL (10 min)
+  ────────────────────────────────────
+  
+      .\configure_vercel.ps1
+  
+      ➜ Entre l'URL du tunnel quand demandé
+      ➜ Puis déploie sur Vercel :
+      
+          cd webapp
+          npm install -g vercel
+          vercel login
+          vercel --prod
+
+
+✅ TERMINÉ !
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Votre application est accessible :
+
+  🌐 Web    : https://votre-app.vercel.app
+  📱 Mobile : Même URL depuis votre téléphone
+  🔗 Backend : https://votre-tunnel.trycloudflare.com
+
+
+📖 DOCUMENTATION COMPLÈTE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  📘 README_DEMARRAGE_IMMEDIAT.md       ⭐ Démarrage ultra rapide
+  📗 GUIDE_DEMARRAGE_RAPIDE.md          → Guide complet + dépannage
+  📕 RECAP_FINAL_IMPLEMENTATION.md      → Récapitulatif technique
+  📙 ANALYSE_NOUVEAU_PLAN.md            → Architecture détaillée
+
+
+🆘 AIDE RAPIDE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Problème PowerShell ?
+    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+  AceStream ne démarre pas ?
+    Start-Process "C:\Program Files\ACEStream\ace_engine.exe"
+
+  Plus d'aide ?
+    Consultez GUIDE_DEMARRAGE_RAPIDE.md → Section DÉPANNAGE
+
+
+💡 CONSEIL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Pour démarrage automatique au boot Windows :
+  → Voir GUIDE_DEMARRAGE_RAPIDE.md (section "Démarrage automatique")
+
+
+🎉 PRÊT À COMMENCER !
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Première commande à exécuter :
+
+    .\test_local_setup.ps1
+
+
+Bonne installation ! 🚀📺
+

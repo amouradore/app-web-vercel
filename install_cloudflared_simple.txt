@@ -1,0 +1,46 @@
+====================================
+INSTALLATION CLOUDFLARE TUNNEL
+Instructions manuelles
+====================================
+
+Copiez et collez ces commandes une par une dans PowerShell ADMINISTRATEUR :
+
+# 1. Creer le dossier
+New-Item -ItemType Directory -Force -Path "C:\cloudflared"
+
+# 2. Telecharger cloudflared (1-2 minutes)
+Invoke-WebRequest -Uri "https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-windows-amd64.exe" -OutFile "C:\cloudflared\cloudflared.exe"
+
+# 3. Ajouter au PATH
+$env:Path += ";C:\cloudflared"
+[Environment]::SetEnvironmentVariable("Path", [Environment]::GetEnvironmentVariable("Path", "Machine") + ";C:\cloudflared", "Machine")
+
+# 4. Se connecter a Cloudflare (une page web va s'ouvrir)
+cd C:\cloudflared
+.\cloudflared.exe tunnel login
+
+# 5. Creer le tunnel
+.\cloudflared.exe tunnel create iptv-app
+
+# 6. Lister les tunnels pour voir le Tunnel ID
+.\cloudflared.exe tunnel list
+
+# 7. Creer config.yml (REMPLACEZ TUNNEL-ID et USERNAME)
+@"
+tunnel: VOTRE-TUNNEL-ID-ICI
+credentials-file: C:\Users\VOTRE-USERNAME\.cloudflared\VOTRE-TUNNEL-ID-ICI.json
+
+ingress:
+  - service: http://localhost:8000
+"@ | Out-File -FilePath "C:\cloudflared\config.yml" -Encoding UTF8
+
+====================================
+APRES L'INSTALLATION
+====================================
+
+Pour demarrer le tunnel :
+cd C:\cloudflared
+.\cloudflared.exe tunnel --config config.yml run
+
+Ou utilisez le mode quick (URL temporaire) :
+.\cloudflared.exe tunnel --url http://localhost:8000

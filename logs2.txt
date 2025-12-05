@@ -1,0 +1,66 @@
+GET
+https://virtual-unified-showing-maple.trycloudflare.com/api/stream/3b2a8b41e7097c16b0468b42d7de0320886fa933
+NS_BINDING_ABORTED
+
+	
+GET
+	https://virtual-unified-showing-maple.trycloudflare.com/api/stream/3b2a8b41e7097c16b0468b42d7de0320886fa933
+État
+520
+VersionHTTP/2
+Transfert405 o (taille 0 o)
+Politique de référentstrict-origin-when-cross-origin
+Résolution DNSSystème
+
+	
+cache-control
+	private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+cf-ray
+	9a94f2dda983ed58-MXP
+content-length
+	7414
+content-type
+	text/html; charset=UTF-8
+date
+	Fri, 05 Dec 2025 16:34:03 GMT
+expires
+	Thu, 01 Jan 1970 00:00:01 GMT
+referrer-policy
+	same-origin
+server
+	cloudflare
+vary
+	Accept-Encoding
+X-Firefox-Spdy
+	h2
+x-frame-options
+	SAMEORIGIN
+	
+Accept
+	video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5
+Accept-Encoding
+	identity
+Accept-Language
+	fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Connection
+	keep-alive
+Host
+	virtual-unified-showing-maple.trycloudflare.com
+Priority
+	u=4
+Range
+	bytes=0-
+Referer
+	https://app-web-vercel.vercel.app/
+Sec-Fetch-Dest
+	video
+Sec-Fetch-Mode
+	no-cors
+Sec-Fetch-Site
+	cross-site
+TE
+	trailers
+User-Agent
+	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+
+​

@@ -1,0 +1,15 @@
+service	"AceStream → HLS Proxy"
+version	"2.2.0"
+status	"running"
+port	"10000"
+features	
+0	"M3U Playlist Parsing"
+1	"AceStream → HTTP Streaming via Proxy"
+2	"No Client Installation Required"
+3	"Public streaming via Railway proxy endpoint"
+endpoints	
+playlists	"/api/playlists"
+channels	"/api/playlists/{name}/channels"
+play	"/api/play (POST)"
+stream_proxy	"/api/stream/{hash} (GET)"
+health	"/api/health/acestream"

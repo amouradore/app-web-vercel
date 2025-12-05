@@ -1,0 +1,27 @@
+(base) PS C:\Users\DELL\Desktop\git\app2> .\install_cloudflared.ps1
+In C:\Users\DELL\Desktop\git\app2\install_cloudflared.ps1:189 car:54
++ $null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")
++                                                      ~~
+Carattere di terminazione mancante nella stringa: ".
+In C:\Users\DELL\Desktop\git\app2\install_cloudflared.ps1:142 car:90
++ ... h "([a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12})") {
++                                                                         ~
+'}' di chiusura mancante nel blocco di istruzioni o nella definizione del tipo.
+In C:\Users\DELL\Desktop\git\app2\install_cloudflared.ps1:127 car:48
++ if ([string]::IsNullOrWhiteSpace($tunnelName)) {
++                                                ~
+'}' di chiusura mancante nel blocco di istruzioni o nella definizione del tipo.
+In C:\Users\DELL\Desktop\git\app2\install_cloudflared.ps1:80 car:45
++ if ($currentPath -notlike "*$TUNNEL_PATH*") {
++                                             ~
+'}' di chiusura mancante nel blocco di istruzioni o nella definizione del tipo.
+In C:\Users\DELL\Desktop\git\app2\install_cloudflared.ps1:65 car:13
++     } catch {
++             ~
+'}' di chiusura mancante nel blocco di istruzioni o nella definizione del tipo.
+In C:\Users\DELL\Desktop\git\app2\install_cloudflared.ps1:60 car:8
++ } else {
++        ~
+'}' di chiusura mancante nel blocco di istruzioni o nella definizione del tipo.
+    + CategoryInfo          : ParserError: (:) [], ParseException
+    + FullyQualifiedErrorId : TerminatorExpectedAtEndOfString
