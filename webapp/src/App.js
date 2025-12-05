@@ -14,6 +14,7 @@ import NoInstallStreamPlayer from './NoInstallStreamPlayer';
 import RealIPTVPlayer from './RealIPTVPlayer';
 import GuaranteedStreamPlayer from './GuaranteedStreamPlayer';
 import UnifiedStreamPlayer from './UnifiedStreamPlayer';
+import BackendStreamPlayer from './BackendStreamPlayer';
 import './ImprovedWebPlayer.css';
 import TestPlayer from './TestPlayer';
 
@@ -749,14 +750,8 @@ function App() {
             </div>
             
             {useWebPlayer ? (
-              <UnifiedStreamPlayer
-                channel={{
-                  ...currentStream,
-                  acestream_hash: currentStream.contentId,
-                  name: currentStream.team1 && currentStream.team2 
-                    ? `${currentStream.team1} vs ${currentStream.team2}` 
-                    : currentStream.name || 'Stream en direct'
-                }}
+              <BackendStreamPlayer
+                aceStreamHash={currentStream.contentId}
                 onClose={closeVideoPlayer}
               />
             ) : (
