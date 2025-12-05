@@ -11,9 +11,10 @@ const BackendStreamPlayer = ({ aceStreamHash, onClose }) => {
 
     useEffect(() => {
         if (aceStreamHash) {
-            // URL du stream via votre backend
+            // URL du stream HLS via votre backend
             const backendUrl = process.env.REACT_APP_API_URL || 'http://localhost:8000';
-            const url = `${backendUrl}/api/stream/${aceStreamHash}`;
+            // Utiliser HLS playlist au lieu du stream direct
+            const url = `${backendUrl}/api/stream/${aceStreamHash}/playlist.m3u8`;
             
             setStreamUrl(url);
             setLoading(false);
