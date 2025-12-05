@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-12-05 04:35:26" total="1927">
-  <evento>
-    <nombre>Edmonton –  Seattle Kraken</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>4 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319992338_edmonton_seattle_kraken/</url>
-  </evento>
-  <evento>
-    <nombre>Calgary –  Minnesota</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>4 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319992339_calgary_minnesota/</url>
-  </evento>
+<eventos generado="2025-12-05 05:27:34" total="1927">
   <evento>
     <nombre>Los Ángeles –  Chicago</nombre>
     <deporte>Fútbol</deporte>
@@ -57,14 +41,6 @@
     <url>https://livetv.sx/es/eventinfo/323425678_nueva_zelanda_west_indies/</url>
   </evento>
   <evento>
-    <nombre>Santa Barbara Gauchos –  Long Beach</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>4 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319922274_santa_barbara_gauchos_long_beach/</url>
-  </evento>
-  <evento>
     <nombre>Abierto de Australia</nombre>
     <deporte>Fútbol</deporte>
     <competicion>DP World Tour</competicion>
@@ -77,7 +53,7 @@
     <deporte>Fútbol</deporte>
     <competicion>NCAA</competicion>
     <fecha>4 de diciembre</fecha>
-    <hora>53:42</hora>
+    <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/319922271_irvine_anteaters_riverside_highlanders/</url>
   </evento>
   <evento>
@@ -85,7 +61,7 @@
     <deporte>Fútbol</deporte>
     <competicion>NCAA</competicion>
     <fecha>4 de diciembre</fecha>
-    <hora>55:65</hora>
+    <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/319922273_cal_fullerton_titans_cal_poly_mustangs/</url>
   </evento>
   <evento>
@@ -93,7 +69,7 @@
     <deporte>Fútbol</deporte>
     <competicion>NCAA</competicion>
     <fecha>4 de diciembre</fecha>
-    <hora>70:53</hora>
+    <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/320005337_cal_northridge_matadors_cal_bakersfield_roadrunners/</url>
   </evento>
   <evento>
@@ -145,6 +121,14 @@
     <url>https://livetv.sx/es/eventinfo/323758703_tagil_steel/</url>
   </evento>
   <evento>
+    <nombre>Commonwealth Cup</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Biatlón</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>08:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324231895_commonwealth_cup/</url>
+  </evento>
+  <evento>
     <nombre>Copa Mundial Sub-21</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Taekwondo</competicion>
@@ -161,6 +145,22 @@
     <url>https://livetv.sx/es/eventinfo/324127918_gran_premio_de_la_isu/</url>
   </evento>
   <evento>
+    <nombre>Copa del Mundo, Winterberg</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Luge</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>08:30</hora>
+    <url>https://livetv.sx/es/eventinfo/324227598_copa_del_mundo_winterberg/</url>
+  </evento>
+  <evento>
+    <nombre>Bendigo Spirit (M) –   Geelong United (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Mujeres. WNBL</competicion>
+    <fecha>4 de diciembre</fecha>
+    <hora>08:30</hora>
+    <url>https://livetv.sx/es/eventinfo/323754387__bendigo_spirit_m__geelong_united_m/</url>
+  </evento>
+  <evento>
     <nombre>Ajmat – Oremburgo</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Rusia. Premier Liga</competicion>
@@ -169,12 +169,12 @@
     <url>https://livetv.sx/es/eventinfo/320151821__/</url>
   </evento>
   <evento>
-    <nombre>Slaven Belupo – Gorica</nombre>
+    <nombre>Sorteo Copa Mundial</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Croacia. HNL</competicion>
+    <competicion>Copa Mundial</competicion>
     <fecha>5 de diciembre</fecha>
     <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/320164845__/</url>
+    <url>https://livetv.sx/es/eventinfo/324231946_world_cup_draw/</url>
   </evento>
   <evento>
     <nombre>Brest – AS Mónaco</nombre>
@@ -631,6 +631,14 @@
     <fecha>5 de diciembre</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/320160742__/</url>
+  </evento>
+  <evento>
+    <nombre>Slaven Belupo – Gorica</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Croacia. HNL</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320164845__/</url>
   </evento>
   <evento>
     <nombre>Fortuna – Schalke 04</nombre>
@@ -1175,6 +1183,30 @@
     <fecha>6 de diciembre</fecha>
     <hora>09:30</hora>
     <url>https://livetv.sx/es/eventinfo/323799078_taichung_blue_w_taichung_sakura_w/</url>
+  </evento>
+  <evento>
+    <nombre>Fortis – Abahani</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bangladés. Premier League</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>10:30</hora>
+    <url>https://livetv.sx/es/eventinfo/324232422__/</url>
+  </evento>
+  <evento>
+    <nombre>Rahmatganj – Arambagh</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bangladés. Premier League</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>10:30</hora>
+    <url>https://livetv.sx/es/eventinfo/324232423__/</url>
+  </evento>
+  <evento>
+    <nombre>Mohammedan – PWD SC</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bangladés. Premier League</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>10:30</hora>
+    <url>https://livetv.sx/es/eventinfo/324232424__/</url>
   </evento>
   <evento>
     <nombre>Central Coast Mariners – Sídney</nombre>
@@ -2511,6 +2543,14 @@
     <fecha>6 de diciembre</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/320538014__/</url>
+  </evento>
+  <evento>
+    <nombre>Sorteo Copa Mundial</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa Mundial</competicion>
+    <fecha>6 de diciembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324232094_world_cup_draw/</url>
   </evento>
   <evento>
     <nombre>Thun – Lucerna</nombre>
@@ -4121,62 +4161,6 @@
     <url>https://livetv.sx/es/eventinfo/323131534__/</url>
   </evento>
   <evento>
-    <nombre>Rukh Leópolis – Polissya</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Ucrania. Liga Premier</competicion>
-    <fecha>7 de diciembre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/320943518__/</url>
-  </evento>
-  <evento>
-    <nombre>Krasnodar – CSKA</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rusia. Premier Liga</competicion>
-    <fecha>7 de diciembre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/320943062__/</url>
-  </evento>
-  <evento>
-    <nombre>Baltika – Krylia Sovetov</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rusia. Premier Liga</competicion>
-    <fecha>7 de diciembre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/320943063__/</url>
-  </evento>
-  <evento>
-    <nombre>Caldas – Atlético</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Portugal. Liga 3</competicion>
-    <fecha>7 de diciembre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/320942816__/</url>
-  </evento>
-  <evento>
-    <nombre>El Havre – París</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Ligue 1</competicion>
-    <fecha>7 de diciembre</fecha>
-    <hora>18:15</hora>
-    <url>https://livetv.sx/es/eventinfo/320952632__/</url>
-  </evento>
-  <evento>
-    <nombre>Edmonton – Seattle Kraken</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>5 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319992338__/</url>
-  </evento>
-  <evento>
-    <nombre>Calgary – Minnesota</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>5 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319992339__/</url>
-  </evento>
-  <evento>
     <nombre>Los Ángeles – Chicago</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -4185,12 +4169,12 @@
     <url>https://livetv.sx/es/eventinfo/320005651__/</url>
   </evento>
   <evento>
-    <nombre>Salavat Yulaev – Ak Bars</nombre>
+    <nombre>Avtomobilist – Severstal</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
     <fecha>5 de diciembre</fecha>
     <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/320127709__/</url>
+    <url>https://livetv.sx/es/eventinfo/320127708__/</url>
   </evento>
   <evento>
     <nombre>Traktor – CSKA</nombre>
@@ -4207,6 +4191,22 @@
     <fecha>5 de diciembre</fecha>
     <hora>16:30</hora>
     <url>https://livetv.sx/es/eventinfo/320133118__/</url>
+  </evento>
+  <evento>
+    <nombre>Lada Tl – Dynamo Msk</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320138562__/</url>
+  </evento>
+  <evento>
+    <nombre>Neftekhimik – Metallurg Mg</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/320155997__/</url>
   </evento>
   <evento>
     <nombre>Kunlun RS – Torpedo NN</nombre>
@@ -4321,12 +4321,12 @@
     <url>https://livetv.sx/es/eventinfo/320127592__/</url>
   </evento>
   <evento>
-    <nombre>Avtomobilist – Severstal</nombre>
+    <nombre>Salavat Yulaev – Ak Bars</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
     <fecha>5 de diciembre</fecha>
     <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/320127708__/</url>
+    <url>https://livetv.sx/es/eventinfo/320127709__/</url>
   </evento>
   <evento>
     <nombre>Izhstal – Zvezda Moscú</nombre>
@@ -4343,14 +4343,6 @@
     <fecha>5 de diciembre</fecha>
     <hora>16:30</hora>
     <url>https://livetv.sx/es/eventinfo/320134905__/</url>
-  </evento>
-  <evento>
-    <nombre>Lada Tl – Dynamo Msk</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>5 de diciembre</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/320138562__/</url>
   </evento>
   <evento>
     <nombre>Kryzhynka – Odeshchina</nombre>
@@ -4455,14 +4447,6 @@
     <fecha>5 de diciembre</fecha>
     <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/320158549__/</url>
-  </evento>
-  <evento>
-    <nombre>Neftekhimik – Metallurg Mg</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>5 de diciembre</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/320155997__/</url>
   </evento>
   <evento>
     <nombre>HPK – Tappara</nombre>
@@ -8001,22 +7985,6 @@
     <url>https://livetv.sx/es/eventinfo/320300185__/</url>
   </evento>
   <evento>
-    <nombre>Santa Barbara Gauchos – Long Beach</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>5 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/319922274__/</url>
-  </evento>
-  <evento>
-    <nombre>Ole Miss Rebels (M) –  Notre Dame Fighting Irish (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Mujeres. NCAA</competicion>
-    <fecha>5 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324158692__/</url>
-  </evento>
-  <evento>
     <nombre>Irvine Anteaters – Riverside Highlanders</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -8031,14 +7999,6 @@
     <fecha>5 de diciembre</fecha>
     <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/319922273__/</url>
-  </evento>
-  <evento>
-    <nombre>Cal Northridge Matadors – Cal Bakersfield Roadrunners</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>5 de diciembre</fecha>
-    <hora>05:00</hora>
-    <url>https://livetv.sx/es/eventinfo/320005337__/</url>
   </evento>
   <evento>
     <nombre>Hawaii Rainbow Warriors – Davis Aggies</nombre>
@@ -11913,6 +11873,38 @@
     <url>https://livetv.sx/es/eventinfo/323798813_wisconson_milwaukee_robert_morris/</url>
   </evento>
   <evento>
+    <nombre>Minnesota – LA Clippers</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>7 de diciembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320736829__/</url>
+  </evento>
+  <evento>
+    <nombre>Miami – Sacramento</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>7 de diciembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/320736830__/</url>
+  </evento>
+  <evento>
+    <nombre>Oklahoma City Blue – Osceola Magic</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NBA. G League</competicion>
+    <fecha>7 de diciembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323790713_oklahoma_city_blue_osceola_magic/</url>
+  </evento>
+  <evento>
+    <nombre>Rio Grande Valley Vipers – Mexico City Capitanes</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NBA. G League</competicion>
+    <fecha>7 de diciembre</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323790714_rio_grande_valley_vipers_mexico_city_capitanes/</url>
+  </evento>
+  <evento>
     <nombre>Jimenez Kasintseva (M) /  Korneeva (M) –  Korpatsch (M) /  Ponchet (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Angers. Doubles</competicion>
@@ -12133,7 +12125,7 @@
     <deporte>Voleibol</deporte>
     <competicion>Kazajistán. Vysheyshaya Liga U21</competicion>
     <fecha>5 de diciembre</fecha>
-    <hora>09:00</hora>
+    <hora>09:30</hora>
     <url>https://livetv.sx/es/eventinfo/324064246_burevestnik_2_aktobe_2/</url>
   </evento>
   <evento>
@@ -15015,6 +15007,14 @@
     <fecha>5 de diciembre</fecha>
     <hora>11:40</hora>
     <url>https://livetv.sx/es/eventinfo/323763002_tagil_steel/</url>
+  </evento>
+  <evento>
+    <nombre>Commonwealth Cup</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Biatlón</competicion>
+    <fecha>5 de diciembre</fecha>
+    <hora>11:40</hora>
+    <url>https://livetv.sx/es/eventinfo/324231896_commonwealth_cup/</url>
   </evento>
   <evento>
     <nombre>Copa del Mundo, TrondheimMujer</nombre>
