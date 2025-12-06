@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { getApiUrl } from './services/streamApi';
+import HLSPlayer from './HLSPlayer';
 
 /**
  * BackendStreamPlayer - Streaming via votre backend
@@ -67,14 +68,11 @@ const BackendStreamPlayer = ({ aceStreamHash, onClose }) => {
                     <button onClick={onClose} className="close-button">✕</button>
                 </div>
                 <div className="stream-player-content">
-                    <video
-                        controls
-                        autoPlay
-                        style={{ width: '100%', maxHeight: '70vh' }}
+                    <HLSPlayer
                         src={streamUrl}
-                    >
-                        Votre navigateur ne supporte pas la balise vidéo.
-                    </video>
+                        title={`Stream ${aceStreamHash}`}
+                        onError={(e) => console.error("HLS Error:", e)}
+                    />
 
                     <div className="stream-info">
                         <p>
