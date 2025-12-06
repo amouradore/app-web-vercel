@@ -1,11 +1,18 @@
 // 🔧 CONFIGURATION: Remplacer par l'URL de votre backend déployé
-let API_URL = process.env.REACT_APP_API_URL || 'http://localhost:8000';
+let API_URL = process.env.REACT_APP_API_URL || 'https://potter-thirty-llc-manufacturing.trycloudflare.com';
 
 // Initialiser l'URL depuis le localStorage si disponible
 const savedUrl = localStorage.getItem('iptv_api_url');
 if (savedUrl) {
-  API_URL = savedUrl;
-  console.log('🔗 API URL chargée depuis localStorage:', API_URL);
+  // Vérifier si l'URL sauvegardée est l'ancienne URL invalide
+  if (savedUrl.includes('virtual-unified-showing-maple')) {
+    console.log('🗑️ Ancienne URL invalide détectée et supprimée:', savedUrl);
+    localStorage.removeItem('iptv_api_url');
+    // Garder la nouvelle URL par défaut
+  } else {
+    API_URL = savedUrl;
+    console.log('🔗 API URL chargée depuis localStorage:', API_URL);
+  }
 }
 
 // Vérifier les paramètres d'URL pour une surcharge temporaire
@@ -34,7 +41,7 @@ export const setApiUrl = (url) => {
   localStorage.setItem('iptv_api_url', API_URL);
   console.log('🔗 API URL mise à jour:', API_URL);
   // Recharger la page pour appliquer les changements partout si nécessaire
-  // window.location.reload();
+  window.location.reload();
 };
 
 /**
