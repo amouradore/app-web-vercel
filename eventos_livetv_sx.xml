@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-12-08 03:58:15" total="944">
+<eventos generado="2025-12-08 04:40:42" total="943">
   <evento>
     <nombre>Northern Brave –  Otago Volts</nombre>
     <deporte>Fútbol</deporte>
@@ -15,22 +15,6 @@
     <fecha>7 de diciembre</fecha>
     <hora>23:30</hora>
     <url>https://livetv.sx/es/eventinfo/324303904_auckland_aces_wellington_firebirds/</url>
-  </evento>
-  <evento>
-    <nombre>Central Stags –  Canterbury Kings</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Nueva Zelanda. Plunket Shield</competicion>
-    <fecha>7 de diciembre</fecha>
-    <hora>23:30</hora>
-    <url>https://livetv.sx/es/eventinfo/324303905_central_stags_canterbury_kings/</url>
-  </evento>
-  <evento>
-    <nombre>Gonzaga-Bulldogs –  North Florida Ospreys</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>7 de diciembre</fecha>
-    <hora>09:58</hora>
-    <url>https://livetv.sx/es/eventinfo/321041725_gonzaga_bulldogs_north_florida_ospreys/</url>
   </evento>
   <evento>
     <nombre>Fiji U17 (W) –  Guam U17 (W)</nombre>
@@ -159,6 +143,22 @@
     <fecha>7 de diciembre</fecha>
     <hora>13:00</hora>
     <url>https://livetv.sx/es/eventinfo/321220366__estonia_sub_20__jap__n_sub_20/</url>
+  </evento>
+  <evento>
+    <nombre>Modena –  Catanzaro</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie B</competicion>
+    <fecha>7 de diciembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/321222290_modena_catanzaro/</url>
+  </evento>
+  <evento>
+    <nombre>Hatayspor –  Sariyer</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. 1 Lig</competicion>
+    <fecha>7 de diciembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/321224475_hatayspor_sariyer/</url>
   </evento>
   <evento>
     <nombre>Pisa – Parma</nombre>
@@ -2793,12 +2793,20 @@
     <url>https://livetv.sx/es/eventinfo/318533503__/</url>
   </evento>
   <evento>
-    <nombre>Anaheim – Chicago</nombre>
+    <nombre>JEF United Chiba – Tokushima Vortis</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J2 League</competicion>
+    <fecha>13 de diciembre</fecha>
+    <hora>06:05</hora>
+    <url>https://livetv.sx/es/eventinfo/324877542__/</url>
+  </evento>
+  <evento>
+    <nombre>Austria Sub-20 –  Francia Sub-20</nombre>
     <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
+    <competicion>Campeonato mundial Sub-20. Div I. Grupo A</competicion>
     <fecha>8 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/321113126__/</url>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/321224812__/</url>
   </evento>
   <evento>
     <nombre>Norilsk – Dinamo St Pburg</nombre>
@@ -2807,6 +2815,14 @@
     <fecha>8 de diciembre</fecha>
     <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/321228487__/</url>
+  </evento>
+  <evento>
+    <nombre>Avto – Almaz</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/321242185__/</url>
   </evento>
   <evento>
     <nombre>Stalnye Lisy – Dinamo Szynnik</nombre>
@@ -2841,14 +2857,6 @@
     <url>https://livetv.sx/es/eventinfo/321260509__/</url>
   </evento>
   <evento>
-    <nombre>Mikhailov Academy – Krylia Sovetov</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. MHL</competicion>
-    <fecha>8 de diciembre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/321265449__/</url>
-  </evento>
-  <evento>
     <nombre>SonderjyskE – Rungsted</nombre>
     <deporte>Hockey</deporte>
     <competicion>Dinamarca. Metal Ligaen</competicion>
@@ -2881,28 +2889,12 @@
     <url>https://livetv.sx/es/eventinfo/321220366__/</url>
   </evento>
   <evento>
-    <nombre>Austria Sub-20 –  Francia Sub-20</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Campeonato mundial Sub-20. Div I. Grupo A</competicion>
-    <fecha>8 de diciembre</fecha>
-    <hora>13:30</hora>
-    <url>https://livetv.sx/es/eventinfo/321224812__/</url>
-  </evento>
-  <evento>
     <nombre>Austria U20 – Francia U20</nombre>
     <deporte>Hockey</deporte>
     <competicion>Campeonato mundial Sub-20. Div I. Grupo A</competicion>
     <fecha>8 de diciembre</fecha>
     <hora>13:30</hora>
     <url>https://livetv.sx/es/eventinfo/323807216_austria_u20_france_u20/</url>
-  </evento>
-  <evento>
-    <nombre>Avto – Almaz</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. MHL</competicion>
-    <fecha>8 de diciembre</fecha>
-    <hora>15:30</hora>
-    <url>https://livetv.sx/es/eventinfo/321242185__/</url>
   </evento>
   <evento>
     <nombre>Beibarys Atyrau – Saryarka</nombre>
@@ -2951,6 +2943,14 @@
     <fecha>8 de diciembre</fecha>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/324868721__/</url>
+  </evento>
+  <evento>
+    <nombre>Mikhailov Academy – Krylia Sovetov</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>8 de diciembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/321265449__/</url>
   </evento>
   <evento>
     <nombre>Red Machine – AKM-Junior</nombre>
@@ -4919,14 +4919,6 @@
     <fecha>9 de diciembre</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/321390116__/</url>
-  </evento>
-  <evento>
-    <nombre>Gonzaga-Bulldogs – North Florida Ospreys</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>8 de diciembre</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/321041725__/</url>
   </evento>
   <evento>
     <nombre>Islas Cook U17 (W) – Samoa U17 (W)</nombre>
