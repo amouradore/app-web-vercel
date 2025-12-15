@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-12-15 18:41:02" total="1533">
-  <evento>
-    <nombre>Nacional –  Tondela</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Portugal. Primeira Liga</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/323002727_nacional_tondela/</url>
-  </evento>
+<eventos generado="2025-12-15 19:25:44" total="1552">
   <evento>
     <nombre>Braga –  Santa Clara</nombre>
     <deporte>Fútbol</deporte>
@@ -17,60 +9,28 @@
     <url>https://livetv.sx/es/eventinfo/323379587_braga_santa_clara/</url>
   </evento>
   <evento>
+    <nombre>Rostock –  Luisburgo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>14:23</hora>
+    <url>https://livetv.sx/es/eventinfo/323377831_rostock_luisburgo/</url>
+  </evento>
+  <evento>
+    <nombre>Castellón –  Mirandés</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Segunda División</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/323383402_castell__n_mirand__s/</url>
+  </evento>
+  <evento>
     <nombre>Scottish Open</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Snooker</competicion>
     <fecha>15 de diciembre</fecha>
     <hora>12:00</hora>
     <url>https://livetv.sx/es/eventinfo/326852012_scottish_open/</url>
-  </evento>
-  <evento>
-    <nombre>JHC Dynamo Msk –  JHC Spartak</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rusia. MHL</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/323350302_jhc_dynamo_msk_jhc_spartak/</url>
-  </evento>
-  <evento>
-    <nombre>Bielsko-Biala (M) –   Sokol Mogilno (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Polonia. Mujeres. MP</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/322721689__bielsko_biala_m__sokol_mogilno_m/</url>
-  </evento>
-  <evento>
-    <nombre>CSKA Moscú (M) –  Kuban (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rusia. Mujeres. Superliga</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/326791092_cska_moscanduacute__m_kuban_m/</url>
-  </evento>
-  <evento>
-    <nombre>Megaridas –  Lavrio</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Grecia. A2 Ethniki</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/325208696_megaridas_lavrio/</url>
-  </evento>
-  <evento>
-    <nombre>Trikala –  Proteas Voulas</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Grecia. A2 Ethniki</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/325208697_trikala_proteas_voulas/</url>
-  </evento>
-  <evento>
-    <nombre>Maccabi Rishon –  Ness Tziona</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Israel. Ligat Ha'Al</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>92:69</hora>
-    <url>https://livetv.sx/es/eventinfo/323358144_maccabi_rishon_ness_tziona/</url>
   </evento>
   <evento>
     <nombre>Fenerbahce –  Konyaspor</nombre>
@@ -101,7 +61,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Polonia. Superliga</competicion>
     <fecha>15 de diciembre</fecha>
-    <hora>30:30</hora>
+    <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/322740051_zaglebie_mmts_kwidzyn/</url>
   </evento>
   <evento>
@@ -157,8 +117,16 @@
     <deporte>Fútbol</deporte>
     <competicion>Bulgaria. NBL</competicion>
     <fecha>15 de diciembre</fecha>
-    <hora>61:55</hora>
+    <hora>19:15</hora>
     <url>https://livetv.sx/es/eventinfo/323362422_lokomotiv_plovdiv_minyor_pernik/</url>
+  </evento>
+  <evento>
+    <nombre>Nacional –  Tondela</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Primeira Liga</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/323002727_nacional_tondela/</url>
   </evento>
   <evento>
     <nombre>Arabia Saudita –  Jordania</nombre>
@@ -221,7 +189,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Suecia. Basketligan</competicion>
     <fecha>15 de diciembre</fecha>
-    <hora>48:35</hora>
+    <hora>67:69</hora>
     <url>https://livetv.sx/es/eventinfo/326387565_upsala_luleaa/</url>
   </evento>
   <evento>
@@ -265,12 +233,76 @@
     <url>https://livetv.sx/es/eventinfo/326395333_selfoss_valur/</url>
   </evento>
   <evento>
-    <nombre>Fenerbahce – Konyaspor</nombre>
+    <nombre>Hafnarfjordur –  Stjarnan</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Turquía. Superliga</competicion>
+    <competicion>Islandia. Urvalsdeild</competicion>
     <fecha>15 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323360080__/</url>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/326395334_hafnarfjordur_stjarnan/</url>
+  </evento>
+  <evento>
+    <nombre>Hapoel Gilboa –  Elitzur Netanya</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Israel. Ligat Ha'Al</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>22:18</hora>
+    <url>https://livetv.sx/es/eventinfo/323378230_hapoel_gilboa_elitzur_netanya/</url>
+  </evento>
+  <evento>
+    <nombre>SA Bulo Bulo –  Real Oruro</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bolivia. Primera División</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/325585591_sa_bulo_bulo_real_oruro/</url>
+  </evento>
+  <evento>
+    <nombre>Akureyri –  HK Kopavogur</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Islandia. Urvalsdeild</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326395335_akureyri_hk_kopavogur/</url>
+  </evento>
+  <evento>
+    <nombre>Campeonato Mundial</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326848873_campeonato_mundial/</url>
+  </evento>
+  <evento>
+    <nombre>Salamina –  Panathinaikos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Grecia. Super League</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>21:10</hora>
+    <url>https://livetv.sx/es/eventinfo/325845842_salamina_panathinaikos/</url>
+  </evento>
+  <evento>
+    <nombre>Slask Breslavia –  Czarni Slupsk</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. PLK</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/323384565_slask_breslavia_czarni_slupsk/</url>
+  </evento>
+  <evento>
+    <nombre>Afturelding –  IR Reykjavik</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Islandia. Urvalsdeild</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/326395336_afturelding_ir_reykjavik/</url>
+  </evento>
+  <evento>
+    <nombre>Elitzur (M) –   Elitzur Holon (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Israel. Mujeres. Liga Premier</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>13:14</hora>
+    <url>https://livetv.sx/es/eventinfo/326896826__elitzur_m__elitzur_holon_m/</url>
   </evento>
   <evento>
     <nombre>Nacional – Tondela</nombre>
@@ -321,6 +353,14 @@
     <url>https://livetv.sx/es/eventinfo/323387713__/</url>
   </evento>
   <evento>
+    <nombre>Sheffield Wednesday – Derby County</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Championship</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323387767__/</url>
+  </evento>
+  <evento>
     <nombre>Argentinos Juniors – Independiente R</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Argentina. Copa</competicion>
@@ -345,44 +385,12 @@
     <url>https://livetv.sx/es/eventinfo/323400459__/</url>
   </evento>
   <evento>
-    <nombre>Sakaryaspor – Hatayspor</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Turquía. 1 Lig</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323360033__/</url>
-  </evento>
-  <evento>
-    <nombre>Union Berlin (M) –  Eintracht (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. Mujeres. Bundesliga</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323357787__/</url>
-  </evento>
-  <evento>
     <nombre>AEK Larnaca – Omonia</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Chipre. 1 División</competicion>
     <fecha>15 de diciembre</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/326855298__/</url>
-  </evento>
-  <evento>
-    <nombre>Hapoel Afula – Kiryat Yam</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Israel. Liga Leumit</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323358110__/</url>
-  </evento>
-  <evento>
-    <nombre>Hapoel Acre – Hapoel Kfar Saba</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Israel. Liga Leumit</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323358111__/</url>
   </evento>
   <evento>
     <nombre>Bnei Yehuda – Maccabi Herzliya</nombre>
@@ -487,14 +495,6 @@
     <fecha>15 de diciembre</fecha>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/323388228__/</url>
-  </evento>
-  <evento>
-    <nombre>Sheffield Wednesday – Derby County</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. Championship</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323387767__/</url>
   </evento>
   <evento>
     <nombre>Aurora – ABB</nombre>
@@ -3145,12 +3145,36 @@
     <url>https://livetv.sx/es/eventinfo/324651977__/</url>
   </evento>
   <evento>
-    <nombre>JHC Dynamo Msk – JHC Spartak</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. MHL</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/323350302__/</url>
+    <nombre>Cortrique – Anderlecht II</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Challenger Pro League</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324661354__/</url>
+  </evento>
+  <evento>
+    <nombre>Waasland-Beveren – Beerschot</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Challenger Pro League</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324661355__/</url>
+  </evento>
+  <evento>
+    <nombre>NEC – Ajax</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eredivisie</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324662958__/</url>
+  </evento>
+  <evento>
+    <nombre>Almere City – Emmen</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eerste Divisie</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324662977__/</url>
   </evento>
   <evento>
     <nombre>Rangers – Anaheim</nombre>
@@ -3191,14 +3215,6 @@
     <fecha>16 de diciembre</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/323440948__/</url>
-  </evento>
-  <evento>
-    <nombre>Aviator – Slavutych</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Bielorrusia. Extraliga</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323348009__/</url>
   </evento>
   <evento>
     <nombre>Shakhtyor Sl – Metallurg Zhlobin</nombre>
@@ -6289,6 +6305,78 @@
     <url>https://livetv.sx/es/eventinfo/324651274__/</url>
   </evento>
   <evento>
+    <nombre>Bolzano – Viena</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Austria. Eishockey-Liga</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/324661012__/</url>
+  </evento>
+  <evento>
+    <nombre>Rapperswil-Jona – Zug</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suiza. National League</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/324664429__/</url>
+  </evento>
+  <evento>
+    <nombre>Davos – Lugano</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suiza. National League</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/324664430__/</url>
+  </evento>
+  <evento>
+    <nombre>Biel – Ginebra</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suiza. National League</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/324664431__/</url>
+  </evento>
+  <evento>
+    <nombre>Fribourg – ZSC Lions</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suiza. National League</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/324664432__/</url>
+  </evento>
+  <evento>
+    <nombre>Lausanne – Ambri Piotta</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suiza. National League</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/324664433__/</url>
+  </evento>
+  <evento>
+    <nombre>Langnau – Kloten</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suiza. National League</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/324664434__/</url>
+  </evento>
+  <evento>
+    <nombre>Fife Flyers – Glasgow Clan</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Reino Unido. EIHL</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324661496__/</url>
+  </evento>
+  <evento>
+    <nombre>Cardiff Devils – Sheffield Steelers</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Reino Unido. EIHL</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324661497__/</url>
+  </evento>
+  <evento>
     <nombre>Lokomotiv Plovdiv – Minyor Pernik</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Bulgaria. NBL</competicion>
@@ -6321,6 +6409,14 @@
     <url>https://livetv.sx/es/eventinfo/326387565__/</url>
   </evento>
   <evento>
+    <nombre>Hapoel Gilboa – Elitzur Netanya</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Israel. Ligat Ha'Al</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>20:55</hora>
+    <url>https://livetv.sx/es/eventinfo/323378230__/</url>
+  </evento>
+  <evento>
     <nombre>Rostock – Luisburgo</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Alemania. Bundesliga</competicion>
@@ -6335,6 +6431,14 @@
     <fecha>15 de diciembre</fecha>
     <hora>21:15</hora>
     <url>https://livetv.sx/es/eventinfo/323384565__/</url>
+  </evento>
+  <evento>
+    <nombre>Platense – Atenas</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Argentina. LNB</competicion>
+    <fecha>16 de diciembre</fecha>
+    <hora>01:30</hora>
+    <url>https://livetv.sx/es/eventinfo/323398314__/</url>
   </evento>
   <evento>
     <nombre>Boston – Detroit</nombre>
@@ -6353,36 +6457,12 @@
     <url>https://livetv.sx/es/eventinfo/325540301__/</url>
   </evento>
   <evento>
-    <nombre>Magnolia Hotshots – Rain or Shine</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Filipinas. Copa</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>17:55</hora>
-    <url>https://livetv.sx/es/eventinfo/323333539__/</url>
-  </evento>
-  <evento>
-    <nombre>Maccabi Rishon – Ness Tziona</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Israel. Ligat Ha'Al</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>18:35</hora>
-    <url>https://livetv.sx/es/eventinfo/323358144__/</url>
-  </evento>
-  <evento>
     <nombre>Samford Bulldogs – Bryan Lions</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
     <fecha>15 de diciembre</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/326619428__/</url>
-  </evento>
-  <evento>
-    <nombre>Hapoel Gilboa – Elitzur Netanya</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Israel. Ligat Ha'Al</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>20:55</hora>
-    <url>https://livetv.sx/es/eventinfo/323378230__/</url>
   </evento>
   <evento>
     <nombre>Elitzur (M) –  Elitzur Holon (M)</nombre>
@@ -6415,14 +6495,6 @@
     <fecha>16 de diciembre</fecha>
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/323419127__/</url>
-  </evento>
-  <evento>
-    <nombre>Platense – Atenas</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Argentina. LNB</competicion>
-    <fecha>16 de diciembre</fecha>
-    <hora>01:30</hora>
-    <url>https://livetv.sx/es/eventinfo/323398314__/</url>
   </evento>
   <evento>
     <nombre>Stetson Hatters – Rhodes Lynx</nombre>
@@ -6463,14 +6535,6 @@
     <fecha>16 de diciembre</fecha>
     <hora>02:00</hora>
     <url>https://livetv.sx/es/eventinfo/325573335__/</url>
-  </evento>
-  <evento>
-    <nombre>Nacional – Obras Sanitarias</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Champions League Americas</competicion>
-    <fecha>16 de diciembre</fecha>
-    <hora>02:10</hora>
-    <url>https://livetv.sx/es/eventinfo/325753609_nacional_obras_sanitarias/</url>
   </evento>
   <evento>
     <nombre>Nacional M – Obras</nombre>
@@ -6823,6 +6887,14 @@
     <fecha>16 de diciembre</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/326356324__/</url>
+  </evento>
+  <evento>
+    <nombre>Cinkarna Celje (M) – Montana (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujeres. Liga del Adriático</competicion>
+    <fecha>16 de diciembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326904938_cinkarna_celje_w_montana_w/</url>
   </evento>
   <evento>
     <nombre>Vilniaus Stekas – Vilniaus Perlas</nombre>
@@ -7641,12 +7713,44 @@
     <url>https://livetv.sx/es/eventinfo/323813713__/</url>
   </evento>
   <evento>
+    <nombre>Partizan (W) – Orlovi (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujeres. Liga del Adriático</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326904939_partizan_w_orlovi_w/</url>
+  </evento>
+  <evento>
     <nombre>Gurjaani Delta – Iverioni</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Georgia. Superliga</competicion>
     <fecha>17 de diciembre</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/326875878__/</url>
+  </evento>
+  <evento>
+    <nombre>Koroivos – Psihiko</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Grecia. A2 Ethniki</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905073_koroivos_psihiko/</url>
+  </evento>
+  <evento>
+    <nombre>Peiramatiko Machites – Lefkadas</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Grecia. A2 Ethniki</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905074_peiramatiko_machites_lefkadas/</url>
+  </evento>
+  <evento>
+    <nombre>Volos – GS Dafni Dafniou</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Grecia. A2 Ethniki</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905075_volos_gs_dafni_dafniou/</url>
   </evento>
   <evento>
     <nombre>Shahrdary Gorgan – Al-Riyadi</nombre>
@@ -7799,6 +7903,14 @@
     <fecha>17 de diciembre</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/326856680__/</url>
+  </evento>
+  <evento>
+    <nombre>Papagu – Halkida</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Grecia. A2 Ethniki</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905076_papagu_halkida/</url>
   </evento>
   <evento>
     <nombre>Rice Owls – Southwestern Eagles</nombre>
@@ -8601,6 +8713,30 @@
     <url>https://livetv.sx/es/eventinfo/325753501_astana_al_wahda_damascus/</url>
   </evento>
   <evento>
+    <nombre>Rilski Sportist (W) – Buducnost (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujeres. Liga del Adriático</competicion>
+    <fecha>18 de diciembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326904940_rilski_sportist_w_buducnost_w/</url>
+  </evento>
+  <evento>
+    <nombre>Lavrio – Sofadon</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Grecia. A2 Ethniki</competicion>
+    <fecha>18 de diciembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905077_lavrio_sofadon/</url>
+  </evento>
+  <evento>
+    <nombre>Paneritraikos – Megaridas</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Grecia. A2 Ethniki</competicion>
+    <fecha>18 de diciembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905078_paneritraikos_megaridas/</url>
+  </evento>
+  <evento>
     <nombre>Charleston Southern Buccaneers – North Florida Ospreys</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -8639,6 +8775,14 @@
     <fecha>18 de diciembre</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/324095588__/</url>
+  </evento>
+  <evento>
+    <nombre>Proteas Voulas – Vikos</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Grecia. A2 Ethniki</competicion>
+    <fecha>18 de diciembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/326905079_proteas_voulas_vikos/</url>
   </evento>
   <evento>
     <nombre>Olimpas – Suduva-Mantinga</nombre>
@@ -9313,6 +9457,14 @@
     <url>https://livetv.sx/es/eventinfo/324344279__/</url>
   </evento>
   <evento>
+    <nombre>Ras (W) – Partizan (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Serbia. Mujeres. 1 Liga</competicion>
+    <fecha>19 de diciembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905310_ras_w_partizan_w/</url>
+  </evento>
+  <evento>
     <nombre>AS Mónaco – Bayern de Múnich</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Euroliga</competicion>
@@ -9761,6 +9913,14 @@
     <url>https://livetv.sx/es/eventinfo/324509219__/</url>
   </evento>
   <evento>
+    <nombre>New Taipei Kings – Taiwan Beer Leopards</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Taiwán. TPBL</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>08:30</hora>
+    <url>https://livetv.sx/es/eventinfo/326905458_new_taipei_kings_taiwan_beer_leopards/</url>
+  </evento>
+  <evento>
     <nombre>Dynamo Novosibirsk (M) –  Neftyanik (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Rusia. Mujeres. Premier League</competicion>
@@ -9777,12 +9937,36 @@
     <url>https://livetv.sx/es/eventinfo/324525874__/</url>
   </evento>
   <evento>
+    <nombre>Tainan TSG GhostHawks – Yankey Ark</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Taiwán. P. League+</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905387_tainan_tsg_ghosthawks_yankey_ark/</url>
+  </evento>
+  <evento>
+    <nombre>Hsinchu Jko Lioneers – Formosa Dreamers</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Taiwán. TPBL</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905459_hsinchu_jko_lioneers_formosa_dreamers/</url>
+  </evento>
+  <evento>
     <nombre>SE Melbourne Phoenix – Brisbane Bullets</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Australia. NBL</competicion>
     <fecha>20 de diciembre</fecha>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/324532612__/</url>
+  </evento>
+  <evento>
+    <nombre>PAOK (W) – Amyntas (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Grecia. Mujeres. A1 Ethniki</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>11:45</hora>
+    <url>https://livetv.sx/es/eventinfo/326905080_paok_w_amyntas_w/</url>
   </evento>
   <evento>
     <nombre>Karsiyaka – Bahcesehir Koleji</nombre>
@@ -9815,6 +9999,14 @@
     <fecha>20 de diciembre</fecha>
     <hora>13:00</hora>
     <url>https://livetv.sx/es/eventinfo/324552646__/</url>
+  </evento>
+  <evento>
+    <nombre>Politehnica Timisoara (W) – Arad (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Rumania. Mujeres. Divizia A1</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905305_politehnica_timisoara_w_arad_w/</url>
   </evento>
   <evento>
     <nombre>Zhejiang Golden Bulls – Fujian Xunxing</nombre>
@@ -9881,12 +10073,28 @@
     <url>https://livetv.sx/es/eventinfo/324560558__/</url>
   </evento>
   <evento>
+    <nombre>Olympiacos (W) – Giannina (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Grecia. Mujeres. A1 Ethniki</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905081_olympiacos_w_giannina_w/</url>
+  </evento>
+  <evento>
     <nombre>Besiktas – Tofas</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Turquía. BSL</competicion>
     <fecha>20 de diciembre</fecha>
     <hora>14:30</hora>
     <url>https://livetv.sx/es/eventinfo/324567047__/</url>
+  </evento>
+  <evento>
+    <nombre>Triglav (M) – Cinkarna Celje (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Eslovenia. Mujeres. 1. SKL</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905385_triglav_w_cinkarna_celje_w/</url>
   </evento>
   <evento>
     <nombre>Sparta and K (M) –  Dinamo Moscú (M)</nombre>
@@ -9897,12 +10105,28 @@
     <url>https://livetv.sx/es/eventinfo/324571795__/</url>
   </evento>
   <evento>
+    <nombre>Spartak Subotica (W) – Student Nis (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Serbia. Mujeres. 1 Liga</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/326905311_spartak_subotica_w_student_nis_w/</url>
+  </evento>
+  <evento>
     <nombre>Start Lublin – Gornik Walbrzych</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Polonia. PLK</competicion>
     <fecha>20 de diciembre</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/324582923__/</url>
+  </evento>
+  <evento>
+    <nombre>Maribor (W) – Domel Skofja Loka (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Eslovenia. Mujeres. 1. SKL</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905386_maribor_w_domel_skofja_loka_w/</url>
   </evento>
   <evento>
     <nombre>Nymburk – Kralovsti Sokoli</nombre>
@@ -9927,6 +10151,30 @@
     <fecha>20 de diciembre</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/324581570__/</url>
+  </evento>
+  <evento>
+    <nombre>Rapid Bucuresti (M) – Sportul (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Rumania. Mujeres. Divizia A1</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905306_rapid_bucuresti_w_sportul_w/</url>
+  </evento>
+  <evento>
+    <nombre>Mega MIS (W) – Crvena Zvezda (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Serbia. Mujeres. 1 Liga</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905312_mega_mis_w_crvena_zvezda_w/</url>
+  </evento>
+  <evento>
+    <nombre>Anorthosis Volou (W) – Athinaikos (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Grecia. Mujeres. A1 Ethniki</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905082_anorthosis_volou_w_athinaikos_w/</url>
   </evento>
   <evento>
     <nombre>Goverla – Kharkivski Sokoly</nombre>
@@ -9993,6 +10241,22 @@
     <url>https://livetv.sx/es/eventinfo/324594746__/</url>
   </evento>
   <evento>
+    <nombre>GS Dafni Dafniou – Koroivos</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Grecia. A2 Ethniki</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905154_gs_dafni_dafniou_koroivos/</url>
+  </evento>
+  <evento>
+    <nombre>Psihiko – Lefkadas</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Grecia. A2 Ethniki</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905155_psihiko_lefkadas/</url>
+  </evento>
+  <evento>
     <nombre>Trabzonspor – Fenerbahce</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Turquía. BSL</competicion>
@@ -10025,12 +10289,28 @@
     <url>https://livetv.sx/es/eventinfo/324594595__/</url>
   </evento>
   <evento>
+    <nombre>Panathlitikos (W) – Neas Ionias (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Grecia. Mujeres. A1 Ethniki</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905083_panathlitikos_w_neas_ionias_w/</url>
+  </evento>
+  <evento>
     <nombre>Nika (M) –  Energia (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Rusia. Mujeres. Premier League</competicion>
     <fecha>20 de diciembre</fecha>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/324602626__/</url>
+  </evento>
+  <evento>
+    <nombre>Radivoj Korac (W) – Novosadska Novi Sad (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Serbia. Mujeres. 1 Liga</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/326905313_radivoj_korac_w_novosadska_novi_sad_w/</url>
   </evento>
   <evento>
     <nombre>Brno – NH Ostrava</nombre>
@@ -10073,180 +10353,12 @@
     <url>https://livetv.sx/es/eventinfo/324607944__/</url>
   </evento>
   <evento>
-    <nombre>Balkan – Academic Plovdiv</nombre>
+    <nombre>Steaua Bucuresti – Oradea</nombre>
     <deporte>Baloncesto</deporte>
-    <competicion>Bulgaria. NBL</competicion>
+    <competicion>Rumania. Liga Nationala</competicion>
     <fecha>20 de diciembre</fecha>
-    <hora>18:15</hora>
-    <url>https://livetv.sx/es/eventinfo/324615708__/</url>
-  </evento>
-  <evento>
-    <nombre>Panathinaikos – Iraklis</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Grecia. GBL</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>18:15</hora>
-    <url>https://livetv.sx/es/eventinfo/324616069__/</url>
-  </evento>
-  <evento>
-    <nombre>Aris – Peristeri</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Grecia. GBL</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>18:15</hora>
-    <url>https://livetv.sx/es/eventinfo/324616070__/</url>
-  </evento>
-  <evento>
-    <nombre>Podcetrtek – Sentjur</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Eslovenia. Liga Nova KBM</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/324617993__/</url>
-  </evento>
-  <evento>
-    <nombre>USK Praga – Olomoucko</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>República Checa. NBL</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/324618610__/</url>
-  </evento>
-  <evento>
-    <nombre>Klosterneuburg – Traiskirchen</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Austria. Superliga</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/324615331__/</url>
-  </evento>
-  <evento>
-    <nombre>Wilki Morskie – Arka Gdynia</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Polonia. PLK</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/324617454__/</url>
-  </evento>
-  <evento>
-    <nombre>DSK Brandys (M) –  Hradec Kralove (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>República Checa. Mujeres. ZBL</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324626706__/</url>
-  </evento>
-  <evento>
-    <nombre>Slavia Praga – Sokol Pisek</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>República Checa. NBL</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324626729__/</url>
-  </evento>
-  <evento>
-    <nombre>Decin – Pardubice</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>República Checa. NBL</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324626730__/</url>
-  </evento>
-  <evento>
-    <nombre>Gerona – Tenerife</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>España. Liga ACB</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324624460__/</url>
-  </evento>
-  <evento>
-    <nombre>Kalev – Liepaja</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Latvian-Estonian League</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324624973__/</url>
-  </evento>
-  <evento>
-    <nombre>Dijon – Nancy</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Francia. LNB Pro A</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324626528__/</url>
-  </evento>
-  <evento>
-    <nombre>Kansas Wildcats – South Dakota Coyotes</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573491__/</url>
-  </evento>
-  <evento>
-    <nombre>Michigan Spartans – Oakland Golden Grizzlies</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573492__/</url>
-  </evento>
-  <evento>
-    <nombre>Louisville Cardinals – Montana Grizzlies</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573493__/</url>
-  </evento>
-  <evento>
-    <nombre>Gliwice – Legia</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Polonia. PLK</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324625557__/</url>
-  </evento>
-  <evento>
-    <nombre>Zabok – Kvarner</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Croacia. Premier League</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324626602__/</url>
-  </evento>
-  <evento>
-    <nombre>Cherno More – Lokomotiv Plovdiv</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Bulgaria. NBL</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324623793__/</url>
-  </evento>
-  <evento>
-    <nombre>Bnei Herzliya – Hapoel T-A</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Israel. Ligat Ha'Al</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>19:10</hora>
-    <url>https://livetv.sx/es/eventinfo/324633364__/</url>
-  </evento>
-  <evento>
-    <nombre>Academic Plovdiv – Balkan</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Bulgaria. NBL</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>19:15</hora>
-    <url>https://livetv.sx/es/eventinfo/324632715__/</url>
-  </evento>
-  <evento>
-    <nombre>Le Mans – Gravelines-Dunkerque</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Francia. LNB Pro A</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/324635466__/</url>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326905298_steaua_bucuresti_oradea/</url>
   </evento>
   <evento>
     <nombre>Dino Prizmic – Nishesh Basavareddy</nombre>
@@ -10343,14 +10455,6 @@
     <fecha>18 de diciembre</fecha>
     <hora>13:00</hora>
     <url>https://livetv.sx/es/eventinfo/326714348__/</url>
-  </evento>
-  <evento>
-    <nombre>Bielsko-Biala (M) –  Sokol Mogilno (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Polonia. Mujeres. MP</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/322721689__/</url>
   </evento>
   <evento>
     <nombre>Tijuca (M) –  Fluminense (M)</nombre>
@@ -11113,6 +11217,30 @@
     <url>https://livetv.sx/es/eventinfo/324652384__/</url>
   </evento>
   <evento>
+    <nombre>Sokol Mogilno (M) –  Wroclaw (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Polonia. Mujeres. MP</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324609658__/</url>
+  </evento>
+  <evento>
+    <nombre>Cisneros Alter – Teruel</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>España. Superliga</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324662179__/</url>
+  </evento>
+  <evento>
+    <nombre>Uberlandia Monte Carmelo – Suzano</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Brasil. Superliga</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324661475__/</url>
+  </evento>
+  <evento>
     <nombre>Jake Paul – Anthony Joshua</nombre>
     <deporte>Boxeo</deporte>
     <competicion>Boxeo</competicion>
@@ -11151,14 +11279,6 @@
     <fecha>17 de diciembre</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/325576032_ullern_ulleval/</url>
-  </evento>
-  <evento>
-    <nombre>Salamina – Panathinaikos</nombre>
-    <deporte>Futsal</deporte>
-    <competicion>Grecia. Super League</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>21:10</hora>
-    <url>https://livetv.sx/es/eventinfo/325845842_salamina_panathinaikos/</url>
   </evento>
   <evento>
     <nombre>Turquía – Albania</nombre>
@@ -11321,12 +11441,12 @@
     <url>https://livetv.sx/es/eventinfo/326861825_czech_republic_kosovo/</url>
   </evento>
   <evento>
-    <nombre>Zaglebie – MMTS Kwidzyn</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Polonia. Superliga</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/322740051__/</url>
+    <nombre>Andorra – Alemania</nombre>
+    <deporte>Futsal</deporte>
+    <competicion>Partido amistoso</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326861826_andorra_germany/</url>
   </evento>
   <evento>
     <nombre>Legionowo – MKS Kalisz</nombre>
@@ -11993,6 +12113,30 @@
     <url>https://livetv.sx/es/eventinfo/324642236__/</url>
   </evento>
   <evento>
+    <nombre>Toulouse – Nimes</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Francia. Starligue</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324664167__/</url>
+  </evento>
+  <evento>
+    <nombre>Kiel – Hannover-Burgdorf</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324661666__/</url>
+  </evento>
+  <evento>
+    <nombre>Bidasoa Irun – Cuenca</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>España. Liga ASOBAL</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324624557__/</url>
+  </evento>
+  <evento>
     <nombre>Copa del Mundo, Courchevel</nombre>
     <deporte>Deporte_18</deporte>
     <competicion>Esquí alpino</competicion>
@@ -12263,5 +12407,13 @@
     <fecha>20 de diciembre</fecha>
     <hora>19:30</hora>
     <url>https://livetv.sx/es/eventinfo/326871526_world_cup_sigulda/</url>
+  </evento>
+  <evento>
+    <nombre>Copa del Mundo, Engelberg</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Salto en esquí</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326868372_world_cup_engelberg/</url>
   </evento>
 </eventos>
