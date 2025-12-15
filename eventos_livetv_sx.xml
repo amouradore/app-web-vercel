@@ -1,53 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-12-15 22:27:30" total="1580">
-  <evento>
-    <nombre>Porto –  Estrela</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Portugal. Primeira Liga</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>22:45</hora>
-    <url>https://livetv.sx/es/eventinfo/323400459_porto_estrela/</url>
-  </evento>
-  <evento>
-    <nombre>Campeonato Mundial</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/326848873_campeonato_mundial/</url>
-  </evento>
-  <evento>
-    <nombre>Manchester Utd –  Bournemouth</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. Premier League</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323387713_manchester_utd_bournemouth/</url>
-  </evento>
-  <evento>
-    <nombre>Rayo Vallecano –  Real Betis</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Primera División</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323388641_rayo_vallecano_real_betis/</url>
-  </evento>
-  <evento>
-    <nombre>Sheffield Wednesday –  Derby County</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. Championship</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323387767_sheffield_wednesday_derby_county/</url>
-  </evento>
-  <evento>
-    <nombre>Manchester 62 –  Glacis United</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Gibraltar. Primera División</competicion>
-    <fecha>15 de diciembre</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323388228_manchester_62_glacis_united/</url>
-  </evento>
+<eventos generado="2025-12-15 23:27:20" total="1583">
   <evento>
     <nombre>Tijuca (M) –   Fluminense (M)</nombre>
     <deporte>Fútbol</deporte>
@@ -85,7 +37,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Brasil. NBB</competicion>
     <fecha>15 de diciembre</fecha>
-    <hora>00:30</hora>
+    <hora>28:31</hora>
     <url>https://livetv.sx/es/eventinfo/323414050_pato_bauru/</url>
   </evento>
   <evento>
@@ -93,7 +45,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Brasil. NBB</competicion>
     <fecha>15 de diciembre</fecha>
-    <hora>00:30</hora>
+    <hora>33:46</hora>
     <url>https://livetv.sx/es/eventinfo/323414051_fortaleza_cearense_paulistano/</url>
   </evento>
   <evento>
@@ -109,8 +61,16 @@
     <deporte>Fútbol</deporte>
     <competicion>Brasil. NBB</competicion>
     <fecha>15 de diciembre</fecha>
-    <hora>01:00</hora>
+    <hora>16:14</hora>
     <url>https://livetv.sx/es/eventinfo/323419127_corinthians_rio_claro/</url>
+  </evento>
+  <evento>
+    <nombre>Walter Ferretti Sub-20 –   Diriangen Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Nicaragua. Liga Primera Sub 20</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326938792__walter_ferretti_sub_20__diriangen_sub_20/</url>
   </evento>
   <evento>
     <nombre>Platense –  Atenas</nombre>
@@ -161,12 +121,44 @@
     <url>https://livetv.sx/es/eventinfo/326909205_washington_nc_state/</url>
   </evento>
   <evento>
-    <nombre>Porto – Estrela</nombre>
+    <nombre>Gardner-Webb –  Wofford Terriers</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Portugal. Primeira Liga</competicion>
+    <competicion>NCAA</competicion>
     <fecha>15 de diciembre</fecha>
-    <hora>22:45</hora>
-    <url>https://livetv.sx/es/eventinfo/323400459__/</url>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/325573332_gardner_webb_wofford_terriers/</url>
+  </evento>
+  <evento>
+    <nombre>Southeastern Louisiana Lions –  Texas Commerce Lions</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/325573333_southeastern_louisiana_lions_texas_commerce_lions/</url>
+  </evento>
+  <evento>
+    <nombre>Virginia Rams –  Niagara Purple Eagles</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/325573334_virginia_rams_niagara_purple_eagles/</url>
+  </evento>
+  <evento>
+    <nombre>Arkansas-Pine Lions –  Ecclesia Royals</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/325573335_arkansas_pine_lions_ecclesia_royals/</url>
+  </evento>
+  <evento>
+    <nombre>Stetson Hatters –  Rhodes Lynx</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>15 de diciembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326856626_stetson_hatters_rhodes_lynx/</url>
   </evento>
   <evento>
     <nombre>Aurora – ABB</nombre>
@@ -183,6 +175,14 @@
     <fecha>16 de diciembre</fecha>
     <hora>02:00</hora>
     <url>https://livetv.sx/es/eventinfo/323160551__/</url>
+  </evento>
+  <evento>
+    <nombre>Walter Ferretti Sub-20 –  Diriangen Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Nicaragua. Liga Primera Sub 20</competicion>
+    <fecha>16 de diciembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326938792__/</url>
   </evento>
   <evento>
     <nombre>Arambagh – Fortis</nombre>
@@ -6343,6 +6343,30 @@
     <fecha>21 de diciembre</fecha>
     <hora>00:00</hora>
     <url>https://livetv.sx/es/eventinfo/324724355__/</url>
+  </evento>
+  <evento>
+    <nombre>Canadá U20 – Suecia U20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Partido amistoso. Selecciones</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326858448_canada_u20_sweden_u20/</url>
+  </evento>
+  <evento>
+    <nombre>Florida – San Luis</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324743642__/</url>
+  </evento>
+  <evento>
+    <nombre>Wilkes-Barre/Scranton – Utica Comets</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>EUA. AHL</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>01:05</hora>
+    <url>https://livetv.sx/es/eventinfo/324753651__/</url>
   </evento>
   <evento>
     <nombre>Platense – Atenas</nombre>
