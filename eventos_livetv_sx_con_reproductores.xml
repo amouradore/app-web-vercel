@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2025-12-15 06:37:40" total="105">
+<eventos generado="2025-12-15 07:14:49" total="105">
   <evento id="1">
     <nombre>Filipinas – Vietnam</nombre>
     <deporte>Baloncesto</deporte>
@@ -38,7 +38,14 @@
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/323285957__/</url>
     <datetime_iso>2025-12-15T10:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/LrGCDhOSo8Q?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=LrGCDhOSo8Q&amp;lang=es&amp;eid=323285957&amp;lid=2907569&amp;ci=279&amp;si=2</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="5">
     <nombre>Taifun – Dynamo Carelia</nombre>
