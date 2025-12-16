@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2025-12-16 08:38:32" total="200">
+<eventos generado="2025-12-16 09:07:40" total="200">
   <evento id="1">
     <nombre>Irtysh Pavlodar –  Kaspiy Aktau 2</nombre>
     <deporte>Fútbol</deporte>
@@ -234,8 +234,8 @@ player/live.php?id=244503&amp;w=700&amp;h=480</url>
     <streams total="1">
       <stream id="1">
         <url>https://www.youtube.com/embed/_ik6tjuwppA?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/37.png</idioma>
+        <idioma_nombre>Bandera #37</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=_ik6tjuwppA&amp;lang=es&amp;eid=326995015&amp;lid=2908098&amp;ci=2823&amp;si=5</enlace_original>
       </stream>
     </streams>
@@ -495,7 +495,14 @@ player/live.php?id=243811&amp;w=700&amp;h=480</url>
     <hora>12:00</hora>
     <url>https://livetv.sx/es/eventinfo/326883024__/</url>
     <datetime_iso>2025-12-16T12:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/E9TXoS8c-Oc?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=E9TXoS8c-Oc&amp;lang=es&amp;eid=326883024&amp;lid=2908105&amp;ci=1726&amp;si=3</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="28">
     <nombre>Agdash –  Dynamo</nombre>
