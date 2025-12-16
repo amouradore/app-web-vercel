@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-12-16 09:33:35" total="1601">
-  <evento>
-    <nombre>Southside Flyers (M) –   Geelong United (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Australia. Mujeres. WNBL</competicion>
-    <fecha>16 de diciembre</fecha>
-    <hora>77:53</hora>
-    <url>https://livetv.sx/es/eventinfo/326576813__southside_flyers_m__geelong_united_m/</url>
-  </evento>
+<eventos generado="2025-12-16 10:32:59" total="1614">
   <evento>
     <nombre>Sudáfrica (M) –  Irlanda (M)</nombre>
     <deporte>Fútbol</deporte>
@@ -85,7 +77,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Kazajistán. Liga Nacional</competicion>
     <fecha>16 de diciembre</fecha>
-    <hora>47:22</hora>
+    <hora>08:67</hora>
     <url>https://livetv.sx/es/eventinfo/323536166_astana_tobol/</url>
   </evento>
   <evento>
@@ -159,6 +151,14 @@
     <fecha>16 de diciembre</fecha>
     <hora>13:35</hora>
     <url>https://livetv.sx/es/eventinfo/323536214_zhejiang_golden_bulls_guangdong_southern_tigers/</url>
+  </evento>
+  <evento>
+    <nombre>Beijing Royal Fighters –  Tianjin Pioneers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>China. CBA</competicion>
+    <fecha>16 de diciembre</fecha>
+    <hora>13:35</hora>
+    <url>https://livetv.sx/es/eventinfo/323536215_beijing_royal_fighters_tianjin_pioneers/</url>
   </evento>
   <evento>
     <nombre>Heracles Almelo – Hoogeveen</nombre>
@@ -399,6 +399,14 @@
     <fecha>17 de diciembre</fecha>
     <hora>08:30</hora>
     <url>https://livetv.sx/es/eventinfo/323739994__/</url>
+  </evento>
+  <evento>
+    <nombre>Zaqatala – MOIK</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Azerbaiyan. 1 Liga</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/327021809__/</url>
   </evento>
   <evento>
     <nombre>Lion City Sailors – Shan United</nombre>
@@ -2991,6 +2999,30 @@
     <fecha>21 de diciembre</fecha>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/324862574__/</url>
+  </evento>
+  <evento>
+    <nombre>Hatayspor – Serik Belediyespor</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. 1 Lig</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/324951081__/</url>
+  </evento>
+  <evento>
+    <nombre>Taipower – Taichung Futuro</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Taiwán. Liga Premier</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/324876794__/</url>
+  </evento>
+  <evento>
+    <nombre>AC Taipei – Ming Chuan Univ</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Taiwán. Liga Premier</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/324876795__/</url>
   </evento>
   <evento>
     <nombre>Avtomobilist – Barys</nombre>
@@ -6481,6 +6513,46 @@
     <url>https://livetv.sx/es/eventinfo/324856176__/</url>
   </evento>
   <evento>
+    <nombre>Vitebsk – Neman Grodno</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Bielorrusia. Extraliga</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>11:50</hora>
+    <url>https://livetv.sx/es/eventinfo/324870780__/</url>
+  </evento>
+  <evento>
+    <nombre>Loko – Dinamo Szynnik</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324872656__/</url>
+  </evento>
+  <evento>
+    <nombre>Almaz – Tolpar</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324872657__/</url>
+  </evento>
+  <evento>
+    <nombre>JHC Molot – Sputnik Almetyevsk</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324872658__/</url>
+  </evento>
+  <evento>
+    <nombre>Sibir – Amur</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/324875726__/</url>
+  </evento>
+  <evento>
     <nombre>Dubai – Maccabi T-A</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Euroliga</competicion>
@@ -6559,14 +6631,6 @@
     <fecha>16 de diciembre</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/323605654__/</url>
-  </evento>
-  <evento>
-    <nombre>Southside Flyers (M) –  Geelong United (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Australia. Mujeres. WNBL</competicion>
-    <fecha>16 de diciembre</fecha>
-    <hora>10:00</hora>
-    <url>https://livetv.sx/es/eventinfo/326576813__/</url>
   </evento>
   <evento>
     <nombre>Astana – Tobol</nombre>
@@ -6865,6 +6929,14 @@
     <url>https://livetv.sx/es/eventinfo/323594054__/</url>
   </evento>
   <evento>
+    <nombre>Fyllingen – TalTech</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>ENBL</competicion>
+    <fecha>16 de diciembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/327019089__/</url>
+  </evento>
+  <evento>
     <nombre>Siauliai (W) – RSU Merks (W)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Mujeres. Liga Báltica</competicion>
@@ -6903,6 +6975,14 @@
     <fecha>16 de diciembre</fecha>
     <hora>20:04</hora>
     <url>https://livetv.sx/es/eventinfo/326694652__/</url>
+  </evento>
+  <evento>
+    <nombre>Donar Groningen – Alkar</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>ENBL</competicion>
+    <fecha>16 de diciembre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/327019090__/</url>
   </evento>
   <evento>
     <nombre>Capital City – Delaware Blue Coats</nombre>
@@ -7569,14 +7649,6 @@
     <url>https://livetv.sx/es/eventinfo/323805976__/</url>
   </evento>
   <evento>
-    <nombre>Rain or Shine – Barangay Ginebra SM</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Filipinas. Copa</competicion>
-    <fecha>17 de diciembre</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/323806492__/</url>
-  </evento>
-  <evento>
     <nombre>Dynamo Ufa – Dynamo Vladivostok</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Rusia. Superliga</competicion>
@@ -7591,6 +7663,14 @@
     <fecha>17 de diciembre</fecha>
     <hora>16:30</hora>
     <url>https://livetv.sx/es/eventinfo/323808752__/</url>
+  </evento>
+  <evento>
+    <nombre>Rain or Shine – Barangay Ginebra SM</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Filipinas. Copa</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>16:55</hora>
+    <url>https://livetv.sx/es/eventinfo/323806492__/</url>
   </evento>
   <evento>
     <nombre>Samara – Yenisey</nombre>
@@ -7895,6 +7975,14 @@
     <fecha>17 de diciembre</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/326791268_mega_parma/</url>
+  </evento>
+  <evento>
+    <nombre>Dubrava Furnir – Iraklis</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>ENBL</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/327022450__/</url>
   </evento>
   <evento>
     <nombre>Viena – Fuerstenfeld Panthers</nombre>
@@ -10465,22 +10553,6 @@
     <url>https://livetv.sx/es/eventinfo/326905300_galati_acs_targu_jiu/</url>
   </evento>
   <evento>
-    <nombre>Craiova – Arges</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Rumania. Liga Nationala</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/326905301_craiova_arges/</url>
-  </evento>
-  <evento>
-    <nombre>Brasov (W) – Cluj (W)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Rumania. Mujeres. Divizia A1</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/326905307_brasov_w_cluj_w/</url>
-  </evento>
-  <evento>
     <nombre>Dino Prizmic – Nishesh Basavareddy</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Next Gen Finals. Yeda</competicion>
@@ -10889,14 +10961,6 @@
     <url>https://livetv.sx/es/eventinfo/326858563_perugia_osaka_bluteon/</url>
   </evento>
   <evento>
-    <nombre>Almería – Tarragona</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>España. Superliga</competicion>
-    <fecha>17 de diciembre</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/323827283__/</url>
-  </evento>
-  <evento>
     <nombre>Norwid Czestochowa – Kedzierzyn-Kozle</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Polonia. PlusLiga</competicion>
@@ -10959,6 +11023,14 @@
     <fecha>17 de diciembre</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/325571498_aich_dob_budvanska_rivijera/</url>
+  </evento>
+  <evento>
+    <nombre>Almería – Tarragona</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>España. Superliga</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/323827283__/</url>
   </evento>
   <evento>
     <nombre>Conqueridor Valencia – Rio Duero Soria</nombre>
@@ -11657,6 +11729,14 @@
     <url>https://livetv.sx/es/eventinfo/326861826_andorra_germany/</url>
   </evento>
   <evento>
+    <nombre>Athletic Dnipro – Tyre Expert</nombre>
+    <deporte>Futsal</deporte>
+    <competicion>Ucrania. Extra-Liga</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326909382_athletic_dnipro_tyre_expert/</url>
+  </evento>
+  <evento>
     <nombre>Pilsen – Zlin</nombre>
     <deporte>Balonmano</deporte>
     <competicion>República Checa. Extraliga</competicion>
@@ -11799,6 +11879,14 @@
     <fecha>17 de diciembre</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/323833929__/</url>
+  </evento>
+  <evento>
+    <nombre>Gmina Kobierzyce (M) –  Piotrcovia (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Polonia. Mujeres. Ekstraklasa</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/327023720__/</url>
   </evento>
   <evento>
     <nombre>Gorenje Velenje – Grosist Slovan</nombre>
@@ -12807,5 +12895,21 @@
     <fecha>21 de diciembre</fecha>
     <hora>11:30</hora>
     <url>https://livetv.sx/es/eventinfo/326871549_world_cup_sigulda/</url>
+  </evento>
+  <evento>
+    <nombre>Copa del Mundo, Val-d'IsereMujer</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Esquí alpino</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326865097_world_cup_val_disere/</url>
+  </evento>
+  <evento>
+    <nombre>Copa del Mundo, Engelberg</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Salto en esquí</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/326868393_world_cup_engelberg/</url>
   </evento>
 </eventos>
