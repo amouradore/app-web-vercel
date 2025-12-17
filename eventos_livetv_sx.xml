@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-12-17 04:40:00" total="1766">
+<eventos generado="2025-12-17 05:30:12" total="1775">
   <evento>
     <nombre>San José –  Calgary</nombre>
     <deporte>Fútbol</deporte>
@@ -45,7 +45,7 @@
     <deporte>Fútbol</deporte>
     <competicion>NCAA</competicion>
     <fecha>17 de diciembre</fecha>
-    <hora>59:73</hora>
+    <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/325573347_cal_poly_mustangs_montana_bobcats/</url>
   </evento>
   <evento>
@@ -53,7 +53,7 @@
     <deporte>Fútbol</deporte>
     <competicion>NCAA</competicion>
     <fecha>17 de diciembre</fecha>
-    <hora>57:51</hora>
+    <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/325573379_california_baptist_lancers_southern_jaguars/</url>
   </evento>
   <evento>
@@ -69,7 +69,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. NCAA</competicion>
     <fecha>17 de diciembre</fecha>
-    <hora>07:25</hora>
+    <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/327083227__ucla_bruins_m__cal_poly_mustangs_m/</url>
   </evento>
   <evento>
@@ -85,7 +85,7 @@
     <deporte>Fútbol</deporte>
     <competicion>NCAA</competicion>
     <fecha>17 de diciembre</fecha>
-    <hora>06:30</hora>
+    <hora>26:34</hora>
     <url>https://livetv.sx/es/eventinfo/325573435_loyola_marymount_lions_san_diego_tritons/</url>
   </evento>
   <evento>
@@ -95,6 +95,14 @@
     <fecha>17 de diciembre</fecha>
     <hora>07:00</hora>
     <url>https://livetv.sx/es/eventinfo/325567483_shymkent_bars_petropavlovsk/</url>
+  </evento>
+  <evento>
+    <nombre>Shymkent –  Bars</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>07:00</hora>
+    <url>https://livetv.sx/es/eventinfo/327191359_shymkent_bars/</url>
   </evento>
   <evento>
     <nombre>Melbourne City (M) –   Adelaide United (M)</nombre>
@@ -151,14 +159,6 @@
     <fecha>17 de diciembre</fecha>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/325567486_atyrau_2_irtysh_pavlodar/</url>
-  </evento>
-  <evento>
-    <nombre>SKSO (W) –  Biryusa (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rusia. Mujeres. WHL</competicion>
-    <fecha>17 de diciembre</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/326027132_skso_w_biryusa_m/</url>
   </evento>
   <evento>
     <nombre>Racing – Villarreal</nombre>
@@ -7833,22 +7833,6 @@
     <url>https://livetv.sx/es/eventinfo/323945629__/</url>
   </evento>
   <evento>
-    <nombre>California Baptist Lancers – Southern Jaguars</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>17 de diciembre</fecha>
-    <hora>05:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573379__/</url>
-  </evento>
-  <evento>
-    <nombre>UCLA Bruins (M) –  Cal Poly Mustangs (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Mujeres. NCAA</competicion>
-    <fecha>17 de diciembre</fecha>
-    <hora>05:00</hora>
-    <url>https://livetv.sx/es/eventinfo/327083227__/</url>
-  </evento>
-  <evento>
     <nombre>Cal Poly Mustangs – Montana Bobcats</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -7863,6 +7847,14 @@
     <fecha>17 de diciembre</fecha>
     <hora>06:30</hora>
     <url>https://livetv.sx/es/eventinfo/325573435__/</url>
+  </evento>
+  <evento>
+    <nombre>Shymkent – Bars</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>07:00</hora>
+    <url>https://livetv.sx/es/eventinfo/327191359__/</url>
   </evento>
   <evento>
     <nombre>Sydney Kings – Adelaide 36ers</nombre>
@@ -11713,6 +11705,22 @@
     <url>https://livetv.sx/es/eventinfo/326856846__/</url>
   </evento>
   <evento>
+    <nombre>Southern Indiana Eagles – Morehead Eagles</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>23:30</hora>
+    <url>https://livetv.sx/es/eventinfo/325573540__/</url>
+  </evento>
+  <evento>
+    <nombre>Tennessee State Tigers – Missouri Redhawks</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>23:30</hora>
+    <url>https://livetv.sx/es/eventinfo/325573541__/</url>
+  </evento>
+  <evento>
     <nombre>Dino Prizmic – Nishesh Basavareddy</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Next Gen Finals. Yeda</competicion>
@@ -12639,6 +12647,70 @@
     <fecha>20 de diciembre</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/326861637__/</url>
+  </evento>
+  <evento>
+    <nombre>SKSO (W) –  Biryusa (M)</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>Rusia. Mujeres. WHL</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326027132_skso_w_biryusa_m/</url>
+  </evento>
+  <evento>
+    <nombre>Amur –  Admiral</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>11:15</hora>
+    <url>https://livetv.sx/es/eventinfo/323768573_amur_admiral/</url>
+  </evento>
+  <evento>
+    <nombre>San Miguel Beermen –  Terrafirma Dyip</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>Filipinas. Copa</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>11:15</hora>
+    <url>https://livetv.sx/es/eventinfo/323769984_san_miguel_beermen_terrafirma_dyip/</url>
+  </evento>
+  <evento>
+    <nombre>MODUS Super Series</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>Modus League</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/326861707_modus_super_series/</url>
+  </evento>
+  <evento>
+    <nombre>Zvezda Moscú –  Izhstal</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/323819132_zvezda_mosc___izhstal/</url>
+  </evento>
+  <evento>
+    <nombre>Tornado (M) –  Dinamo-Neva (W)</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>Rusia. Mujeres. WHL</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326027133_tornado_m_dinamo_neva_w/</url>
+  </evento>
+  <evento>
+    <nombre>Zaqatala –  MOIK</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>Azerbaiyan. 1 Liga</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/327021809_zaqatala_moik/</url>
+  </evento>
+  <evento>
+    <nombre>Simal –  Baku Sporting</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>Azerbaiyan. 1 Liga</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/327025147_simal_baku_sporting/</url>
   </evento>
   <evento>
     <nombre>Roa – Mjondalen</nombre>
