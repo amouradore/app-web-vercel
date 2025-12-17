@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-12-17 07:28:52" total="1775">
+<eventos generado="2025-12-17 08:38:49" total="1780">
   <evento>
     <nombre>Australia –  Inglaterra</nombre>
     <deporte>Fútbol</deporte>
@@ -15,14 +15,6 @@
     <fecha>17 de diciembre</fecha>
     <hora>03:30</hora>
     <url>https://livetv.sx/es/eventinfo/326861618_world_tour_finals/</url>
-  </evento>
-  <evento>
-    <nombre>Shymkent –  Bars</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
-    <fecha>17 de diciembre</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/327191359_shymkent_bars/</url>
   </evento>
   <evento>
     <nombre>Kaspiy Aktau 2 –  Karaganda</nombre>
@@ -161,6 +153,22 @@
     <url>https://livetv.sx/es/eventinfo/326027134_agidel_m_sakhalin_m/</url>
   </evento>
   <evento>
+    <nombre>Mega –  Orbi</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Georgia. Superliga</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326849603_mega_orbi/</url>
+  </evento>
+  <evento>
+    <nombre>Cultural Leonesa – Levante</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/325563530__/</url>
+  </evento>
+  <evento>
     <nombre>Racing – Villarreal</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Copa del Rey</competicion>
@@ -175,14 +183,6 @@
     <fecha>17 de diciembre</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/325563529__/</url>
-  </evento>
-  <evento>
-    <nombre>Cultural Leonesa – Levante</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Copa del Rey</competicion>
-    <fecha>17 de diciembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325563530__/</url>
   </evento>
   <evento>
     <nombre>Albacete – Celta</nombre>
@@ -297,14 +297,6 @@
     <url>https://livetv.sx/es/eventinfo/326248294__/</url>
   </evento>
   <evento>
-    <nombre>Uganda – Gabón</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Partido amistoso. Selecciones</competicion>
-    <fecha>17 de diciembre</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/327037885__/</url>
-  </evento>
-  <evento>
     <nombre>Maan – Kfarsoum</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Jordania. División 1</competicion>
@@ -337,20 +329,20 @@
     <url>https://livetv.sx/es/eventinfo/327077779__/</url>
   </evento>
   <evento>
+    <nombre>Uganda – Gabón</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso. Selecciones</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/327037885__/</url>
+  </evento>
+  <evento>
     <nombre>Kavala – Panathinaikos</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Grecia. Copa</competicion>
     <fecha>17 de diciembre</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/323527176__/</url>
-  </evento>
-  <evento>
-    <nombre>Lusitano Ginasio – AD Fafe</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Portugal. Copa</competicion>
-    <fecha>17 de diciembre</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324272525__/</url>
   </evento>
   <evento>
     <nombre>Vila Mea – UD Leiria</nombre>
@@ -385,14 +377,6 @@
     <url>https://livetv.sx/es/eventinfo/326857634__/</url>
   </evento>
   <evento>
-    <nombre>Angola – Mozambique</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Partido amistoso. Selecciones</competicion>
-    <fecha>17 de diciembre</fecha>
-    <hora>17:30</hora>
-    <url>https://livetv.sx/es/eventinfo/327106296__/</url>
-  </evento>
-  <evento>
     <nombre>Olympiakos – Iraklis Salónica</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Grecia. Copa</competicion>
@@ -407,6 +391,14 @@
     <fecha>17 de diciembre</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/323823849__/</url>
+  </evento>
+  <evento>
+    <nombre>Angola – Mozambique</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso. Selecciones</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/327106296__/</url>
   </evento>
   <evento>
     <nombre>París – Flamengo</nombre>
@@ -6329,6 +6321,14 @@
     <url>https://livetv.sx/es/eventinfo/324583126__/</url>
   </evento>
   <evento>
+    <nombre>HPK Sub-20 –  Assat Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
+    <fecha>20 de diciembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/327219192__/</url>
+  </evento>
+  <evento>
     <nombre>Brynas – Frolunda</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. SHL</competicion>
@@ -8281,6 +8281,14 @@
     <url>https://livetv.sx/es/eventinfo/323842718__/</url>
   </evento>
   <evento>
+    <nombre>Snaefell (M) –  Thor Akureyri (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Islandia. Mujeres. Urvalsdeild</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/327209451__/</url>
+  </evento>
+  <evento>
     <nombre>Mega Bemax – Parma Perm</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Rusia. Copa</competicion>
@@ -8407,6 +8415,22 @@
     <fecha>17 de diciembre</fecha>
     <hora>21:15</hora>
     <url>https://livetv.sx/es/eventinfo/326707674__/</url>
+  </evento>
+  <evento>
+    <nombre>Tindastoll (M) –  Njardvik (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Islandia. Mujeres. Urvalsdeild</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/327213547__/</url>
+  </evento>
+  <evento>
+    <nombre>Grindavik (M) –  Haukar (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Islandia. Mujeres. Urvalsdeild</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/327213548__/</url>
   </evento>
   <evento>
     <nombre>London Lions – Besiktas</nombre>
@@ -11673,30 +11697,6 @@
     <url>https://livetv.sx/es/eventinfo/326856846__/</url>
   </evento>
   <evento>
-    <nombre>Southern Indiana Eagles – Morehead Eagles</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>23:30</hora>
-    <url>https://livetv.sx/es/eventinfo/325573540__/</url>
-  </evento>
-  <evento>
-    <nombre>Tennessee State Tigers – Missouri Redhawks</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>23:30</hora>
-    <url>https://livetv.sx/es/eventinfo/325573541__/</url>
-  </evento>
-  <evento>
-    <nombre>Southern Miss Golden Eagles – Arkansas Red Wolves</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>20 de diciembre</fecha>
-    <hora>23:30</hora>
-    <url>https://livetv.sx/es/eventinfo/325573542__/</url>
-  </evento>
-  <evento>
     <nombre>Dino Prizmic – Nishesh Basavareddy</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Next Gen Finals. Yeda</competicion>
@@ -11793,6 +11793,14 @@
     <url>https://livetv.sx/es/eventinfo/326714348__/</url>
   </evento>
   <evento>
+    <nombre>Sada Cruzeiro – Asswehly</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Campeonato Mundial de Clubes</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/327213875__/</url>
+  </evento>
+  <evento>
     <nombre>Sada Cruzeiro – Swehly</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Campeonato Mundial de Clubes</competicion>
@@ -11854,15 +11862,7 @@
     <competicion>Campeonato Mundial de Clubes</competicion>
     <fecha>17 de diciembre</fecha>
     <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/326858564_al_rayyan_warta_zawiercie/</url>
-  </evento>
-  <evento>
-    <nombre>Minas – SESI Bauru</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Brasil. Superliga</competicion>
-    <fecha>18 de diciembre</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/326629000__/</url>
+    <url>https://livetv.sx/es/eventinfo/327213877__/</url>
   </evento>
   <evento>
     <nombre>Renata – Praia</nombre>
@@ -11871,6 +11871,14 @@
     <fecha>18 de diciembre</fecha>
     <hora>01:30</hora>
     <url>https://livetv.sx/es/eventinfo/326858565_renata_praia/</url>
+  </evento>
+  <evento>
+    <nombre>Zhaiyk – Atirau</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Copa</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/327209683__/</url>
   </evento>
   <evento>
     <nombre>Zeren Spor (M) –  Kuzeyboru (M)</nombre>
@@ -11969,6 +11977,14 @@
     <url>https://livetv.sx/es/eventinfo/324329690__/</url>
   </evento>
   <evento>
+    <nombre>Perugia – Panasonic Panthers</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Campeonato Mundial de Clubes</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/327213876__/</url>
+  </evento>
+  <evento>
     <nombre>Norwid Czestochowa – Kedzierzyn-Kozle</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Polonia. PlusLiga</competicion>
@@ -12047,6 +12063,22 @@
     <fecha>17 de diciembre</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/325571499_ok_maribor_mok_mursa/</url>
+  </evento>
+  <evento>
+    <nombre>Al Rayyan – Warta Zawiercie</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Campeonato Mundial de Clubes</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326858564_al_rayyan_warta_zawiercie/</url>
+  </evento>
+  <evento>
+    <nombre>Minas – SESI Bauru</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Brasil. Superliga</competicion>
+    <fecha>18 de diciembre</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326629000__/</url>
   </evento>
   <evento>
     <nombre>Sada Cruzeiro – Perugia</nombre>
@@ -13023,6 +13055,14 @@
     <fecha>17 de diciembre</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/327077502__/</url>
+  </evento>
+  <evento>
+    <nombre>Sokol Poruba (M) –  Zlin (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Mujeres. MOL Liga</competicion>
+    <fecha>17 de diciembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/327209404__/</url>
   </evento>
   <evento>
     <nombre>Gorenje Velenje – Grosist Slovan</nombre>
