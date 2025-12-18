@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2025-12-18 11:30:30" total="211">
+<eventos generado="2025-12-18 11:55:14" total="211">
   <evento id="1">
     <nombre>Perth Wildcats –  SE Melbourne Phoenix</nombre>
     <deporte>Fútbol</deporte>
@@ -484,24 +484,52 @@ player/live.php?id=244351&amp;w=700&amp;h=480</url>
     <hora>13:05</hora>
     <url>https://livetv.sx/es/eventinfo/326714341_dino_prizmic_justin_engel/</url>
     <datetime_iso>2025-12-18T13:05:00</datetime_iso>
-    <streams total="3">
+    <streams total="7">
       <stream id="1">
+        <url>https://emb.apl385.me/
+player/live.php?id=243656&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=243656&amp;lang=es&amp;eid=326714341&amp;lid=2908354&amp;ci=7216&amp;si=4</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://emb.apl385.me/
+player/live.php?id=243671&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=243671&amp;lang=es&amp;eid=326714341&amp;lid=2879187&amp;ci=7216&amp;si=4</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://emb.apl385.me/
+player/live.php?id=244343&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/12.png</idioma>
+        <idioma_nombre>Turco</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=244343&amp;lang=es&amp;eid=326714341&amp;lid=2891207&amp;ci=7216&amp;si=4</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://emb.apl385.me/
+player/live.php?id=244761&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
+        <idioma_nombre>Coreano</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=244761&amp;lang=es&amp;eid=326714341&amp;lid=2904697&amp;ci=7216&amp;si=4</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://daddyhd.com/stream/stream-396.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2909610&amp;lang=es&amp;eid=326714341&amp;lid=2909610&amp;ci=7216&amp;si=4</enlace_original>
+      </stream>
+      <stream id="6">
         <url>https://daddyhd.com/stream/stream-46.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2909609&amp;lang=es&amp;eid=326714341&amp;lid=2909609&amp;ci=7216&amp;si=4</enlace_original>
       </stream>
-      <stream id="2">
+      <stream id="7">
         <url>https://daddyhd.com/stream/stream-47.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2909611&amp;lang=es&amp;eid=326714341&amp;lid=2909611&amp;ci=7216&amp;si=4</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://daddyhd.com/stream/stream-396.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2909610&amp;lang=es&amp;eid=326714341&amp;lid=2909610&amp;ci=7216&amp;si=4</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -638,13 +666,25 @@ player/live.php?id=244761&amp;w=700&amp;h=480</url>
     <hora>13:35</hora>
     <url>https://livetv.sx/es/eventinfo/326868210_copa_del_mundo_carezza/</url>
     <datetime_iso>2025-12-18T13:35:00</datetime_iso>
-    <streams total="1">
+    <streams total="3">
       <stream id="1">
         <url>https://emb.apl385.me/
 player/live.php?id=241581&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
         <idioma_nombre>Inglés</idioma_nombre>
         <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=alieztv&amp;c=241581&amp;lang=es&amp;eid=326868210&amp;lid=2852430&amp;ci=414&amp;si=18</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://wikisport.wiki/embed/bt3.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2908195&amp;lang=es&amp;eid=326868210&amp;lid=2908195&amp;ci=414&amp;si=18</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://wikisport.wiki/strm/t1.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2908194&amp;lang=es&amp;eid=326868210&amp;lid=2908194&amp;ci=414&amp;si=18</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -786,7 +826,14 @@ player/live.php?id=241581&amp;w=700&amp;h=480</url>
     <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/327467605_singapore_philippines/</url>
     <datetime_iso>2025-12-18T14:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/5_OALTccds0?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer2.php?t=youtube&amp;c=5_OALTccds0&amp;lang=es&amp;eid=327467605&amp;lid=2909612&amp;ci=2862&amp;si=2</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="41">
     <nombre>Dhakshineswar Suresh – Sumit Nagal</nombre>
@@ -823,7 +870,26 @@ player/live.php?id=241581&amp;w=700&amp;h=480</url>
     <hora>14:35</hora>
     <url>https://livetv.sx/es/eventinfo/326714343__/</url>
     <datetime_iso>2025-12-18T14:35:00</datetime_iso>
-    <streams total="0" />
+    <streams total="3">
+      <stream id="1">
+        <url>https://daddyhd.com/stream/stream-46.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2909609&amp;lang=es&amp;eid=326714343&amp;lid=2909609&amp;ci=7216&amp;si=4</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://daddyhd.com/stream/stream-47.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2909611&amp;lang=es&amp;eid=326714343&amp;lid=2909611&amp;ci=7216&amp;si=4</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://daddyhd.com/stream/stream-396.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv869.me/webplayer.php?t=ifr&amp;c=2909610&amp;lang=es&amp;eid=326714343&amp;lid=2909610&amp;ci=7216&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="44">
     <nombre>Sada Cruzeiro – Perugia</nombre>
