@@ -137,6 +137,10 @@
     <name>Mexico - Liga MX : Juárez vs Pachuca</name>
     <time>00:00</time>
     <channel>
+      <name>NBC UNIVERSO USA</name>
+      <url>/en-vivo-online/nbc-universo-usa/embed.php</url>
+    </channel>
+    <channel>
       <name>Telemundo</name>
       <url>/en-vivo-online/telemundo-usa/embed.php</url>
       <url>https://deporte-libre.click/en-vivo-online/telemundo-usa/embed.php</url>
