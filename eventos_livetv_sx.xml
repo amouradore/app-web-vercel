@@ -1,92 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-12-21 02:13:24" total="1155">
-  <evento>
-    <nombre>Boston –  Vancouver</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324761643_boston_vancouver/</url>
-  </evento>
-  <evento>
-    <nombre>Montreal –  Pittsburgh</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324761644_montreal_pittsburgh/</url>
-  </evento>
-  <evento>
-    <nombre>Nashville –  Toronto</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324761645_nashville_toronto/</url>
-  </evento>
-  <evento>
-    <nombre>Tampa Bay –  Carolina</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324761646_tampa_bay_carolina/</url>
-  </evento>
-  <evento>
-    <nombre>Filadelfia –  Dallas</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>15:10</hora>
-    <url>https://livetv.sx/es/eventinfo/324761459_filadelfia_dallas/</url>
-  </evento>
-  <evento>
-    <nombre>Toronto –  Boston</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>94:10</hora>
-    <url>https://livetv.sx/es/eventinfo/324761460_toronto_boston/</url>
-  </evento>
-  <evento>
-    <nombre>Nueva Orleans –  Indiana</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>04:93</hora>
-    <url>https://livetv.sx/es/eventinfo/324761461_nueva_orleans_indiana/</url>
-  </evento>
-  <evento>
-    <nombre>Sao Jose –  SESI Bauru</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Superliga</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324760074_sao_jose_sesi_bauru/</url>
-  </evento>
-  <evento>
-    <nombre>Detroit –  Charlotte</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>74:54</hora>
-    <url>https://livetv.sx/es/eventinfo/324769778_detroit_charlotte/</url>
-  </evento>
-  <evento>
-    <nombre>Memphis –  Washington</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>68:53</hora>
-    <url>https://livetv.sx/es/eventinfo/324777888_memphis_washington/</url>
-  </evento>
+<eventos generado="2025-12-21 04:03:36" total="1088">
   <evento>
     <nombre>Golden State –  Phoenix</nombre>
     <deporte>Fútbol</deporte>
     <competicion>No especificado</competicion>
     <fecha>21 de diciembre</fecha>
-    <hora>32:44</hora>
+    <hora>19:11</hora>
     <url>https://livetv.sx/es/eventinfo/324785316_golden_state_phoenix/</url>
+  </evento>
+  <evento>
+    <nombre>Utah –  Orlando</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>60:70</hora>
+    <url>https://livetv.sx/es/eventinfo/324799268_utah_orlando/</url>
+  </evento>
+  <evento>
+    <nombre>Calgary –  Vegas</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324806013_calgary_vegas/</url>
+  </evento>
+  <evento>
+    <nombre>San José –  Seattle Kraken</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324806014_san_jos___seattle_kraken/</url>
+  </evento>
+  <evento>
+    <nombre>Anaheim –  Columbus</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324806015_anaheim_columbus/</url>
+  </evento>
+  <evento>
+    <nombre>Sacramento –  Portland</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>42:42</hora>
+    <url>https://livetv.sx/es/eventinfo/324805831_sacramento_portland/</url>
+  </evento>
+  <evento>
+    <nombre>LA Clippers –  LA Lakers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>26:12</hora>
+    <url>https://livetv.sx/es/eventinfo/324811655_la_clippers_la_lakers/</url>
   </evento>
   <evento>
     <nombre>Nueva Zelanda –  West Indies</nombre>
@@ -105,292 +73,12 @@
     <url>https://livetv.sx/es/eventinfo/327077687_australia_inglaterra/</url>
   </evento>
   <evento>
-    <nombre>Hershey Bears –  Bridgeport</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. AHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324762300_hershey_bears_bridgeport/</url>
-  </evento>
-  <evento>
-    <nombre>UNLV Runnin Rebels –  Fresno Bulldogs</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573552_unlv_runnin_rebels_fresno_bulldogs/</url>
-  </evento>
-  <evento>
-    <nombre>Vermont Catamounts –  Iona Gaels</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573554_vermont_catamounts_iona_gaels/</url>
-  </evento>
-  <evento>
-    <nombre>Lamar Cardinals –  Nebraska-Omaha Mavericks</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>78:78</hora>
-    <url>https://livetv.sx/es/eventinfo/325573555_lamar_cardinals_nebraska_omaha_mavericks/</url>
-  </evento>
-  <evento>
-    <nombre>Utah Utes –  Eastern Washington Eagles</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573556_utah_utes_eastern_washington_eagles/</url>
-  </evento>
-  <evento>
-    <nombre>Adirondack Thunder –  Reading Royals</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. ECHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/327477601_adirondack_thunder_reading_royals/</url>
-  </evento>
-  <evento>
-    <nombre>Greensboro Gargoyles –  Wheeling Nailers</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. ECHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/327477602_greensboro_gargoyles_wheeling_nailers/</url>
-  </evento>
-  <evento>
-    <nombre>Savannah Ghost Pirates –  Florida Everblades</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. ECHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/327477603_savannah_ghost_pirates_florida_everblades/</url>
-  </evento>
-  <evento>
-    <nombre>Bare Knuckle</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bare-knuckle boxing</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/327568773_bare_knuckle/</url>
-  </evento>
-  <evento>
-    <nombre>Canadá U20 –  Suecia U20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Partido amistoso. Selecciones</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/326858448_canadand225__u20_suecia_u20/</url>
-  </evento>
-  <evento>
-    <nombre>Providence Bruins –  Syracuse Crunch</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. AHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:05</hora>
-    <url>https://livetv.sx/es/eventinfo/324770618_providence_bruins_syracuse_crunch/</url>
-  </evento>
-  <evento>
-    <nombre>Lehigh Valley Phantoms –  Hartford Wolf Pack</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. AHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:05</hora>
-    <url>https://livetv.sx/es/eventinfo/324770619_lehigh_valley_phantoms_hartford_wolf_pack/</url>
-  </evento>
-  <evento>
-    <nombre>Kansas City –  Utah Grizzlies</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. ECHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:05</hora>
-    <url>https://livetv.sx/es/eventinfo/327477604_kansas_city_utah_grizzlies/</url>
-  </evento>
-  <evento>
-    <nombre>Augustana Vikings –  Nebraska Omaha</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:07</hora>
-    <url>https://livetv.sx/es/eventinfo/328011049_augustana_vikings_nebraska_omaha/</url>
-  </evento>
-  <evento>
-    <nombre>LÁ Firpo –  Alianza</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>El Salvador. Primera División</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:15</hora>
-    <url>https://livetv.sx/es/eventinfo/328011395_l___firpo_alianza/</url>
-  </evento>
-  <evento>
-    <nombre>Toledo Walleye –  Iowa Heartlanders</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. ECHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:15</hora>
-    <url>https://livetv.sx/es/eventinfo/327477605_toledo_walleye_iowa_heartlanders/</url>
-  </evento>
-  <evento>
     <nombre>Oregon Ducks –  James Madison Dukes</nombre>
     <deporte>Fútbol</deporte>
     <competicion>NCAA</competicion>
     <fecha>21 de diciembre</fecha>
-    <hora>02:30</hora>
+    <hora>48:26</hora>
     <url>https://livetv.sx/es/eventinfo/327479220_oregon_ducks_james_madison_dukes/</url>
-  </evento>
-  <evento>
-    <nombre>Tulane Green Wave –  Portland Vikings</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>47:39</hora>
-    <url>https://livetv.sx/es/eventinfo/325573557_tulane_green_wave_portland_vikings/</url>
-  </evento>
-  <evento>
-    <nombre>Iowa Wolves –  Birmingham Squadron</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NBA. G League</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:30</hora>
-    <url>https://livetv.sx/es/eventinfo/327477634_iowa_wolves_birmingham_squadron/</url>
-  </evento>
-  <evento>
-    <nombre>Fort Lauderdale Utd (M) –   Spokane Zephyr (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. Mujeres. USL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:30</hora>
-    <url>https://livetv.sx/es/eventinfo/327813904__fort_lauderdale_utd_m__spokane_zephyr_m/</url>
-  </evento>
-  <evento>
-    <nombre>Fort Wayne Komets –  Cincinnati Cyclones</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. ECHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:35</hora>
-    <url>https://livetv.sx/es/eventinfo/327477606_fort_wayne_komets_cincinnati_cyclones/</url>
-  </evento>
-  <evento>
-    <nombre>Georgia Swarm –  Saskatchewan Rush</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328011396_georgia_swarm_saskatchewan_rush/</url>
-  </evento>
-  <evento>
-    <nombre>Texas Stars –  Milwaukee</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. AHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324778713_texas_stars_milwaukee/</url>
-  </evento>
-  <evento>
-    <nombre>Chicago Wolves –  Iowa Wild</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. AHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324778714_chicago_wolves_iowa_wild/</url>
-  </evento>
-  <evento>
-    <nombre>Duke Blue Devils –  Texas Tech Red Raiders</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>46:36</hora>
-    <url>https://livetv.sx/es/eventinfo/325573559_duke_blue_devils_texas_tech_red_raiders/</url>
-  </evento>
-  <evento>
-    <nombre>Colorado Buffaloes –  Stanford Cardinal</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>37:41</hora>
-    <url>https://livetv.sx/es/eventinfo/325573560_colorado_buffaloes_stanford_cardinal/</url>
-  </evento>
-  <evento>
-    <nombre>St Thomas Tommies –  Riverside Highlanders</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>55:40</hora>
-    <url>https://livetv.sx/es/eventinfo/325573561_st_thomas_tommies_riverside_highlanders/</url>
-  </evento>
-  <evento>
-    <nombre>Rutgers Scarlet Knights –  Penn Quakers</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>32:37</hora>
-    <url>https://livetv.sx/es/eventinfo/325573562_rutgers_scarlet_knights_penn_quakers/</url>
-  </evento>
-  <evento>
-    <nombre>Texas Tech Red Raiders –  Duke Blue Devils</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573563_texas_tech_red_raiders_duke_blue_devils/</url>
-  </evento>
-  <evento>
-    <nombre>California Baptist Lancers –  Sacramento Hornets</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>42:39</hora>
-    <url>https://livetv.sx/es/eventinfo/325573564_california_baptist_lancers_sacramento_hornets/</url>
-  </evento>
-  <evento>
-    <nombre>Motagua –  Olimpia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Honduras. Liga Nacional</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328011394_motagua_olimpia/</url>
-  </evento>
-  <evento>
-    <nombre>Alajuelense –  Deportivo Saprissa</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Costa Rica. Primera División</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/326906740_alajuelense_deportivo_saprissa/</url>
-  </evento>
-  <evento>
-    <nombre>Bloomington Bison –  Kalamazoo Wings</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. ECHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/327477607_bloomington_bison_kalamazoo_wings/</url>
-  </evento>
-  <evento>
-    <nombre>Diriangen –  Managua</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Nicaragua. Liga Primera</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/327695833_diriangen_managua/</url>
-  </evento>
-  <evento>
-    <nombre>Colorado Eagles –  Henderson Silver Knights</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. AHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:05</hora>
-    <url>https://livetv.sx/es/eventinfo/324786143_colorado_eagles_henderson_silver_knights/</url>
-  </evento>
-  <evento>
-    <nombre>Tulsa Oilers –  Allen Americans</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. ECHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:05</hora>
-    <url>https://livetv.sx/es/eventinfo/327477608_tulsa_oilers_allen_americans/</url>
   </evento>
   <evento>
     <nombre>Chicago –  Green Bay</nombre>
@@ -399,46 +87,6 @@
     <fecha>21 de diciembre</fecha>
     <hora>03:20</hora>
     <url>https://livetv.sx/es/eventinfo/327480872_chicago_green_bay/</url>
-  </evento>
-  <evento>
-    <nombre>Creighton Bluejays –  Marquette Golden Eagles</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>39:24</hora>
-    <url>https://livetv.sx/es/eventinfo/325573539_creighton_bluejays_marquette_golden_eagles/</url>
-  </evento>
-  <evento>
-    <nombre>Georgetown Hoyas –  Xavier Musketeers</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>32:25</hora>
-    <url>https://livetv.sx/es/eventinfo/325573558_georgetown_hoyas_xavier_musketeers/</url>
-  </evento>
-  <evento>
-    <nombre>Texas Corpus Christi –  Southwestern Adventist</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:30</hora>
-    <url>https://livetv.sx/es/eventinfo/326863397_texas_corpus_christi_southwestern_adventist/</url>
-  </evento>
-  <evento>
-    <nombre>Valley Suns –  Motor City Cruise</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NBA. G League</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:30</hora>
-    <url>https://livetv.sx/es/eventinfo/327477635_valley_suns_motor_city_cruise/</url>
-  </evento>
-  <evento>
-    <nombre>Southside Flyers (M) –   Bendigo Spirit (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Australia. Mujeres. WNBL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>24:31</hora>
-    <url>https://livetv.sx/es/eventinfo/327652085__southside_flyers_m__bendigo_spirit_m/</url>
   </evento>
   <evento>
     <nombre>Cage Fury FC</nombre>
@@ -501,7 +149,7 @@
     <deporte>Fútbol</deporte>
     <competicion>NCAA</competicion>
     <fecha>21 de diciembre</fecha>
-    <hora>09:11</hora>
+    <hora>80:82</hora>
     <url>https://livetv.sx/es/eventinfo/325573565_weber_wildcats_utah_tech_trailblazers/</url>
   </evento>
   <evento>
@@ -519,6 +167,54 @@
     <fecha>21 de diciembre</fecha>
     <hora>04:10</hora>
     <url>https://livetv.sx/es/eventinfo/327477609_idaho_steelheads_rapid_city_rush/</url>
+  </evento>
+  <evento>
+    <nombre>Ottawa Black Bears –  Las Vegas Desert Dogs</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328011397_ottawa_black_bears_las_vegas_desert_dogs/</url>
+  </evento>
+  <evento>
+    <nombre>Bakersfield Condors –  Coachella Valley</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. AHL</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/324806645_bakersfield_condors_coachella_valley/</url>
+  </evento>
+  <evento>
+    <nombre>Nevada Wolf Pack –  Boise Broncos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>36:26</hora>
+    <url>https://livetv.sx/es/eventinfo/325573525_nevada_wolf_pack_boise_broncos/</url>
+  </evento>
+  <evento>
+    <nombre>Tahoe Knight Monsters –  Wichita Thunder</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. ECHL</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/327477610_tahoe_knight_monsters_wichita_thunder/</url>
+  </evento>
+  <evento>
+    <nombre>Arizona Wildcats –  San Diego Aztecs</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>18:21</hora>
+    <url>https://livetv.sx/es/eventinfo/325573530_arizona_wildcats_san_diego_aztecs/</url>
+  </evento>
+  <evento>
+    <nombre>Tasmania JackJumpers –  Perth Wildcats</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NBL</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>30:33</hora>
+    <url>https://livetv.sx/es/eventinfo/324809875_tasmania_jackjumpers_perth_wildcats/</url>
   </evento>
   <evento>
     <nombre>Girona – Atlético de Madrid</nombre>
@@ -545,14 +241,6 @@
     <url>https://livetv.sx/es/eventinfo/325563546__/</url>
   </evento>
   <evento>
-    <nombre>Niza – Saint-Etienne</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Copa</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>15:45</hora>
-    <url>https://livetv.sx/es/eventinfo/327467752__/</url>
-  </evento>
-  <evento>
     <nombre>Villarreal – Barcelona</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Primera División</competicion>
@@ -577,6 +265,14 @@
     <url>https://livetv.sx/es/eventinfo/327467753__/</url>
   </evento>
   <evento>
+    <nombre>PNC Championship</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Copa</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/327909621_pnc_championship/</url>
+  </evento>
+  <evento>
     <nombre>Elche – Rayo Vallecano</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Primera División</competicion>
@@ -599,46 +295,6 @@
     <fecha>21 de diciembre</fecha>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/327467754__/</url>
-  </evento>
-  <evento>
-    <nombre>LÁ Firpo – Alianza</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>El Salvador. Primera División</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:15</hora>
-    <url>https://livetv.sx/es/eventinfo/328011395__/</url>
-  </evento>
-  <evento>
-    <nombre>Fort Lauderdale Utd (M) –  Spokane Zephyr (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. Mujeres. USL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:30</hora>
-    <url>https://livetv.sx/es/eventinfo/327813904__/</url>
-  </evento>
-  <evento>
-    <nombre>Alajuelense – Deportivo Saprissa</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Costa Rica. Primera División</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/326906740__/</url>
-  </evento>
-  <evento>
-    <nombre>Motagua – Olimpia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Honduras. Liga Nacional</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328011394__/</url>
-  </evento>
-  <evento>
-    <nombre>Diriangen – Managua</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Nicaragua. Liga Primera</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/327695833__/</url>
   </evento>
   <evento>
     <nombre>Japón U18 – Australia U20</nombre>
@@ -1055,6 +711,14 @@
     <fecha>21 de diciembre</fecha>
     <hora>15:45</hora>
     <url>https://livetv.sx/es/eventinfo/327707992__/</url>
+  </evento>
+  <evento>
+    <nombre>Niza – Saint-Etienne</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Copa</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>15:45</hora>
+    <url>https://livetv.sx/es/eventinfo/327467752__/</url>
   </evento>
   <evento>
     <nombre>Sassuolo – Turín</nombre>
@@ -1481,14 +1145,6 @@
     <url>https://livetv.sx/es/eventinfo/324941744__/</url>
   </evento>
   <evento>
-    <nombre>PNC Championship</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Copa</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/327909621_pnc_championship/</url>
-  </evento>
-  <evento>
     <nombre>Rijeka – Gorica</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Croacia. HNL</competicion>
@@ -1737,6 +1393,14 @@
     <url>https://livetv.sx/es/eventinfo/326843156__/</url>
   </evento>
   <evento>
+    <nombre>Costa Rica Sub-20 –  Canadá Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso Sub-20. Selecciones</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328148818__/</url>
+  </evento>
+  <evento>
     <nombre>Costa Rica U20 – Canadá U20</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Partido amistoso. Selecciones</competicion>
@@ -1809,6 +1473,14 @@
     <url>https://livetv.sx/es/eventinfo/327934936__/</url>
   </evento>
   <evento>
+    <nombre>Al Ahli Amán – Al-Ramtha</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Jordania. Copa</competicion>
+    <fecha>22 de diciembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328142505__/</url>
+  </evento>
+  <evento>
     <nombre>Al-Mosul – Naft Maysan</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Irak. Liga Premier</competicion>
@@ -1879,6 +1551,14 @@
     <fecha>22 de diciembre</fecha>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/325187380__/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Faisaly Amán – Shabab Al-Ordon</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Jordania. Copa</competicion>
+    <fecha>22 de diciembre</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/328142506__/</url>
   </evento>
   <evento>
     <nombre>Newroz – Amanat Baghdad</nombre>
@@ -2457,38 +2137,6 @@
     <url>https://livetv.sx/es/eventinfo/325870575__/</url>
   </evento>
   <evento>
-    <nombre>Boston – Vancouver</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324761643__/</url>
-  </evento>
-  <evento>
-    <nombre>Montreal – Pittsburgh</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324761644__/</url>
-  </evento>
-  <evento>
-    <nombre>Nashville – Toronto</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324761645__/</url>
-  </evento>
-  <evento>
-    <nombre>Tampa Bay – Carolina</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324761646__/</url>
-  </evento>
-  <evento>
     <nombre>Calgary – Vegas</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -2537,36 +2185,36 @@
     <url>https://livetv.sx/es/eventinfo/325069103__/</url>
   </evento>
   <evento>
-    <nombre>Hershey Bears – Bridgeport</nombre>
+    <nombre>Utah Mammoth – Winnipeg</nombre>
     <deporte>Hockey</deporte>
-    <competicion>EUA. AHL</competicion>
-    <fecha>21 de diciembre</fecha>
+    <competicion>No especificado</competicion>
+    <fecha>22 de diciembre</fecha>
     <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324762300__/</url>
+    <url>https://livetv.sx/es/eventinfo/325069104__/</url>
   </evento>
   <evento>
-    <nombre>Canadá U20 – Suecia U20</nombre>
+    <nombre>New Jersey – Buffalo</nombre>
     <deporte>Hockey</deporte>
-    <competicion>Partido amistoso. Selecciones</competicion>
-    <fecha>21 de diciembre</fecha>
+    <competicion>No especificado</competicion>
+    <fecha>22 de diciembre</fecha>
     <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/326858448_canada_u20_sweden_u20/</url>
+    <url>https://livetv.sx/es/eventinfo/325069105__/</url>
   </evento>
   <evento>
-    <nombre>Providence Bruins – Syracuse Crunch</nombre>
+    <nombre>Dallas – Toronto</nombre>
     <deporte>Hockey</deporte>
-    <competicion>EUA. AHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:05</hora>
-    <url>https://livetv.sx/es/eventinfo/324770618__/</url>
+    <competicion>No especificado</competicion>
+    <fecha>22 de diciembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/325069106__/</url>
   </evento>
   <evento>
-    <nombre>Lehigh Valley Phantoms – Hartford Wolf Pack</nombre>
+    <nombre>Pittsburgh – Montreal</nombre>
     <deporte>Hockey</deporte>
-    <competicion>EUA. AHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:05</hora>
-    <url>https://livetv.sx/es/eventinfo/324770619__/</url>
+    <competicion>No especificado</competicion>
+    <fecha>22 de diciembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/325069107__/</url>
   </evento>
   <evento>
     <nombre>Texas Stars – Milwaukee</nombre>
@@ -2585,28 +2233,12 @@
     <url>https://livetv.sx/es/eventinfo/324778714__/</url>
   </evento>
   <evento>
-    <nombre>Colorado Eagles – Henderson Silver Knights</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>EUA. AHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:05</hora>
-    <url>https://livetv.sx/es/eventinfo/324786143__/</url>
-  </evento>
-  <evento>
     <nombre>Ontario Reign – San José Barracuda</nombre>
     <deporte>Hockey</deporte>
     <competicion>EUA. AHL</competicion>
     <fecha>21 de diciembre</fecha>
     <hora>04:00</hora>
     <url>https://livetv.sx/es/eventinfo/324793311__/</url>
-  </evento>
-  <evento>
-    <nombre>Tahoe Knight Monsters – Wichita Thunder</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>EUA. ECHL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>05:00</hora>
-    <url>https://livetv.sx/es/eventinfo/327477610_tahoe_knight_monsters_wichita_thunder/</url>
   </evento>
   <evento>
     <nombre>Bakersfield Condors – Coachella Valley</nombre>
@@ -3439,38 +3071,6 @@
     <fecha>22 de diciembre</fecha>
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/325055724__/</url>
-  </evento>
-  <evento>
-    <nombre>Utah Mammoth – Winnipeg</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>22 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325069104__/</url>
-  </evento>
-  <evento>
-    <nombre>New Jersey – Buffalo</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>22 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325069105__/</url>
-  </evento>
-  <evento>
-    <nombre>Dallas – Toronto</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>22 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325069106__/</url>
-  </evento>
-  <evento>
-    <nombre>Pittsburgh – Montreal</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>22 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325069107__/</url>
   </evento>
   <evento>
     <nombre>Boston – Ottawa</nombre>
@@ -4825,36 +4425,20 @@
     <url>https://livetv.sx/es/eventinfo/325860153__/</url>
   </evento>
   <evento>
-    <nombre>Filadelfia – Dallas</nombre>
+    <nombre>Golden State – Phoenix</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>No especificado</competicion>
     <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324761459__/</url>
+    <hora>03:30</hora>
+    <url>https://livetv.sx/es/eventinfo/324785316__/</url>
   </evento>
   <evento>
-    <nombre>Nueva Orleans – Indiana</nombre>
+    <nombre>Utah – Orlando</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>No especificado</competicion>
     <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324761461__/</url>
-  </evento>
-  <evento>
-    <nombre>Detroit – Charlotte</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:30</hora>
-    <url>https://livetv.sx/es/eventinfo/324769778__/</url>
-  </evento>
-  <evento>
-    <nombre>Memphis – Washington</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324777888__/</url>
+    <hora>04:30</hora>
+    <url>https://livetv.sx/es/eventinfo/324799268__/</url>
   </evento>
   <evento>
     <nombre>Sacramento – Portland</nombre>
@@ -4863,6 +4447,14 @@
     <fecha>21 de diciembre</fecha>
     <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/324805831__/</url>
+  </evento>
+  <evento>
+    <nombre>LA Clippers – LA Lakers</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>05:30</hora>
+    <url>https://livetv.sx/es/eventinfo/324811655__/</url>
   </evento>
   <evento>
     <nombre>Breogán – Bilbao</nombre>
@@ -4905,124 +4497,12 @@
     <url>https://livetv.sx/es/eventinfo/324967084__/</url>
   </evento>
   <evento>
-    <nombre>Toronto – Boston</nombre>
+    <nombre>Atlanta – Chicago</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>No especificado</competicion>
     <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324761460__/</url>
-  </evento>
-  <evento>
-    <nombre>UNLV Runnin Rebels – Fresno Bulldogs</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573552__/</url>
-  </evento>
-  <evento>
-    <nombre>Vermont Catamounts – Iona Gaels</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573554__/</url>
-  </evento>
-  <evento>
-    <nombre>Lamar Cardinals – Nebraska-Omaha Mavericks</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573555__/</url>
-  </evento>
-  <evento>
-    <nombre>Utah Utes – Eastern Washington Eagles</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573556__/</url>
-  </evento>
-  <evento>
-    <nombre>Tulane Green Wave – Portland Vikings</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:30</hora>
-    <url>https://livetv.sx/es/eventinfo/325573557__/</url>
-  </evento>
-  <evento>
-    <nombre>Duke Blue Devils – Texas Tech Red Raiders</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573559__/</url>
-  </evento>
-  <evento>
-    <nombre>Colorado Buffaloes – Stanford Cardinal</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573560__/</url>
-  </evento>
-  <evento>
-    <nombre>St Thomas Tommies – Riverside Highlanders</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573561__/</url>
-  </evento>
-  <evento>
-    <nombre>Rutgers Scarlet Knights – Penn Quakers</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573562__/</url>
-  </evento>
-  <evento>
-    <nombre>Texas Tech Red Raiders – Duke Blue Devils</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573563__/</url>
-  </evento>
-  <evento>
-    <nombre>California Baptist Lancers – Sacramento Hornets</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/325573564__/</url>
-  </evento>
-  <evento>
-    <nombre>Texas Corpus Christi – Southwestern Adventist</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:30</hora>
-    <url>https://livetv.sx/es/eventinfo/326863397__/</url>
-  </evento>
-  <evento>
-    <nombre>Creighton Bluejays – Marquette Golden Eagles</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:30</hora>
-    <url>https://livetv.sx/es/eventinfo/325573539__/</url>
-  </evento>
-  <evento>
-    <nombre>Golden State – Phoenix</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:30</hora>
-    <url>https://livetv.sx/es/eventinfo/324785316__/</url>
+    <hora>22:30</hora>
+    <url>https://livetv.sx/es/eventinfo/325013592__/</url>
   </evento>
   <evento>
     <nombre>Georgetown Hoyas – Xavier Musketeers</nombre>
@@ -5031,14 +4511,6 @@
     <fecha>21 de diciembre</fecha>
     <hora>03:30</hora>
     <url>https://livetv.sx/es/eventinfo/325573558__/</url>
-  </evento>
-  <evento>
-    <nombre>Southside Flyers (M) –  Bendigo Spirit (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Australia. Mujeres. WNBL</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>03:30</hora>
-    <url>https://livetv.sx/es/eventinfo/327652085__/</url>
   </evento>
   <evento>
     <nombre>Pepperdine Waves – Rice Owls</nombre>
@@ -5065,28 +4537,12 @@
     <url>https://livetv.sx/es/eventinfo/325573565__/</url>
   </evento>
   <evento>
-    <nombre>Utah – Orlando</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>04:30</hora>
-    <url>https://livetv.sx/es/eventinfo/324799268__/</url>
-  </evento>
-  <evento>
     <nombre>Nevada Wolf Pack – Boise Broncos</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
     <fecha>21 de diciembre</fecha>
     <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/325573525__/</url>
-  </evento>
-  <evento>
-    <nombre>LA Clippers – LA Lakers</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>05:30</hora>
-    <url>https://livetv.sx/es/eventinfo/324811655__/</url>
   </evento>
   <evento>
     <nombre>Tasmania JackJumpers – Perth Wildcats</nombre>
@@ -6375,14 +5831,6 @@
     <fecha>21 de diciembre</fecha>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/325573609__/</url>
-  </evento>
-  <evento>
-    <nombre>Atlanta – Chicago</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>22:30</hora>
-    <url>https://livetv.sx/es/eventinfo/325013592__/</url>
   </evento>
   <evento>
     <nombre>Salt Lake City Stars – Stockton Kings</nombre>
@@ -8313,6 +7761,14 @@
     <url>https://livetv.sx/es/eventinfo/325950445__/</url>
   </evento>
   <evento>
+    <nombre>Denver – Minnesota</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>26 de diciembre</fecha>
+    <hora>05:30</hora>
+    <url>https://livetv.sx/es/eventinfo/325975643__/</url>
+  </evento>
+  <evento>
     <nombre>Learner Tien – Alexander Blockx</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Next Gen Finals. Yeda</competicion>
@@ -8321,20 +7777,20 @@
     <url>https://livetv.sx/es/eventinfo/328032918__/</url>
   </evento>
   <evento>
-    <nombre>Sao Jose – SESI Bauru</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Brasil. Superliga</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/324760074__/</url>
-  </evento>
-  <evento>
     <nombre>Melilla – San Roque Batán</nombre>
     <deporte>Voleibol</deporte>
     <competicion>España. Superliga</competicion>
     <fecha>21 de diciembre</fecha>
     <hora>13:00</hora>
     <url>https://livetv.sx/es/eventinfo/324879295__/</url>
+  </evento>
+  <evento>
+    <nombre>Cuprum Lubin – Jastrzebski Wegiel</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Polonia. PlusLiga</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>15:45</hora>
+    <url>https://livetv.sx/es/eventinfo/324617473__/</url>
   </evento>
   <evento>
     <nombre>Goias – Minas</nombre>
@@ -8479,14 +7935,6 @@
     <fecha>21 de diciembre</fecha>
     <hora>15:00</hora>
     <url>https://livetv.sx/es/eventinfo/327263463_podillya_khmelnytskyi_mhp_vinnytsia/</url>
-  </evento>
-  <evento>
-    <nombre>Cuprum Lubin – Jastrzebski Wegiel</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Polonia. PlusLiga</competicion>
-    <fecha>21 de diciembre</fecha>
-    <hora>15:45</hora>
-    <url>https://livetv.sx/es/eventinfo/324617473__/</url>
   </evento>
   <evento>
     <nombre>PAOK – Flisvos</nombre>
@@ -8735,6 +8183,14 @@
     <fecha>24 de diciembre</fecha>
     <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/326263620__/</url>
+  </evento>
+  <evento>
+    <nombre>Bare Knuckle</nombre>
+    <deporte>Boxeo</deporte>
+    <competicion>Bare-knuckle boxing</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/327568773_bare_knuckle/</url>
   </evento>
   <evento>
     <nombre>NTNUИ – Roa</nombre>
@@ -9023,6 +8479,14 @@
     <fecha>21 de diciembre</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/327735112__/</url>
+  </evento>
+  <evento>
+    <nombre>Gmina Kobierzyce (M) –  Ruch Chorzow (M)</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Polonia. Mujeres. Ekstraklasa</competicion>
+    <fecha>21 de diciembre</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328143738__/</url>
   </evento>
   <evento>
     <nombre>RSU (W) – Latgols (W)</nombre>
