@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-12-22 10:30:19" total="713">
+<eventos generado="2025-12-22 11:24:32" total="744">
   <evento>
     <nombre>Sydney Thunder –  Brisbane Heat</nombre>
     <deporte>Fútbol</deporte>
@@ -9,28 +9,20 @@
     <url>https://livetv.sx/es/eventinfo/327910056_sydney_thunder_brisbane_heat/</url>
   </evento>
   <evento>
-    <nombre>Brisbane Bullets –  NZ Breakers</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Australia. NBL</competicion>
-    <fecha>22 de diciembre</fecha>
-    <hora>99:85</hora>
-    <url>https://livetv.sx/es/eventinfo/325139535_brisbane_bullets_nz_breakers/</url>
-  </evento>
-  <evento>
-    <nombre>Copa del Mundo, Alta Badia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Esquí alpino</competicion>
-    <fecha>22 de diciembre</fecha>
-    <hora>10:45</hora>
-    <url>https://livetv.sx/es/eventinfo/328243413_copa_del_mundo_alta_badia/</url>
-  </evento>
-  <evento>
     <nombre>Dynamo Vladivostok –  Barnaul</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Rusia. Superliga</competicion>
     <fecha>22 de diciembre</fecha>
-    <hora>54:46</hora>
+    <hora>88:87</hora>
     <url>https://livetv.sx/es/eventinfo/325147985_dynamo_vladivostok_barnaul/</url>
+  </evento>
+  <evento>
+    <nombre>Astana –  Zhas Berel</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>22 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428522_astana_zhas_berel/</url>
   </evento>
   <evento>
     <nombre>Portimonense Sub-23 –   Farense Sub-23</nombre>
@@ -87,6 +79,22 @@
     <fecha>22 de diciembre</fecha>
     <hora>13:30</hora>
     <url>https://livetv.sx/es/eventinfo/325160736_kuznezkie_medvedi_chaika/</url>
+  </evento>
+  <evento>
+    <nombre>Kostanay –  Turan</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>22 de diciembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/328428585_kostanay_turan/</url>
+  </evento>
+  <evento>
+    <nombre>Kuanysh (M) –   Aktobe (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Kazajistán. Mujeres. Copa</competicion>
+    <fecha>22 de diciembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/328428617__kuanysh_m__aktobe_m/</url>
   </evento>
   <evento>
     <nombre>Sichuan Blue Whales –  Beijing Ducks</nombre>
@@ -151,14 +159,6 @@
     <fecha>22 de diciembre</fecha>
     <hora>14:30</hora>
     <url>https://livetv.sx/es/eventinfo/325167493_omskiye_yastreby_irbis/</url>
-  </evento>
-  <evento>
-    <nombre>Campeonato Mundial</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>22 de diciembre</fecha>
-    <hora>14:30</hora>
-    <url>https://livetv.sx/es/eventinfo/328247377_campeonato_mundial/</url>
   </evento>
   <evento>
     <nombre>Basaksehir – Gaziantep</nombre>
@@ -367,6 +367,14 @@
     <fecha>22 de diciembre</fecha>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/327671539__/</url>
+  </evento>
+  <evento>
+    <nombre>Etehad Al-Reef – Al Tadamun Buri</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bahréin. Copa</competicion>
+    <fecha>22 de diciembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328423469__/</url>
   </evento>
   <evento>
     <nombre>Panserraikos – Levadiakos</nombre>
@@ -1327,6 +1335,22 @@
     <fecha>27 de diciembre</fecha>
     <hora>10:35</hora>
     <url>https://livetv.sx/es/eventinfo/326256662__/</url>
+  </evento>
+  <evento>
+    <nombre>Sivasspor – Bandirmaspor</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. 1 Lig</competicion>
+    <fecha>27 de diciembre</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/326271731__/</url>
+  </evento>
+  <evento>
+    <nombre>Sariyer – Bodrumspor</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. 1 Lig</competicion>
+    <fecha>27 de diciembre</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/326271732__/</url>
   </evento>
   <evento>
     <nombre>Metallurg Mg – Neftekhimik</nombre>
@@ -3297,6 +3321,14 @@
     <url>https://livetv.sx/es/eventinfo/326267248__/</url>
   </evento>
   <evento>
+    <nombre>Final Spor – Ankaragucu</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Turquía. TBL</competicion>
+    <fecha>22 de diciembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326908878_final_spor_ankaragucu/</url>
+  </evento>
+  <evento>
     <nombre>Esenler Erokspor – Buyukcekmece</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Turquía. BSL</competicion>
@@ -3311,14 +3343,6 @@
     <fecha>22 de diciembre</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/325200116__/</url>
-  </evento>
-  <evento>
-    <nombre>Goztepe – CO Basket</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Turquía. TBL</competicion>
-    <fecha>22 de diciembre</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/326908889_goztepe_co_basket/</url>
   </evento>
   <evento>
     <nombre>Cluj Napoca – Split</nombre>
@@ -3377,14 +3401,6 @@
     <url>https://livetv.sx/es/eventinfo/325279749__/</url>
   </evento>
   <evento>
-    <nombre>Brisbane Bullets – NZ Breakers</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Australia. NBL</competicion>
-    <fecha>22 de diciembre</fecha>
-    <hora>10:30</hora>
-    <url>https://livetv.sx/es/eventinfo/325139535__/</url>
-  </evento>
-  <evento>
     <nombre>Dynamo Vladivostok – Barnaul</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Rusia. Superliga</competicion>
@@ -3431,14 +3447,6 @@
     <fecha>22 de diciembre</fecha>
     <hora>15:30</hora>
     <url>https://livetv.sx/es/eventinfo/326908877_emlak_konut_gelisim_2_w_samsun_w/</url>
-  </evento>
-  <evento>
-    <nombre>Final Spor – Ankaragucu</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Turquía. TBL</competicion>
-    <fecha>22 de diciembre</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/326908878_final_spor_ankaragucu/</url>
   </evento>
   <evento>
     <nombre>iLab – Gaziantep BB</nombre>
@@ -3551,6 +3559,14 @@
     <fecha>22 de diciembre</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/326908880_turk_telekom_2_etimesgut/</url>
+  </evento>
+  <evento>
+    <nombre>Goztepe – CO Basket</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Turquía. TBL</competicion>
+    <fecha>22 de diciembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326908889_goztepe_co_basket/</url>
   </evento>
   <evento>
     <nombre>Vilniaus Perlas – Vilniaus Stekas</nombre>
@@ -3793,6 +3809,14 @@
     <url>https://livetv.sx/es/eventinfo/325573648__/</url>
   </evento>
   <evento>
+    <nombre>Raptors 905 – Salt Lake City Stars</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NBA. G League</competicion>
+    <fecha>23 de diciembre</fecha>
+    <hora>01:30</hora>
+    <url>https://livetv.sx/es/eventinfo/328428482_raptors_905_salt_lake_city_stars/</url>
+  </evento>
+  <evento>
     <nombre>Temple Owls – Princeton Tigers</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -4007,6 +4031,14 @@
     <fecha>23 de diciembre</fecha>
     <hora>04:00</hora>
     <url>https://livetv.sx/es/eventinfo/325573670__/</url>
+  </evento>
+  <evento>
+    <nombre>Norfolk Spartans – Irvine Anteaters</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>23 de diciembre</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328424239__/</url>
   </evento>
   <evento>
     <nombre>Denver – Utah</nombre>
@@ -5457,6 +5489,22 @@
     <url>https://livetv.sx/es/eventinfo/324609662__/</url>
   </evento>
   <evento>
+    <nombre>Kuanysh (M) –  Aktobe (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Mujeres. Copa</competicion>
+    <fecha>22 de diciembre</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/328428617__/</url>
+  </evento>
+  <evento>
+    <nombre>Ertis – Kaisar</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>22 de diciembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428586_ertis_kaisar/</url>
+  </evento>
+  <evento>
     <nombre>Tijuca (M) –  Playa Club (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Brasil. Mujeres. Superliga</competicion>
@@ -5471,6 +5519,46 @@
     <fecha>23 de diciembre</fecha>
     <hora>02:00</hora>
     <url>https://livetv.sx/es/eventinfo/325269686__/</url>
+  </evento>
+  <evento>
+    <nombre>Turan – Ulutau</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>23 de diciembre</fecha>
+    <hora>07:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428587_turan_ulutau/</url>
+  </evento>
+  <evento>
+    <nombre>Zhas Berel – Ertis</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>23 de diciembre</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428588_zhas_berel_ertis/</url>
+  </evento>
+  <evento>
+    <nombre>Shymkent – Astana</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>23 de diciembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428589_shymkent_astana/</url>
+  </evento>
+  <evento>
+    <nombre>Mangystau – Abay</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>23 de diciembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428590_mangystau_abay/</url>
+  </evento>
+  <evento>
+    <nombre>Kaisar – Kostanay</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>23 de diciembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428591_kaisar_kostanay/</url>
   </evento>
   <evento>
     <nombre>CHKS Chelm – Olsztyn</nombre>
@@ -5529,6 +5617,22 @@
     <url>https://livetv.sx/es/eventinfo/325394933__/</url>
   </evento>
   <evento>
+    <nombre>Chieri (M) –  Novara (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Italia. Mujeres. Serie A</competicion>
+    <fecha>23 de diciembre</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/328426566__/</url>
+  </evento>
+  <evento>
+    <nombre>Vallefoglia (M) –  Vero Volley Milán (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Italia. Mujeres. Serie A</competicion>
+    <fecha>23 de diciembre</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328426567__/</url>
+  </evento>
+  <evento>
     <nombre>LKPS Lublino – Projekt Warszawa</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Polonia. PlusLiga</competicion>
@@ -5537,12 +5641,124 @@
     <url>https://livetv.sx/es/eventinfo/323828335__/</url>
   </evento>
   <evento>
+    <nombre>Scandicci (M) –  Cuneo (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Italia. Mujeres. Serie A</competicion>
+    <fecha>23 de diciembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/328426568__/</url>
+  </evento>
+  <evento>
+    <nombre>Pinerolo (M) –  Perugia (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Italia. Mujeres. Serie A</competicion>
+    <fecha>23 de diciembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/328426569__/</url>
+  </evento>
+  <evento>
+    <nombre>Zanetti (M) –  UYBA Busto Arsizio (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Italia. Mujeres. Serie A</competicion>
+    <fecha>23 de diciembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/328426570__/</url>
+  </evento>
+  <evento>
+    <nombre>Helvia Rechina (M) –  Bisonte Florencia (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Italia. Mujeres. Serie A</competicion>
+    <fecha>23 de diciembre</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/328426571__/</url>
+  </evento>
+  <evento>
     <nombre>Akkus Bld – Ziraat Bankasy</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Turquía. Efeler Ligi</competicion>
     <fecha>24 de diciembre</fecha>
     <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/326263620__/</url>
+  </evento>
+  <evento>
+    <nombre>Astana – Mangystau</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>25 de diciembre</fecha>
+    <hora>07:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428592_astana_mangystau/</url>
+  </evento>
+  <evento>
+    <nombre>Ulutau – Abay</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>25 de diciembre</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428593_ulutau_abay/</url>
+  </evento>
+  <evento>
+    <nombre>Ertis – Shymkent</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>25 de diciembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428594_ertis_shymkent/</url>
+  </evento>
+  <evento>
+    <nombre>Kostanay – Zhas Berel</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>25 de diciembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428595_kostanay_zhas_berel/</url>
+  </evento>
+  <evento>
+    <nombre>Turan – Kaisar</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>25 de diciembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428596_turan_kaisar/</url>
+  </evento>
+  <evento>
+    <nombre>Shymkent – Kostanay</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>26 de diciembre</fecha>
+    <hora>07:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428597_shymkent_kostanay/</url>
+  </evento>
+  <evento>
+    <nombre>Abay – Astana</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>26 de diciembre</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428598_abay_astana/</url>
+  </evento>
+  <evento>
+    <nombre>Mangystau – Ertis</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>26 de diciembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428599_mangystau_ertis/</url>
+  </evento>
+  <evento>
+    <nombre>Zhas Berel – Turan</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>26 de diciembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428600_zhas_berel_turan/</url>
+  </evento>
+  <evento>
+    <nombre>Kaisar – Ulutau</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>26 de diciembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428601_kaisar_ulutau/</url>
   </evento>
   <evento>
     <nombre>Lube – Piacenza</nombre>
@@ -5591,6 +5807,46 @@
     <fecha>26 de diciembre</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/326084703__/</url>
+  </evento>
+  <evento>
+    <nombre>Ertis – Abay</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>27 de diciembre</fecha>
+    <hora>07:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428602_ertis_abay/</url>
+  </evento>
+  <evento>
+    <nombre>Kostanay – Mangystau</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>27 de diciembre</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428603_kostanay_mangystau/</url>
+  </evento>
+  <evento>
+    <nombre>Ulutau – Astana</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>27 de diciembre</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428604_ulutau_astana/</url>
+  </evento>
+  <evento>
+    <nombre>Turan – Shymkent</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>27 de diciembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328428605_turan_shymkent/</url>
+  </evento>
+  <evento>
+    <nombre>Gaziantep – Cizre Bld</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Turquía. Efeler Ligi</competicion>
+    <fecha>27 de diciembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326276070__/</url>
   </evento>
   <evento>
     <nombre>Serbia – España</nombre>
@@ -5687,14 +5943,6 @@
     <fecha>26 de diciembre</fecha>
     <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/326079425__/</url>
-  </evento>
-  <evento>
-    <nombre>Copa del Mundo, Alta Badia</nombre>
-    <deporte>Deporte_18</deporte>
-    <competicion>Esquí alpino</competicion>
-    <fecha>22 de diciembre</fecha>
-    <hora>10:45</hora>
-    <url>https://livetv.sx/es/eventinfo/328243413_world_cup_alta_badia/</url>
   </evento>
   <evento>
     <nombre>Copa del Mundo, Alta Badia</nombre>
