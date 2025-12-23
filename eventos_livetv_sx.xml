@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-12-23 09:32:19" total="905">
-  <evento>
-    <nombre>Townsville Fire (M) –   Sydney Flames (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Australia. Mujeres. WNBL</competicion>
-    <fecha>23 de diciembre</fecha>
-    <hora>67:59</hora>
-    <url>https://livetv.sx/es/eventinfo/328167267__townsville_fire_m__sydney_flames_m/</url>
-  </evento>
+<eventos generado="2025-12-23 10:31:33" total="910">
   <evento>
     <nombre>Melbourne City –  Macarthur</nombre>
     <deporte>Fútbol</deporte>
@@ -69,7 +61,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Australia. NBL</competicion>
     <fecha>23 de diciembre</fecha>
-    <hora>21:24</hora>
+    <hora>47:63</hora>
     <url>https://livetv.sx/es/eventinfo/325336253_melbourne_united_tasmania_jackjumpers/</url>
   </evento>
   <evento>
@@ -109,7 +101,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Australia. Mujeres. WNBL</competicion>
     <fecha>23 de diciembre</fecha>
-    <hora>12:00</hora>
+    <hora>32:22</hora>
     <url>https://livetv.sx/es/eventinfo/328180544__perth_lynx_m__canberra_capitals_m/</url>
   </evento>
   <evento>
@@ -159,6 +151,14 @@
     <fecha>23 de diciembre</fecha>
     <hora>13:00</hora>
     <url>https://livetv.sx/es/eventinfo/328428590_mangystau_abay/</url>
+  </evento>
+  <evento>
+    <nombre>Phrae –  Songkhla</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Tailandia. Thai League 2</competicion>
+    <fecha>23 de diciembre</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328430819_phrae_songkhla/</url>
   </evento>
   <evento>
     <nombre>Al-Hussein – Ahal</nombre>
@@ -239,14 +239,6 @@
     <fecha>23 de diciembre</fecha>
     <hora>22:45</hora>
     <url>https://livetv.sx/es/eventinfo/325432698__/</url>
-  </evento>
-  <evento>
-    <nombre>Melbourne City – Macarthur</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Australia. A-League</competicion>
-    <fecha>23 de diciembre</fecha>
-    <hora>10:15</hora>
-    <url>https://livetv.sx/es/eventinfo/325332866__/</url>
   </evento>
   <evento>
     <nombre>Bashundhara Kings – Mohammedan</nombre>
@@ -1577,6 +1569,14 @@
     <url>https://livetv.sx/es/eventinfo/326572840__/</url>
   </evento>
   <evento>
+    <nombre>Serik Belediyespor – Boluspor</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. 1 Lig</competicion>
+    <fecha>28 de diciembre</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/326594543__/</url>
+  </evento>
+  <evento>
     <nombre>Sibir – Avtomobilist</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -2425,14 +2425,6 @@
     <url>https://livetv.sx/es/eventinfo/325587863__/</url>
   </evento>
   <evento>
-    <nombre>Lokomotiv Orsha – Shakhtyor Sl</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Bielorrusia. Extraliga</competicion>
-    <fecha>24 de diciembre</fecha>
-    <hora>16:55</hora>
-    <url>https://livetv.sx/es/eventinfo/325590141__/</url>
-  </evento>
-  <evento>
     <nombre>CSK VVS – Gvardia</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. NMHL</competicion>
@@ -2447,6 +2439,14 @@
     <fecha>24 de diciembre</fecha>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/328593468__/</url>
+  </evento>
+  <evento>
+    <nombre>Dinamo-Molodechno – Brest</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Bielorrusia. Extraliga</competicion>
+    <fecha>24 de diciembre</fecha>
+    <hora>17:55</hora>
+    <url>https://livetv.sx/es/eventinfo/325616359__/</url>
   </evento>
   <evento>
     <nombre>Akademiya SKA-Yunior – JHC Atlant</nombre>
@@ -2471,6 +2471,14 @@
     <fecha>24 de diciembre</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/328593470__/</url>
+  </evento>
+  <evento>
+    <nombre>Lokomotiv Orsha – Shakhtyor Sl</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Bielorrusia. Extraliga</competicion>
+    <fecha>24 de diciembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/325590141__/</url>
   </evento>
   <evento>
     <nombre>Slavutych – Mogilev</nombre>
@@ -2535,14 +2543,6 @@
     <fecha>24 de diciembre</fecha>
     <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/325606232__/</url>
-  </evento>
-  <evento>
-    <nombre>Dinamo-Molodechno – Brest</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Bielorrusia. Extraliga</competicion>
-    <fecha>24 de diciembre</fecha>
-    <hora>19:10</hora>
-    <url>https://livetv.sx/es/eventinfo/325616359__/</url>
   </evento>
   <evento>
     <nombre>Chelmet – Zvezda Moscú</nombre>
@@ -3353,6 +3353,14 @@
     <url>https://livetv.sx/es/eventinfo/326278981__/</url>
   </evento>
   <evento>
+    <nombre>Odeshchina – Kremenchuk</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Ucrania. UHL</competicion>
+    <fecha>27 de diciembre</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328599674__/</url>
+  </evento>
+  <evento>
     <nombre>Irtysh Pavlodar – Nomad</nombre>
     <deporte>Hockey</deporte>
     <competicion>Kazajistán. Campeonato</competicion>
@@ -4057,6 +4065,38 @@
     <url>https://livetv.sx/es/eventinfo/326582938__/</url>
   </evento>
   <evento>
+    <nombre>JHC Spartak – Krasnaya Armiya</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>28 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326590504__/</url>
+  </evento>
+  <evento>
+    <nombre>Krasnoyarskiye Rysi – Snezhnye Barsy</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>28 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326590506__/</url>
+  </evento>
+  <evento>
+    <nombre>JHC Dynamo SPb – JHC Atlant</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>28 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326590507__/</url>
+  </evento>
+  <evento>
+    <nombre>Krylia Sovetov – Mikhailov Academy</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>28 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326590508__/</url>
+  </evento>
+  <evento>
     <nombre>ASVEL – Anadolu Efes</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Euroliga</competicion>
@@ -4135,14 +4175,6 @@
     <fecha>24 de diciembre</fecha>
     <hora>03:30</hora>
     <url>https://livetv.sx/es/eventinfo/325479389__/</url>
-  </evento>
-  <evento>
-    <nombre>Townsville Fire (M) –  Sydney Flames (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Australia. Mujeres. WNBL</competicion>
-    <fecha>23 de diciembre</fecha>
-    <hora>10:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328167267__/</url>
   </evento>
   <evento>
     <nombre>Melbourne United – Tasmania JackJumpers</nombre>
@@ -6527,6 +6559,14 @@
     <fecha>28 de diciembre</fecha>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/328443295_new_taipei_kings_kaohsiung_aquas/</url>
+  </evento>
+  <evento>
+    <nombre>CO Basket – Final Spor</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Turquía. TBL</competicion>
+    <fecha>28 de diciembre</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328443360_co_basket_final_spor/</url>
   </evento>
   <evento>
     <nombre>Belinda Bencic – Xinyu Wang</nombre>
