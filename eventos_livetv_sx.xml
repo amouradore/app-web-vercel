@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-12-27 06:39:55" total="1253">
-  <evento>
-    <nombre>Australia –  Inglaterra</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>The Ashes</competicion>
-    <fecha>27 de diciembre</fecha>
-    <hora>01:30</hora>
-    <url>https://livetv.sx/es/eventinfo/329116253_australia_inglaterra/</url>
-  </evento>
+<eventos generado="2025-12-27 07:24:46" total="1253">
   <evento>
     <nombre>Central Hinds (W) –  Wellington Blaze (W)</nombre>
     <deporte>Fútbol</deporte>
@@ -29,7 +21,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Japón. B1.League</competicion>
     <fecha>27 de diciembre</fecha>
-    <hora>52:65</hora>
+    <hora>07:00</hora>
     <url>https://livetv.sx/es/eventinfo/326909847_ryukyu_golden_kings_sendai_89ers/</url>
   </evento>
   <evento>
@@ -37,7 +29,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Japón. B1.League</competicion>
     <fecha>27 de diciembre</fecha>
-    <hora>71:47</hora>
+    <hora>07:05</hora>
     <url>https://livetv.sx/es/eventinfo/326909848_levanga_hokkaido_kyoto_hannaryz/</url>
   </evento>
   <evento>
@@ -93,7 +85,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Rusia. Superliga</competicion>
     <fecha>27 de diciembre</fecha>
-    <hora>09:00</hora>
+    <hora>28:27</hora>
     <url>https://livetv.sx/es/eventinfo/326242700_dynamo_vladivostok_novosibirsk/</url>
   </evento>
   <evento>
@@ -126,7 +118,7 @@
     <competicion>Torneo amistoso</competicion>
     <fecha>27 de diciembre</fecha>
     <hora>09:30</hora>
-    <url>https://livetv.sx/es/eventinfo/329067282_shang_jeala_a_mensik_jandreeva_m/</url>
+    <url>https://livetv.sx/es/eventinfo/329256434_shang_jeala_a_mensik_jandreeva_m/</url>
   </evento>
   <evento>
     <nombre>Tyumensky Legion –  Loko-76</nombre>
@@ -159,6 +151,14 @@
     <fecha>27 de diciembre</fecha>
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/326251017_magnitka_zvezda_mosc__/</url>
+  </evento>
+  <evento>
+    <nombre>Canberra Capitals (M) –   Sydney Flames (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Mujeres. WNBL</competicion>
+    <fecha>27 de diciembre</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328715418__canberra_capitals_m__sydney_flames_m/</url>
   </evento>
   <evento>
     <nombre>Parma – Fiorentina</nombre>
@@ -271,14 +271,6 @@
     <fecha>27 de diciembre</fecha>
     <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/326240088__/</url>
-  </evento>
-  <evento>
-    <nombre>Shang J./Eala A. – Mensik J./Andreeva M.</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Torneo amistoso</competicion>
-    <fecha>27 de diciembre</fecha>
-    <hora>09:30</hora>
-    <url>https://livetv.sx/es/eventinfo/329067282_shang_j_eala_a_mensik_j_andreeva_m/</url>
   </evento>
   <evento>
     <nombre>Brothers Union – Fortis</nombre>
@@ -9177,6 +9169,14 @@
     <url>https://livetv.sx/es/eventinfo/327333689__/</url>
   </evento>
   <evento>
+    <nombre>Shang J./Eala A. – Mensik J./Andreeva M.</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Torneo amistoso</competicion>
+    <fecha>27 de diciembre</fecha>
+    <hora>09:30</hora>
+    <url>https://livetv.sx/es/eventinfo/329256434_shang_j_eala_a_mensik_j_andreeva_m/</url>
+  </evento>
+  <evento>
     <nombre>Jack Draper – Jakub Mensik</nombre>
     <deporte>Tenis</deporte>
     <competicion>Torneo amistoso</competicion>
@@ -9641,20 +9641,20 @@
     <url>https://livetv.sx/es/eventinfo/326648730__/</url>
   </evento>
   <evento>
-    <nombre>NTNUИ – Sarpsborg</nombre>
+    <nombre>NTNUI – Sarpsborg</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Noruega. Elitserien</competicion>
     <fecha>28 de diciembre</fecha>
     <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328768183_ntnu_sarpsborg/</url>
+    <url>https://livetv.sx/es/eventinfo/328768183_ntnui_sarpsborg/</url>
   </evento>
   <evento>
-    <nombre>Stabaek – NTNUИ</nombre>
+    <nombre>Stabaek – NTNUI</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Noruega. Elitserien</competicion>
     <fecha>30 de diciembre</fecha>
     <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328768184_stabaek_ntnu/</url>
+    <url>https://livetv.sx/es/eventinfo/328768184_stabaek_ntnui/</url>
   </evento>
   <evento>
     <nombre>Desna-Belintech – Kharkiv</nombre>
