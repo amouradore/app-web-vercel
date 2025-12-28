@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2025-12-28 16:45:17" total="332">
+<eventos generado="2025-12-28 17:13:59" total="332">
   <evento id="1">
     <nombre>Buyukcekmece –  Bursaspor</nombre>
     <deporte>Fútbol</deporte>
@@ -76,14 +76,7 @@
     <hora>26:28</hora>
     <url>https://livetv.sx/es/eventinfo/329097264__koszalin_m__gmina_kobierzyce_m/</url>
     <datetime_iso>2025-12-28T00:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c97a58a9d84847a85979d8f98888c.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/8.png</idioma>
-        <idioma_nombre>Portugués (Portugal)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915753&amp;lang=es&amp;eid=329097264&amp;lid=2915753&amp;ci=1810&amp;si=13</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="6">
     <nombre>Galychanka (M) –   Gniezno (M)</nombre>
@@ -93,14 +86,7 @@
     <hora>30:26</hora>
     <url>https://livetv.sx/es/eventinfo/329097265__galychanka_m__gniezno_m/</url>
     <datetime_iso>2025-12-28T00:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/mvDmzpJh9bI?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/3.png</idioma>
-        <idioma_nombre>Español</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=mvDmzpJh9bI&amp;lang=es&amp;eid=329097265&amp;lid=2915726&amp;ci=1810&amp;si=13</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="7">
     <nombre>Bisons –  Kouvot</nombre>
@@ -197,50 +183,20 @@
     <hora>13:00</hora>
     <url>https://livetv.sx/es/eventinfo/328643525_campeonato_mundial/</url>
     <datetime_iso>2025-12-28T13:00:00</datetime_iso>
-    <streams total="8">
+    <streams total="3">
       <stream id="1">
-        <url>https://www.youtube.com/embed/1l8OXSymDRk?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=1l8OXSymDRk&amp;lang=es&amp;eid=328643525&amp;lid=2915687&amp;ci=1158&amp;si=47</enlace_original>
-      </stream>
-      <stream id="2">
         <url>https://www.youtube.com/embed/3TEivyb8xmA?autoplay=1</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=3TEivyb8xmA&amp;lang=es&amp;eid=328643525&amp;lid=2915686&amp;ci=1158&amp;si=47</enlace_original>
       </stream>
-      <stream id="3">
-        <url>https://www.youtube.com/embed/8P0hk_JrCWc?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=8P0hk_JrCWc&amp;lang=es&amp;eid=328643525&amp;lid=2915685&amp;ci=1158&amp;si=47</enlace_original>
-      </stream>
-      <stream id="4">
+      <stream id="2">
         <url>https://www.youtube.com/embed/aN0r6h5nrhw?autoplay=1</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=aN0r6h5nrhw&amp;lang=es&amp;eid=328643525&amp;lid=2915688&amp;ci=1158&amp;si=47</enlace_original>
       </stream>
-      <stream id="5">
-        <url>https://www.youtube.com/embed/aVvH0XnnVNQ?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=aVvH0XnnVNQ&amp;lang=es&amp;eid=328643525&amp;lid=2915680&amp;ci=1158&amp;si=47</enlace_original>
-      </stream>
-      <stream id="6">
-        <url>https://www.youtube.com/embed/b6MycT9qAJo?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=b6MycT9qAJo&amp;lang=es&amp;eid=328643525&amp;lid=2915679&amp;ci=1158&amp;si=47</enlace_original>
-      </stream>
-      <stream id="7">
-        <url>https://www.youtube.com/embed/BX8xEuf32BU?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=BX8xEuf32BU&amp;lang=es&amp;eid=328643525&amp;lid=2915684&amp;ci=1158&amp;si=47</enlace_original>
-      </stream>
-      <stream id="8">
+      <stream id="3">
         <url>https://www.youtube.com/embed/E0MRV9s--L8?autoplay=1</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
@@ -259,8 +215,8 @@
     <streams total="1">
       <stream id="1">
         <url>https://voodc.com/embed/1/85818c97a58aa08a847a8597a08b988b87.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/12.png</idioma>
+        <idioma_nombre>Turco</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915781&amp;lang=es&amp;eid=326647669&amp;lid=2915781&amp;ci=668&amp;si=3</enlace_original>
       </stream>
     </streams>
@@ -273,28 +229,7 @@
     <hora>14:40</hora>
     <url>https://livetv.sx/es/eventinfo/328431560_campeonato_mundial/</url>
     <datetime_iso>2025-12-28T14:40:00</datetime_iso>
-    <streams total="3">
-      <stream id="1">
-        <url>https://emb.apl385.me/
-player/live.php?id=245220&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
-        <idioma_nombre>Italiano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245220&amp;lang=es&amp;eid=328431560&amp;lid=2912247&amp;ci=259&amp;si=30</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl385.me/
-player/live.php?id=245753&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245753&amp;lang=es&amp;eid=328431560&amp;lid=2914683&amp;ci=259&amp;si=30</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://daddylive4.click/livemy/stream-60.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915119&amp;lang=es&amp;eid=328431560&amp;lid=2915119&amp;ci=259&amp;si=30</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="18">
     <nombre>Section Paloise –  Montpellier</nombre>
@@ -439,14 +374,7 @@ player/live.php?id=245788&amp;w=700&amp;h=480</url>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/326624391_sochi_ska/</url>
     <datetime_iso>2025-12-28T16:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/85818c97a58a9988847a859a9e8e98868d.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915737&amp;lang=es&amp;eid=326624391&amp;lid=2915737&amp;ci=167&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="26">
     <nombre>Pacos de Ferreira –  Farense</nombre>
@@ -496,14 +424,7 @@ player/live.php?id=245788&amp;w=700&amp;h=480</url>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/326625323_akm_buran_voronezh/</url>
     <datetime_iso>2025-12-28T16:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/gYUwA6yhO34?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=gYUwA6yhO34&amp;lang=es&amp;eid=326625323&amp;lid=2913283&amp;ci=418&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="31">
     <nombre>Dziki Varsovia –  Stal Ostrow</nombre>
@@ -583,14 +504,7 @@ player/live.php?id=245788&amp;w=700&amp;h=480</url>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/326637325_boden_piteaa/</url>
     <datetime_iso>2025-12-28T16:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://olimp-video.com/api/broadcast/sportboomcom/13782115</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915741&amp;lang=es&amp;eid=326637325&amp;lid=2915741&amp;ci=2432&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="39">
     <nombre>Lituania U18 (M) –  Letonia U18 (M)</nombre>
@@ -680,14 +594,7 @@ player/live.php?id=245788&amp;w=700&amp;h=480</url>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/326637325__/</url>
     <datetime_iso>2025-12-28T16:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://olimp-video.com/api/broadcast/sportboomcom/13782115</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915741&amp;lang=es&amp;eid=326637325&amp;lid=2915741&amp;ci=2432&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="48">
     <nombre>Slovan – Zvolen</nombre>
@@ -707,14 +614,7 @@ player/live.php?id=245788&amp;w=700&amp;h=480</url>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/326625323__/</url>
     <datetime_iso>2025-12-28T16:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/gYUwA6yhO34?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=gYUwA6yhO34&amp;lang=es&amp;eid=326625323&amp;lid=2913283&amp;ci=418&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="50">
     <nombre>Peristeri – Promitheas</nombre>
@@ -812,22 +712,7 @@ player/live.php?id=245250&amp;w=700&amp;h=480</url>
     <hora>16:10</hora>
     <url>https://livetv.sx/es/eventinfo/329343000_fribourg_hifk/</url>
     <datetime_iso>2025-12-28T16:10:00</datetime_iso>
-    <streams total="2">
-      <stream id="1">
-        <url>https://emb.apl385.me/
-player/live.php?id=245267&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245267&amp;lang=es&amp;eid=329343000&amp;lid=2913003&amp;ci=210&amp;si=2</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl385.me/
-player/live.php?id=245360&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
-        <idioma_nombre>Italiano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245360&amp;lang=es&amp;eid=329343000&amp;lid=2912077&amp;ci=210&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="57">
     <nombre>Dinamo Mn – Dynamo Msk</nombre>
@@ -837,35 +722,7 @@ player/live.php?id=245360&amp;w=700&amp;h=480</url>
     <hora>16:10</hora>
     <url>https://livetv.sx/es/eventinfo/326629860__/</url>
     <datetime_iso>2025-12-28T16:10:00</datetime_iso>
-    <streams total="4">
-      <stream id="1">
-        <url>https://emb.apl385.me/
-player/live.php?id=245243&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245243&amp;lang=es&amp;eid=326629860&amp;lid=2913946&amp;ci=167&amp;si=2</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl385.me/
-player/live.php?id=245245&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/30.png</idioma>
-        <idioma_nombre>Serbio</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245245&amp;lang=es&amp;eid=326629860&amp;lid=2912028&amp;ci=167&amp;si=2</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://emb.apl385.me/
-player/live.php?id=245250&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245250&amp;lang=es&amp;eid=326629860&amp;lid=2914901&amp;ci=167&amp;si=2</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://voodc.com/embed/1/85818c97a58a9a84847a859a9f8998878a.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915743&amp;lang=es&amp;eid=326629860&amp;lid=2915743&amp;ci=167&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="58">
     <nombre>Fribourg – HIFK</nombre>
@@ -875,22 +732,7 @@ player/live.php?id=245250&amp;w=700&amp;h=480</url>
     <hora>16:10</hora>
     <url>https://livetv.sx/es/eventinfo/329343000__/</url>
     <datetime_iso>2025-12-28T16:10:00</datetime_iso>
-    <streams total="2">
-      <stream id="1">
-        <url>https://emb.apl385.me/
-player/live.php?id=245267&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245267&amp;lang=es&amp;eid=329343000&amp;lid=2913003&amp;ci=210&amp;si=2</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl385.me/
-player/live.php?id=245360&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
-        <idioma_nombre>Italiano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245360&amp;lang=es&amp;eid=329343000&amp;lid=2912077&amp;ci=210&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="59">
     <nombre>Rogle –  HV71</nombre>
@@ -900,20 +742,7 @@ player/live.php?id=245360&amp;w=700&amp;h=480</url>
     <hora>16:15</hora>
     <url>https://livetv.sx/es/eventinfo/326631679_rogle_hv71/</url>
     <datetime_iso>2025-12-28T16:15:00</datetime_iso>
-    <streams total="2">
-      <stream id="1">
-        <url>https://daddylive4.click/livemy/stream-704.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915143&amp;lang=es&amp;eid=326631679&amp;lid=2915143&amp;ci=192&amp;si=2</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://lato.sx/ch.php?id=72</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915200&amp;lang=es&amp;eid=326631679&amp;lid=2915200&amp;ci=192&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="60">
     <nombre>Leksand –  Farjestad</nombre>
@@ -923,20 +752,7 @@ player/live.php?id=245360&amp;w=700&amp;h=480</url>
     <hora>16:15</hora>
     <url>https://livetv.sx/es/eventinfo/326631680_leksand_farjestad/</url>
     <datetime_iso>2025-12-28T16:15:00</datetime_iso>
-    <streams total="2">
-      <stream id="1">
-        <url>https://daddylive4.click/livemy/stream-700.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915141&amp;lang=es&amp;eid=326631680&amp;lid=2915141&amp;ci=192&amp;si=2</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://lato.sx/ch.php?id=75</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915203&amp;lang=es&amp;eid=326631680&amp;lid=2915203&amp;ci=192&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="61">
     <nombre>Malmoe –  Frolunda</nombre>
@@ -946,27 +762,7 @@ player/live.php?id=245360&amp;w=700&amp;h=480</url>
     <hora>16:15</hora>
     <url>https://livetv.sx/es/eventinfo/326631681_malmoe_frolunda/</url>
     <datetime_iso>2025-12-28T16:15:00</datetime_iso>
-    <streams total="3">
-      <stream id="1">
-        <url>https://emb.apl385.me/
-player/live.php?id=245794&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245794&amp;lang=es&amp;eid=326631681&amp;lid=2914904&amp;ci=192&amp;si=2</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://lato.sx/ch.php?id=71</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915199&amp;lang=es&amp;eid=326631681&amp;lid=2915199&amp;ci=192&amp;si=2</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://daddylive4.click/livemy/stream-703.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915142&amp;lang=es&amp;eid=326631681&amp;lid=2915142&amp;ci=192&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="62">
     <nombre>Leksand – Farjestad</nombre>
@@ -976,20 +772,7 @@ player/live.php?id=245794&amp;w=700&amp;h=480</url>
     <hora>16:15</hora>
     <url>https://livetv.sx/es/eventinfo/326631680__/</url>
     <datetime_iso>2025-12-28T16:15:00</datetime_iso>
-    <streams total="2">
-      <stream id="1">
-        <url>https://daddylive4.click/livemy/stream-700.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915141&amp;lang=es&amp;eid=326631680&amp;lid=2915141&amp;ci=192&amp;si=2</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://lato.sx/ch.php?id=75</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915203&amp;lang=es&amp;eid=326631680&amp;lid=2915203&amp;ci=192&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="63">
     <nombre>Malmoe – Frolunda</nombre>
@@ -999,27 +782,7 @@ player/live.php?id=245794&amp;w=700&amp;h=480</url>
     <hora>16:15</hora>
     <url>https://livetv.sx/es/eventinfo/326631681__/</url>
     <datetime_iso>2025-12-28T16:15:00</datetime_iso>
-    <streams total="3">
-      <stream id="1">
-        <url>https://emb.apl385.me/
-player/live.php?id=245794&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245794&amp;lang=es&amp;eid=326631681&amp;lid=2914904&amp;ci=192&amp;si=2</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://lato.sx/ch.php?id=71</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915199&amp;lang=es&amp;eid=326631681&amp;lid=2915199&amp;ci=192&amp;si=2</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://daddylive4.click/livemy/stream-703.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915142&amp;lang=es&amp;eid=326631681&amp;lid=2915142&amp;ci=192&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="64">
     <nombre>Rogle – HV71</nombre>
@@ -1029,20 +792,7 @@ player/live.php?id=245794&amp;w=700&amp;h=480</url>
     <hora>16:15</hora>
     <url>https://livetv.sx/es/eventinfo/326631679__/</url>
     <datetime_iso>2025-12-28T16:15:00</datetime_iso>
-    <streams total="2">
-      <stream id="1">
-        <url>https://daddylive4.click/livemy/stream-704.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915143&amp;lang=es&amp;eid=326631679&amp;lid=2915143&amp;ci=192&amp;si=2</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://lato.sx/ch.php?id=72</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915200&amp;lang=es&amp;eid=326631679&amp;lid=2915200&amp;ci=192&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="65">
     <nombre>Linz –  Innsbruck</nombre>
@@ -1052,14 +802,7 @@ player/live.php?id=245794&amp;w=700&amp;h=480</url>
     <hora>16:30</hora>
     <url>https://livetv.sx/es/eventinfo/326628641_linz_innsbruck/</url>
     <datetime_iso>2025-12-28T16:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c97a58a9b86847a859a9f90988887.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
-        <idioma_nombre>Italiano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915744&amp;lang=es&amp;eid=326628641&amp;lid=2915744&amp;ci=221&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="66">
     <nombre>Litvinov –  Ceske Budejovice</nombre>
@@ -1086,14 +829,7 @@ player/live.php?id=245794&amp;w=700&amp;h=480</url>
     <hora>16:30</hora>
     <url>https://livetv.sx/es/eventinfo/326310145_al_duhail_qatar_sc/</url>
     <datetime_iso>2025-12-28T16:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://topembed.pw/channel/BeinSports2%5BArab%5D</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/5.png</idioma>
-        <idioma_nombre>Alemán (Alemania)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915697&amp;lang=es&amp;eid=326310145&amp;lid=2915697&amp;ci=383&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="68">
     <nombre>Al-Sailiya –  Al-Wakrah</nombre>
@@ -1144,14 +880,7 @@ player/live.php?id=245858&amp;w=700&amp;h=480</url>
     <hora>16:30</hora>
     <url>https://livetv.sx/es/eventinfo/326310145__/</url>
     <datetime_iso>2025-12-28T16:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://topembed.pw/channel/BeinSports2%5BArab%5D</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/5.png</idioma>
-        <idioma_nombre>Alemán (Alemania)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915697&amp;lang=es&amp;eid=326310145&amp;lid=2915697&amp;ci=383&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="71">
     <nombre>Al-Sailiya – Al-Wakrah</nombre>
@@ -1171,14 +900,7 @@ player/live.php?id=245858&amp;w=700&amp;h=480</url>
     <hora>16:30</hora>
     <url>https://livetv.sx/es/eventinfo/326628641__/</url>
     <datetime_iso>2025-12-28T16:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c97a58a9b86847a859a9f90988887.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
-        <idioma_nombre>Italiano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915744&amp;lang=es&amp;eid=326628641&amp;lid=2915744&amp;ci=221&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="73">
     <nombre>Litvinov – Ceske Budejovice</nombre>
@@ -1235,27 +957,7 @@ player/live.php?id=245324&amp;w=700&amp;h=480</url>
     <hora>16:50</hora>
     <url>https://livetv.sx/es/eventinfo/326635544__/</url>
     <datetime_iso>2025-12-28T16:50:00</datetime_iso>
-    <streams total="3">
-      <stream id="1">
-        <url>https://emb.apl385.me/
-player/live.php?id=245324&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/35.png</idioma>
-        <idioma_nombre>Bandera #35</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245324&amp;lang=es&amp;eid=326635544&amp;lid=2912118&amp;ci=395&amp;si=3</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://voodc.com/embed/1/85818c97a58a9c88847a859aa087988888.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/35.png</idioma>
-        <idioma_nombre>Bandera #35</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915745&amp;lang=es&amp;eid=326635544&amp;lid=2915745&amp;ci=395&amp;si=3</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://daddylive4.click/livemy/stream-103.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/35.png</idioma>
-        <idioma_nombre>Bandera #35</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915086&amp;lang=es&amp;eid=326635544&amp;lid=2915086&amp;ci=395&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="76">
     <nombre>Guinea Ecuatorial –  Sudán</nombre>
@@ -1366,35 +1068,7 @@ player/live.php?id=242346&amp;w=700&amp;h=480</url>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/328437365_copa_del_mundo_oberstdorf/</url>
     <datetime_iso>2025-12-28T17:00:00</datetime_iso>
-    <streams total="4">
-      <stream id="1">
-        <url>https://emb.apl385.me/
-player/live.php?id=245291&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/11.png</idioma>
-        <idioma_nombre>Alemán</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245291&amp;lang=es&amp;eid=328437365&amp;lid=2912024&amp;ci=403&amp;si=18</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl385.me/
-player/live.php?id=245526&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
-        <idioma_nombre>Italiano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245526&amp;lang=es&amp;eid=328437365&amp;lid=2913077&amp;ci=403&amp;si=18</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://emb.apl385.me/
-player/live.php?id=245760&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245760&amp;lang=es&amp;eid=328437365&amp;lid=2914689&amp;ci=403&amp;si=18</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://daddylive4.click/livemy/stream-32.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915112&amp;lang=es&amp;eid=328437365&amp;lid=2915112&amp;ci=403&amp;si=18</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="80">
     <nombre>Exeter Chiefs –  Leicester Tigers</nombre>
@@ -1475,7 +1149,14 @@ player/live.php?id=245631&amp;w=700&amp;h=480</url>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/329542310_orbi_rustavi/</url>
     <datetime_iso>2025-12-28T17:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/3bzoM485Zoc?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=3bzoM485Zoc&amp;lang=es&amp;eid=329542310&amp;lid=2915792&amp;ci=1726&amp;si=3</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="83">
     <nombre>KeuPa –  Kettera</nombre>
@@ -1791,7 +1472,14 @@ player/live.php?id=245631&amp;w=700&amp;h=480</url>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/329542205_belluno_monge_gerbaudo/</url>
     <datetime_iso>2025-12-28T17:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/2e4LH7-efhk?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/12.png</idioma>
+        <idioma_nombre>Turco</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=2e4LH7-efhk&amp;lang=es&amp;eid=329542205&amp;lid=2913812&amp;ci=6426&amp;si=5</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="102">
     <nombre>Guinea Ecuatorial – Sudán</nombre>
@@ -1868,14 +1556,7 @@ player/live.php?id=242346&amp;w=700&amp;h=480</url>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/327671545__/</url>
     <datetime_iso>2025-12-28T17:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/TJatC44asNU?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/5.png</idioma>
-        <idioma_nombre>Alemán (Alemania)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=TJatC44asNU&amp;lang=es&amp;eid=327671545&amp;lid=2915754&amp;ci=2637&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="104">
     <nombre>Surahammar – Enkoeping</nombre>
@@ -2214,14 +1895,7 @@ player/live.php?id=242346&amp;w=700&amp;h=480</url>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/326647070__/</url>
     <datetime_iso>2025-12-28T17:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/hHl84iTS57c?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/16.png</idioma>
-        <idioma_nombre>Japonés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=hHl84iTS57c&amp;lang=es&amp;eid=326647070&amp;lid=2915746&amp;ci=617&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="124">
     <nombre>Buyukcekmece – Bursaspor</nombre>
@@ -2231,14 +1905,7 @@ player/live.php?id=242346&amp;w=700&amp;h=480</url>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/326332463__/</url>
     <datetime_iso>2025-12-28T17:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://daddylive4.click/my/stream-1010.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/10.png</idioma>
-        <idioma_nombre>Ruso</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2914755&amp;lang=es&amp;eid=326332463&amp;lid=2914755&amp;ci=473&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="125">
     <nombre>Bisons – Kouvot</nombre>
@@ -2268,14 +1935,7 @@ player/live.php?id=242346&amp;w=700&amp;h=480</url>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/326635136__/</url>
     <datetime_iso>2025-12-28T17:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c97a58a9d84847a85979d8a988889.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/12.png</idioma>
-        <idioma_nombre>Turco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915758&amp;lang=es&amp;eid=326635136&amp;lid=2915758&amp;ci=668&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="128">
     <nombre>Orbi – Rustavi</nombre>
@@ -2329,14 +1989,7 @@ player/live.php?id=242346&amp;w=700&amp;h=480</url>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/329542205__/</url>
     <datetime_iso>2025-12-28T17:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/2e4LH7-efhk?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/12.png</idioma>
-        <idioma_nombre>Turco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=2e4LH7-efhk&amp;lang=es&amp;eid=329542205&amp;lid=2913812&amp;ci=6426&amp;si=5</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="132">
     <nombre>Koszalin (M) –  Gmina Kobierzyce (M)</nombre>
@@ -2346,14 +1999,7 @@ player/live.php?id=242346&amp;w=700&amp;h=480</url>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/329097264__/</url>
     <datetime_iso>2025-12-28T17:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c97a58a9d84847a85979d8f98888c.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/8.png</idioma>
-        <idioma_nombre>Portugués (Portugal)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915753&amp;lang=es&amp;eid=329097264&amp;lid=2915753&amp;ci=1810&amp;si=13</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="133">
     <nombre>Galychanka (M) –  Gniezno (M)</nombre>
@@ -2363,14 +2009,7 @@ player/live.php?id=242346&amp;w=700&amp;h=480</url>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/329097265__/</url>
     <datetime_iso>2025-12-28T17:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/mvDmzpJh9bI?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/3.png</idioma>
-        <idioma_nombre>Español</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=mvDmzpJh9bI&amp;lang=es&amp;eid=329097265&amp;lid=2915726&amp;ci=1810&amp;si=13</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="134">
     <nombre>Piotrcovia (M) –  Zaglebie (M)</nombre>
@@ -2380,14 +2019,7 @@ player/live.php?id=242346&amp;w=700&amp;h=480</url>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/329097266__/</url>
     <datetime_iso>2025-12-28T17:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c97a58a9d84847a85979d9098888d.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/8.png</idioma>
-        <idioma_nombre>Portugués (Portugal)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915752&amp;lang=es&amp;eid=329097266&amp;lid=2915752&amp;ci=1810&amp;si=13</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="135">
     <nombre>Copa del Mundo, OberstdorfClasificación</nombre>
@@ -2684,16 +2316,16 @@ player/live.php?id=245708&amp;w=700&amp;h=480</url>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245708&amp;lang=es&amp;eid=326640897&amp;lid=2913969&amp;ci=208&amp;si=2</enlace_original>
       </stream>
       <stream id="2">
-        <url>https://lato.sx/ch.php?id=11</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
-        <idioma_nombre>Italiano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915165&amp;lang=es&amp;eid=326640897&amp;lid=2915165&amp;ci=208&amp;si=2</enlace_original>
-      </stream>
-      <stream id="3">
         <url>https://daddylive4.click/livemy/stream-24.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
         <idioma_nombre>Italiano</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915109&amp;lang=es&amp;eid=326640897&amp;lid=2915109&amp;ci=208&amp;si=2</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://lato.sx/ch.php?id=11</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915165&amp;lang=es&amp;eid=326640897&amp;lid=2915165&amp;ci=208&amp;si=2</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -2998,16 +2630,16 @@ player/live.php?id=245717&amp;w=700&amp;h=480</url>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245717&amp;lang=es&amp;eid=326640894&amp;lid=2913967&amp;ci=208&amp;si=2</enlace_original>
       </stream>
       <stream id="2">
-        <url>https://lato.sx/ch.php?id=14</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
-        <idioma_nombre>Italiano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915168&amp;lang=es&amp;eid=326640894&amp;lid=2915168&amp;ci=208&amp;si=2</enlace_original>
-      </stream>
-      <stream id="3">
         <url>https://daddylive4.click/livemy/stream-23.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
         <idioma_nombre>Italiano</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915108&amp;lang=es&amp;eid=326640894&amp;lid=2915108&amp;ci=208&amp;si=2</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://lato.sx/ch.php?id=14</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915168&amp;lang=es&amp;eid=326640894&amp;lid=2915168&amp;ci=208&amp;si=2</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -3028,16 +2660,16 @@ player/live.php?id=245724&amp;w=700&amp;h=480</url>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245724&amp;lang=es&amp;eid=326640895&amp;lid=2913981&amp;ci=208&amp;si=2</enlace_original>
       </stream>
       <stream id="2">
-        <url>https://daddylive4.click/livemy/stream-21.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
-        <idioma_nombre>Italiano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915106&amp;lang=es&amp;eid=326640895&amp;lid=2915106&amp;ci=208&amp;si=2</enlace_original>
-      </stream>
-      <stream id="3">
         <url>https://lato.sx/ch.php?id=13</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
         <idioma_nombre>Italiano</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915167&amp;lang=es&amp;eid=326640895&amp;lid=2915167&amp;ci=208&amp;si=2</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://daddylive4.click/livemy/stream-21.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915106&amp;lang=es&amp;eid=326640895&amp;lid=2915106&amp;ci=208&amp;si=2</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -4005,17 +3637,17 @@ player/live.php?id=245417&amp;w=700&amp;h=480</url>
       </stream>
       <stream id="7">
         <url>https://emb.apl385.me/
+player/live.php?id=245687&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
+        <idioma_nombre>Coreano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245687&amp;lang=es&amp;eid=326653623&amp;lid=2913858&amp;ci=1&amp;si=1</enlace_original>
+      </stream>
+      <stream id="8">
+        <url>https://emb.apl385.me/
 player/live.php?id=245702&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
         <idioma_nombre>Italiano</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245702&amp;lang=es&amp;eid=326653623&amp;lid=2914865&amp;ci=1&amp;si=1</enlace_original>
-      </stream>
-      <stream id="8">
-        <url>https://emb.apl385.me/
-player/live.php?id=245753&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245753&amp;lang=es&amp;eid=326653623&amp;lid=2914683&amp;ci=1&amp;si=1</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -4145,7 +3777,14 @@ player/live.php?id=245753&amp;w=700&amp;h=480</url>
     <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/326656509__/</url>
     <datetime_iso>2025-12-28T18:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://olimp-video.com/api/broadcast/sportboomcom/13782104</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915802&amp;lang=es&amp;eid=326656509&amp;lid=2915802&amp;ci=2323&amp;si=2</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="216">
     <nombre>Swans Gmunden – Fuerstenfeld Panthers</nombre>
@@ -4246,8 +3885,8 @@ player/live.php?id=242285&amp;w=700&amp;h=480</url>
     <streams total="1">
       <stream id="1">
         <url>https://voodc.com/embed/1/85818c97a58a9988847a859a9f8898868b.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/8.png</idioma>
+        <idioma_nombre>Portugués (Portugal)</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915799&amp;lang=es&amp;eid=326655489&amp;lid=2915799&amp;ci=394&amp;si=5</enlace_original>
       </stream>
     </streams>
@@ -4273,8 +3912,8 @@ player/live.php?id=242285&amp;w=700&amp;h=480</url>
     <streams total="1">
       <stream id="1">
         <url>https://voodc.com/embed/1/85818c97a58b9a86847a8597a38b9885847d.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/8.png</idioma>
+        <idioma_nombre>Portugués (Portugal)</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915798&amp;lang=es&amp;eid=326655491&amp;lid=2915798&amp;ci=394&amp;si=5</enlace_original>
       </stream>
     </streams>
@@ -4324,8 +3963,8 @@ player/live.php?id=245478&amp;w=700&amp;h=480</url>
     <streams total="1">
       <stream id="1">
         <url>https://voodc.com/embed/1/85818c97a58b9984847a8597a18c988d8b.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/15.png</idioma>
+        <idioma_nombre>Chino</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915801&amp;lang=es&amp;eid=326661239&amp;lid=2915801&amp;ci=985&amp;si=3</enlace_original>
       </stream>
     </streams>
@@ -4376,8 +4015,8 @@ player/live.php?id=245549&amp;w=700&amp;h=480</url>
       </stream>
       <stream id="6">
         <url>https://daddylive4.click/livemy/stream-34.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915113&amp;lang=es&amp;eid=328437364&amp;lid=2915113&amp;ci=407&amp;si=18</enlace_original>
       </stream>
     </streams>
@@ -4516,14 +4155,14 @@ player/live.php?id=245794&amp;w=700&amp;h=480</url>
       </stream>
       <stream id="2">
         <url>https://lato.sx/ch.php?id=74</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
+        <idioma_nombre>Sueco</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915202&amp;lang=es&amp;eid=326663608&amp;lid=2915202&amp;ci=192&amp;si=2</enlace_original>
       </stream>
       <stream id="3">
         <url>https://daddylive4.click/livemy/stream-706.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
+        <idioma_nombre>Sueco</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915145&amp;lang=es&amp;eid=326663608&amp;lid=2915145&amp;ci=192&amp;si=2</enlace_original>
       </stream>
     </streams>
@@ -4635,8 +4274,8 @@ player/live.php?id=245794&amp;w=700&amp;h=480</url>
     <streams total="1">
       <stream id="1">
         <url>https://voodc.com/embed/1/85818c97a58b9a86847a8597a3889885847a.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915791&amp;lang=es&amp;eid=326660987&amp;lid=2915791&amp;ci=421&amp;si=3</enlace_original>
       </stream>
     </streams>
@@ -4651,17 +4290,17 @@ player/live.php?id=245794&amp;w=700&amp;h=480</url>
     <datetime_iso>2025-12-28T19:00:00</datetime_iso>
     <streams total="2">
       <stream id="1">
+        <url>https://emb.apl385.me/
+player/live.php?id=245331&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/7.png</idioma>
+        <idioma_nombre>Francés</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245331&amp;lang=es&amp;eid=326661267&amp;lid=2912121&amp;ci=215&amp;si=3</enlace_original>
+      </stream>
+      <stream id="2">
         <url>https://daddylive4.click/livemy/stream-102.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/7.png</idioma>
         <idioma_nombre>Francés</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915085&amp;lang=es&amp;eid=326661267&amp;lid=2915085&amp;ci=215&amp;si=3</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl385.me/
-player/live.php?id=245331&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
-        <idioma_nombre>Coreano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245331&amp;lang=es&amp;eid=326661267&amp;lid=2912121&amp;ci=215&amp;si=3</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -4828,8 +4467,8 @@ player/live.php?id=245549&amp;w=700&amp;h=480</url>
     <streams total="1">
       <stream id="1">
         <url>https://www.youtube.com/embed/o9ux9dEnglc?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/16.png</idioma>
+        <idioma_nombre>Japonés</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=o9ux9dEnglc&amp;lang=es&amp;eid=326660790&amp;lid=2915783&amp;ci=617&amp;si=3</enlace_original>
       </stream>
     </streams>
@@ -4865,8 +4504,8 @@ player/live.php?id=245549&amp;w=700&amp;h=480</url>
     <streams total="1">
       <stream id="1">
         <url>https://www.youtube.com/embed/M9_LXUNfVdQ?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/12.png</idioma>
+        <idioma_nombre>Turco</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=M9_LXUNfVdQ&amp;lang=es&amp;eid=328821200&amp;lid=2913813&amp;ci=6426&amp;si=5</enlace_original>
       </stream>
     </streams>
@@ -4882,8 +4521,8 @@ player/live.php?id=245549&amp;w=700&amp;h=480</url>
     <streams total="1">
       <stream id="1">
         <url>https://www.youtube.com/embed/SKF-XnuFLYo?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/12.png</idioma>
+        <idioma_nombre>Turco</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=SKF-XnuFLYo&amp;lang=es&amp;eid=328821201&amp;lid=2913814&amp;ci=6426&amp;si=5</enlace_original>
       </stream>
     </streams>
@@ -4899,8 +4538,8 @@ player/live.php?id=245549&amp;w=700&amp;h=480</url>
     <streams total="1">
       <stream id="1">
         <url>https://volej.tv/match/2108489</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
+        <idioma_nombre>Danés</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifrx&amp;c=2915788&amp;lang=es&amp;eid=329482774&amp;lid=2915788&amp;ci=1228&amp;si=5</enlace_original>
       </stream>
     </streams>
@@ -4916,8 +4555,8 @@ player/live.php?id=245549&amp;w=700&amp;h=480</url>
     <streams total="1">
       <stream id="1">
         <url>https://volej.tv/match/2108479</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
+        <idioma_nombre>Danés</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifrx&amp;c=2915795&amp;lang=es&amp;eid=329482775&amp;lid=2915795&amp;ci=1228&amp;si=5</enlace_original>
       </stream>
     </streams>
@@ -4930,7 +4569,14 @@ player/live.php?id=245549&amp;w=700&amp;h=480</url>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/326663477__/</url>
     <datetime_iso>2025-12-28T19:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://volej.tv/match/2108319</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifrx&amp;c=2915804&amp;lang=es&amp;eid=326663477&amp;lid=2915804&amp;ci=1010&amp;si=5</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="262">
     <nombre>Benatky Nad Jizerou – Dukla Liberec</nombre>
@@ -4940,7 +4586,14 @@ player/live.php?id=245549&amp;w=700&amp;h=480</url>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/326663478__/</url>
     <datetime_iso>2025-12-28T19:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://volej.tv/match/2108318</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifrx&amp;c=2915806&amp;lang=es&amp;eid=326663478&amp;lid=2915806&amp;ci=1010&amp;si=5</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="263">
     <nombre>Aero Odolena Voda – Jihostroj</nombre>
@@ -4950,7 +4603,14 @@ player/live.php?id=245549&amp;w=700&amp;h=480</url>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/326663479__/</url>
     <datetime_iso>2025-12-28T19:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://volej.tv/match/2108317</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifrx&amp;c=2915803&amp;lang=es&amp;eid=326663479&amp;lid=2915803&amp;ci=1010&amp;si=5</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="264">
     <nombre>Lvi Praha – Ostrava</nombre>
@@ -4960,7 +4620,14 @@ player/live.php?id=245549&amp;w=700&amp;h=480</url>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/326663480__/</url>
     <datetime_iso>2025-12-28T19:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://volej.tv/match/2108316</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifrx&amp;c=2915805&amp;lang=es&amp;eid=326663480&amp;lid=2915805&amp;ci=1010&amp;si=5</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="265">
     <nombre>Sporting – Rio Ave</nombre>
@@ -4973,8 +4640,8 @@ player/live.php?id=245549&amp;w=700&amp;h=480</url>
     <streams total="1">
       <stream id="1">
         <url>https://daddylive4.click/livemy/stream-716.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/9.png</idioma>
+        <idioma_nombre>Holandés</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915154&amp;lang=es&amp;eid=329297559&amp;lid=2915154&amp;ci=908&amp;si=12</enlace_original>
       </stream>
     </streams>
@@ -4987,7 +4654,14 @@ player/live.php?id=245549&amp;w=700&amp;h=480</url>
     <hora>19:10</hora>
     <url>https://livetv.sx/es/eventinfo/326669404__/</url>
     <datetime_iso>2025-12-28T19:10:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://voodc.com/embed/1/85818c97a58b9a8c847a8597a38d98858582.html</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915809&amp;lang=es&amp;eid=326669404&amp;lid=2915809&amp;ci=395&amp;si=3</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="267">
     <nombre>Algeria – Burkina Faso</nombre>
@@ -5088,14 +4762,14 @@ player/live.php?id=242328&amp;w=700&amp;h=480</url>
       <stream id="1">
         <url>https://emb.apl385.me/
 player/live.php?id=245311&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
-        <idioma_nombre>Coreano</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/12.png</idioma>
+        <idioma_nombre>Turco</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245311&amp;lang=es&amp;eid=326668982&amp;lid=2912099&amp;ci=668&amp;si=3</enlace_original>
       </stream>
       <stream id="2">
         <url>https://daddylive4.click/livemy/stream-882.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/12.png</idioma>
+        <idioma_nombre>Turco</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915150&amp;lang=es&amp;eid=326668982&amp;lid=2915150&amp;ci=668&amp;si=3</enlace_original>
       </stream>
     </streams>
@@ -5108,7 +4782,14 @@ player/live.php?id=245311&amp;w=700&amp;h=480</url>
     <hora>19:30</hora>
     <url>https://livetv.sx/es/eventinfo/326671071__/</url>
     <datetime_iso>2025-12-28T19:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://volej.tv/match/2108320</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifrx&amp;c=2915807&amp;lang=es&amp;eid=326671071&amp;lid=2915807&amp;ci=1010&amp;si=5</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="272">
     <nombre>Christmas Race, Gelsenkirchen</nombre>
@@ -5159,7 +4840,27 @@ player/live.php?id=245760&amp;w=700&amp;h=480</url>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/326676342__/</url>
     <datetime_iso>2025-12-28T20:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="3">
+      <stream id="1">
+        <url>https://emb.apl385.me/
+player/live.php?id=245713&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245713&amp;lang=es&amp;eid=326676342&amp;lid=2913965&amp;ci=208&amp;si=2</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://lato.sx/ch.php?id=15</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915169&amp;lang=es&amp;eid=326676342&amp;lid=2915169&amp;ci=208&amp;si=2</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://daddylive4.click/livemy/stream-25.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915110&amp;lang=es&amp;eid=326676342&amp;lid=2915110&amp;ci=208&amp;si=2</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="275">
     <nombre>Herning Blue Fox – Esbjerg Energy</nombre>
@@ -5189,7 +4890,55 @@ player/live.php?id=245760&amp;w=700&amp;h=480</url>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/326676586__/</url>
     <datetime_iso>2025-12-28T20:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="7">
+      <stream id="1">
+        <url>https://streamsgate.live/tv/tv-32.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/7.png</idioma>
+        <idioma_nombre>Francés</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2914575&amp;lang=es&amp;eid=326676586&amp;lid=2914575&amp;ci=215&amp;si=3</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://emb.apl385.me/
+player/live.php?id=245214&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245214&amp;lang=es&amp;eid=326676586&amp;lid=2912049&amp;ci=215&amp;si=3</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://emb.apl385.me/
+player/live.php?id=245324&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/35.png</idioma>
+        <idioma_nombre>Bandera #35</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245324&amp;lang=es&amp;eid=326676586&amp;lid=2912118&amp;ci=215&amp;si=3</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://emb.apl385.me/
+player/live.php?id=245375&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245375&amp;lang=es&amp;eid=326676586&amp;lid=2912239&amp;ci=215&amp;si=3</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://emb.apl385.me/
+player/live.php?id=245623&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245623&amp;lang=es&amp;eid=326676586&amp;lid=2913877&amp;ci=215&amp;si=3</enlace_original>
+      </stream>
+      <stream id="6">
+        <url>https://emb.apl385.me/
+player/live.php?id=245814&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
+        <idioma_nombre>Coreano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245814&amp;lang=es&amp;eid=326676586&amp;lid=2914924&amp;ci=215&amp;si=3</enlace_original>
+      </stream>
+      <stream id="7">
+        <url>https://daddylive4.click/livemy/stream-139.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
+        <idioma_nombre>Coreano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915127&amp;lang=es&amp;eid=326676586&amp;lid=2915127&amp;ci=215&amp;si=3</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="278">
     <nombre>Trapani – Varese</nombre>
@@ -5209,7 +4958,14 @@ player/live.php?id=245760&amp;w=700&amp;h=480</url>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/326678796__/</url>
     <datetime_iso>2025-12-28T20:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://volej.tv/match/2108321</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifrx&amp;c=2915808&amp;lang=es&amp;eid=326678796&amp;lid=2915808&amp;ci=1010&amp;si=5</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="280">
     <nombre>Gabbiano FarmaMed Mantova – Sav Trebaseleghe</nombre>
@@ -5219,7 +4975,14 @@ player/live.php?id=245760&amp;w=700&amp;h=480</url>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/328821202_gabbiano_farmamed_mantova_sav_trebaseleghe/</url>
     <datetime_iso>2025-12-28T20:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/2AXQlMMYBmE?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=2AXQlMMYBmE&amp;lang=es&amp;eid=328821202&amp;lid=2913815&amp;ci=6426&amp;si=5</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="281">
     <nombre>Aramis – Nyiregyhaza</nombre>
@@ -5229,7 +4992,14 @@ player/live.php?id=245760&amp;w=700&amp;h=480</url>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/328768208_aramis_nyiregyhaza/</url>
     <datetime_iso>2025-12-28T20:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://daddylive4.click/livemy/stream-265.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915128&amp;lang=es&amp;eid=328768208&amp;lid=2915128&amp;ci=1979&amp;si=12</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="282">
     <nombre>Lillehammer – Stjernen</nombre>
@@ -5659,14 +5429,7 @@ player/live.php?id=245760&amp;w=700&amp;h=480</url>
     <hora>22:21</hora>
     <url>https://livetv.sx/es/eventinfo/329097266__piotrcovia_m__zaglebie_m/</url>
     <datetime_iso>2025-12-28T22:21:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c97a58a9d84847a85979d9098888d.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/8.png</idioma>
-        <idioma_nombre>Portugués (Portugal)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915752&amp;lang=es&amp;eid=329097266&amp;lid=2915752&amp;ci=1810&amp;si=13</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="325">
     <nombre>Sporting – Rio Ave</nombre>
