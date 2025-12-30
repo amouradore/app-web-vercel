@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-12-30 08:37:51" total="1130">
-  <evento>
-    <nombre>Otago Volts –  Central Stags</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Nueva Zelanda. Super Smash</competicion>
-    <fecha>30 de diciembre</fecha>
-    <hora>05:25</hora>
-    <url>https://livetv.sx/es/eventinfo/328768446_otago_volts_central_stags/</url>
-  </evento>
+<eventos generado="2025-12-30 09:32:17" total="1138">
   <evento>
     <nombre>Western Sídney (M) –   Wellington Phoenix (M)</nombre>
     <deporte>Fútbol</deporte>
@@ -29,7 +21,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Australia. NBL</competicion>
     <fecha>30 de diciembre</fecha>
-    <hora>10:30</hora>
+    <hora>51:30</hora>
     <url>https://livetv.sx/es/eventinfo/327008265_sydney_kings_brisbane_bullets/</url>
   </evento>
   <evento>
@@ -159,6 +151,14 @@
     <fecha>30 de diciembre</fecha>
     <hora>13:35</hora>
     <url>https://livetv.sx/es/eventinfo/327032983_ningbo_rockets_sichuan_blue_whales/</url>
+  </evento>
+  <evento>
+    <nombre>Campeonato Mundial</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>30 de diciembre</fecha>
+    <hora>13:40</hora>
+    <url>https://livetv.sx/es/eventinfo/329715049_campeonato_mundial/</url>
   </evento>
   <evento>
     <nombre>Túnez – Tanzania</nombre>
@@ -8625,6 +8625,14 @@
     <url>https://livetv.sx/es/eventinfo/328167209__/</url>
   </evento>
   <evento>
+    <nombre>Jasmine Paolini (M) –  Belinda Bencic (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. United Cup</competicion>
+    <fecha>4 de enero</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328170678__/</url>
+  </evento>
+  <evento>
     <nombre>Brno – Beskydy</nombre>
     <deporte>Voleibol</deporte>
     <competicion>República Checa. Extraliga</competicion>
@@ -8639,6 +8647,14 @@
     <fecha>30 de diciembre</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/327056399__/</url>
+  </evento>
+  <evento>
+    <nombre>Ostrava (M) –  Sokol Sternberk (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>República Checa. Mujeres. Extraliga</competicion>
+    <fecha>30 de diciembre</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/329931835__/</url>
   </evento>
   <evento>
     <nombre>Lvi Praha – Ústí nad Labem</nombre>
@@ -8681,12 +8697,12 @@
     <url>https://livetv.sx/es/eventinfo/327072705__/</url>
   </evento>
   <evento>
-    <nombre>Nowy Dwor (M) –  Wroclaw (M)</nombre>
+    <nombre>Brno (M) –  Lvi Praha (M)</nombre>
     <deporte>Voleibol</deporte>
-    <competicion>Polonia. Mujeres. MP</competicion>
+    <competicion>República Checa. Mujeres. Extraliga</competicion>
     <fecha>30 de diciembre</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/326648730__/</url>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/329931838__/</url>
   </evento>
   <evento>
     <nombre>Warta Zawiercie – Resovia Rzeszow</nombre>
@@ -8695,6 +8711,38 @@
     <fecha>30 de diciembre</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/329727835__/</url>
+  </evento>
+  <evento>
+    <nombre>Kralovo Pole (M) –  Olymp Praga (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>República Checa. Mujeres. Extraliga</competicion>
+    <fecha>30 de diciembre</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/329935446__/</url>
+  </evento>
+  <evento>
+    <nombre>Prerov (M) –  Prostejov (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>República Checa. Mujeres. Extraliga</competicion>
+    <fecha>30 de diciembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/329931836__/</url>
+  </evento>
+  <evento>
+    <nombre>Sokol Frydek Mistek (M) –  UP Olomouc (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>República Checa. Mujeres. Extraliga</competicion>
+    <fecha>30 de diciembre</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/329931837__/</url>
+  </evento>
+  <evento>
+    <nombre>Nowy Dwor (M) –  Wroclaw (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Polonia. Mujeres. MP</competicion>
+    <fecha>30 de diciembre</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/326648730__/</url>
   </evento>
   <evento>
     <nombre>Trefl Gdansk – Resovia Rzeszow</nombre>
@@ -9039,5 +9087,21 @@
     <fecha>4 de enero</fecha>
     <hora>10:15</hora>
     <url>https://livetv.sx/es/eventinfo/329718568_world_cup_kranjska_gora/</url>
+  </evento>
+  <evento>
+    <nombre>Copa del Mundo, Sigulda</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Luge</competicion>
+    <fecha>4 de enero</fecha>
+    <hora>11:15</hora>
+    <url>https://livetv.sx/es/eventinfo/329718622_world_cup_sigulda/</url>
+  </evento>
+  <evento>
+    <nombre>Copa del Mundo, SiguldaMujer</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Luge</competicion>
+    <fecha>4 de enero</fecha>
+    <hora>11:15</hora>
+    <url>https://livetv.sx/es/eventinfo/329715127_world_cup_sigulda/</url>
   </evento>
 </eventos>
