@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2025-12-31 07:29:46" total="1184">
+<eventos generado="2025-12-31 08:37:54" total="1196">
   <evento>
     <nombre>Northern Brave –  Wellington Firebirds</nombre>
     <deporte>Fútbol</deporte>
@@ -9,19 +9,11 @@
     <url>https://livetv.sx/es/eventinfo/328768447_northern_brave_wellington_firebirds/</url>
   </evento>
   <evento>
-    <nombre>Central Coast Mariners (M) –   Brisbane Roar (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Australia. Mujeres. A-League</competicion>
-    <fecha>31 de diciembre</fecha>
-    <hora>07:15</hora>
-    <url>https://livetv.sx/es/eventinfo/327191614__central_coast_mariners_m__brisbane_roar_m/</url>
-  </evento>
-  <evento>
     <nombre>The Hawks –  Tasmania JackJumpers</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Australia. NBL</competicion>
     <fecha>31 de diciembre</fecha>
-    <hora>50:39</hora>
+    <hora>08:30</hora>
     <url>https://livetv.sx/es/eventinfo/327200221_the_hawks_tasmania_jackjumpers/</url>
   </evento>
   <evento>
@@ -161,6 +153,14 @@
     <url>https://livetv.sx/es/eventinfo/329495448_zakho_al_karkh/</url>
   </evento>
   <evento>
+    <nombre>Erbil –  Naft Maysan</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irak. Liga Premier</competicion>
+    <fecha>31 de diciembre</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/329495449_erbil_naft_maysan/</url>
+  </evento>
+  <evento>
     <nombre>Central Coast Mariners – Brisbane Roar</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Australia. A-League</competicion>
@@ -239,14 +239,6 @@
     <fecha>31 de diciembre</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/327312285__/</url>
-  </evento>
-  <evento>
-    <nombre>Central Coast Mariners (M) –  Brisbane Roar (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Australia. Mujeres. A-League</competicion>
-    <fecha>31 de diciembre</fecha>
-    <hora>07:15</hora>
-    <url>https://livetv.sx/es/eventinfo/327191614__/</url>
   </evento>
   <evento>
     <nombre>Shan Utd – Yangon Utd</nombre>
@@ -2401,6 +2393,14 @@
     <url>https://livetv.sx/es/eventinfo/328787069__/</url>
   </evento>
   <evento>
+    <nombre>Macarthur – Auckland</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. A-League</competicion>
+    <fecha>5 de enero</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328409466__/</url>
+  </evento>
+  <evento>
     <nombre>Washington – Rangers</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -3313,6 +3313,54 @@
     <url>https://livetv.sx/es/eventinfo/327873585__/</url>
   </evento>
   <evento>
+    <nombre>HPK Sub-20 –  SaiPa Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/330145880__/</url>
+  </evento>
+  <evento>
+    <nombre>RoKi Sub-20 –  Ilves Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>12:40</hora>
+    <url>https://livetv.sx/es/eventinfo/330145881__/</url>
+  </evento>
+  <evento>
+    <nombre>Jukurit Sub-20 –  Pelicans Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330145882__/</url>
+  </evento>
+  <evento>
+    <nombre>Sport Vaasan Sub-20 –  Jyvaskyla Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330145883__/</url>
+  </evento>
+  <evento>
+    <nombre>HIFK Sub-20 –  Kiekko-Espoo Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330145884__/</url>
+  </evento>
+  <evento>
+    <nombre>Lukko Sub-20 –  Tappara Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330145885__/</url>
+  </evento>
+  <evento>
     <nombre>Kiekko-Espoo – Tappara</nombre>
     <deporte>Hockey</deporte>
     <competicion>Finlandia. Liiga</competicion>
@@ -3335,6 +3383,22 @@
     <fecha>3 de enero</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/327930677__/</url>
+  </evento>
+  <evento>
+    <nombre>KooKoo Sub-20 –  KalPa Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330145886__/</url>
+  </evento>
+  <evento>
+    <nombre>TPS Sub-20 –  Karpat Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330145887__/</url>
   </evento>
   <evento>
     <nombre>Kunlun RS – Metallurg Mg</nombre>
@@ -4169,6 +4233,22 @@
     <url>https://livetv.sx/es/eventinfo/328201843__/</url>
   </evento>
   <evento>
+    <nombre>Brynas (M) –  Djurgarden (M)</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suecia. Mujeres. SDHL</competicion>
+    <fecha>4 de enero</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330146169__/</url>
+  </evento>
+  <evento>
+    <nombre>Farjestad (M) –  HV71 (M)</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suecia. Mujeres. SDHL</competicion>
+    <fecha>4 de enero</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330146170__/</url>
+  </evento>
+  <evento>
     <nombre>Karlskrona HK – Visby Roma</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. Hockeyettan. Sur</competicion>
@@ -4303,6 +4383,14 @@
     <fecha>4 de enero</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/328221050__/</url>
+  </evento>
+  <evento>
+    <nombre>Linkoeping (M) –  Froelunda (M)</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suecia. Mujeres. SDHL</competicion>
+    <fecha>4 de enero</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330146171__/</url>
   </evento>
   <evento>
     <nombre>Tingsryds – Graestorp</nombre>
@@ -4735,6 +4823,14 @@
     <fecha>5 de enero</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/328359856__/</url>
+  </evento>
+  <evento>
+    <nombre>Tolpar – JHC Molot</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>5 de enero</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328411410__/</url>
   </evento>
   <evento>
     <nombre>Alba Berlín – Brunswick</nombre>
@@ -6385,6 +6481,14 @@
     <url>https://livetv.sx/es/eventinfo/329725444_botas_w_nesibe_aydin_w/</url>
   </evento>
   <evento>
+    <nombre>Vilkaviskio Perlas – Palangos Olimpas</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Lituania. NKL</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330144329__/</url>
+  </evento>
+  <evento>
     <nombre>Olympiacos (W) – Proteas Voulas (W)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Grecia. Mujeres. A1 Ethniki</competicion>
@@ -6455,6 +6559,46 @@
     <fecha>3 de enero</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/329725445_galatasaray_w_mersin_w/</url>
+  </evento>
+  <evento>
+    <nombre>Mazeikiai – Kretinga</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Lituania. NKL</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330144330__/</url>
+  </evento>
+  <evento>
+    <nombre>Telsiai – Omega-Tauras</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Lituania. NKL</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330144331__/</url>
+  </evento>
+  <evento>
+    <nombre>Dzukija – Vytis</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Lituania. NKL</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330144332__/</url>
+  </evento>
+  <evento>
+    <nombre>Vilniaus Stekas – Zalgiris 2</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Lituania. NKL</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330144333__/</url>
+  </evento>
+  <evento>
+    <nombre>Vilniaus Perlas – Neptunas-Akvaservis</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Lituania. NKL</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330144334__/</url>
   </evento>
   <evento>
     <nombre>Kauhajoki – KTP</nombre>
@@ -6841,14 +6985,6 @@
     <url>https://livetv.sx/es/eventinfo/327969387__/</url>
   </evento>
   <evento>
-    <nombre>Salon Vilpas – Kouvot</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Finlandia. Korisliiga</competicion>
-    <fecha>3 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/327969188__/</url>
-  </evento>
-  <evento>
     <nombre>Kralovsti Sokoli – Pardubice</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>República Checa. NBL</competicion>
@@ -6895,6 +7031,14 @@
     <fecha>3 de enero</fecha>
     <hora>19:15</hora>
     <url>https://livetv.sx/es/eventinfo/327976084__/</url>
+  </evento>
+  <evento>
+    <nombre>Salon Vilpas – Kouvot</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Finlandia. Korisliiga</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>19:15</hora>
+    <url>https://livetv.sx/es/eventinfo/327969188__/</url>
   </evento>
   <evento>
     <nombre>Opava – Nymburk</nombre>
@@ -8177,6 +8321,14 @@
     <url>https://livetv.sx/es/eventinfo/328208924__/</url>
   </evento>
   <evento>
+    <nombre>Olimpas – Jurbarkas-Karys</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Lituania. NKL</competicion>
+    <fecha>4 de enero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330144335__/</url>
+  </evento>
+  <evento>
     <nombre>Chemnitz – Rasta Vechta</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Alemania. Bundesliga</competicion>
@@ -8671,62 +8823,6 @@
     <fecha>4 de enero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/328275855__/</url>
-  </evento>
-  <evento>
-    <nombre>MT Blue Raiders – Sam Houston Bearkats</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>4 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328275856__/</url>
-  </evento>
-  <evento>
-    <nombre>Liberty Flames – Jacksonville Gamecocks</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>4 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328275857__/</url>
-  </evento>
-  <evento>
-    <nombre>Delaware Blue Hens – Kennesaw Owls</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>4 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328275858__/</url>
-  </evento>
-  <evento>
-    <nombre>Mercyhurst Lakers – Le Moyne Dolphins</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>4 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328275859__/</url>
-  </evento>
-  <evento>
-    <nombre>Chicago Cougars – LIU Sharks</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>4 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328275860__/</url>
-  </evento>
-  <evento>
-    <nombre>Cleveland – Detroit</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>4 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328275964__/</url>
-  </evento>
-  <evento>
-    <nombre>Orlando – Indiana</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>4 de enero</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328291591__/</url>
   </evento>
   <evento>
     <nombre>Jaume Munar – Sebastian Baez</nombre>
