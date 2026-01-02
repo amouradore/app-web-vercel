@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-01-02 08:37:33" total="1378">
+<eventos generado="2026-01-02 09:31:25" total="1390">
   <evento>
     <nombre>Auckland Aces –  Wellington Firebirds</nombre>
     <deporte>Fútbol</deporte>
@@ -9,20 +9,12 @@
     <url>https://livetv.sx/es/eventinfo/330153835_auckland_aces_wellington_firebirds/</url>
   </evento>
   <evento>
-    <nombre>Perth Lynx (M) –   Adelaide Lightning (M)</nombre>
+    <nombre>Cervantes /  Cavalle-Reimers (M) –  Andreozzi /  Carle (M)</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Australia. Mujeres. WNBL</competicion>
+    <competicion>United Cup. Mixtos</competicion>
     <fecha>2 de enero</fecha>
-    <hora>08:30</hora>
-    <url>https://livetv.sx/es/eventinfo/330049013__perth_lynx_m__adelaide_lightning_m/</url>
-  </evento>
-  <evento>
-    <nombre>Cathay Life (M) –   Chunghua Telecom (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Taiwán. Mujeres. WSBL</competicion>
-    <fecha>2 de enero</fecha>
-    <hora>59:46</hora>
-    <url>https://livetv.sx/es/eventinfo/330501906__cathay_life_m__chunghua_telecom_m/</url>
+    <hora>08:55</hora>
+    <url>https://livetv.sx/es/eventinfo/330535739_cervantes___cavalle_reimers_m_andreozzi___carle_m/</url>
   </evento>
   <evento>
     <nombre>Copa del Mundo, Winterberg</nombre>
@@ -45,7 +37,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Australia. NBL</competicion>
     <fecha>2 de enero</fecha>
-    <hora>10:30</hora>
+    <hora>35:41</hora>
     <url>https://livetv.sx/es/eventinfo/327663689_adelaide_36ers_sydney_kings/</url>
   </evento>
   <evento>
@@ -69,7 +61,7 @@
     <deporte>Fútbol</deporte>
     <competicion>WTA. United Cup</competicion>
     <fecha>2 de enero</fecha>
-    <hora>11:00</hora>
+    <hora>11:20</hora>
     <url>https://livetv.sx/es/eventinfo/327667244__maria_sakkari_m__naomi_osaka_m/</url>
   </evento>
   <evento>
@@ -93,7 +85,7 @@
     <deporte>Fútbol</deporte>
     <competicion>ATP. United Cup</competicion>
     <fecha>2 de enero</fecha>
-    <hora>12:30</hora>
+    <hora>12:50</hora>
     <url>https://livetv.sx/es/eventinfo/327677419_stefanos_tsitsipas_shintaro_mochizuki/</url>
   </evento>
   <evento>
@@ -157,8 +149,16 @@
     <deporte>Fútbol</deporte>
     <competicion>United Cup. Mixtos</competicion>
     <fecha>2 de enero</fecha>
-    <hora>14:00</hora>
+    <hora>14:20</hora>
     <url>https://livetv.sx/es/eventinfo/330415194_tsitsipas___sakkari_m__osaka_m__mochizuki/</url>
+  </evento>
+  <evento>
+    <nombre>Exact Cross</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ciclocrós</competicion>
+    <fecha>2 de enero</fecha>
+    <hora>14:40</hora>
+    <url>https://livetv.sx/es/eventinfo/329718540_exact_cross/</url>
   </evento>
   <evento>
     <nombre>Melbourne Victory – Perth Glory</nombre>
@@ -391,6 +391,14 @@
     <fecha>2 de enero</fecha>
     <hora>23:00</hora>
     <url>https://livetv.sx/es/eventinfo/330376505__/</url>
+  </evento>
+  <evento>
+    <nombre>Sport Recife Sub-20 –  Linense Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Copa Sao Paulo Júnior</competicion>
+    <fecha>2 de enero</fecha>
+    <hora>23:30</hora>
+    <url>https://livetv.sx/es/eventinfo/330536481__/</url>
   </evento>
   <evento>
     <nombre>Western Sídney (M) –  Canberra United (M)</nombre>
@@ -5857,22 +5865,6 @@
     <url>https://livetv.sx/es/eventinfo/327819351__/</url>
   </evento>
   <evento>
-    <nombre>Perth Lynx (M) –  Adelaide Lightning (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Australia. Mujeres. WNBL</competicion>
-    <fecha>2 de enero</fecha>
-    <hora>08:30</hora>
-    <url>https://livetv.sx/es/eventinfo/330049013__/</url>
-  </evento>
-  <evento>
-    <nombre>Cathay Life (M) –  Chunghua Telecom (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Taiwán. Mujeres. WSBL</competicion>
-    <fecha>2 de enero</fecha>
-    <hora>09:00</hora>
-    <url>https://livetv.sx/es/eventinfo/330501906__/</url>
-  </evento>
-  <evento>
     <nombre>Adelaide 36ers – Sydney Kings</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Australia. NBL</competicion>
@@ -9777,11 +9769,27 @@
     <url>https://livetv.sx/es/eventinfo/328467700__/</url>
   </evento>
   <evento>
+    <nombre>Mega Bemax – Viena</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Liga del Adriático</competicion>
+    <fecha>5 de enero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328243575__/</url>
+  </evento>
+  <evento>
+    <nombre>Dinamo Bucuresti – Valcea 1924</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Rumania. Liga Nationala</competicion>
+    <fecha>5 de enero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330405862_dinamo_bucuresti_valcea_1924/</url>
+  </evento>
+  <evento>
     <nombre>Maria Sakkari (M) –  Naomi Osaka (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. United Cup</competicion>
     <fecha>2 de enero</fecha>
-    <hora>11:00</hora>
+    <hora>11:20</hora>
     <url>https://livetv.sx/es/eventinfo/327667244__/</url>
   </evento>
   <evento>
@@ -9789,7 +9797,7 @@
     <deporte>Tenis</deporte>
     <competicion>ATP. United Cup</competicion>
     <fecha>2 de enero</fecha>
-    <hora>12:30</hora>
+    <hora>12:50</hora>
     <url>https://livetv.sx/es/eventinfo/327677419__/</url>
   </evento>
   <evento>
@@ -9809,12 +9817,60 @@
     <url>https://livetv.sx/es/eventinfo/327817427__/</url>
   </evento>
   <evento>
+    <nombre>Cervantes /  Cavalle-Reimers (M) – Andreozzi /  Carle (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>United Cup. Mixtos</competicion>
+    <fecha>2 de enero</fecha>
+    <hora>08:55</hora>
+    <url>https://livetv.sx/es/eventinfo/330535739__/</url>
+  </evento>
+  <evento>
     <nombre>Tsitsipas /  Sakkari (M) –  Osaka (M) / Mochizuki</nombre>
     <deporte>Tenis</deporte>
     <competicion>United Cup. Mixtos</competicion>
     <fecha>2 de enero</fecha>
-    <hora>14:00</hora>
+    <hora>14:20</hora>
     <url>https://livetv.sx/es/eventinfo/330415194__/</url>
+  </evento>
+  <evento>
+    <nombre>Hanyu Guo (M) –  Maja Chwalinska (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Auckland</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330536092__/</url>
+  </evento>
+  <evento>
+    <nombre>Leyre Romero Gormaz (M) –  Gabriela Andrea Knutson (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Auckland</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330536093__/</url>
+  </evento>
+  <evento>
+    <nombre>Elyse Tse (M) –  Sofia Costoulas (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Auckland</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>01:10</hora>
+    <url>https://livetv.sx/es/eventinfo/330536094__/</url>
+  </evento>
+  <evento>
+    <nombre>Kristina Mladenovic (M) –  Anna-Lena Friedsam (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Auckland</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>01:10</hora>
+    <url>https://livetv.sx/es/eventinfo/330536095__/</url>
+  </evento>
+  <evento>
+    <nombre>Sinja Kraus (M) –  Anastasija Sevastova (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Auckland</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>01:10</hora>
+    <url>https://livetv.sx/es/eventinfo/330536096__/</url>
   </evento>
   <evento>
     <nombre>Anna Bondar (M) –  Katie Volynets (M)</nombre>
@@ -9831,6 +9887,46 @@
     <fecha>3 de enero</fecha>
     <hora>02:00</hora>
     <url>https://livetv.sx/es/eventinfo/330486230__/</url>
+  </evento>
+  <evento>
+    <nombre>Kaitlin Quevedo (M) –  Carole Monnet (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Auckland</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>02:20</hora>
+    <url>https://livetv.sx/es/eventinfo/330536097__/</url>
+  </evento>
+  <evento>
+    <nombre>Darja Semenistaja (M) –  Cadence Brace (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Auckland</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>02:20</hora>
+    <url>https://livetv.sx/es/eventinfo/330536098__/</url>
+  </evento>
+  <evento>
+    <nombre>Laura Pigossi (M) –  Lilli Tagger (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Auckland</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>03:30</hora>
+    <url>https://livetv.sx/es/eventinfo/330536099__/</url>
+  </evento>
+  <evento>
+    <nombre>Louisa Chirico (M) –  Whitney Osuigwe (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Auckland</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>03:30</hora>
+    <url>https://livetv.sx/es/eventinfo/330536100__/</url>
+  </evento>
+  <evento>
+    <nombre>Yulia Starodubtseva (M) –  Jessika Ponchet (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Auckland</competicion>
+    <fecha>3 de enero</fecha>
+    <hora>03:30</hora>
+    <url>https://livetv.sx/es/eventinfo/330536101__/</url>
   </evento>
   <evento>
     <nombre>Shuai Zhang (M) –  Taylah Preston (M)</nombre>
