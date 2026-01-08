@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-01-08 18:38:50" total="1890">
-  <evento>
-    <nombre>Lvi Praha –  Berlín RV</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga de Campeones</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328973214_lvi_praha_berl__n_rv/</url>
-  </evento>
+<eventos generado="2026-01-08 19:26:26" total="1897">
   <evento>
     <nombre>Cremonese –  Cagliari</nombre>
     <deporte>Fútbol</deporte>
@@ -25,28 +17,68 @@
     <url>https://livetv.sx/es/eventinfo/328981389_psg_marsella/</url>
   </evento>
   <evento>
+    <nombre>Atlético de Madrid –  Real Madrid</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Supercopa</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328986655_atl__tico_de_madrid_real_madrid/</url>
+  </evento>
+  <evento>
+    <nombre>ACH Volley –  Ziraat Bankasy</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga de Campeones</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328986996_ach_volley_ziraat_bankasy/</url>
+  </evento>
+  <evento>
+    <nombre>Jena –  Rostock</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>16:10</hora>
+    <url>https://livetv.sx/es/eventinfo/328986402_jena_rostock/</url>
+  </evento>
+  <evento>
+    <nombre>Cannes –  Niza</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue A</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332113024_cannes_niza/</url>
+  </evento>
+  <evento>
+    <nombre>Panathinaikos –  Virtus Bolonia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Euroliga</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/328989992_panathinaikos_virtus_bolonia/</url>
+  </evento>
+  <evento>
+    <nombre>Valencia –  AS Mónaco</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Euroliga</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/328989993_valencia_as_m__naco/</url>
+  </evento>
+  <evento>
+    <nombre>Knack Roeselare –  LKPS Lublino</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga de Campeones</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/328990459_knack_roeselare_lkps_lublino/</url>
+  </evento>
+  <evento>
     <nombre>Liga de Campeones</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Snooker</competicion>
     <fecha>8 de enero</fecha>
     <hora>13:00</hora>
     <url>https://livetv.sx/es/eventinfo/332235126_liga_de_campeones/</url>
-  </evento>
-  <evento>
-    <nombre>ATP Challenger. Nottingham</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Nottingham</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/330905826_atp_challenger_nottingham/</url>
-  </evento>
-  <evento>
-    <nombre>Duncan / Mackinlay –  Wendelken / Hands</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Doubles</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332026798_duncan__mackinlay_wendelken__hands/</url>
   </evento>
   <evento>
     <nombre>WTT Champions Doha</nombre>
@@ -57,22 +89,6 @@
     <url>https://livetv.sx/es/eventinfo/331951321_wtt_champions_doha/</url>
   </evento>
   <evento>
-    <nombre>Broom / Stevenson –  Cornea / Walkow</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Doubles</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/332040195_broom__stevenson_cornea__walkow/</url>
-  </evento>
-  <evento>
-    <nombre>Bass / Jones –  Broady / Whitehouse</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Doubles</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/332040196_bass__jones_broady__whitehouse/</url>
-  </evento>
-  <evento>
     <nombre>Joburg Super Kings –  Paarl Royals</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Sudáfrica. SA 20</competicion>
@@ -81,76 +97,12 @@
     <url>https://livetv.sx/es/eventinfo/332113455_joburg_super_kings_paarl_royals/</url>
   </evento>
   <evento>
-    <nombre>Portugal –  Egipto</nombre>
+    <nombre>Lvi Praha –  Berlín RV</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Partido amistoso. Selecciones</competicion>
+    <competicion>Liga de Campeones</competicion>
     <fecha>8 de enero</fecha>
-    <hora>18:15</hora>
-    <url>https://livetv.sx/es/eventinfo/331432155_portugal_egipto/</url>
-  </evento>
-  <evento>
-    <nombre>Qatar SC –  Al-Sadd</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Qatar. Stars League</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/328969701_qatar_sc_al_sadd/</url>
-  </evento>
-  <evento>
-    <nombre>PAOK –  Pafiakos</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa Desafío</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/332009292_paok_pafiakos/</url>
-  </evento>
-  <evento>
-    <nombre>Villanova (W) –  Xavier (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. NCAA</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/332240396_villanova_w_xavier_w/</url>
-  </evento>
-  <evento>
-    <nombre>Jokerit –  Hermes</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Finlandia. Mestis</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/328971130_jokerit_hermes/</url>
-  </evento>
-  <evento>
-    <nombre>Bélgica U18 (M) –  España U18 (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. WEVZA Sub-18</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/331475575_bandeacute_lgica_u18_m_espaandntilde_a_u18_m/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Merreikh –  Police</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Ruanda. Premier League</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/332185084_al_merreikh_police/</url>
-  </evento>
-  <evento>
-    <nombre>Hussey / Monday –  Masur / Karol</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Doubles</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/332067740_hussey__monday_masur__karol/</url>
-  </evento>
-  <evento>
-    <nombre>Karditsas –  Spartak Subotica</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Calificaci?n</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/328969892_karditsas_spartak_subotica/</url>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328973214_lvi_praha_berl__n_rv/</url>
   </evento>
   <evento>
     <nombre>Dukla Liberec –  Lausanne</nombre>
@@ -181,7 +133,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Lituania. NKL</competicion>
     <fecha>8 de enero</fecha>
-    <hora>64:71</hora>
+    <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/331461981_olimpas_vilkaviskio_perlas/</url>
   </evento>
   <evento>
@@ -189,7 +141,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Lituania. NKL</competicion>
     <fecha>8 de enero</fecha>
-    <hora>70:54</hora>
+    <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/331461982_jurbarkas_karys_vilniaus_perlas/</url>
   </evento>
   <evento>
@@ -197,7 +149,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Lituania. NKL</competicion>
     <fecha>8 de enero</fecha>
-    <hora>88:60</hora>
+    <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/331461983_palangos_olimpas_dzukija/</url>
   </evento>
   <evento>
@@ -213,7 +165,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Golden League</competicion>
     <fecha>8 de enero</fecha>
-    <hora>26:34</hora>
+    <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/328972781_noruega_dinamarca/</url>
   </evento>
   <evento>
@@ -229,7 +181,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Bahréin. Liga Premier</competicion>
     <fecha>8 de enero</fecha>
-    <hora>56:65</hora>
+    <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/331734849_al_manama_al_muharraq/</url>
   </evento>
   <evento>
@@ -245,7 +197,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Letonia. NBL</competicion>
     <fecha>8 de enero</fecha>
-    <hora>74:74</hora>
+    <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/332180999_liepajalsss_talsi/</url>
   </evento>
   <evento>
@@ -261,7 +213,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Calificaci?n</competicion>
     <fecha>8 de enero</fecha>
-    <hora>54:67</hora>
+    <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/328973224_patrioti_levice_wurzburgo/</url>
   </evento>
   <evento>
@@ -293,7 +245,7 @@
     <deporte>Fútbol</deporte>
     <competicion>NCAA</competicion>
     <fecha>8 de enero</fecha>
-    <hora>30:39</hora>
+    <hora>58:70</hora>
     <url>https://livetv.sx/es/eventinfo/328977207_towson_tigers_hofstra_pride/</url>
   </evento>
   <evento>
@@ -341,7 +293,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Calificaci?n</competicion>
     <fecha>8 de enero</fecha>
-    <hora>38:38</hora>
+    <hora>70:64</hora>
     <url>https://livetv.sx/es/eventinfo/328976659_nymburk_heidelberg/</url>
   </evento>
   <evento>
@@ -349,7 +301,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Letonia. NBL</competicion>
     <fecha>8 de enero</fecha>
-    <hora>29:34</hora>
+    <hora>64:69</hora>
     <url>https://livetv.sx/es/eventinfo/332187166_ogre_livani/</url>
   </evento>
   <evento>
@@ -469,7 +421,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Letonia. NBL</competicion>
     <fecha>8 de enero</fecha>
-    <hora>42:31</hora>
+    <hora>90:53</hora>
     <url>https://livetv.sx/es/eventinfo/332187167_bauska_kekava/</url>
   </evento>
   <evento>
@@ -493,7 +445,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Suecia. Basketligan</competicion>
     <fecha>8 de enero</fecha>
-    <hora>44:32</hora>
+    <hora>79:63</hora>
     <url>https://livetv.sx/es/eventinfo/331680813_boraas_sloga_uppsala/</url>
   </evento>
   <evento>
@@ -525,7 +477,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Partido amistoso. Selecciones</competicion>
     <fecha>8 de enero</fecha>
-    <hora>20:30</hora>
+    <hora>20:13</hora>
     <url>https://livetv.sx/es/eventinfo/331432156_espa__a_eslovaquia/</url>
   </evento>
   <evento>
@@ -533,16 +485,144 @@
     <deporte>Fútbol</deporte>
     <competicion>Calificaci?n</competicion>
     <fecha>8 de enero</fecha>
-    <hora>20:30</hora>
+    <hora>37:41</hora>
     <url>https://livetv.sx/es/eventinfo/328983552_promitheas_elan_chalon/</url>
   </evento>
   <evento>
-    <nombre>Al-Najma – Al-Ettifaq</nombre>
+    <nombre>Ginebra –  Lugano</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. National League</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/328988484_ginebra_lugano/</url>
+  </evento>
+  <evento>
+    <nombre>Fribourg –  Zug</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. National League</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/328988485_fribourg_zug/</url>
+  </evento>
+  <evento>
+    <nombre>Rapperswil-Jona –  Langnau</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. National League</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328988486_rapperswil_jona_langnau/</url>
+  </evento>
+  <evento>
+    <nombre>Herrsching –  Tartu</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa Desafío</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332041734_herrsching_tartu/</url>
+  </evento>
+  <evento>
+    <nombre>Le Cannet (M) –   Alba Blaj (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. Liga de Campeones</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328986557__le_cannet_m__alba_blaj_m/</url>
+  </evento>
+  <evento>
+    <nombre>Scandicci (M) –   Vakifbank (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. Liga de Campeones</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328986558__scandicci_m__vakifbank_m/</url>
+  </evento>
+  <evento>
+    <nombre>Italia U18 (M) –  Alemania U18 (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Mujeres. WEVZA Sub-18</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/331475576_italia_u18_m_alemania_u18_w/</url>
+  </evento>
+  <evento>
+    <nombre>Mickiewicz Kluczbork –  Stal Nysa</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. I Liga</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332113023_mickiewicz_kluczbork_stal_nysa/</url>
+  </evento>
+  <evento>
+    <nombre>Trieste –  Szolnoki Olaj</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Calificaci?n</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>13:25</hora>
+    <url>https://livetv.sx/es/eventinfo/328987009_trieste_szolnoki_olaj/</url>
+  </evento>
+  <evento>
+    <nombre>Le Mans –  Mersin</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Calificaci?n</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>31:14</hora>
+    <url>https://livetv.sx/es/eventinfo/328987010_le_mans_mersin/</url>
+  </evento>
+  <evento>
+    <nombre>Alemania –  Irlanda</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Campeonato Europeo</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/332094712_alemania_irlanda/</url>
+  </evento>
+  <evento>
+    <nombre>Gliwice –  Czarni Slupsk</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. PLK</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/328991298_gliwice_czarni_slupsk/</url>
+  </evento>
+  <evento>
+    <nombre>Akraness –  Grindavik</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Islandia. Urvalsdeild</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/332325160_akraness_grindavik/</url>
+  </evento>
+  <evento>
+    <nombre>IR Reykjavik –  Njardvik</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Islandia. Urvalsdeild</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/332325161_ir_reykjavik_njardvik/</url>
+  </evento>
+  <evento>
+    <nombre>KR Reykjavík –  Armann</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Islandia. Urvalsdeild</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/332325162_kr_reykjavandiacute_k_armann/</url>
+  </evento>
+  <evento>
+    <nombre>Valur –  Stjarnan</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Islandia. Urvalsdeild</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/332325163_valur_stjarnan/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Nassr – Al Quadisiya</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Arabia Saudita. Liga Pro</competicion>
     <fecha>8 de enero</fecha>
     <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/328977673__/</url>
+    <url>https://livetv.sx/es/eventinfo/328977674__/</url>
   </evento>
   <evento>
     <nombre>Cremonese – Cagliari</nombre>
@@ -617,28 +697,12 @@
     <url>https://livetv.sx/es/eventinfo/329016753__/</url>
   </evento>
   <evento>
-    <nombre>Qatar SC – Al-Sadd</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Qatar. Stars League</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/328969701__/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Merreikh – Police</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Ruanda. Premier League</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/332185084__/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Nassr – Al Quadisiya</nombre>
+    <nombre>Al-Najma – Al-Ettifaq</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Arabia Saudita. Liga Pro</competicion>
     <fecha>8 de enero</fecha>
     <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/328977674__/</url>
+    <url>https://livetv.sx/es/eventinfo/328977673__/</url>
   </evento>
   <evento>
     <nombre>Brasiliense Sub-20 –  Fluminense Sub-20</nombre>
@@ -4257,6 +4321,54 @@
     <url>https://livetv.sx/es/eventinfo/331675833__/</url>
   </evento>
   <evento>
+    <nombre>Bristol Rovers – Plymouth Argyle</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. EFL Trophy</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330006973__/</url>
+  </evento>
+  <evento>
+    <nombre>Luton Town – Swindon</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. EFL Trophy</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330006975__/</url>
+  </evento>
+  <evento>
+    <nombre>Stockport – Harrogate Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. EFL Trophy</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330006976__/</url>
+  </evento>
+  <evento>
+    <nombre>Bolton Wanderers – Port Vale</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. EFL Trophy</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330006977__/</url>
+  </evento>
+  <evento>
+    <nombre>Doncaster Rovers – Fleetwood Town</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. EFL Trophy</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330006978__/</url>
+  </evento>
+  <evento>
+    <nombre>Huddersfield – Rotherham Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. EFL Trophy</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330006979__/</url>
+  </evento>
+  <evento>
     <nombre>Iserlohn Roosters – Eisbaeren Berlín</nombre>
     <deporte>Hockey</deporte>
     <competicion>Alemania. DEL</competicion>
@@ -4335,14 +4447,6 @@
     <fecha>9 de enero</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/329027732__/</url>
-  </evento>
-  <evento>
-    <nombre>Jokerit – Hermes</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Finlandia. Mestis</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/328971130__/</url>
   </evento>
   <evento>
     <nombre>Pelicans Sub-20 –  Jukurit Sub-20</nombre>
@@ -4479,14 +4583,6 @@
     <fecha>8 de enero</fecha>
     <hora>20:45</hora>
     <url>https://livetv.sx/es/eventinfo/328988485__/</url>
-  </evento>
-  <evento>
-    <nombre>Reino Unido U18 (M) – China U18 (M)</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Mujeres. Campeonato mundial Sub-18. Div I B</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/331422221_united_kingdom_u18_w_china_u18_w/</url>
   </evento>
   <evento>
     <nombre>Rapperswil-Jona – Langnau</nombre>
@@ -8129,20 +8225,60 @@
     <url>https://livetv.sx/es/eventinfo/330004295__/</url>
   </evento>
   <evento>
-    <nombre>Dubai – Fenerbahce</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Euroliga</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328966124__/</url>
+    <nombre>Zug – Lulea</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Liga de Campeones</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/330007938__/</url>
   </evento>
   <evento>
-    <nombre>Patrioti Levice – Wurzburgo</nombre>
+    <nombre>La Chaux-de-Fonds – Visp</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suiza. Swiss League</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/330009789__/</url>
+  </evento>
+  <evento>
+    <nombre>Ruan – Burdeos</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Francia. Ligue Magnus</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330009566__/</url>
+  </evento>
+  <evento>
+    <nombre>Niza – Grenoble</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Francia. Ligue Magnus</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330009567__/</url>
+  </evento>
+  <evento>
+    <nombre>Bellinzona Snakes – EHC Basilea</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suiza. Swiss League</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/330015627__/</url>
+  </evento>
+  <evento>
+    <nombre>Marsella – Amiens</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Francia. Ligue Magnus</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/330015402__/</url>
+  </evento>
+  <evento>
+    <nombre>Nymburk – Heidelberg</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Liga de Campeones. Calificaci?n</competicion>
     <fecha>8 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328973224__/</url>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/328976659__/</url>
   </evento>
   <evento>
     <nombre>Jena – Rostock</nombre>
@@ -8159,6 +8295,14 @@
     <fecha>8 de enero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/328987009__/</url>
+  </evento>
+  <evento>
+    <nombre>Le Mans – Mersin</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Liga de Campeones. Calificaci?n</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/328987010__/</url>
   </evento>
   <evento>
     <nombre>Panathinaikos – Virtus Bolonia</nombre>
@@ -8209,70 +8353,6 @@
     <url>https://livetv.sx/es/eventinfo/329027610__/</url>
   </evento>
   <evento>
-    <nombre>Karditsas – Spartak Subotica</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Liga de Campeones. Calificaci?n</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/328969892__/</url>
-  </evento>
-  <evento>
-    <nombre>Liepaja/LSSS – Talsi</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332180999__/</url>
-  </evento>
-  <evento>
-    <nombre>Al Manama – Al Muharraq</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Bahréin. Liga Premier</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/331734849__/</url>
-  </evento>
-  <evento>
-    <nombre>Maccabi Ramat Gan (M) –  Elitzur (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Israel. Mujeres. Liga Premier</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332113237__/</url>
-  </evento>
-  <evento>
-    <nombre>Olimpas – Vilkaviskio Perlas</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Lituania. NKL</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/331461981__/</url>
-  </evento>
-  <evento>
-    <nombre>Jurbarkas-Karys – Vilniaus Perlas</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Lituania. NKL</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/331461982__/</url>
-  </evento>
-  <evento>
-    <nombre>Palangos Olimpas – Dzukija</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Lituania. NKL</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/331461983__/</url>
-  </evento>
-  <evento>
-    <nombre>Nymburk – Heidelberg</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Liga de Campeones. Calificaci?n</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/328976659__/</url>
-  </evento>
-  <evento>
     <nombre>Towson Tigers – Hofstra Pride</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -8321,12 +8401,20 @@
     <url>https://livetv.sx/es/eventinfo/328983552__/</url>
   </evento>
   <evento>
-    <nombre>Le Mans – Mersin</nombre>
+    <nombre>Akraness – Grindavik</nombre>
     <deporte>Baloncesto</deporte>
-    <competicion>Liga de Campeones. Calificaci?n</competicion>
+    <competicion>Islandia. Urvalsdeild</competicion>
     <fecha>8 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328987010__/</url>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/332325160_akranes_grindavik/</url>
+  </evento>
+  <evento>
+    <nombre>KR Reykjavík – Armann</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Islandia. Urvalsdeild</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/332325162_kr_reykjavik_armann/</url>
   </evento>
   <evento>
     <nombre>Gliwice – Czarni Slupsk</nombre>
@@ -8343,6 +8431,22 @@
     <fecha>8 de enero</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/328990475__/</url>
+  </evento>
+  <evento>
+    <nombre>Miami (W) – Louisville (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332325529_miami_w_louisville_w/</url>
+  </evento>
+  <evento>
+    <nombre>East Texas A&amp;M (W) – Texas A&amp;M-Corpus Christi (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujeres. NCAA</competicion>
+    <fecha>8 de enero</fecha>
+    <hora>22:30</hora>
+    <url>https://livetv.sx/es/eventinfo/332325530_east_texas_aandm_w_texas_aandm_corpus_christi_w/</url>
   </evento>
   <evento>
     <nombre>Utah Aggies – UNLV Runnin Rebels</nombre>
@@ -9849,6 +9953,14 @@
     <url>https://livetv.sx/es/eventinfo/331454171_tesvikiye_gungoren_belediyespor/</url>
   </evento>
   <evento>
+    <nombre>Telsiai – Neptunas-Akvaservis</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Lituania. NKL</competicion>
+    <fecha>10 de enero</fecha>
+    <hora>14:10</hora>
+    <url>https://livetv.sx/es/eventinfo/332322017__/</url>
+  </evento>
+  <evento>
     <nombre>Turk Telekom – Manisa</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Turquía. BSL</competicion>
@@ -10127,6 +10239,14 @@
     <fecha>10 de enero</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/331454432_kastela_novi_zagreb/</url>
+  </evento>
+  <evento>
+    <nombre>Omega-Tauras – Vytis</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Lituania. NKL</competicion>
+    <fecha>10 de enero</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332322020__/</url>
   </evento>
   <evento>
     <nombre>Koroivos – Sofadon</nombre>
@@ -12121,6 +12241,22 @@
     <url>https://livetv.sx/es/eventinfo/329426820__/</url>
   </evento>
   <evento>
+    <nombre>Portland Pilots – Oregon Beavers</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>11 de enero</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/329426821__/</url>
+  </evento>
+  <evento>
+    <nombre>Kansas City Roos – ND Fighting Hawks</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>11 de enero</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/329426822__/</url>
+  </evento>
+  <evento>
     <nombre>WTA. Auckland</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Auckland</competicion>
@@ -12185,36 +12321,12 @@
     <url>https://livetv.sx/es/eventinfo/331925348__/</url>
   </evento>
   <evento>
-    <nombre>Duncan / Mackinlay – Wendelken / Hands</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Nottingham. Doubles</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332026798__/</url>
-  </evento>
-  <evento>
     <nombre>Broom / Stevenson – Cornea / Walkow</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Nottingham. Doubles</competicion>
     <fecha>8 de enero</fecha>
     <hora>16:30</hora>
     <url>https://livetv.sx/es/eventinfo/332040195__/</url>
-  </evento>
-  <evento>
-    <nombre>Bass / Jones – Broady / Whitehouse</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Nottingham. Doubles</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>17:10</hora>
-    <url>https://livetv.sx/es/eventinfo/332040196__/</url>
-  </evento>
-  <evento>
-    <nombre>Hussey / Monday – Masur / Karol</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Nottingham. Doubles</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/332067740__/</url>
   </evento>
   <evento>
     <nombre>ATP Challenger. Canberra</nombre>
@@ -12665,14 +12777,6 @@
     <url>https://livetv.sx/es/eventinfo/328973214__/</url>
   </evento>
   <evento>
-    <nombre>Olympiacos (M) –  Zeleznicar (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Liga de Campeones</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328972779__/</url>
-  </evento>
-  <evento>
     <nombre>Schwerin (M) –  Rzeszow (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Liga de Campeones</competicion>
@@ -12735,38 +12839,6 @@
     <fecha>8 de enero</fecha>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/328993464__/</url>
-  </evento>
-  <evento>
-    <nombre>PAOK – Pafiakos</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Copa Desafío</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/332009292__/</url>
-  </evento>
-  <evento>
-    <nombre>Bélgica U18 (M) – España U18 (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Mujeres. WEVZA Sub-18</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/331475575_belgium_u18_w_spain_u18_w/</url>
-  </evento>
-  <evento>
-    <nombre>Fatum Nyiregyhaza (M) –  Vallefoglia (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Mujeres. Copa Challenge</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/331499630__/</url>
-  </evento>
-  <evento>
-    <nombre>Dukla Liberec – Lausanne</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Copa Desafío</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332015484__/</url>
   </evento>
   <evento>
     <nombre>España U18 – Países Bajos U18</nombre>
@@ -13945,20 +14017,20 @@
     <url>https://livetv.sx/es/eventinfo/331448978_roa_drammen_hk/</url>
   </evento>
   <evento>
-    <nombre>Ulleval – NTNUI</nombre>
+    <nombre>Ulleval – NTNUИ</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Noruega. Elitserien</competicion>
     <fecha>9 de enero</fecha>
     <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/331448979_ulleval_ntnui/</url>
+    <url>https://livetv.sx/es/eventinfo/331448979_ulleval_ntnu/</url>
   </evento>
   <evento>
-    <nombre>Mjondalen – NTNUI</nombre>
+    <nombre>Mjondalen – NTNUИ</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Noruega. Elitserien</competicion>
     <fecha>11 de enero</fecha>
     <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/331448980_mjondalen_ntnui/</url>
+    <url>https://livetv.sx/es/eventinfo/331448980_mjondalen_ntnu/</url>
   </evento>
   <evento>
     <nombre>L84 – Napoli</nombre>
@@ -14159,22 +14231,6 @@
     <fecha>11 de enero</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/329953396_tartu_ravens_saku_sporting/</url>
-  </evento>
-  <evento>
-    <nombre>Noruega – Dinamarca</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Partido amistoso. Selecciones</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/331423143_norway_denmark/</url>
-  </evento>
-  <evento>
-    <nombre>Noruega – Dinamarca</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Golden League</competicion>
-    <fecha>8 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/328972781__/</url>
   </evento>
   <evento>
     <nombre>España – Eslovaquia</nombre>
