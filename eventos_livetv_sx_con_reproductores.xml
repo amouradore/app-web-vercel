@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2026-01-13 17:48:05" total="249">
+<eventos generado="2026-01-13 18:11:34" total="249">
   <evento id="1">
     <nombre>Bahcesehir Koleji –  Manresa</nombre>
     <deporte>Fútbol</deporte>
@@ -259,17 +259,17 @@ player/live.php?id=245814&amp;w=700&amp;h=480</url>
     <streams total="8">
       <stream id="1">
         <url>https://emb.apl386.me/
-player/live.php?id=245512&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
-        <idioma_nombre>Italiano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245512&amp;lang=es&amp;eid=329987387&amp;lid=2913097&amp;ci=205&amp;si=3</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl386.me/
 player/live.php?id=245324&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
         <idioma_nombre>Coreano</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245324&amp;lang=es&amp;eid=329987387&amp;lid=2912118&amp;ci=205&amp;si=3</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://emb.apl386.me/
+player/live.php?id=245512&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245512&amp;lang=es&amp;eid=329987387&amp;lid=2913097&amp;ci=205&amp;si=3</enlace_original>
       </stream>
       <stream id="3">
         <url>https://flixxlive.pro/live/magenta3_german.php</url>
@@ -317,36 +317,42 @@ player/live.php?id=245324&amp;w=700&amp;h=480</url>
     <hora>12:40</hora>
     <url>https://livetv.sx/es/eventinfo/333190516_atp_challenger_glasgow/</url>
     <datetime_iso>2026-01-13T12:40:00</datetime_iso>
-    <streams total="5">
+    <streams total="6">
       <stream id="1">
-        <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNjkwMjE3</url>
+        <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNzAwNDUz</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
         <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927797&amp;lang=es&amp;eid=333190516&amp;lid=2927797&amp;ci=7324&amp;si=4</enlace_original>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927857&amp;lang=es&amp;eid=333190516&amp;lid=2927857&amp;ci=7324&amp;si=4</enlace_original>
       </stream>
       <stream id="2">
-        <url>https://topembed.pw/channel/bet11693625</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927854&amp;lang=es&amp;eid=333190516&amp;lid=2927854&amp;ci=7324&amp;si=4</enlace_original>
-      </stream>
-      <stream id="3">
         <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNjkzNzE1</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
         <idioma_nombre>Polaco</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927853&amp;lang=es&amp;eid=333190516&amp;lid=2927853&amp;ci=7324&amp;si=4</enlace_original>
       </stream>
-      <stream id="4">
+      <stream id="3">
         <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNzAxNzkz</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
         <idioma_nombre>Polaco</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927841&amp;lang=es&amp;eid=333190516&amp;lid=2927841&amp;ci=7324&amp;si=4</enlace_original>
       </stream>
-      <stream id="5">
+      <stream id="4">
         <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNzAwNDg0</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
         <idioma_nombre>Polaco</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927839&amp;lang=es&amp;eid=333190516&amp;lid=2927839&amp;ci=7324&amp;si=4</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://topembed.pw/channel/bet11693625</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927854&amp;lang=es&amp;eid=333190516&amp;lid=2927854&amp;ci=7324&amp;si=4</enlace_original>
+      </stream>
+      <stream id="6">
+        <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNjkwMjE3</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927797&amp;lang=es&amp;eid=333190516&amp;lid=2927797&amp;ci=7324&amp;si=4</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -378,14 +384,7 @@ player/live.php?id=245324&amp;w=700&amp;h=480</url>
     <hora>14:50</hora>
     <url>https://livetv.sx/es/eventinfo/333601772_tom_gentzsch_carl_emil_overbeck/</url>
     <datetime_iso>2026-01-13T14:50:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://topembed.pw/event/tom-gentzsch_carl-emil-overbeck_1768311600</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927811&amp;lang=es&amp;eid=333601772&amp;lid=2927811&amp;ci=7324&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="14">
     <nombre>Tom Gentzsch – Carl Emil Overbeck</nombre>
@@ -405,14 +404,7 @@ player/live.php?id=245324&amp;w=700&amp;h=480</url>
     <hora>15:05</hora>
     <url>https://livetv.sx/es/eventinfo/333027975_luciano_emanuel_ambrogi_andrea_collarini/</url>
     <datetime_iso>2026-01-13T15:05:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNjkwMjkx</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927817&amp;lang=es&amp;eid=333027975&amp;lid=2927817&amp;ci=3712&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="16">
     <nombre>Daniel Dutra da Silva –  Nicolas Kicker</nombre>
@@ -422,14 +414,7 @@ player/live.php?id=245324&amp;w=700&amp;h=480</url>
     <hora>15:05</hora>
     <url>https://livetv.sx/es/eventinfo/333027977_daniel_dutra_da_silva_nicolas_kicker/</url>
     <datetime_iso>2026-01-13T15:05:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNjkwMjk5</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927804&amp;lang=es&amp;eid=333027977&amp;lid=2927804&amp;ci=3712&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="17">
     <nombre>Pedro Boscardin Dias –  Valerio Aboian</nombre>
@@ -439,14 +424,7 @@ player/live.php?id=245324&amp;w=700&amp;h=480</url>
     <hora>15:05</hora>
     <url>https://livetv.sx/es/eventinfo/333629568_pedro_boscardin_dias_valerio_aboian/</url>
     <datetime_iso>2026-01-13T15:05:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNzAxNzgz</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927803&amp;lang=es&amp;eid=333629568&amp;lid=2927803&amp;ci=3712&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="18">
     <nombre>Pedro Boscardin Dias – Valerio Aboian</nombre>
@@ -456,14 +434,7 @@ player/live.php?id=245324&amp;w=700&amp;h=480</url>
     <hora>15:05</hora>
     <url>https://livetv.sx/es/eventinfo/333629568__/</url>
     <datetime_iso>2026-01-13T15:05:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNzAxNzgz</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927803&amp;lang=es&amp;eid=333629568&amp;lid=2927803&amp;ci=3712&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="19">
     <nombre>Luciano Emanuel Ambrogi – Andrea Collarini</nombre>
@@ -473,14 +444,7 @@ player/live.php?id=245324&amp;w=700&amp;h=480</url>
     <hora>15:05</hora>
     <url>https://livetv.sx/es/eventinfo/333027975__/</url>
     <datetime_iso>2026-01-13T15:05:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNjkwMjkx</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927817&amp;lang=es&amp;eid=333027975&amp;lid=2927817&amp;ci=3712&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="20">
     <nombre>Daniel Dutra da Silva – Nicolas Kicker</nombre>
@@ -490,14 +454,7 @@ player/live.php?id=245324&amp;w=700&amp;h=480</url>
     <hora>15:05</hora>
     <url>https://livetv.sx/es/eventinfo/333027977__/</url>
     <datetime_iso>2026-01-13T15:05:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNjkwMjk5</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927804&amp;lang=es&amp;eid=333027977&amp;lid=2927804&amp;ci=3712&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="21">
     <nombre>ATP Challenger. Buenos Aires</nombre>
@@ -507,18 +464,18 @@ player/live.php?id=245324&amp;w=700&amp;h=480</url>
     <hora>15:10</hora>
     <url>https://livetv.sx/es/eventinfo/333185963_atp_challenger_buenos_aires/</url>
     <datetime_iso>2026-01-13T15:10:00</datetime_iso>
-    <streams total="7">
+    <streams total="4">
       <stream id="1">
-        <url>https://topembed.pw/channel/bet11690293</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927860&amp;lang=es&amp;eid=333185963&amp;lid=2927860&amp;ci=3712&amp;si=4</enlace_original>
-      </stream>
-      <stream id="2">
         <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNzAxNzgz</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
         <idioma_nombre>Polaco</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927803&amp;lang=es&amp;eid=333185963&amp;lid=2927803&amp;ci=3712&amp;si=4</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://topembed.pw/channel/bet11690293</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927860&amp;lang=es&amp;eid=333185963&amp;lid=2927860&amp;ci=3712&amp;si=4</enlace_original>
       </stream>
       <stream id="3">
         <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNzAxNzg1</url>
@@ -532,24 +489,6 @@ player/live.php?id=245324&amp;w=700&amp;h=480</url>
         <idioma_nombre>Polaco</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927842&amp;lang=es&amp;eid=333185963&amp;lid=2927842&amp;ci=3712&amp;si=4</enlace_original>
       </stream>
-      <stream id="5">
-        <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNjkwMjkx</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927817&amp;lang=es&amp;eid=333185963&amp;lid=2927817&amp;ci=3712&amp;si=4</enlace_original>
-      </stream>
-      <stream id="6">
-        <url>https://topembed.pw/event/luciano-emanuel-ambrogi_andrea-collarini_1768309200</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927812&amp;lang=es&amp;eid=333185963&amp;lid=2927812&amp;ci=3712&amp;si=4</enlace_original>
-      </stream>
-      <stream id="7">
-        <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNjkwMjk5</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927804&amp;lang=es&amp;eid=333185963&amp;lid=2927804&amp;ci=3712&amp;si=4</enlace_original>
-      </stream>
     </streams>
   </evento>
   <evento id="22">
@@ -560,14 +499,7 @@ player/live.php?id=245324&amp;w=700&amp;h=480</url>
     <hora>15:10</hora>
     <url>https://livetv.sx/es/eventinfo/333006167_henri_squire_lui_maxted/</url>
     <datetime_iso>2026-01-13T15:10:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNjkwMjE3</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927797&amp;lang=es&amp;eid=333006167&amp;lid=2927797&amp;ci=7324&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="23">
     <nombre>Henri Squire – Lui Maxted</nombre>
@@ -577,14 +509,7 @@ player/live.php?id=245324&amp;w=700&amp;h=480</url>
     <hora>15:10</hora>
     <url>https://livetv.sx/es/eventinfo/333006167__/</url>
     <datetime_iso>2026-01-13T15:10:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNjkwMjE3</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927797&amp;lang=es&amp;eid=333006167&amp;lid=2927797&amp;ci=7324&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="24">
     <nombre>Marvin Moeller –  Frederico-Ferreira Silva</nombre>
@@ -968,14 +893,7 @@ player/live.php?id=245921&amp;w=700&amp;h=480</url>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/329977391_chaika_tolpar/</url>
     <datetime_iso>2026-01-13T17:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/Ceo3F6cAW9Q?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=Ceo3F6cAW9Q&amp;lang=es&amp;eid=329977391&amp;lid=2927157&amp;ci=279&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="51">
     <nombre>Sputnik Almetyevsk –  Mamonty Yugry</nombre>
@@ -985,14 +903,7 @@ player/live.php?id=245921&amp;w=700&amp;h=480</url>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/329977392_sputnik_almetyevsk_mamonty_yugry/</url>
     <datetime_iso>2026-01-13T17:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/s2Yw_6mbQDY?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=s2Yw_6mbQDY&amp;lang=es&amp;eid=329977392&amp;lid=2927158&amp;ci=279&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="52">
     <nombre>Reaktor –  AKM Novomoskovsk</nombre>
@@ -1002,14 +913,7 @@ player/live.php?id=245921&amp;w=700&amp;h=480</url>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/329977393_reaktor_akm_novomoskovsk/</url>
     <datetime_iso>2026-01-13T17:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/hcNbZWxtQ2c?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=hcNbZWxtQ2c&amp;lang=es&amp;eid=329977393&amp;lid=2927160&amp;ci=279&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="53">
     <nombre>Spartak MAH –  Taifun</nombre>
@@ -1019,14 +923,7 @@ player/live.php?id=245921&amp;w=700&amp;h=480</url>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/329977394_spartak_mah_taifun/</url>
     <datetime_iso>2026-01-13T17:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/tzhfEGq8EBE?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=tzhfEGq8EBE&amp;lang=es&amp;eid=329977394&amp;lid=2927159&amp;ci=279&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="54">
     <nombre>Savannah Ghost Pirates –  Greenville Swamp</nombre>
@@ -1036,14 +933,7 @@ player/live.php?id=245921&amp;w=700&amp;h=480</url>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/332237123_savannah_ghost_pirates_greenville_swamp/</url>
     <datetime_iso>2026-01-13T17:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c999f88a186847a859a9c8c98868483.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927778&amp;lang=es&amp;eid=332237123&amp;lid=2927778&amp;ci=1488&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="55">
     <nombre>Polet –  Ártico</nombre>
@@ -1070,14 +960,7 @@ player/live.php?id=245921&amp;w=700&amp;h=480</url>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/332551079_radivoj_korac_w_crvena_zvezda_w/</url>
     <datetime_iso>2026-01-13T17:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/9_OTIQCd7RQ?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=9_OTIQCd7RQ&amp;lang=es&amp;eid=332551079&amp;lid=2927864&amp;ci=4724&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="57">
     <nombre>Japón U18 (M) –  Noruega U18 (M)</nombre>
@@ -1087,14 +970,7 @@ player/live.php?id=245921&amp;w=700&amp;h=480</url>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/333496336_japandoacute_n_u18_m_noruega_u18_m/</url>
     <datetime_iso>2026-01-13T17:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://playerhls.com/tv/video-player.php?url=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6963f72f1acb88e1df0e2084/index.m3u8</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927870&amp;lang=es&amp;eid=333496336&amp;lid=2927870&amp;ci=5682&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="58">
     <nombre>Paarl Royals –  Durban Super Giants</nombre>
@@ -1151,14 +1027,7 @@ player/live.php?id=245858&amp;w=700&amp;h=480</url>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/333496336_japan_u18_w_norway_u18_w/</url>
     <datetime_iso>2026-01-13T17:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://playerhls.com/tv/video-player.php?url=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6963f72f1acb88e1df0e2084/index.m3u8</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927870&amp;lang=es&amp;eid=333496336&amp;lid=2927870&amp;ci=5682&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="61">
     <nombre>Chaika – Tolpar</nombre>
@@ -1168,14 +1037,7 @@ player/live.php?id=245858&amp;w=700&amp;h=480</url>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/329977391__/</url>
     <datetime_iso>2026-01-13T17:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/Ceo3F6cAW9Q?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=Ceo3F6cAW9Q&amp;lang=es&amp;eid=329977391&amp;lid=2927157&amp;ci=279&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="62">
     <nombre>Sputnik Almetyevsk – Mamonty Yugry</nombre>
@@ -1185,14 +1047,7 @@ player/live.php?id=245858&amp;w=700&amp;h=480</url>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/329977392__/</url>
     <datetime_iso>2026-01-13T17:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/s2Yw_6mbQDY?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=s2Yw_6mbQDY&amp;lang=es&amp;eid=329977392&amp;lid=2927158&amp;ci=279&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="63">
     <nombre>Reaktor – AKM Novomoskovsk</nombre>
@@ -1202,14 +1057,7 @@ player/live.php?id=245858&amp;w=700&amp;h=480</url>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/329977393__/</url>
     <datetime_iso>2026-01-13T17:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/hcNbZWxtQ2c?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=hcNbZWxtQ2c&amp;lang=es&amp;eid=329977393&amp;lid=2927160&amp;ci=279&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="64">
     <nombre>Spartak MAH – Taifun</nombre>
@@ -1219,14 +1067,7 @@ player/live.php?id=245858&amp;w=700&amp;h=480</url>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/329977394__/</url>
     <datetime_iso>2026-01-13T17:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/tzhfEGq8EBE?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=tzhfEGq8EBE&amp;lang=es&amp;eid=329977394&amp;lid=2927159&amp;ci=279&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="65">
     <nombre>Polet – Ártico</nombre>
@@ -1236,14 +1077,7 @@ player/live.php?id=245858&amp;w=700&amp;h=480</url>
     <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/333527381__/</url>
     <datetime_iso>2026-01-13T17:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.googletagmanager.com/ns.html?id=GTM-PS8LV5W</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://tinyurl.com/5ck6kfnd</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="66">
     <nombre>Bulgaria U18 (M) – Kosovo U18 (M)</nombre>
@@ -1263,14 +1097,7 @@ player/live.php?id=245858&amp;w=700&amp;h=480</url>
     <hora>17:45</hora>
     <url>https://livetv.sx/es/eventinfo/333865474_portugal_u17_m_espaandntilde_a_u17_m/</url>
     <datetime_iso>2026-01-13T17:45:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/IlUoCnkcgpw?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/7.png</idioma>
-        <idioma_nombre>Francés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=IlUoCnkcgpw&amp;lang=es&amp;eid=333865474&amp;lid=2927897&amp;ci=441&amp;si=12</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="68">
     <nombre>Portugal U17 (M) – España U17 (M)</nombre>
@@ -1335,7 +1162,7 @@ player/live.php?id=245858&amp;w=700&amp;h=480</url>
         <url>https://voodc.com/embed/1/85818c999f899984847a859a9d899886857f.html</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/28.png</idioma>
         <idioma_nombre>Búlgaro</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927793&amp;lang=es&amp;eid=333811334&amp;lid=2927793&amp;ci=836&amp;si=5</enlace_original>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927793&amp;lang=es&amp;eid=333811334&amp;lid=2927793&amp;ci=8701&amp;si=5</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -1773,14 +1600,7 @@ player/live.php?id=245795&amp;w=700&amp;h=480</url>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/333811334__/</url>
     <datetime_iso>2026-01-13T18:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://voodc.com/embed/1/85818c999f899984847a859a9d899886857f.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/28.png</idioma>
-        <idioma_nombre>Búlgaro</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927793&amp;lang=es&amp;eid=333811334&amp;lid=2927793&amp;ci=8701&amp;si=5</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="89">
     <nombre>Olymp Praga (M) –  KNRC (M)</nombre>
@@ -1891,7 +1711,7 @@ player/live.php?id=245795&amp;w=700&amp;h=480</url>
     <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/329983823_ak_bars_neftekhimik/</url>
     <datetime_iso>2026-01-13T18:30:00</datetime_iso>
-    <streams total="4">
+    <streams total="5">
       <stream id="1">
         <url>https://emb.apl386.me/
 player/live.php?id=245245&amp;w=700&amp;h=480</url>
@@ -1907,12 +1727,19 @@ player/live.php?id=245251&amp;w=700&amp;h=480</url>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245251&amp;lang=es&amp;eid=329983823&amp;lid=2912142&amp;ci=167&amp;si=2</enlace_original>
       </stream>
       <stream id="3">
+        <url>https://emb.apl386.me/
+player/live.php?id=245253&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245253&amp;lang=es&amp;eid=329983823&amp;lid=2912143&amp;ci=167&amp;si=2</enlace_original>
+      </stream>
+      <stream id="4">
         <url>https://voodc.com/embed/1/85818c999f899a8c847a859a9d8d98868582.html</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
         <idioma_nombre>Inglés</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927786&amp;lang=es&amp;eid=329983823&amp;lid=2927786&amp;ci=167&amp;si=2</enlace_original>
       </stream>
-      <stream id="4">
+      <stream id="5">
         <url>https://daddylive4.click/my/stream-18.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
         <idioma_nombre>Inglés</idioma_nombre>
@@ -1998,62 +1825,7 @@ player/live.php?id=245251&amp;w=700&amp;h=480</url>
     <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/333501811_copa_del_mundo_flachau/</url>
     <datetime_iso>2026-01-13T18:30:00</datetime_iso>
-    <streams total="8">
-      <stream id="1">
-        <url>https://emb.apl386.me/
-player/live.php?id=240026&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=240026&amp;lang=es&amp;eid=333501811&amp;lid=2800932&amp;ci=407&amp;si=18</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl386.me/
-player/live.php?id=245453&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245453&amp;lang=es&amp;eid=333501811&amp;lid=2912402&amp;ci=407&amp;si=18</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://emb.apl386.me/
-player/live.php?id=245549&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/12.png</idioma>
-        <idioma_nombre>Turco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245549&amp;lang=es&amp;eid=333501811&amp;lid=2913861&amp;ci=407&amp;si=18</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://emb.apl386.me/
-player/live.php?id=245632&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245632&amp;lang=es&amp;eid=333501811&amp;lid=2924864&amp;ci=407&amp;si=18</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://emb.apl386.me/
-player/live.php?id=245762&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245762&amp;lang=es&amp;eid=333501811&amp;lid=2914690&amp;ci=407&amp;si=18</enlace_original>
-      </stream>
-      <stream id="6">
-        <url>https://emb.apl386.me/
-player/live.php?id=246007&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
-        <idioma_nombre>Italiano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=246007&amp;lang=es&amp;eid=333501811&amp;lid=2926271&amp;ci=407&amp;si=18</enlace_original>
-      </stream>
-      <stream id="7">
-        <url>https://voodc.com/embed/1/85818c999f899a8c847a85979c8798868680.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927794&amp;lang=es&amp;eid=333501811&amp;lid=2927794&amp;ci=407&amp;si=18</enlace_original>
-      </stream>
-      <stream id="8">
-        <url>https://daddylive4.click/my/stream-31.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927529&amp;lang=es&amp;eid=333501811&amp;lid=2927529&amp;ci=407&amp;si=18</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="99">
     <nombre>EAU Sub-23 –   Siria Sub-23</nombre>
@@ -2332,7 +2104,7 @@ player/live.php?id=245417&amp;w=700&amp;h=480</url>
     <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/329983823__/</url>
     <datetime_iso>2026-01-13T18:30:00</datetime_iso>
-    <streams total="4">
+    <streams total="5">
       <stream id="1">
         <url>https://emb.apl386.me/
 player/live.php?id=245245&amp;w=700&amp;h=480</url>
@@ -2348,12 +2120,19 @@ player/live.php?id=245251&amp;w=700&amp;h=480</url>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245251&amp;lang=es&amp;eid=329983823&amp;lid=2912142&amp;ci=167&amp;si=2</enlace_original>
       </stream>
       <stream id="3">
+        <url>https://emb.apl386.me/
+player/live.php?id=245253&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245253&amp;lang=es&amp;eid=329983823&amp;lid=2912143&amp;ci=167&amp;si=2</enlace_original>
+      </stream>
+      <stream id="4">
         <url>https://voodc.com/embed/1/85818c999f899a8c847a859a9d8d98868582.html</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
         <idioma_nombre>Inglés</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927786&amp;lang=es&amp;eid=329983823&amp;lid=2927786&amp;ci=167&amp;si=2</enlace_original>
       </stream>
-      <stream id="4">
+      <stream id="5">
         <url>https://daddylive4.click/my/stream-18.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
         <idioma_nombre>Inglés</idioma_nombre>
@@ -2947,7 +2726,14 @@ player/live.php?id=245814&amp;w=700&amp;h=480</url>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/333827951_cagliari_priego/</url>
     <datetime_iso>2026-01-13T19:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.ettu.tv/live/0/-1/903</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifrx&amp;c=2927873&amp;lang=es&amp;eid=333827951&amp;lid=2927873&amp;ci=2889&amp;si=39</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="139">
     <nombre>Vyhne –  Białystok</nombre>
@@ -3427,59 +3213,60 @@ player/live.php?id=245317&amp;w=700&amp;h=480</url>
     <datetime_iso>2026-01-13T19:30:00</datetime_iso>
     <streams total="8">
       <stream id="1">
-        <url>https://welivesports.shop/live/espn2arg.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/7.png</idioma>
-        <idioma_nombre>Francés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927681&amp;lang=es&amp;eid=329991813&amp;lid=2927681&amp;ci=36&amp;si=1</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl386.me/
-player/live.php?id=242914&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=242914&amp;lang=es&amp;eid=329991813&amp;lid=2828767&amp;ci=36&amp;si=1</enlace_original>
-      </stream>
-      <stream id="3">
         <url>https://emb.apl386.me/
 player/live.php?id=242915&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
         <idioma_nombre>Inglés</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=242915&amp;lang=es&amp;eid=329991813&amp;lid=2861108&amp;ci=36&amp;si=1</enlace_original>
       </stream>
-      <stream id="4">
+      <stream id="2">
         <url>https://emb.apl386.me/
 player/live.php?id=244386&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/3.png</idioma>
         <idioma_nombre>Español</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=244386&amp;lang=es&amp;eid=329991813&amp;lid=2894758&amp;ci=36&amp;si=1</enlace_original>
       </stream>
-      <stream id="5">
+      <stream id="3">
         <url>https://emb.apl386.me/
 player/live.php?id=245167&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
         <idioma_nombre>Italiano</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245167&amp;lang=es&amp;eid=329991813&amp;lid=2912062&amp;ci=36&amp;si=1</enlace_original>
       </stream>
-      <stream id="6">
+      <stream id="4">
         <url>https://emb.apl386.me/
 player/live.php?id=245333&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/12.png</idioma>
         <idioma_nombre>Turco</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245333&amp;lang=es&amp;eid=329991813&amp;lid=2912123&amp;ci=36&amp;si=1</enlace_original>
       </stream>
-      <stream id="7">
-        <url>https://emb.apl386.me/
-player/live.php?id=245346&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
-        <idioma_nombre>Italiano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245346&amp;lang=es&amp;eid=329991813&amp;lid=2912061&amp;ci=36&amp;si=1</enlace_original>
-      </stream>
-      <stream id="8">
+      <stream id="5">
         <url>https://emb.apl386.me/
 player/live.php?id=245856&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/11.png</idioma>
         <idioma_nombre>Alemán</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245856&amp;lang=es&amp;eid=329991813&amp;lid=2915413&amp;ci=36&amp;si=1</enlace_original>
+      </stream>
+      <stream id="6">
+        <url>https://emb.apl386.me/
+player/live.php?id=245948&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
+        <idioma_nombre>Coreano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245948&amp;lang=es&amp;eid=329991813&amp;lid=2924762&amp;ci=36&amp;si=1</enlace_original>
+      </stream>
+      <stream id="7">
+        <url>https://emb.apl386.me/
+player/live.php?id=245953&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/29.png</idioma>
+        <idioma_nombre>Croata</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245953&amp;lang=es&amp;eid=329991813&amp;lid=2924522&amp;ci=36&amp;si=1</enlace_original>
+      </stream>
+      <stream id="8">
+        <url>https://emb.apl386.me/
+player/live.php?id=245993&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245993&amp;lang=es&amp;eid=329991813&amp;lid=2925544&amp;ci=36&amp;si=1</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -3522,31 +3309,31 @@ player/live.php?id=245333&amp;w=700&amp;h=480</url>
       </stream>
       <stream id="5">
         <url>https://emb.apl386.me/
-player/live.php?id=245346&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
-        <idioma_nombre>Italiano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245346&amp;lang=es&amp;eid=329991813&amp;lid=2912061&amp;ci=36&amp;si=1</enlace_original>
-      </stream>
-      <stream id="6">
-        <url>https://emb.apl386.me/
 player/live.php?id=245856&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/11.png</idioma>
         <idioma_nombre>Alemán</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245856&amp;lang=es&amp;eid=329991813&amp;lid=2915413&amp;ci=36&amp;si=1</enlace_original>
       </stream>
-      <stream id="7">
+      <stream id="6">
         <url>https://emb.apl386.me/
 player/live.php?id=245948&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
         <idioma_nombre>Coreano</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245948&amp;lang=es&amp;eid=329991813&amp;lid=2924762&amp;ci=36&amp;si=1</enlace_original>
       </stream>
-      <stream id="8">
+      <stream id="7">
         <url>https://emb.apl386.me/
 player/live.php?id=245953&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/29.png</idioma>
         <idioma_nombre>Croata</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245953&amp;lang=es&amp;eid=329991813&amp;lid=2924522&amp;ci=36&amp;si=1</enlace_original>
+      </stream>
+      <stream id="8">
+        <url>https://emb.apl386.me/
+player/live.php?id=245993&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245993&amp;lang=es&amp;eid=329991813&amp;lid=2925544&amp;ci=36&amp;si=1</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -3623,7 +3410,14 @@ player/live.php?id=242274&amp;w=700&amp;h=480</url>
     <hora>19:30</hora>
     <url>https://livetv.sx/es/eventinfo/329993827__/</url>
     <datetime_iso>2026-01-13T19:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://topembed.pw/channel/scfw_00136c36</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927981&amp;lang=es&amp;eid=329993827&amp;lid=2927981&amp;ci=66&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="166">
     <nombre>Fethiyespor – Galatasaray</nombre>
@@ -3715,34 +3509,34 @@ player/live.php?id=245488&amp;w=700&amp;h=480</url>
     <datetime_iso>2026-01-13T19:30:00</datetime_iso>
     <streams total="5">
       <stream id="1">
+        <url>https://daddylive4.click/my/stream-663.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927580&amp;lang=es&amp;eid=332241089&amp;lid=2927580&amp;ci=1742&amp;si=2</enlace_original>
+      </stream>
+      <stream id="2">
         <url>https://antenasport.top/tsn1.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927979&amp;lang=es&amp;eid=332241089&amp;lid=2927979&amp;ci=1742&amp;si=2</enlace_original>
       </stream>
-      <stream id="2">
+      <stream id="3">
         <url>https://daddylive4.click/live/stream-111.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927978&amp;lang=es&amp;eid=332241089&amp;lid=2927978&amp;ci=1742&amp;si=2</enlace_original>
       </stream>
-      <stream id="3">
+      <stream id="4">
         <url>https://wikisport.wiki/strm/26.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927977&amp;lang=es&amp;eid=332241089&amp;lid=2927977&amp;ci=1742&amp;si=2</enlace_original>
       </stream>
-      <stream id="4">
+      <stream id="5">
         <url>https://topembed.pw/channel/TSN1[Canada]</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2916315&amp;lang=es&amp;eid=332241089&amp;lid=2916315&amp;ci=1742&amp;si=2</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://daddylive4.click/my/stream-663.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927580&amp;lang=es&amp;eid=332241089&amp;lid=2927580&amp;ci=1742&amp;si=2</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -3771,14 +3565,7 @@ player/live.php?id=245488&amp;w=700&amp;h=480</url>
     <hora>19:45</hora>
     <url>https://livetv.sx/es/eventinfo/331675832__/</url>
     <datetime_iso>2026-01-13T19:45:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://topembed.pw/channel/bet11616638</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927954&amp;lang=es&amp;eid=331675832&amp;lid=2927954&amp;ci=249&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="173">
     <nombre>Copa del Mundo, Bad Gastein</nombre>
@@ -3928,8 +3715,14 @@ player/live.php?id=246007&amp;w=700&amp;h=480</url>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/331675833__/</url>
     <datetime_iso>2026-01-13T20:00:00</datetime_iso>
-    <streams total="1">
+    <streams total="2">
       <stream id="1">
+        <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNjE2NjQx</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927985&amp;lang=es&amp;eid=331675833&amp;lid=2927985&amp;ci=249&amp;si=1</enlace_original>
+      </stream>
+      <stream id="2">
         <url>https://daddylive4.click/my/stream-144.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/15.png</idioma>
         <idioma_nombre>Chino</idioma_nombre>
@@ -4018,24 +3811,78 @@ player/live.php?id=246007&amp;w=700&amp;h=480</url>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/329997220__/</url>
     <datetime_iso>2026-01-13T20:00:00</datetime_iso>
-    <streams total="3">
+    <streams total="12">
       <stream id="1">
+        <url>https://antenasport.top/arenasport5hr.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927987&amp;lang=es&amp;eid=329997220&amp;lid=2927987&amp;ci=191&amp;si=2</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://topembed.pw/channel/TSN3[Canada]</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927992&amp;lang=es&amp;eid=329997220&amp;lid=2927992&amp;ci=191&amp;si=2</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://antenasport.top/arenasport5sr.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927986&amp;lang=es&amp;eid=329997220&amp;lid=2927986&amp;ci=191&amp;si=2</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://daddylive4.click/live/stream-113.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927991&amp;lang=es&amp;eid=329997220&amp;lid=2927991&amp;ci=191&amp;si=2</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://l1l1.link/ch?id=3</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927634&amp;lang=es&amp;eid=329997220&amp;lid=2927634&amp;ci=191&amp;si=2</enlace_original>
+      </stream>
+      <stream id="6">
+        <url>https://antenasport.top/tsn3.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927990&amp;lang=es&amp;eid=329997220&amp;lid=2927990&amp;ci=191&amp;si=2</enlace_original>
+      </stream>
+      <stream id="7">
+        <url>https://vuen.link/ch?id=80</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927989&amp;lang=es&amp;eid=329997220&amp;lid=2927989&amp;ci=191&amp;si=2</enlace_original>
+      </stream>
+      <stream id="8">
+        <url>https://dabac.link/ch?id=3</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927994&amp;lang=es&amp;eid=329997220&amp;lid=2927994&amp;ci=191&amp;si=2</enlace_original>
+      </stream>
+      <stream id="9">
+        <url>https://dabac.link/ch?id=80</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927988&amp;lang=es&amp;eid=329997220&amp;lid=2927988&amp;ci=191&amp;si=2</enlace_original>
+      </stream>
+      <stream id="10">
+        <url>https://l1l1.link/ch?id=80</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927993&amp;lang=es&amp;eid=329997220&amp;lid=2927993&amp;ci=191&amp;si=2</enlace_original>
+      </stream>
+      <stream id="11">
         <url>https://lato.sx/ch.php?id=3</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915157&amp;lang=es&amp;eid=329997220&amp;lid=2915157&amp;ci=191&amp;si=2</enlace_original>
       </stream>
-      <stream id="2">
+      <stream id="12">
         <url>https://daddylive4.click/my/stream-995.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/8.png</idioma>
         <idioma_nombre>Portugués (Portugal)</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927601&amp;lang=es&amp;eid=329997220&amp;lid=2927601&amp;ci=191&amp;si=2</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://lato.sx/ch.php?id=80</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915208&amp;lang=es&amp;eid=329997220&amp;lid=2915208&amp;ci=191&amp;si=2</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -4108,7 +3955,14 @@ player/live.php?id=246007&amp;w=700&amp;h=480</url>
     <hora>20:15</hora>
     <url>https://livetv.sx/es/eventinfo/333629577__/</url>
     <datetime_iso>2026-01-13T20:15:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://topembed.pw/channel/bet11701784</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927983&amp;lang=es&amp;eid=333629577&amp;lid=2927983&amp;ci=3712&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="191">
     <nombre>Siroki –  Zlatibor</nombre>
@@ -4173,7 +4027,20 @@ player/live.php?id=245317&amp;w=700&amp;h=480</url>
     <hora>20:45</hora>
     <url>https://livetv.sx/es/eventinfo/330007938__/</url>
     <datetime_iso>2026-01-13T20:45:00</datetime_iso>
-    <streams total="0" />
+    <streams total="2">
+      <stream id="1">
+        <url>https://lato.sx/ch.php?id=76</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915204&amp;lang=es&amp;eid=330007938&amp;lid=2915204&amp;ci=191&amp;si=2</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://daddylive4.click/my/stream-11.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927520&amp;lang=es&amp;eid=330007938&amp;lid=2927520&amp;ci=191&amp;si=2</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="196">
     <nombre>La Chaux-de-Fonds – Visp</nombre>
@@ -4193,7 +4060,14 @@ player/live.php?id=245317&amp;w=700&amp;h=480</url>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/330006973__/</url>
     <datetime_iso>2026-01-13T21:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://lato.sx/ch.php?id=32</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2926403&amp;lang=es&amp;eid=330006973&amp;lid=2926403&amp;ci=2065&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="198">
     <nombre>Luton Town – Swindon</nombre>
@@ -4203,7 +4077,14 @@ player/live.php?id=245317&amp;w=700&amp;h=480</url>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/330006975__/</url>
     <datetime_iso>2026-01-13T21:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://lato.sx/ch.php?id=35</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2926406&amp;lang=es&amp;eid=330006975&amp;lid=2926406&amp;ci=2065&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="199">
     <nombre>Stockport – Harrogate Town</nombre>
@@ -4213,7 +4094,14 @@ player/live.php?id=245317&amp;w=700&amp;h=480</url>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/330006976__/</url>
     <datetime_iso>2026-01-13T21:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://lato.sx/ch.php?id=36</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927243&amp;lang=es&amp;eid=330006976&amp;lid=2927243&amp;ci=2065&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="200">
     <nombre>Bolton Wanderers – Port Vale</nombre>
@@ -4223,7 +4111,14 @@ player/live.php?id=245317&amp;w=700&amp;h=480</url>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/330006977__/</url>
     <datetime_iso>2026-01-13T21:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://lato.sx/ch.php?id=31</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915178&amp;lang=es&amp;eid=330006977&amp;lid=2915178&amp;ci=2065&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="201">
     <nombre>Doncaster Rovers – Fleetwood Town</nombre>
@@ -4233,7 +4128,14 @@ player/live.php?id=245317&amp;w=700&amp;h=480</url>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/330006978__/</url>
     <datetime_iso>2026-01-13T21:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://lato.sx/ch.php?id=33</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2924959&amp;lang=es&amp;eid=330006978&amp;lid=2924959&amp;ci=2065&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="202">
     <nombre>Huddersfield – Rotherham Utd</nombre>
@@ -4243,7 +4145,14 @@ player/live.php?id=245317&amp;w=700&amp;h=480</url>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/330006979__/</url>
     <datetime_iso>2026-01-13T21:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://lato.sx/ch.php?id=34</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927207&amp;lang=es&amp;eid=330006979&amp;lid=2927207&amp;ci=2065&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="203">
     <nombre>Italia U18 (M) – Francia U18 (W)</nombre>
@@ -4283,7 +4192,45 @@ player/live.php?id=245317&amp;w=700&amp;h=480</url>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/330007321__/</url>
     <datetime_iso>2026-01-13T21:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="6">
+      <stream id="1">
+        <url>https://emb.apl386.me/
+player/live.php?id=245435&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/28.png</idioma>
+        <idioma_nombre>Búlgaro</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245435&amp;lang=es&amp;eid=330007321&amp;lid=2912330&amp;ci=205&amp;si=3</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://flixxlive.pro/live/novaprime_greece.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/28.png</idioma>
+        <idioma_nombre>Búlgaro</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2661244&amp;lang=es&amp;eid=330007321&amp;lid=2661244&amp;ci=205&amp;si=3</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://flixxlive.pro/live/magenta5_german.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2666545&amp;lang=es&amp;eid=330007321&amp;lid=2666545&amp;ci=205&amp;si=3</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://streamsgate.live/tv/tv-35.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927953&amp;lang=es&amp;eid=330007321&amp;lid=2927953&amp;ci=205&amp;si=3</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://daddylive4.click/my/stream-10.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927519&amp;lang=es&amp;eid=330007321&amp;lid=2927519&amp;ci=205&amp;si=3</enlace_original>
+      </stream>
+      <stream id="6">
+        <url>https://lato.sx/ch.php?id=16</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927204&amp;lang=es&amp;eid=330007321&amp;lid=2927204&amp;ci=205&amp;si=3</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="207">
     <nombre>Bilbao – PAOK</nombre>
@@ -4293,7 +4240,14 @@ player/live.php?id=245317&amp;w=700&amp;h=480</url>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/330007860__/</url>
     <datetime_iso>2026-01-13T21:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/E7h9KuPxzTo?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=E7h9KuPxzTo&amp;lang=es&amp;eid=330007860&amp;lid=2927093&amp;ci=621&amp;si=3</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="208">
     <nombre>Helios Suns – Mornar</nombre>
@@ -4303,7 +4257,14 @@ player/live.php?id=245317&amp;w=700&amp;h=480</url>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/333585681__/</url>
     <datetime_iso>2026-01-13T21:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://daddylive4.click/my/stream-431.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
+        <idioma_nombre>Coreano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927573&amp;lang=es&amp;eid=333585681&amp;lid=2927573&amp;ci=2401&amp;si=3</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="209">
     <nombre>ASVEL – Boulazac</nombre>
@@ -4313,7 +4274,14 @@ player/live.php?id=245317&amp;w=700&amp;h=480</url>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/330009577__/</url>
     <datetime_iso>2026-01-13T21:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://antenasport.top/channel/exY3VzdG9tU2FsdDExNjE2NjI2</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927999&amp;lang=es&amp;eid=330009577&amp;lid=2927999&amp;ci=466&amp;si=3</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="210">
     <nombre>La-Rochelle – JA Vichy</nombre>
@@ -4353,7 +4321,14 @@ player/live.php?id=245317&amp;w=700&amp;h=480</url>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/333686783_lublin_chelm/</url>
     <datetime_iso>2026-01-13T21:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://daddylive4.click/my/stream-47.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/8.png</idioma>
+        <idioma_nombre>Portugués (Portugal)</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2927604&amp;lang=es&amp;eid=333686783&amp;lid=2927604&amp;ci=394&amp;si=5</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="214">
     <nombre>Colombia U18 (M) – Uruguay U18 (M)</nombre>
@@ -4363,7 +4338,14 @@ player/live.php?id=245317&amp;w=700&amp;h=480</url>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/333866254_colombia_u18_w_uruguay_u18_w/</url>
     <datetime_iso>2026-01-13T21:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/1KKojeLB3B4?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/7.png</idioma>
+        <idioma_nombre>Francés</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=1KKojeLB3B4&amp;lang=es&amp;eid=333866254&amp;lid=2927911&amp;ci=8044&amp;si=13</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="215">
     <nombre>Bera Bera (M) –  Elche (M)</nombre>
@@ -4373,7 +4355,14 @@ player/live.php?id=245317&amp;w=700&amp;h=480</url>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/333509081__/</url>
     <datetime_iso>2026-01-13T21:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/skaUq4MU6ek?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/7.png</idioma>
+        <idioma_nombre>Francés</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=skaUq4MU6ek&amp;lang=es&amp;eid=333509081&amp;lid=2927836&amp;ci=1463&amp;si=13</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="216">
     <nombre>Bellinzona Snakes – EHC Basilea</nombre>
