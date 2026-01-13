@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-01-13 20:34:00" total="2046">
-  <evento>
-    <nombre>Trento –  Panionios</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa Europea</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>70:71</hora>
-    <url>https://livetv.sx/es/eventinfo/330007321_trento_panionios/</url>
-  </evento>
+<eventos generado="2026-01-13 21:29:58" total="2043">
   <evento>
     <nombre>LKPS Lublino –  CHKS Chelm</nombre>
     <deporte>Fútbol</deporte>
@@ -17,44 +9,12 @@
     <url>https://livetv.sx/es/eventinfo/326655492_lkps_lublino_chks_chelm/</url>
   </evento>
   <evento>
-    <nombre>ASVEL –  Boulazac</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. LNB Pro A</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>82:65</hora>
-    <url>https://livetv.sx/es/eventinfo/330009577_asvel_boulazac/</url>
-  </evento>
-  <evento>
-    <nombre>Bilbao –  PAOK</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>FIBA Europe Cup</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>78:54</hora>
-    <url>https://livetv.sx/es/eventinfo/330007860_bilbao_paok/</url>
-  </evento>
-  <evento>
     <nombre>Maguncia 05 –  Heidenheim</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Alemania. Bundesliga</competicion>
     <fecha>13 de enero</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/330013036_maguncia_05_heidenheim/</url>
-  </evento>
-  <evento>
-    <nombre>Dortmund –  Werder Bremen</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. Bundesliga</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/330013038_dortmund_werder_bremen/</url>
-  </evento>
-  <evento>
-    <nombre>Simulcast</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. Bundesliga</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/333686785_simulcast/</url>
   </evento>
   <evento>
     <nombre>Utrecht –  Twente</nombre>
@@ -117,7 +77,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Francia. LNB Pro A</competicion>
     <fecha>13 de enero</fecha>
-    <hora>21:19</hora>
+    <hora>65:47</hora>
     <url>https://livetv.sx/es/eventinfo/330027461_paris_estrasburgo/</url>
   </evento>
   <evento>
@@ -145,14 +105,6 @@
     <url>https://livetv.sx/es/eventinfo/333027972_santiago_rodr__guez_taverna_gabi_adrian_boitan/</url>
   </evento>
   <evento>
-    <nombre>Arosa –  GCK Lions</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suiza. Swiss League</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/330004295_arosa_gck_lions/</url>
-  </evento>
-  <evento>
     <nombre>Bruno Kuzuhara –  Franco Agamenone</nombre>
     <deporte>Fútbol</deporte>
     <competicion>ATP Challenger. Buenos Aires</competicion>
@@ -161,28 +113,12 @@
     <url>https://livetv.sx/es/eventinfo/333629575_bruno_kuzuhara_franco_agamenone/</url>
   </evento>
   <evento>
-    <nombre>Hapoel T-A –  Hapoel Galil Elion</nombre>
+    <nombre>Trento –  Panionios</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Israel. Ligat Ha'Al</competicion>
+    <competicion>Copa Europea</competicion>
     <fecha>13 de enero</fecha>
-    <hora>98:66</hora>
-    <url>https://livetv.sx/es/eventinfo/329987536_hapoel_t_a_hapoel_galil_elion/</url>
-  </evento>
-  <evento>
-    <nombre>Zug –  Lulea</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga de Campeones</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/330007938_zug_lulea/</url>
-  </evento>
-  <evento>
-    <nombre>La Chaux-de-Fonds –  Visp</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suiza. Swiss League</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/330009789_la_chaux_de_fonds_visp/</url>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330007321_trento_panionios/</url>
   </evento>
   <evento>
     <nombre>London Masters</nombre>
@@ -193,11 +129,27 @@
     <url>https://livetv.sx/es/eventinfo/333501292_london_masters/</url>
   </evento>
   <evento>
+    <nombre>ASVEL –  Boulazac</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. LNB Pro A</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330009577_asvel_boulazac/</url>
+  </evento>
+  <evento>
+    <nombre>Bilbao –  PAOK</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>FIBA Europe Cup</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330007860_bilbao_paok/</url>
+  </evento>
+  <evento>
     <nombre>La-Rochelle –  JA Vichy</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Francia. LNB Pro B</competicion>
     <fecha>13 de enero</fecha>
-    <hora>63:56</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/330009587_la_rochelle_ja_vichy/</url>
   </evento>
   <evento>
@@ -277,7 +229,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Liga del Adriático. Liga 2</competicion>
     <fecha>13 de enero</fecha>
-    <hora>55:49</hora>
+    <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/333585681_helios_suns_mornar/</url>
   </evento>
   <evento>
@@ -317,7 +269,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Islandia. Mujeres. Urvalsdeild</competicion>
     <fecha>13 de enero</fecha>
-    <hora>71:47</hora>
+    <hora>21:15</hora>
     <url>https://livetv.sx/es/eventinfo/333338275__kr_reikiavik_m__tindastoll_m/</url>
   </evento>
   <evento>
@@ -325,7 +277,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Islandia. Mujeres. Urvalsdeild</competicion>
     <fecha>13 de enero</fecha>
-    <hora>68:62</hora>
+    <hora>21:15</hora>
     <url>https://livetv.sx/es/eventinfo/333338276__valur_m__armann_m/</url>
   </evento>
   <evento>
@@ -333,8 +285,24 @@
     <deporte>Fútbol</deporte>
     <competicion>Islandia. Mujeres. Urvalsdeild</competicion>
     <fecha>13 de enero</fecha>
-    <hora>57:66</hora>
+    <hora>21:15</hora>
     <url>https://livetv.sx/es/eventinfo/333338277__keflavik_m__stjarnan_m/</url>
+  </evento>
+  <evento>
+    <nombre>Dortmund –  Werder Bremen</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/330013038_dortmund_werder_bremen/</url>
+  </evento>
+  <evento>
+    <nombre>Simulcast</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/333686785_simulcast/</url>
   </evento>
   <evento>
     <nombre>Royal Antwerp –  RAAL La Louviere</nombre>
@@ -357,7 +325,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Campeonato Europeo</competicion>
     <fecha>13 de enero</fecha>
-    <hora>16:13</hora>
+    <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/333548836_rumania_turqu__a/</url>
   </evento>
   <evento>
@@ -437,7 +405,7 @@
     <deporte>Fútbol</deporte>
     <competicion>ATP Challenger. Buenos Aires</competicion>
     <fecha>13 de enero</fecha>
-    <hora>22:10</hora>
+    <hora>22:15</hora>
     <url>https://livetv.sx/es/eventinfo/333629577_murkel_dellien_joaquin_aguilar_cardozo/</url>
   </evento>
   <evento>
@@ -447,6 +415,38 @@
     <fecha>13 de enero</fecha>
     <hora>23:00</hora>
     <url>https://livetv.sx/es/eventinfo/330032656_western_illinois_leathernecks_eastern_illinois_panthers/</url>
+  </evento>
+  <evento>
+    <nombre>Canadá U18 (M) –  Suecia U18 (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Campeonato mundial Sub-18</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332241090_canadandaacute__u18_m_suecia_u18_m/</url>
+  </evento>
+  <evento>
+    <nombre>México –  Francia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Torneo amistoso. Selecciones</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/333838357_mandeacute_xico_francia/</url>
+  </evento>
+  <evento>
+    <nombre>Salvador U18 (M) –  Argentina U18 (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>América del Sur y Central</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/333866255_salvador_u18_m_argentina_u18_m/</url>
+  </evento>
+  <evento>
+    <nombre>Fluminense Sub-20 –   Referencia Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Copa Sao Paulo Júnior</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>23:30</hora>
+    <url>https://livetv.sx/es/eventinfo/333545633__fluminense_sub_20__referencia_sub_20/</url>
   </evento>
   <evento>
     <nombre>Maguncia 05 – Heidenheim</nombre>
@@ -519,54 +519,6 @@
     <fecha>13 de enero</fecha>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/332235208__/</url>
-  </evento>
-  <evento>
-    <nombre>Bristol Rovers – Plymouth Argyle</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. EFL Trophy</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/330006973__/</url>
-  </evento>
-  <evento>
-    <nombre>Luton Town – Swindon</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. EFL Trophy</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/330006975__/</url>
-  </evento>
-  <evento>
-    <nombre>Stockport – Harrogate Town</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. EFL Trophy</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/330006976__/</url>
-  </evento>
-  <evento>
-    <nombre>Bolton Wanderers – Port Vale</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. EFL Trophy</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/330006977__/</url>
-  </evento>
-  <evento>
-    <nombre>Doncaster Rovers – Fleetwood Town</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. EFL Trophy</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/330006978__/</url>
-  </evento>
-  <evento>
-    <nombre>Huddersfield – Rotherham Utd</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. EFL Trophy</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/330006979__/</url>
   </evento>
   <evento>
     <nombre>Royal Antwerp – RAAL La Louviere</nombre>
@@ -887,6 +839,14 @@
     <fecha>14 de enero</fecha>
     <hora>15:00</hora>
     <url>https://livetv.sx/es/eventinfo/331741621__/</url>
+  </evento>
+  <evento>
+    <nombre>XV de Novembro Sub-20 –  Guarani Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Copa Sao Paulo Júnior</competicion>
+    <fecha>14 de enero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/333923364__/</url>
   </evento>
   <evento>
     <nombre>Botafogo-SP Sub-20 –  Guanabara City Sub-20</nombre>
@@ -1617,6 +1577,22 @@
     <url>https://livetv.sx/es/eventinfo/330758725__/</url>
   </evento>
   <evento>
+    <nombre>Pyramids – Petrojet</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Egipto. Copa de la Liga</competicion>
+    <fecha>15 de enero</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/333923723__/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Ahly El Cairo – El Geish</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Egipto. Copa de la Liga</competicion>
+    <fecha>15 de enero</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/333923724__/</url>
+  </evento>
+  <evento>
     <nombre>Shabab Al Ahli – Ajman</nombre>
     <deporte>Fútbol</deporte>
     <competicion>EÁU. Pro League</competicion>
@@ -1671,6 +1647,14 @@
     <fecha>15 de enero</fecha>
     <hora>19:45</hora>
     <url>https://livetv.sx/es/eventinfo/330554881__/</url>
+  </evento>
+  <evento>
+    <nombre>Al Masry – Zamalek</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Egipto. Copa de la Liga</competicion>
+    <fecha>15 de enero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/333923725__/</url>
   </evento>
   <evento>
     <nombre>West Bromwich Albion (M) –  Everton (M)</nombre>
@@ -4441,20 +4425,36 @@
     <url>https://livetv.sx/es/eventinfo/331120762__/</url>
   </evento>
   <evento>
-    <nombre>Brynas – Frolunda</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Liga de Campeones</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/329997220__/</url>
+    <nombre>Arzignano Valchiampo – Vicenza Virtus</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie C. Grupo A</competicion>
+    <fecha>18 de enero</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/331119371__/</url>
   </evento>
   <evento>
-    <nombre>Zug – Lulea</nombre>
+    <nombre>Pro Vercelli – Union Brescia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie C. Grupo A</competicion>
+    <fecha>18 de enero</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/331119372__/</url>
+  </evento>
+  <evento>
+    <nombre>Ruan – Burdeos</nombre>
     <deporte>Hockey</deporte>
-    <competicion>Liga de Campeones</competicion>
+    <competicion>Francia. Ligue Magnus</competicion>
     <fecha>13 de enero</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/330007938__/</url>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330009566__/</url>
+  </evento>
+  <evento>
+    <nombre>Brianzón – Gap</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Francia. Ligue Magnus</competicion>
+    <fecha>13 de enero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/330015404__/</url>
   </evento>
   <evento>
     <nombre>Washington – Montreal</nombre>
@@ -4521,30 +4521,6 @@
     <url>https://livetv.sx/es/eventinfo/330081433__/</url>
   </evento>
   <evento>
-    <nombre>Esbjerg Energy – Frederikshavn</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Dinamarca. Metal Ligaen</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/329996582__/</url>
-  </evento>
-  <evento>
-    <nombre>Aalborg – Herlev</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Dinamarca. Metal Ligaen</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/329996583__/</url>
-  </evento>
-  <evento>
-    <nombre>Arosa – GCK Lions</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suiza. Swiss League</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/330004295__/</url>
-  </evento>
-  <evento>
     <nombre>La Chaux-de-Fonds – Visp</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suiza. Swiss League</competicion>
@@ -4559,14 +4535,6 @@
     <fecha>13 de enero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/333496337_italy_u18_w_france_u18_w/</url>
-  </evento>
-  <evento>
-    <nombre>Ruan – Burdeos</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Francia. Ligue Magnus</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/330009566__/</url>
   </evento>
   <evento>
     <nombre>Niza – Grenoble</nombre>
@@ -4599,14 +4567,6 @@
     <fecha>13 de enero</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/330015403__/</url>
-  </evento>
-  <evento>
-    <nombre>Brianzón – Gap</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Francia. Ligue Magnus</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/330015404__/</url>
   </evento>
   <evento>
     <nombre>Canadá U18 (M) – Suecia U18 (M)</nombre>
@@ -8441,36 +8401,44 @@
     <url>https://livetv.sx/es/eventinfo/333496346_japan_u18_w_italy_u18_w/</url>
   </evento>
   <evento>
-    <nombre>Trento – Panionios</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Copa Europea</competicion>
-    <fecha>13 de enero</fecha>
+    <nombre>Dallas – Tampa Bay</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>18 de enero</fecha>
     <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/330007321__/</url>
+    <url>https://livetv.sx/es/eventinfo/331199955__/</url>
   </evento>
   <evento>
-    <nombre>Bilbao – PAOK</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>FIBA Europe Cup</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/330007860__/</url>
+    <nombre>Stockton Heat – Bakersfield Condors</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>EUA. AHL</competicion>
+    <fecha>18 de enero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/331217491__/</url>
   </evento>
   <evento>
-    <nombre>ASVEL – Boulazac</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Francia. LNB Pro A</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/330009577__/</url>
+    <nombre>Providence Bruins – Cleveland Monsters</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>EUA. AHL</competicion>
+    <fecha>18 de enero</fecha>
+    <hora>22:05</hora>
+    <url>https://livetv.sx/es/eventinfo/331225879__/</url>
   </evento>
   <evento>
-    <nombre>La-Rochelle – JA Vichy</nombre>
+    <nombre>Charlotte Checkers – Hershey Bears</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>EUA. AHL</competicion>
+    <fecha>18 de enero</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/331234291__/</url>
+  </evento>
+  <evento>
+    <nombre>Keflavik (M) –  Stjarnan (M)</nombre>
     <deporte>Baloncesto</deporte>
-    <competicion>Francia. LNB Pro B</competicion>
+    <competicion>Islandia. Mujeres. Urvalsdeild</competicion>
     <fecha>13 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/330009587__/</url>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/333338277__/</url>
   </evento>
   <evento>
     <nombre>Paris – Estrasburgo</nombre>
@@ -8479,6 +8447,14 @@
     <fecha>13 de enero</fecha>
     <hora>22:10</hora>
     <url>https://livetv.sx/es/eventinfo/330027461__/</url>
+  </evento>
+  <evento>
+    <nombre>Oberá – Quimsa</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Argentina. LNB</competicion>
+    <fecha>14 de enero</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330030982__/</url>
   </evento>
   <evento>
     <nombre>Miami – Phoenix</nombre>
@@ -8505,6 +8481,14 @@
     <url>https://livetv.sx/es/eventinfo/330081281__/</url>
   </evento>
   <evento>
+    <nombre>La Unión – Platense</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Argentina. LNB</competicion>
+    <fecha>14 de enero</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330030981__/</url>
+  </evento>
+  <evento>
     <nombre>Oklahoma – San Antonio</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>No especificado</competicion>
@@ -8521,20 +8505,12 @@
     <url>https://livetv.sx/es/eventinfo/330081279__/</url>
   </evento>
   <evento>
-    <nombre>Hapoel T-A – Hapoel Galil Elion</nombre>
+    <nombre>San Martín – Independiente de Oliva</nombre>
     <deporte>Baloncesto</deporte>
-    <competicion>Israel. Ligat Ha'Al</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>20:40</hora>
-    <url>https://livetv.sx/es/eventinfo/329987536__/</url>
-  </evento>
-  <evento>
-    <nombre>Helios Suns – Mornar</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Liga del Adriático. Liga 2</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/333585681__/</url>
+    <competicion>Argentina. LNB</competicion>
+    <fecha>14 de enero</fecha>
+    <hora>03:10</hora>
+    <url>https://livetv.sx/es/eventinfo/330030980__/</url>
   </evento>
   <evento>
     <nombre>KR Reikiavik (M) –  Tindastoll (M)</nombre>
@@ -8551,14 +8527,6 @@
     <fecha>13 de enero</fecha>
     <hora>21:15</hora>
     <url>https://livetv.sx/es/eventinfo/333338276__/</url>
-  </evento>
-  <evento>
-    <nombre>Keflavik (M) –  Stjarnan (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Islandia. Mujeres. Urvalsdeild</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>21:15</hora>
-    <url>https://livetv.sx/es/eventinfo/333338277__/</url>
   </evento>
   <evento>
     <nombre>Western Illinois Leathernecks – Eastern Illinois Panthers</nombre>
@@ -8631,14 +8599,6 @@
     <fecha>14 de enero</fecha>
     <hora>01:30</hora>
     <url>https://livetv.sx/es/eventinfo/330055475__/</url>
-  </evento>
-  <evento>
-    <nombre>Oberá – Quimsa</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Argentina. LNB</competicion>
-    <fecha>14 de enero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/330030982__/</url>
   </evento>
   <evento>
     <nombre>Michigan Spartans – Indiana Hoosiers</nombre>
@@ -8777,14 +8737,6 @@
     <url>https://livetv.sx/es/eventinfo/332240226_salt_lake_city_stars_austin_spurs/</url>
   </evento>
   <evento>
-    <nombre>La Unión – Platense</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Argentina. LNB</competicion>
-    <fecha>14 de enero</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/330030981__/</url>
-  </evento>
-  <evento>
     <nombre>Evansville Purple Aces – Bradley Braves</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -8799,14 +8751,6 @@
     <fecha>14 de enero</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/330081169__/</url>
-  </evento>
-  <evento>
-    <nombre>San Martín – Independiente de Oliva</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Argentina. LNB</competicion>
-    <fecha>14 de enero</fecha>
-    <hora>03:10</hora>
-    <url>https://livetv.sx/es/eventinfo/330030980__/</url>
   </evento>
   <evento>
     <nombre>Houston Cougars – West Virginia Mountaineers</nombre>
@@ -12441,6 +12385,54 @@
     <url>https://livetv.sx/es/eventinfo/330849946__/</url>
   </evento>
   <evento>
+    <nombre>Bamberg – Wurzburgo</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>17 de enero</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/330849947__/</url>
+  </evento>
+  <evento>
+    <nombre>Fordham Rams – Duquesne Dukes</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>17 de enero</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/330851579__/</url>
+  </evento>
+  <evento>
+    <nombre>Derthona – Milán</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Italia. Lega Basket</competicion>
+    <fecha>17 de enero</fecha>
+    <hora>19:45</hora>
+    <url>https://livetv.sx/es/eventinfo/331198383__/</url>
+  </evento>
+  <evento>
+    <nombre>BC Andorra – Breogán</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>España. Liga ACB</competicion>
+    <fecha>17 de enero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330857806__/</url>
+  </evento>
+  <evento>
+    <nombre>Triglav Kranj – Rogaska</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Eslovenia. Liga Nova KBM</competicion>
+    <fecha>17 de enero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330859876__/</url>
+  </evento>
+  <evento>
+    <nombre>Lafayette Leopards – Holy Cross Crusaders</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>17 de enero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/330859123__/</url>
+  </evento>
+  <evento>
     <nombre>Justina Mikulskyte (M) –  Anastasia Gasanova (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de Australia. Mujeres. Clasificatoria</competicion>
@@ -12573,7 +12565,7 @@
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Buenos Aires</competicion>
     <fecha>13 de enero</fecha>
-    <hora>22:10</hora>
+    <hora>22:15</hora>
     <url>https://livetv.sx/es/eventinfo/333629577__/</url>
   </evento>
   <evento>
@@ -12599,14 +12591,6 @@
     <fecha>14 de enero</fecha>
     <hora>00:30</hora>
     <url>https://livetv.sx/es/eventinfo/333712858__/</url>
-  </evento>
-  <evento>
-    <nombre>ATP. Adelaida</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Adelaida. International 1</competicion>
-    <fecha>14 de enero</fecha>
-    <hora>00:40</hora>
-    <url>https://livetv.sx/es/eventinfo/333185824_atp_adelaide/</url>
   </evento>
   <evento>
     <nombre>ATP. Auckland</nombre>
@@ -12711,6 +12695,14 @@
     <fecha>14 de enero</fecha>
     <hora>01:30</hora>
     <url>https://livetv.sx/es/eventinfo/333712843__/</url>
+  </evento>
+  <evento>
+    <nombre>ATP. Adelaida</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Adelaida. International 1</competicion>
+    <fecha>14 de enero</fecha>
+    <hora>01:40</hora>
+    <url>https://livetv.sx/es/eventinfo/333185824_atp_adelaide/</url>
   </evento>
   <evento>
     <nombre>Olmos (M) /  Sutjiadi (M) –  Hozumi (M) /  Wu (M)</nombre>
@@ -15297,14 +15289,6 @@
     <url>https://livetv.sx/es/eventinfo/333866432_aarhus_viborg/</url>
   </evento>
   <evento>
-    <nombre>Colombia U18 (M) – Uruguay U18 (M)</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Trofeo IHF. América del Sur y Central</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/333866254_colombia_u18_w_uruguay_u18_w/</url>
-  </evento>
-  <evento>
     <nombre>Bera Bera (M) –  Elche (M)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>España. Mujeres. División de Honor</competicion>
@@ -15959,14 +15943,6 @@
     <fecha>18 de enero</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/331209409__/</url>
-  </evento>
-  <evento>
-    <nombre>Copa del Mundo, FlachauMujer</nombre>
-    <deporte>Deporte_18</deporte>
-    <competicion>Esquí alpino</competicion>
-    <fecha>13 de enero</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/333501812_world_cup_flachau/</url>
   </evento>
   <evento>
     <nombre>Eurocopa</nombre>
