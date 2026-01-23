@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-01-23 08:39:26" total="1895">
+<eventos generado="2026-01-23 09:37:34" total="1899">
   <evento>
     <nombre>Francisco Cerundolo –  Andréi Rubliov</nombre>
     <deporte>Fútbol</deporte>
@@ -13,7 +13,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Abierto de Australia. Hombres</competicion>
     <fecha>23 de enero</fecha>
-    <hora>10:10</hora>
+    <hora>10:15</hora>
     <url>https://livetv.sx/es/eventinfo/336372337_francis_tiafoe_alex_de_minaur/</url>
   </evento>
   <evento>
@@ -21,8 +21,16 @@
     <deporte>Fútbol</deporte>
     <competicion>Abierto de Australia. Hombres</competicion>
     <fecha>23 de enero</fecha>
-    <hora>10:15</hora>
+    <hora>10:25</hora>
     <url>https://livetv.sx/es/eventinfo/336362038_alexander_zverev_cameron_norrie/</url>
+  </evento>
+  <evento>
+    <nombre>Alexandr Bublik –  Tomas Etcheverry</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Abierto de Australia. Hombres</competicion>
+    <fecha>23 de enero</fecha>
+    <hora>11:50</hora>
+    <url>https://livetv.sx/es/eventinfo/336329827_alexandr_bublik_tomas_etcheverry/</url>
   </evento>
   <evento>
     <nombre>Abierto de Australia</nombre>
@@ -31,14 +39,6 @@
     <fecha>23 de enero</fecha>
     <hora>02:00</hora>
     <url>https://livetv.sx/es/eventinfo/335786162_abierto_de_australia/</url>
-  </evento>
-  <evento>
-    <nombre>Canterbury Magicians (W) –  Wellington Blaze (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Campeonato</competicion>
-    <fecha>23 de enero</fecha>
-    <hora>03:10</hora>
-    <url>https://livetv.sx/es/eventinfo/335800885_canterbury_magicians_w_wellington_blaze_w/</url>
   </evento>
   <evento>
     <nombre>ATP Challenger. Phan Thiet</nombre>
@@ -71,30 +71,6 @@
     <fecha>23 de enero</fecha>
     <hora>08:00</hora>
     <url>https://livetv.sx/es/eventinfo/335790587_wtt_contender_muscat/</url>
-  </evento>
-  <evento>
-    <nombre>Iva Jovic (M) –   Jasmine Paolini (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Abierto de Australia. Mujeres</competicion>
-    <fecha>23 de enero</fecha>
-    <hora>08:10</hora>
-    <url>https://livetv.sx/es/eventinfo/336372269__iva_jovic_m__jasmine_paolini_m/</url>
-  </evento>
-  <evento>
-    <nombre>Goldhoff / Stalder –  Delaney / Charlton</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Dobles</competicion>
-    <fecha>23 de enero</fecha>
-    <hora>08:10</hora>
-    <url>https://livetv.sx/es/eventinfo/336651392_goldhoff__stalder_delaney__charlton/</url>
-  </evento>
-  <evento>
-    <nombre>NZ Breakers –  Adelaide 36ers</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Australia. NBL</competicion>
-    <fecha>23 de enero</fecha>
-    <hora>98:71</hora>
-    <url>https://livetv.sx/es/eventinfo/332455954_nz_breakers_adelaide_36ers/</url>
   </evento>
   <evento>
     <nombre>Indonesia Masters</nombre>
@@ -181,7 +157,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Dobles</competicion>
     <fecha>23 de enero</fecha>
-    <hora>10:25</hora>
+    <hora>10:20</hora>
     <url>https://livetv.sx/es/eventinfo/336629089_trotter__uesugi_wang__zhou/</url>
   </evento>
   <evento>
@@ -205,7 +181,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Australia. Mujeres. WNBL</competicion>
     <fecha>23 de enero</fecha>
-    <hora>10:30</hora>
+    <hora>46:44</hora>
     <url>https://livetv.sx/es/eventinfo/336321283__bendigo_spirit_m__canberra_capitals_m/</url>
   </evento>
   <evento>
@@ -223,6 +199,78 @@
     <fecha>23 de enero</fecha>
     <hora>10:35</hora>
     <url>https://livetv.sx/es/eventinfo/332484524_newcastle_jets_wellington_phoenix/</url>
+  </evento>
+  <evento>
+    <nombre>Alfa-Bank Commonwealth Cup</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Biatlón</competicion>
+    <fecha>23 de enero</fecha>
+    <hora>10:50</hora>
+    <url>https://livetv.sx/es/eventinfo/336301815_alfa_bank_commonwealth_cup/</url>
+  </evento>
+  <evento>
+    <nombre>Rakow –  TSC</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso</competicion>
+    <fecha>23 de enero</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/336358895_rakow_tsc/</url>
+  </evento>
+  <evento>
+    <nombre>Sagaing United –  ISPE</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Myanmar. National League</competicion>
+    <fecha>23 de enero</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/336605010_sagaing_united_ispe/</url>
+  </evento>
+  <evento>
+    <nombre>Yangon Utd –  Dagon Port</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Myanmar. National League</competicion>
+    <fecha>23 de enero</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/336694504_yangon_utd_dagon_port/</url>
+  </evento>
+  <evento>
+    <nombre>Maxim Mrva –  Lloyd Harris</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Soma Bay</competicion>
+    <fecha>23 de enero</fecha>
+    <hora>11:05</hora>
+    <url>https://livetv.sx/es/eventinfo/336672227_maxim_mrva_lloyd_harris/</url>
+  </evento>
+  <evento>
+    <nombre>Edas Butvilas –  Rodrigo Pacheco Mendez</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Soma Bay</competicion>
+    <fecha>23 de enero</fecha>
+    <hora>11:05</hora>
+    <url>https://livetv.sx/es/eventinfo/336692701_edas_butvilas_rodrigo_pacheco_mendez/</url>
+  </evento>
+  <evento>
+    <nombre>ATP Challenger. Soma Bay</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Soma Bay</competicion>
+    <fecha>23 de enero</fecha>
+    <hora>11:10</hora>
+    <url>https://livetv.sx/es/eventinfo/335451244_atp_challenger_soma_bay/</url>
+  </evento>
+  <evento>
+    <nombre>Dynamo Vladivostok –  Tambov</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. Superliga</competicion>
+    <fecha>23 de enero</fecha>
+    <hora>25:13</hora>
+    <url>https://livetv.sx/es/eventinfo/332492744_dynamo_vladivostok_tambov/</url>
+  </evento>
+  <evento>
+    <nombre>Dagon –  Shan Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Myanmar. National League</competicion>
+    <fecha>23 de enero</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/336689381_dagon_shan_utd/</url>
   </evento>
   <evento>
     <nombre>Auxerre – PSG</nombre>
@@ -335,14 +383,6 @@
     <fecha>23 de enero</fecha>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/336694504__/</url>
-  </evento>
-  <evento>
-    <nombre>Rakow – TSC</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Partido amistoso</competicion>
-    <fecha>23 de enero</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/336358895_rakow_tsc/</url>
   </evento>
   <evento>
     <nombre>Dagon – Shan Utd</nombre>
@@ -8297,14 +8337,6 @@
     <url>https://livetv.sx/es/eventinfo/332678561__/</url>
   </evento>
   <evento>
-    <nombre>NZ Breakers – Adelaide 36ers</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Australia. NBL</competicion>
-    <fecha>23 de enero</fecha>
-    <hora>08:30</hora>
-    <url>https://livetv.sx/es/eventinfo/332455954__/</url>
-  </evento>
-  <evento>
     <nombre>Bendigo Spirit (M) –  Canberra Capitals (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Australia. Mujeres. WNBL</competicion>
@@ -8577,6 +8609,14 @@
     <url>https://livetv.sx/es/eventinfo/332650026__/</url>
   </evento>
   <evento>
+    <nombre>Split – Zabok</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Croacia. Premier League</competicion>
+    <fecha>23 de enero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332887121__/</url>
+  </evento>
+  <evento>
     <nombre>Lipscomb Bisons – Florida Gulf Coast Eagles</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -8623,6 +8663,14 @@
     <fecha>23 de enero</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/332579510__/</url>
+  </evento>
+  <evento>
+    <nombre>North Texas Mean Green – East Carolina Pirates</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>23 de enero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/333020412__/</url>
   </evento>
   <evento>
     <nombre>Sloga Uppsala – Hoegsbo</nombre>
@@ -9713,12 +9761,12 @@
     <url>https://livetv.sx/es/eventinfo/335858210_ormansport_goztepe/</url>
   </evento>
   <evento>
-    <nombre>Akhisar – ИTU</nombre>
+    <nombre>Akhisar – ITU</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Turquía. TB2L</competicion>
     <fecha>24 de enero</fecha>
     <hora>17:30</hora>
-    <url>https://livetv.sx/es/eventinfo/335858211_akhisar_tu/</url>
+    <url>https://livetv.sx/es/eventinfo/335858211_akhisar_itu/</url>
   </evento>
   <evento>
     <nombre>Radivoj Korac (W) – Student Nis (W)</nombre>
@@ -9737,6 +9785,14 @@
     <url>https://livetv.sx/es/eventinfo/332858957__/</url>
   </evento>
   <evento>
+    <nombre>Kentucky Wildcats – Ole Miss Rebels</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332885767__/</url>
+  </evento>
+  <evento>
     <nombre>MBA (M) –  Dynamo Kursk (M)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Rusia. Mujeres. Premier League</competicion>
@@ -9751,6 +9807,14 @@
     <fecha>24 de enero</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/332868629__/</url>
+  </evento>
+  <evento>
+    <nombre>North Florida Ospreys – Bellarmine</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332927788__/</url>
   </evento>
   <evento>
     <nombre>Agronomia Bucuresti (W) – Sepsi (M)</nombre>
@@ -9791,6 +9855,14 @@
     <fecha>24 de enero</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/332883273__/</url>
+  </evento>
+  <evento>
+    <nombre>Dubrovnik – Kvarner</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Croacia. Premier League</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332887123__/</url>
   </evento>
   <evento>
     <nombre>Olimpas – Suduva-Mantinga</nombre>
@@ -10001,14 +10073,6 @@
     <url>https://livetv.sx/es/eventinfo/332885766__/</url>
   </evento>
   <evento>
-    <nombre>Kentucky Wildcats – Ole Miss Rebels</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332885767__/</url>
-  </evento>
-  <evento>
     <nombre>Georgia Yellow Jackets – Clemson Tigers</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -10049,6 +10113,14 @@
     <url>https://livetv.sx/es/eventinfo/332887078__/</url>
   </evento>
   <evento>
+    <nombre>Holy Cross Crusaders – American Eagles</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332927783__/</url>
+  </evento>
+  <evento>
     <nombre>Patriot (W) – Probasket (W)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Macedonia del Norte. Mujeres. Prva Liga</competicion>
@@ -10071,6 +10143,14 @@
     <fecha>24 de enero</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/335858221_skrljevo_amfora/</url>
+  </evento>
+  <evento>
+    <nombre>William and Mary Tribe – Hofstra Pride</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332927800__/</url>
   </evento>
   <evento>
     <nombre>North Carolina Aggies – Towson Tigers</nombre>
@@ -10121,28 +10201,12 @@
     <url>https://livetv.sx/es/eventinfo/329332816__/</url>
   </evento>
   <evento>
-    <nombre>Dinamo Zagreb – Zadar</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Croacia. Premier League</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332887120__/</url>
-  </evento>
-  <evento>
     <nombre>Pelister – Rabotnicki</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Macedonia del Norte. Superliga</competicion>
     <fecha>24 de enero</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/329332817__/</url>
-  </evento>
-  <evento>
-    <nombre>Split – Zabok</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Croacia. Premier League</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332887121__/</url>
   </evento>
   <evento>
     <nombre>Kumanovo – Cair 2030</nombre>
@@ -10153,44 +10217,12 @@
     <url>https://livetv.sx/es/eventinfo/329332818__/</url>
   </evento>
   <evento>
-    <nombre>Sibenik – Dubrava Furnir</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Croacia. Premier League</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332887122__/</url>
-  </evento>
-  <evento>
     <nombre>Angeli – Feniks</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Macedonia del Norte. Superliga</competicion>
     <fecha>24 de enero</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/329332819__/</url>
-  </evento>
-  <evento>
-    <nombre>Dubrovnik – Kvarner</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Croacia. Premier League</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332887123__/</url>
-  </evento>
-  <evento>
-    <nombre>Cedevita Junior – Cibona</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Croacia. Premier League</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332887124__/</url>
-  </evento>
-  <evento>
-    <nombre>Samobor – Alkar</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Croacia. Premier League</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332887125__/</url>
   </evento>
   <evento>
     <nombre>Swarco Raiders Tirol – Mistelbach Mustangs</nombre>
@@ -10223,14 +10255,6 @@
     <fecha>24 de enero</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/336725623__/</url>
-  </evento>
-  <evento>
-    <nombre>James Madison Dukes – Texas Bobcats</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332974202__/</url>
   </evento>
   <evento>
     <nombre>Marshall Thundering Herd – South Alabama Jaguars</nombre>
@@ -10289,12 +10313,36 @@
     <url>https://livetv.sx/es/eventinfo/336724891__/</url>
   </evento>
   <evento>
+    <nombre>Virginia Cavaliers – North Carolina Tar Heels</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332732126__/</url>
+  </evento>
+  <evento>
     <nombre>Lions de Geneve – Nyon</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Suiza. SB League</competicion>
     <fecha>24 de enero</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/336728545__/</url>
+  </evento>
+  <evento>
+    <nombre>Duke Blue Devils – Wake Forest Demon Deacons</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/333020409__/</url>
+  </evento>
+  <evento>
+    <nombre>Missisipi Bulldogs – Vanderbilt Commodores</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/333020410__/</url>
   </evento>
   <evento>
     <nombre>Rytas Vilna – Juventus</nombre>
@@ -10401,12 +10449,36 @@
     <url>https://livetv.sx/es/eventinfo/333020416__/</url>
   </evento>
   <evento>
+    <nombre>Youngstown Penguins – Milwaukee Panthers</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332927779__/</url>
+  </evento>
+  <evento>
     <nombre>Mladost – Osijek</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Croacia. Prva Liga</competicion>
     <fecha>24 de enero</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/335858222_mladost_osijek/</url>
+  </evento>
+  <evento>
+    <nombre>UTSA Roadrunners – Temple Owls</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332927793__/</url>
+  </evento>
+  <evento>
+    <nombre>Belmont Bruins – Illinois Redbirds</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/333330738__/</url>
   </evento>
   <evento>
     <nombre>Wofford Terriers – Mercer Bears</nombre>
@@ -10417,12 +10489,36 @@
     <url>https://livetv.sx/es/eventinfo/332927798__/</url>
   </evento>
   <evento>
+    <nombre>Marist Red Foxes – Quinnipiac Bobcats</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/333041224__/</url>
+  </evento>
+  <evento>
+    <nombre>Dinamo Zagreb – Zadar</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Croacia. Premier League</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332887120__/</url>
+  </evento>
+  <evento>
     <nombre>Breogán – Real Madrid</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>España. Liga ACB</competicion>
     <fecha>24 de enero</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/332904534__/</url>
+  </evento>
+  <evento>
+    <nombre>James Madison Dukes – Texas Bobcats</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332974202__/</url>
   </evento>
   <evento>
     <nombre>Iliria – Mega Bemax</nombre>
@@ -10481,14 +10577,6 @@
     <url>https://livetv.sx/es/eventinfo/332905968__/</url>
   </evento>
   <evento>
-    <nombre>North Texas Mean Green – East Carolina Pirates</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/333020412__/</url>
-  </evento>
-  <evento>
     <nombre>Navy Midshipmen – Army Black Knights</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -10537,14 +10625,6 @@
     <url>https://livetv.sx/es/eventinfo/332927778__/</url>
   </evento>
   <evento>
-    <nombre>Youngstown Penguins – Milwaukee Panthers</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332927779__/</url>
-  </evento>
-  <evento>
     <nombre>Syracuse Orange – Miami Hurricanes</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -10567,14 +10647,6 @@
     <fecha>24 de enero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/332927782__/</url>
-  </evento>
-  <evento>
-    <nombre>Holy Cross Crusaders – American Eagles</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332927783__/</url>
   </evento>
   <evento>
     <nombre>Harvard Crimson – Cornell Big Red</nombre>
@@ -10609,14 +10681,6 @@
     <url>https://livetv.sx/es/eventinfo/332927787__/</url>
   </evento>
   <evento>
-    <nombre>North Florida Ospreys – Bellarmine</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332927788__/</url>
-  </evento>
-  <evento>
     <nombre>Oliveirense – Benfica</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Portugal. LPB</competicion>
@@ -10647,14 +10711,6 @@
     <fecha>24 de enero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/335858223_novi_zagreb_sonik_puntamika/</url>
-  </evento>
-  <evento>
-    <nombre>UTSA Roadrunners – Temple Owls</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332927793__/</url>
   </evento>
   <evento>
     <nombre>Loyola Ramblers – Duquesne Dukes</nombre>
@@ -10697,14 +10753,6 @@
     <url>https://livetv.sx/es/eventinfo/332927799__/</url>
   </evento>
   <evento>
-    <nombre>William and Mary Tribe – Hofstra Pride</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332927800__/</url>
-  </evento>
-  <evento>
     <nombre>New Hampshire Wildcats – Albany Great Danes</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -10719,6 +10767,14 @@
     <fecha>24 de enero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/332927803__/</url>
+  </evento>
+  <evento>
+    <nombre>Sibenik – Dubrava Furnir</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Croacia. Premier League</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332887122__/</url>
   </evento>
   <evento>
     <nombre>Ironi Kiryat Ata – Hapoel Holon</nombre>
@@ -10753,12 +10809,28 @@
     <url>https://livetv.sx/es/eventinfo/332926342__/</url>
   </evento>
   <evento>
-    <nombre>Virginia Cavaliers – North Carolina Tar Heels</nombre>
+    <nombre>Loyola Maryland Greyhounds – Bucknell Bison</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
     <fecha>24 de enero</fecha>
     <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332732126__/</url>
+    <url>https://livetv.sx/es/eventinfo/332997513__/</url>
+  </evento>
+  <evento>
+    <nombre>Samford Bulldogs – Chattanooga Mocs</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/333061284__/</url>
+  </evento>
+  <evento>
+    <nombre>Texas Tech Red Raiders – Houston Cougars</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/333030822__/</url>
   </evento>
   <evento>
     <nombre>Trieste – Dinamo Sácer</nombre>
@@ -10783,6 +10855,14 @@
     <fecha>24 de enero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/332925950__/</url>
+  </evento>
+  <evento>
+    <nombre>Louisville Cardinals – Virginia Hokies</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/332962675__/</url>
   </evento>
   <evento>
     <nombre>Hampton Pirates – UNC Wilmington Seahawks</nombre>
@@ -10913,14 +10993,6 @@
     <url>https://livetv.sx/es/eventinfo/332962674__/</url>
   </evento>
   <evento>
-    <nombre>Louisville Cardinals – Virginia Hokies</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>22:30</hora>
-    <url>https://livetv.sx/es/eventinfo/332962675__/</url>
-  </evento>
-  <evento>
     <nombre>Sam Houston Bearkats – W</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -10953,6 +11025,14 @@
     <url>https://livetv.sx/es/eventinfo/332962679__/</url>
   </evento>
   <evento>
+    <nombre>Lindenwood Lions – Tennessee State Tigers</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>22:30</hora>
+    <url>https://livetv.sx/es/eventinfo/332985806__/</url>
+  </evento>
+  <evento>
     <nombre>Texas Southern Tigers – Alabama Bulldogs</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -10967,6 +11047,14 @@
     <fecha>24 de enero</fecha>
     <hora>23:00</hora>
     <url>https://livetv.sx/es/eventinfo/336775999__/</url>
+  </evento>
+  <evento>
+    <nombre>Lamar Cardinals – Stephen F Austin</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/333041221__/</url>
   </evento>
   <evento>
     <nombre>Denver Pioneers – ND Fighting Hawks</nombre>
@@ -11065,6 +11153,14 @@
     <url>https://livetv.sx/es/eventinfo/333009033__/</url>
   </evento>
   <evento>
+    <nombre>Mount St Mary`s – Rider Broncs</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/332997529__/</url>
+  </evento>
+  <evento>
     <nombre>Norfolk Spartans – Coppin State Eagles</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -11087,22 +11183,6 @@
     <fecha>24 de enero</fecha>
     <hora>23:30</hora>
     <url>https://livetv.sx/es/eventinfo/332985805__/</url>
-  </evento>
-  <evento>
-    <nombre>Lindenwood Lions – Tennessee State Tigers</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>23:30</hora>
-    <url>https://livetv.sx/es/eventinfo/332985806__/</url>
-  </evento>
-  <evento>
-    <nombre>UT Martin Skyhawks – Little Rock Trojans</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>23:30</hora>
-    <url>https://livetv.sx/es/eventinfo/332985807__/</url>
   </evento>
   <evento>
     <nombre>Northwestern Demons – Texas Commerce Lions</nombre>
@@ -11143,14 +11223,6 @@
     <fecha>25 de enero</fecha>
     <hora>00:00</hora>
     <url>https://livetv.sx/es/eventinfo/332974191__/</url>
-  </evento>
-  <evento>
-    <nombre>Loyola Maryland Greyhounds – Bucknell Bison</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>25 de enero</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332997513__/</url>
   </evento>
   <evento>
     <nombre>Eastern Washington Eagles – Sacramento Hornets</nombre>
@@ -11233,14 +11305,6 @@
     <url>https://livetv.sx/es/eventinfo/332997528__/</url>
   </evento>
   <evento>
-    <nombre>Mount St Mary`s – Rider Broncs</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>25 de enero</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/332997529__/</url>
-  </evento>
-  <evento>
     <nombre>Prairie View Panthers – Alabama Hornets</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -11263,14 +11327,6 @@
     <fecha>25 de enero</fecha>
     <hora>00:30</hora>
     <url>https://livetv.sx/es/eventinfo/333009141__/</url>
-  </evento>
-  <evento>
-    <nombre>Duke Blue Devils – Wake Forest Demon Deacons</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>25 de enero</fecha>
-    <hora>00:45</hora>
-    <url>https://livetv.sx/es/eventinfo/333020409__/</url>
   </evento>
   <evento>
     <nombre>Washington Cougars – Pepperdine Waves</nombre>
@@ -11321,14 +11377,6 @@
     <url>https://livetv.sx/es/eventinfo/332732125__/</url>
   </evento>
   <evento>
-    <nombre>Missisipi Bulldogs – Vanderbilt Commodores</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>25 de enero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/333020410__/</url>
-  </evento>
-  <evento>
     <nombre>Baylor Bears – TCU Horned Frogs</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -11359,14 +11407,6 @@
     <fecha>25 de enero</fecha>
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/333020415__/</url>
-  </evento>
-  <evento>
-    <nombre>Texas Tech Red Raiders – Houston Cougars</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>25 de enero</fecha>
-    <hora>01:30</hora>
-    <url>https://livetv.sx/es/eventinfo/333030822__/</url>
   </evento>
   <evento>
     <nombre>San Diego Toreros – Santa Clara</nombre>
@@ -11433,14 +11473,6 @@
     <url>https://livetv.sx/es/eventinfo/333041220__/</url>
   </evento>
   <evento>
-    <nombre>Lamar Cardinals – Stephen F Austin</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>25 de enero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/333041221__/</url>
-  </evento>
-  <evento>
     <nombre>Lehigh Mountain Hawks – Lafayette Leopards</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -11455,14 +11487,6 @@
     <fecha>25 de enero</fecha>
     <hora>02:00</hora>
     <url>https://livetv.sx/es/eventinfo/333041223__/</url>
-  </evento>
-  <evento>
-    <nombre>Marist Red Foxes – Quinnipiac Bobcats</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>25 de enero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/333041224__/</url>
   </evento>
   <evento>
     <nombre>Fairfield Stags – Canisius Golden Griffins</nombre>
@@ -11607,14 +11631,6 @@
     <fecha>25 de enero</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/333061283__/</url>
-  </evento>
-  <evento>
-    <nombre>Samford Bulldogs – Chattanooga Mocs</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>25 de enero</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/333061284__/</url>
   </evento>
   <evento>
     <nombre>California Baptist Lancers – Utah Valley Wolverines</nombre>
@@ -12217,12 +12233,28 @@
     <url>https://livetv.sx/es/eventinfo/333244507__/</url>
   </evento>
   <evento>
-    <nombre>Iva Jovic (M) –  Jasmine Paolini (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de Australia. Mujeres</competicion>
-    <fecha>23 de enero</fecha>
-    <hora>08:10</hora>
-    <url>https://livetv.sx/es/eventinfo/336372269__/</url>
+    <nombre>KTP – Korihait</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Finlandia. Korisliiga</competicion>
+    <fecha>25 de enero</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/333244508__/</url>
+  </evento>
+  <evento>
+    <nombre>Scafati – Fortitudo Bologna</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Italia. Serie A2</competicion>
+    <fecha>25 de enero</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/333274475__/</url>
+  </evento>
+  <evento>
+    <nombre>Troistorrents (W) – Nyon (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Suiza. Mujeres. National League A</competicion>
+    <fecha>25 de enero</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/335858330_troistorrents_w_nyon_w/</url>
   </evento>
   <evento>
     <nombre>Francisco Cerundolo – Andréi Rubliov</nombre>
@@ -12233,19 +12265,11 @@
     <url>https://livetv.sx/es/eventinfo/336269277__/</url>
   </evento>
   <evento>
-    <nombre>Elina Svitolina (M) –  Diana Shnaider (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de Australia. Mujeres</competicion>
-    <fecha>23 de enero</fecha>
-    <hora>10:10</hora>
-    <url>https://livetv.sx/es/eventinfo/336256531__/</url>
-  </evento>
-  <evento>
     <nombre>Francis Tiafoe – Alex De Minaur</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de Australia. Hombres</competicion>
     <fecha>23 de enero</fecha>
-    <hora>10:10</hora>
+    <hora>10:15</hora>
     <url>https://livetv.sx/es/eventinfo/336372337__/</url>
   </evento>
   <evento>
@@ -12253,7 +12277,7 @@
     <deporte>Tenis</deporte>
     <competicion>Abierto de Australia. Hombres</competicion>
     <fecha>23 de enero</fecha>
-    <hora>10:15</hora>
+    <hora>10:25</hora>
     <url>https://livetv.sx/es/eventinfo/336362038__/</url>
   </evento>
   <evento>
@@ -12261,7 +12285,7 @@
     <deporte>Tenis</deporte>
     <competicion>Abierto de Australia. Hombres</competicion>
     <fecha>23 de enero</fecha>
-    <hora>11:30</hora>
+    <hora>11:50</hora>
     <url>https://livetv.sx/es/eventinfo/336329827__/</url>
   </evento>
   <evento>
@@ -12281,12 +12305,28 @@
     <url>https://livetv.sx/es/eventinfo/336564486__/</url>
   </evento>
   <evento>
+    <nombre>Jessica Pegula (M) –  Oksana Selekhmeteva (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de Australia. Mujeres</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>01:30</hora>
+    <url>https://livetv.sx/es/eventinfo/336549705__/</url>
+  </evento>
+  <evento>
     <nombre>Lorenzo Musetti – Tomas Machac</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de Australia. Hombres</competicion>
     <fecha>24 de enero</fecha>
     <hora>01:30</hora>
     <url>https://livetv.sx/es/eventinfo/336654237__/</url>
+  </evento>
+  <evento>
+    <nombre>Karolina Pliskova (M) –  Madison Keys (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de Australia. Mujeres</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>01:30</hora>
+    <url>https://livetv.sx/es/eventinfo/336578462__/</url>
   </evento>
   <evento>
     <nombre>Eliot Spizzirri – Jannik Sinner</nombre>
@@ -12313,11 +12353,19 @@
     <url>https://livetv.sx/es/eventinfo/336065616__/</url>
   </evento>
   <evento>
+    <nombre>Elina Svitolina (M) –  Diana Shnaider (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Abierto de Australia. Mujeres</competicion>
+    <fecha>23 de enero</fecha>
+    <hora>10:10</hora>
+    <url>https://livetv.sx/es/eventinfo/336256531__/</url>
+  </evento>
+  <evento>
     <nombre>Trotter / Uesugi – Wang / Zhou</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Phan Thiet. Dobles</competicion>
     <fecha>23 de enero</fecha>
-    <hora>10:25</hora>
+    <hora>10:20</hora>
     <url>https://livetv.sx/es/eventinfo/336629089__/</url>
   </evento>
   <evento>
@@ -12325,7 +12373,7 @@
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Soma Bay</competicion>
     <fecha>23 de enero</fecha>
-    <hora>11:00</hora>
+    <hora>11:05</hora>
     <url>https://livetv.sx/es/eventinfo/336692701__/</url>
   </evento>
   <evento>
@@ -12333,16 +12381,8 @@
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Soma Bay</competicion>
     <fecha>23 de enero</fecha>
-    <hora>11:00</hora>
+    <hora>11:05</hora>
     <url>https://livetv.sx/es/eventinfo/336672227__/</url>
-  </evento>
-  <evento>
-    <nombre>ATP Challenger. Soma Bay</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Soma Bay</competicion>
-    <fecha>23 de enero</fecha>
-    <hora>11:10</hora>
-    <url>https://livetv.sx/es/eventinfo/335451244_atp_challenger_soma_bay/</url>
   </evento>
   <evento>
     <nombre>Lukas Neumayer – Borna Gojo</nombre>
@@ -12497,22 +12537,6 @@
     <url>https://livetv.sx/es/eventinfo/336592429__/</url>
   </evento>
   <evento>
-    <nombre>Jessica Pegula (M) –  Oksana Selekhmeteva (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de Australia. Mujeres</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>01:30</hora>
-    <url>https://livetv.sx/es/eventinfo/336549705__/</url>
-  </evento>
-  <evento>
-    <nombre>Karolina Pliskova (M) –  Madison Keys (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Abierto de Australia. Mujeres</competicion>
-    <fecha>24 de enero</fecha>
-    <hora>01:30</hora>
-    <url>https://livetv.sx/es/eventinfo/336578462__/</url>
-  </evento>
-  <evento>
     <nombre>Erler / Galloway – Heliovaara / Patten</nombre>
     <deporte>Tenis</deporte>
     <competicion>Abierto de Australia. Hombres. Doubles</competicion>
@@ -12631,6 +12655,14 @@
     <fecha>24 de enero</fecha>
     <hora>04:30</hora>
     <url>https://livetv.sx/es/eventinfo/336685308__/</url>
+  </evento>
+  <evento>
+    <nombre>Ilia Simakin – Daniel Michalski</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Phan Thiet</competicion>
+    <fecha>24 de enero</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/336919569__/</url>
   </evento>
   <evento>
     <nombre>Lilian Marmousez – Soon Woo Kwon</nombre>
@@ -12959,6 +12991,14 @@
     <fecha>23 de enero</fecha>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/336661235_sant_cugat_w_gran_canaria_w/</url>
+  </evento>
+  <evento>
+    <nombre>Zeleznicar (M) –  Estrella Roja (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Serbia. Mujeres. Super Liga</competicion>
+    <fecha>23 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/336922857__/</url>
   </evento>
   <evento>
     <nombre>Sesc RJ (W) – Barueri (W)</nombre>
@@ -13929,12 +13969,12 @@
     <url>https://livetv.sx/es/eventinfo/336302373_new_balance_indoor_grand_prix/</url>
   </evento>
   <evento>
-    <nombre>NTNUI – Ulleval</nombre>
+    <nombre>NTNUИ – Ulleval</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Noruega. Elitserien</competicion>
     <fecha>23 de enero</fecha>
     <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/335847106_ntnui_ulleval/</url>
+    <url>https://livetv.sx/es/eventinfo/335847106_ntnu_ulleval/</url>
   </evento>
   <evento>
     <nombre>Ready – Sarpsborg</nombre>
@@ -13945,12 +13985,12 @@
     <url>https://livetv.sx/es/eventinfo/335847107_ready_sarpsborg/</url>
   </evento>
   <evento>
-    <nombre>Drammen HK – NTNUI</nombre>
+    <nombre>Drammen HK – NTNUИ</nombre>
     <deporte>Deporte_11</deporte>
     <competicion>Noruega. Elitserien</competicion>
     <fecha>25 de enero</fecha>
     <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/335847108_drammen_hk_ntnui/</url>
+    <url>https://livetv.sx/es/eventinfo/335847108_drammen_hk_ntnu/</url>
   </evento>
   <evento>
     <nombre>Mjondalen – Ulleval</nombre>
@@ -14879,14 +14919,6 @@
     <fecha>27 de enero</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/336474155__/</url>
-  </evento>
-  <evento>
-    <nombre>Alfa-Bank Commonwealth Cup</nombre>
-    <deporte>Deporte_18</deporte>
-    <competicion>Biatlón</competicion>
-    <fecha>23 de enero</fecha>
-    <hora>10:50</hora>
-    <url>https://livetv.sx/es/eventinfo/336301815_alfa_bank_commonwealth_cup/</url>
   </evento>
   <evento>
     <nombre>Four Continents Championships</nombre>
