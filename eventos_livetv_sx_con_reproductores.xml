@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2026-01-27 06:47:54" total="287">
+<eventos generado="2026-01-27 07:19:17" total="287">
   <evento id="1">
     <nombre>Thailand Masters</nombre>
     <deporte>Fútbol</deporte>
@@ -380,28 +380,21 @@ player/live.php?id=246252&amp;w=700&amp;h=480</url>
     <hora>08:00</hora>
     <url>https://livetv.sx/es/eventinfo/337989581_tailandia_landiacute_bano/</url>
     <datetime_iso>2026-01-27T08:00:00</datetime_iso>
-    <streams total="4">
+    <streams total="3">
       <stream id="1">
-        <url>https://emb.apl387.me/
-player/live.php?id=245331&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/29.png</idioma>
-        <idioma_nombre>Croata</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245331&amp;lang=es&amp;eid=337989581&amp;lid=2912121&amp;ci=6389&amp;si=12</enlace_original>
-      </stream>
-      <stream id="2">
         <url>https://emb.apl387.me/
 player/live.php?id=245375&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
         <idioma_nombre>Inglés</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245375&amp;lang=es&amp;eid=337989581&amp;lid=2912239&amp;ci=6389&amp;si=12</enlace_original>
       </stream>
-      <stream id="3">
+      <stream id="2">
         <url>https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dpassive&amp;hl=en</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>http://tinyurl.com/ymj3xyje</enlace_original>
       </stream>
-      <stream id="4">
+      <stream id="3">
         <url>https://daddylive4.click/my/stream-102.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
@@ -711,7 +704,14 @@ player/live.php?id=245858&amp;w=700&amp;h=480</url>
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/337606187__/</url>
     <datetime_iso>2026-01-27T10:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/X-eyfGX_GA0?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=X-eyfGX_GA0&amp;lang=es&amp;eid=337606187&amp;lid=2938094&amp;ci=2420&amp;si=3</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="40">
     <nombre>Cori Gauff (M) –  Elina Svitolina (M)</nombre>
@@ -721,7 +721,64 @@ player/live.php?id=245858&amp;w=700&amp;h=480</url>
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/337651207__/</url>
     <datetime_iso>2026-01-27T10:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="8">
+      <stream id="1">
+        <url>https://emb.apl387.me/
+player/live.php?id=245291&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/11.png</idioma>
+        <idioma_nombre>Alemán</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245291&amp;lang=es&amp;eid=337651207&amp;lid=2912024&amp;ci=3574&amp;si=4</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://emb.apl387.me/
+player/live.php?id=245453&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245453&amp;lang=es&amp;eid=337651207&amp;lid=2912402&amp;ci=3574&amp;si=4</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://emb.apl387.me/
+player/live.php?id=246252&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=246252&amp;lang=es&amp;eid=337651207&amp;lid=2935386&amp;ci=3574&amp;si=4</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://emb.apl387.me/
+player/live.php?id=242305&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=242305&amp;lang=es&amp;eid=337651207&amp;lid=2925153&amp;ci=3574&amp;si=4</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://emb.apl387.me/
+player/live.php?id=242312&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=242312&amp;lang=es&amp;eid=337651207&amp;lid=2925152&amp;ci=3574&amp;si=4</enlace_original>
+      </stream>
+      <stream id="6">
+        <url>https://emb.apl387.me/
+player/live.php?id=242313&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=242313&amp;lang=es&amp;eid=337651207&amp;lid=2819130&amp;ci=3574&amp;si=4</enlace_original>
+      </stream>
+      <stream id="7">
+        <url>https://emb.apl387.me/
+player/live.php?id=242327&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=242327&amp;lang=es&amp;eid=337651207&amp;lid=2924882&amp;ci=3574&amp;si=4</enlace_original>
+      </stream>
+      <stream id="8">
+        <url>https://emb.apl387.me/
+player/live.php?id=242328&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=242328&amp;lang=es&amp;eid=337651207&amp;lid=2924883&amp;ci=3574&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="41">
     <nombre>Iraq – Kirguistán</nombre>
@@ -731,7 +788,34 @@ player/live.php?id=245858&amp;w=700&amp;h=480</url>
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/337989582_iraq_kyrgyzstan/</url>
     <datetime_iso>2026-01-27T10:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="4">
+      <stream id="1">
+        <url>https://emb.apl387.me/
+player/live.php?id=245331&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/29.png</idioma>
+        <idioma_nombre>Croata</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245331&amp;lang=es&amp;eid=337989582&amp;lid=2912121&amp;ci=6389&amp;si=12</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://emb.apl387.me/
+player/live.php?id=245375&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245375&amp;lang=es&amp;eid=337989582&amp;lid=2912239&amp;ci=6389&amp;si=12</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://www.youtube.com/embed/6-ZKa5_ImVQ?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=6-ZKa5_ImVQ&amp;lang=es&amp;eid=337989582&amp;lid=2938748&amp;ci=6389&amp;si=12</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://daddylive4.click/my/stream-102.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939070&amp;lang=es&amp;eid=337989582&amp;lid=2939070&amp;ci=6389&amp;si=12</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="42">
     <nombre>ATP Challenger. Manama</nombre>
