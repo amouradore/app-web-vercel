@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2026-01-27 16:50:13" total="248">
+<eventos generado="2026-01-27 17:19:58" total="248">
   <evento id="1">
     <nombre>Suiza –  Islandia</nombre>
     <deporte>Fútbol</deporte>
@@ -42,22 +42,15 @@ player/live.php?id=246272&amp;w=700&amp;h=480</url>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/337648397_sri_lanka_inglaterra/</url>
     <datetime_iso>2026-01-27T11:00:00</datetime_iso>
-    <streams total="3">
+    <streams total="2">
       <stream id="1">
-        <url>https://emb.apl387.me/
-player/live.php?id=245632&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245632&amp;lang=es&amp;eid=337648397&amp;lid=2924864&amp;ci=266&amp;si=41</enlace_original>
-      </stream>
-      <stream id="2">
         <url>https://emb.apl387.me/
 player/live.php?id=246168&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=246168&amp;lang=es&amp;eid=337648397&amp;lid=2930931&amp;ci=266&amp;si=41</enlace_original>
       </stream>
-      <stream id="3">
+      <stream id="2">
         <url>https://daddylive4.click/my/stream-31.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
@@ -117,7 +110,7 @@ player/live.php?id=246168&amp;w=700&amp;h=480</url>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/337994405_german_masters/</url>
     <datetime_iso>2026-01-27T16:00:00</datetime_iso>
-    <streams total="8">
+    <streams total="7">
       <stream id="1">
         <url>https://emb.apl387.me/
 player/live.php?id=245291&amp;w=700&amp;h=480</url>
@@ -164,12 +157,6 @@ player/live.php?id=230233&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939067&amp;lang=es&amp;eid=337994405&amp;lid=2939067&amp;ci=234&amp;si=29</enlace_original>
-      </stream>
-      <stream id="8">
-        <url>https://wikisport.wiki/strm/28.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
-        <idioma_nombre>Italiano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939209&amp;lang=es&amp;eid=337994405&amp;lid=2939209&amp;ci=234&amp;si=29</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -280,14 +267,7 @@ player/live.php?id=230233&amp;w=700&amp;h=480</url>
     <hora>16:30</hora>
     <url>https://livetv.sx/es/eventinfo/337220710_newroz_al_karma/</url>
     <datetime_iso>2026-01-27T16:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/A3-0QNlz0jY?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/5.png</idioma>
-        <idioma_nombre>Alemán (Alemania)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=A3-0QNlz0jY&amp;lang=es&amp;eid=337220710&amp;lid=2939136&amp;ci=2637&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="17">
     <nombre>Al-Shorta –  Naft Maysan</nombre>
@@ -297,14 +277,7 @@ player/live.php?id=230233&amp;w=700&amp;h=480</url>
     <hora>16:30</hora>
     <url>https://livetv.sx/es/eventinfo/337220711_al_shorta_naft_maysan/</url>
     <datetime_iso>2026-01-27T16:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/UVmJqnsg34w?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/5.png</idioma>
-        <idioma_nombre>Alemán (Alemania)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=UVmJqnsg34w&amp;lang=es&amp;eid=337220711&amp;lid=2939172&amp;ci=2637&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="18">
     <nombre>Islandia U18 (M) –  Bélgica U18 (M)</nombre>
@@ -314,14 +287,7 @@ player/live.php?id=230233&amp;w=700&amp;h=480</url>
     <hora>16:30</hora>
     <url>https://livetv.sx/es/eventinfo/337985044_islandia_u18_m_bandeacute_lgica_u18_m/</url>
     <datetime_iso>2026-01-27T16:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://playerhls.com/tv/video-player.php?url=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/697230e3becdc6c9c8b40dc6/index.m3u8</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939168&amp;lang=es&amp;eid=337985044&amp;lid=2939168&amp;ci=6661&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="19">
     <nombre>Newroz – Al-Karma</nombre>
@@ -331,14 +297,7 @@ player/live.php?id=230233&amp;w=700&amp;h=480</url>
     <hora>16:30</hora>
     <url>https://livetv.sx/es/eventinfo/337220710__/</url>
     <datetime_iso>2026-01-27T16:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/A3-0QNlz0jY?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/5.png</idioma>
-        <idioma_nombre>Alemán (Alemania)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=A3-0QNlz0jY&amp;lang=es&amp;eid=337220710&amp;lid=2939136&amp;ci=2637&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="20">
     <nombre>Al-Shorta – Naft Maysan</nombre>
@@ -348,14 +307,7 @@ player/live.php?id=230233&amp;w=700&amp;h=480</url>
     <hora>16:30</hora>
     <url>https://livetv.sx/es/eventinfo/337220711__/</url>
     <datetime_iso>2026-01-27T16:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/UVmJqnsg34w?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/5.png</idioma>
-        <idioma_nombre>Alemán (Alemania)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=UVmJqnsg34w&amp;lang=es&amp;eid=337220711&amp;lid=2939172&amp;ci=2637&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="21">
     <nombre>Islandia U18 (M) – Bélgica U18 (M)</nombre>
@@ -483,7 +435,7 @@ player/live.php?id=245245&amp;w=700&amp;h=480</url>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/333851237__zeren_spor_m__conegliano_m/</url>
     <datetime_iso>2026-01-27T17:00:00</datetime_iso>
-    <streams total="7">
+    <streams total="6">
       <stream id="1">
         <url>https://emb.apl387.me/
 player/live.php?id=245375&amp;w=700&amp;h=480</url>
@@ -522,12 +474,6 @@ player/live.php?id=246004&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
         <idioma_nombre>Coreano</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915900&amp;lang=es&amp;eid=333851237&amp;lid=2915900&amp;ci=1221&amp;si=5</enlace_original>
-      </stream>
-      <stream id="7">
-        <url>https://daddylive4.click/my/stream-460.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/12.png</idioma>
-        <idioma_nombre>Turco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939030&amp;lang=es&amp;eid=333851237&amp;lid=2939030&amp;ci=1221&amp;si=5</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -599,21 +545,7 @@ player/live.php?id=246004&amp;w=700&amp;h=480</url>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/337695447__/</url>
     <datetime_iso>2026-01-27T17:00:00</datetime_iso>
-    <streams total="2">
-      <stream id="1">
-        <url>https://emb.apl387.me/
-player/live.php?id=246272&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
-        <idioma_nombre>Coreano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=246272&amp;lang=es&amp;eid=337695447&amp;lid=2934061&amp;ci=2401&amp;si=3</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://antenasport.top/arena5premiumserbia.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
-        <idioma_nombre>Coreano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2918399&amp;lang=es&amp;eid=337695447&amp;lid=2918399&amp;ci=2401&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="34">
     <nombre>Zeren Spor (M) –  Conegliano (M)</nombre>
@@ -623,47 +555,7 @@ player/live.php?id=246272&amp;w=700&amp;h=480</url>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/333851237__/</url>
     <datetime_iso>2026-01-27T17:00:00</datetime_iso>
-    <streams total="6">
-      <stream id="1">
-        <url>https://emb.apl387.me/
-player/live.php?id=245375&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245375&amp;lang=es&amp;eid=333851237&amp;lid=2912239&amp;ci=1221&amp;si=5</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl387.me/
-player/live.php?id=245807&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
-        <idioma_nombre>Coreano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245807&amp;lang=es&amp;eid=333851237&amp;lid=2938523&amp;ci=1221&amp;si=5</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://emb.apl387.me/
-player/live.php?id=246004&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=246004&amp;lang=es&amp;eid=333851237&amp;lid=2925913&amp;ci=1221&amp;si=5</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://antenasport.top/matcharena.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2921523&amp;lang=es&amp;eid=333851237&amp;lid=2921523&amp;ci=1221&amp;si=5</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://topembed.pw/channel/ArenaSport1%5BSerbia%5D</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
-        <idioma_nombre>Coreano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915900&amp;lang=es&amp;eid=333851237&amp;lid=2915900&amp;ci=1221&amp;si=5</enlace_original>
-      </stream>
-      <stream id="6">
-        <url>https://daddylive4.click/my/stream-460.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/12.png</idioma>
-        <idioma_nombre>Turco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939030&amp;lang=es&amp;eid=333851237&amp;lid=2939030&amp;ci=1221&amp;si=5</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="35">
     <nombre>Roberto Carballés Baena –  Michael Geerts</nombre>
@@ -1470,8 +1362,8 @@ player/live.php?id=242326&amp;w=700&amp;h=480</url>
     <streams total="1">
       <stream id="1">
         <url>https://www.lrt.lt/mediateka/tiesiogiai/live21</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/35.png</idioma>
+        <idioma_nombre>Bandera #35</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifrx&amp;c=2939233&amp;lang=es&amp;eid=337333426&amp;lid=2939233&amp;ci=1816&amp;si=3</enlace_original>
       </stream>
     </streams>
@@ -1516,8 +1408,8 @@ player/live.php?id=242326&amp;w=700&amp;h=480</url>
     <streams total="1">
       <stream id="1">
         <url>https://www.youtube.com/embed/Z-nPt7t8nlk?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/5.png</idioma>
+        <idioma_nombre>Alemán (Alemania)</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=Z-nPt7t8nlk&amp;lang=es&amp;eid=337220707&amp;lid=2939232&amp;ci=2637&amp;si=1</enlace_original>
       </stream>
     </streams>
@@ -1559,7 +1451,7 @@ player/live.php?id=242326&amp;w=700&amp;h=480</url>
     <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/333870361__/</url>
     <datetime_iso>2026-01-27T18:30:00</datetime_iso>
-    <streams total="6">
+    <streams total="5">
       <stream id="1">
         <url>https://voodc.com/embed/85818c9aa18a9a88847a859a9d8c98868d.html</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
@@ -1585,12 +1477,6 @@ player/live.php?id=242326&amp;w=700&amp;h=480</url>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939227&amp;lang=es&amp;eid=333870361&amp;lid=2939227&amp;ci=220&amp;si=2</enlace_original>
       </stream>
       <stream id="5">
-        <url>https://lato.sx/ch.php?id=72</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/21.png</idioma>
-        <idioma_nombre>Checo</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2938964&amp;lang=es&amp;eid=333870361&amp;lid=2938964&amp;ci=220&amp;si=2</enlace_original>
-      </stream>
-      <stream id="6">
         <url>https://l1l1.link/ch?id=72</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/21.png</idioma>
         <idioma_nombre>Checo</idioma_nombre>
@@ -1644,21 +1530,21 @@ player/live.php?id=242326&amp;w=700&amp;h=480</url>
       </stream>
       <stream id="2">
         <url>https://antenasport.top/liiga1.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/21.png</idioma>
+        <idioma_nombre>Checo</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2934852&amp;lang=es&amp;eid=333870363&amp;lid=2934852&amp;ci=220&amp;si=2</enlace_original>
       </stream>
       <stream id="3">
-        <url>https://dabac.link/ch?id=74</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939224&amp;lang=es&amp;eid=333870363&amp;lid=2939224&amp;ci=220&amp;si=2</enlace_original>
-      </stream>
-      <stream id="4">
         <url>https://vuen.link/ch?id=74</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
         <idioma_nombre>Sueco</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939225&amp;lang=es&amp;eid=333870363&amp;lid=2939225&amp;ci=220&amp;si=2</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://dabac.link/ch?id=74</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
+        <idioma_nombre>Sueco</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939224&amp;lang=es&amp;eid=333870363&amp;lid=2939224&amp;ci=220&amp;si=2</enlace_original>
       </stream>
       <stream id="5">
         <url>https://l1l1.link/ch?id=74</url>
@@ -1769,7 +1655,7 @@ player/live.php?id=242326&amp;w=700&amp;h=480</url>
     <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/333870705__/</url>
     <datetime_iso>2026-01-27T18:30:00</datetime_iso>
-    <streams total="4">
+    <streams total="5">
       <stream id="1">
         <url>https://voodc.com/embed/85818c9aa18a9a88847a859a9d87988689.html</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
@@ -1777,18 +1663,24 @@ player/live.php?id=242326&amp;w=700&amp;h=480</url>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939137&amp;lang=es&amp;eid=333870705&amp;lid=2939137&amp;ci=322&amp;si=2</enlace_original>
       </stream>
       <stream id="2">
+        <url>https://lato.sx/ch.php?id=43</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2938960&amp;lang=es&amp;eid=333870705&amp;lid=2938960&amp;ci=322&amp;si=2</enlace_original>
+      </stream>
+      <stream id="3">
         <url>https://vuen.link/ch?id=43</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
         <idioma_nombre>Polaco</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939219&amp;lang=es&amp;eid=333870705&amp;lid=2939219&amp;ci=322&amp;si=2</enlace_original>
       </stream>
-      <stream id="3">
+      <stream id="4">
         <url>https://dabac.link/ch?id=43</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
         <idioma_nombre>Danés</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939218&amp;lang=es&amp;eid=333870705&amp;lid=2939218&amp;ci=322&amp;si=2</enlace_original>
       </stream>
-      <stream id="4">
+      <stream id="5">
         <url>https://l1l1.link/ch?id=43</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
         <idioma_nombre>Polaco</idioma_nombre>
@@ -1943,7 +1835,7 @@ player/live.php?id=246217&amp;w=700&amp;h=480</url>
     <hora>18:44</hora>
     <url>https://livetv.sx/es/eventinfo/333868359__/</url>
     <datetime_iso>2026-01-27T18:44:00</datetime_iso>
-    <streams total="5">
+    <streams total="8">
       <stream id="1">
         <url>https://emb.apl387.me/
 player/live.php?id=245251&amp;w=700&amp;h=480</url>
@@ -1972,10 +1864,28 @@ player/live.php?id=247255&amp;w=700&amp;h=480</url>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939145&amp;lang=es&amp;eid=333868359&amp;lid=2939145&amp;ci=167&amp;si=2</enlace_original>
       </stream>
       <stream id="5">
-        <url>https://daddylive4.click/my/stream-127.php</url>
+        <url>https://antenasport.top/match.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
         <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939010&amp;lang=es&amp;eid=333868359&amp;lid=2939010&amp;ci=167&amp;si=2</enlace_original>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2938572&amp;lang=es&amp;eid=333868359&amp;lid=2938572&amp;ci=167&amp;si=2</enlace_original>
+      </stream>
+      <stream id="6">
+        <url>https://olimp-video.com/api/broadcast/sportboomcom/13899945</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939235&amp;lang=es&amp;eid=333868359&amp;lid=2939235&amp;ci=167&amp;si=2</enlace_original>
+      </stream>
+      <stream id="7">
+        <url>https://antenasport.top/embed.php?id=primakhl</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2935556&amp;lang=es&amp;eid=333868359&amp;lid=2935556&amp;ci=167&amp;si=2</enlace_original>
+      </stream>
+      <stream id="8">
+        <url>https://topembed.pw/channel/MatchTV[Russia]</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2938573&amp;lang=es&amp;eid=333868359&amp;lid=2938573&amp;ci=167&amp;si=2</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -1987,7 +1897,14 @@ player/live.php?id=247255&amp;w=700&amp;h=480</url>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/308695840__/</url>
     <datetime_iso>2026-01-27T19:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://playerhls.com/tv/video-player.php?url=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69667d9585dc8b3980099138.m3u8</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939243&amp;lang=es&amp;eid=308695840&amp;lid=2939243&amp;ci=1527&amp;si=2</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="95">
     <nombre>Zaglebie Sosnowiec – Katowice</nombre>
@@ -2007,12 +1924,30 @@ player/live.php?id=247255&amp;w=700&amp;h=480</url>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/333876461__/</url>
     <datetime_iso>2026-01-27T19:00:00</datetime_iso>
-    <streams total="1">
+    <streams total="4">
       <stream id="1">
+        <url>https://vuen.link/ch?id=44</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939241&amp;lang=es&amp;eid=333876461&amp;lid=2939241&amp;ci=322&amp;si=2</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://l1l1.link/ch?id=44</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939240&amp;lang=es&amp;eid=333876461&amp;lid=2939240&amp;ci=322&amp;si=2</enlace_original>
+      </stream>
+      <stream id="3">
         <url>https://lato.sx/ch.php?id=44</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2938961&amp;lang=es&amp;eid=333876461&amp;lid=2938961&amp;ci=322&amp;si=2</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://dabac.link/ch?id=44</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
         <idioma_nombre>Danés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2938961&amp;lang=es&amp;eid=333876461&amp;lid=2938961&amp;ci=322&amp;si=2</enlace_original>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939239&amp;lang=es&amp;eid=333876461&amp;lid=2939239&amp;ci=322&amp;si=2</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -2024,7 +1959,7 @@ player/live.php?id=247255&amp;w=700&amp;h=480</url>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/333876462__/</url>
     <datetime_iso>2026-01-27T19:00:00</datetime_iso>
-    <streams total="4">
+    <streams total="3">
       <stream id="1">
         <url>https://lato.sx/ch.php?id=45</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
@@ -2032,18 +1967,12 @@ player/live.php?id=247255&amp;w=700&amp;h=480</url>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2938962&amp;lang=es&amp;eid=333876462&amp;lid=2938962&amp;ci=322&amp;si=2</enlace_original>
       </stream>
       <stream id="2">
-        <url>https://vuen.link/ch?id=45</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
-        <idioma_nombre>Danés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939231&amp;lang=es&amp;eid=333876462&amp;lid=2939231&amp;ci=322&amp;si=2</enlace_original>
-      </stream>
-      <stream id="3">
         <url>https://l1l1.link/ch?id=45</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
         <idioma_nombre>Danés</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939230&amp;lang=es&amp;eid=333876462&amp;lid=2939230&amp;ci=322&amp;si=2</enlace_original>
       </stream>
-      <stream id="4">
+      <stream id="3">
         <url>https://dabac.link/ch?id=45</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
         <idioma_nombre>Danés</idioma_nombre>
@@ -2059,12 +1988,30 @@ player/live.php?id=247255&amp;w=700&amp;h=480</url>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/333876463__/</url>
     <datetime_iso>2026-01-27T19:00:00</datetime_iso>
-    <streams total="1">
+    <streams total="4">
       <stream id="1">
+        <url>https://vuen.link/ch?id=46</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939238&amp;lang=es&amp;eid=333876463&amp;lid=2939238&amp;ci=322&amp;si=2</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://l1l1.link/ch?id=46</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939237&amp;lang=es&amp;eid=333876463&amp;lid=2939237&amp;ci=322&amp;si=2</enlace_original>
+      </stream>
+      <stream id="3">
         <url>https://lato.sx/ch.php?id=46</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2936998&amp;lang=es&amp;eid=333876463&amp;lid=2936998&amp;ci=322&amp;si=2</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://dabac.link/ch?id=46</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
         <idioma_nombre>Danés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2936998&amp;lang=es&amp;eid=333876463&amp;lid=2936998&amp;ci=322&amp;si=2</enlace_original>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939236&amp;lang=es&amp;eid=333876463&amp;lid=2939236&amp;ci=322&amp;si=2</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -2076,7 +2023,14 @@ player/live.php?id=247255&amp;w=700&amp;h=480</url>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/337379323__/</url>
     <datetime_iso>2026-01-27T19:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://live.tiesraides.lv/ohl.lv/live/283</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939244&amp;lang=es&amp;eid=337379323&amp;lid=2939244&amp;ci=1561&amp;si=2</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="100">
     <nombre>Ekselences centrs – Kandava/Turiba</nombre>
@@ -2140,18 +2094,12 @@ player/live.php?id=247255&amp;w=700&amp;h=480</url>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/337720551__/</url>
     <datetime_iso>2026-01-27T19:00:00</datetime_iso>
-    <streams total="2">
+    <streams total="1">
       <stream id="1">
         <url>https://antenasport.top/arena5premiumserbia.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
         <idioma_nombre>Coreano</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2918399&amp;lang=es&amp;eid=337720551&amp;lid=2918399&amp;ci=2401&amp;si=3</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://daddylive4.click/my/stream-945.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
-        <idioma_nombre>Coreano</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939053&amp;lang=es&amp;eid=337720551&amp;lid=2939053&amp;ci=2401&amp;si=3</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -2250,36 +2198,34 @@ player/live.php?id=245815&amp;w=700&amp;h=480</url>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245815&amp;lang=es&amp;eid=336474156&amp;lid=2914862&amp;ci=199&amp;si=13</enlace_original>
       </stream>
       <stream id="4">
-        <url>https://emb.apl387.me/
-player/live.php?id=246292&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/26.png</idioma>
-        <idioma_nombre>Finlandés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=246292&amp;lang=es&amp;eid=336474156&amp;lid=2934914&amp;ci=199&amp;si=13</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://emb.apl387.me/
-player/live.php?id=247260&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/26.png</idioma>
-        <idioma_nombre>Finlandés</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=247260&amp;lang=es&amp;eid=336474156&amp;lid=2938868&amp;ci=199&amp;si=13</enlace_original>
-      </stream>
-      <stream id="6">
         <url>https://flixxlive.pro/live/arenapre2_serbia.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
         <idioma_nombre>Coreano</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2661142&amp;lang=es&amp;eid=336474156&amp;lid=2661142&amp;ci=199&amp;si=13</enlace_original>
       </stream>
-      <stream id="7">
+      <stream id="5">
         <url>https://flixxlive.pro/live/tv2_denmark.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/20.png</idioma>
         <idioma_nombre>Húngaro</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2686658&amp;lang=es&amp;eid=336474156&amp;lid=2686658&amp;ci=199&amp;si=13</enlace_original>
       </stream>
-      <stream id="8">
+      <stream id="6">
         <url>https://flixxlive.pro/live/hrt2_croatia.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/29.png</idioma>
         <idioma_nombre>Croata</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2684039&amp;lang=es&amp;eid=336474156&amp;lid=2684039&amp;ci=199&amp;si=13</enlace_original>
+      </stream>
+      <stream id="7">
+        <url>https://lato.sx/ch.php?id=80</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
+        <idioma_nombre>Sueco</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915208&amp;lang=es&amp;eid=336474156&amp;lid=2915208&amp;ci=199&amp;si=13</enlace_original>
+      </stream>
+      <stream id="8">
+        <url>https://daddylive4.click/my/stream-9.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/27.png</idioma>
+        <idioma_nombre>Griego</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2938985&amp;lang=es&amp;eid=336474156&amp;lid=2938985&amp;ci=199&amp;si=13</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -2558,7 +2504,14 @@ player/live.php?id=245841&amp;w=700&amp;h=480</url>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/319879234__/</url>
     <datetime_iso>2026-01-27T20:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://daddylive4.click/my/stream-22.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2938995&amp;lang=es&amp;eid=319879234&amp;lid=2938995&amp;ci=1971&amp;si=2</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="128">
     <nombre>Timra – Malmoe</nombre>
@@ -2568,7 +2521,40 @@ player/live.php?id=245841&amp;w=700&amp;h=480</url>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/333888589__/</url>
     <datetime_iso>2026-01-27T20:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="5">
+      <stream id="1">
+        <url>https://emb.apl387.me/
+player/live.php?id=245623&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245623&amp;lang=es&amp;eid=333888589&amp;lid=2913877&amp;ci=192&amp;si=2</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://emb.apl387.me/
+player/live.php?id=245794&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
+        <idioma_nombre>Inglés</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=245794&amp;lang=es&amp;eid=333888589&amp;lid=2914904&amp;ci=192&amp;si=2</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://daddylive4.click/my/stream-700.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939037&amp;lang=es&amp;eid=333888589&amp;lid=2939037&amp;ci=192&amp;si=2</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://lato.sx/ch.php?id=18</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2934641&amp;lang=es&amp;eid=333888589&amp;lid=2934641&amp;ci=192&amp;si=2</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://lato.sx/ch.php?id=75</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
+        <idioma_nombre>Sueco</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2915203&amp;lang=es&amp;eid=333888589&amp;lid=2915203&amp;ci=192&amp;si=2</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="129">
     <nombre>Herning Blue Fox – Frederikshavn</nombre>
@@ -2608,7 +2594,51 @@ player/live.php?id=245841&amp;w=700&amp;h=480</url>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/333885337__/</url>
     <datetime_iso>2026-01-27T20:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="7">
+      <stream id="1">
+        <url>https://emb.apl387.me/
+player/live.php?id=246090&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=246090&amp;lang=es&amp;eid=333885337&amp;lid=2930205&amp;ci=205&amp;si=3</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://flixxlive.pro/live/novastart_greece.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/28.png</idioma>
+        <idioma_nombre>Búlgaro</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2661194&amp;lang=es&amp;eid=333885337&amp;lid=2661194&amp;ci=205&amp;si=3</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://daddylive4.click/my/stream-6.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2938982&amp;lang=es&amp;eid=333885337&amp;lid=2938982&amp;ci=205&amp;si=3</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://antenasport.top/arena4premiumserbia.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
+        <idioma_nombre>Coreano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2935682&amp;lang=es&amp;eid=333885337&amp;lid=2935682&amp;ci=205&amp;si=3</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://lato.sx/ch.php?id=15</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2934639&amp;lang=es&amp;eid=333885337&amp;lid=2934639&amp;ci=205&amp;si=3</enlace_original>
+      </stream>
+      <stream id="6">
+        <url>https://flixxlive.pro/live/arenapre4_serbia.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
+        <idioma_nombre>Coreano</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2863880&amp;lang=es&amp;eid=333885337&amp;lid=2863880&amp;ci=205&amp;si=3</enlace_original>
+      </stream>
+      <stream id="7">
+        <url>https://shd247.click/frame0015.html</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2939152&amp;lang=es&amp;eid=333885337&amp;lid=2939152&amp;ci=205&amp;si=3</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="133">
     <nombre>Latvijas Universitate – VEF Riga</nombre>
@@ -2628,7 +2658,14 @@ player/live.php?id=245841&amp;w=700&amp;h=480</url>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/338026266_spain_u21_w_czech_republic_u21_w/</url>
     <datetime_iso>2026-01-27T20:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/pz0i2iRELqs?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=pz0i2iRELqs&amp;lang=es&amp;eid=338026266&amp;lid=2938725&amp;ci=441&amp;si=12</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="135">
     <nombre>Soedertalje – Boraas</nombre>
