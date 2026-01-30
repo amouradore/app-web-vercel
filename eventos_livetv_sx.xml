@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-01-30 19:38:13" total="1850">
-  <evento>
-    <nombre>AS Mónaco –  Virtus Bolonia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Euroliga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/334796080_as_m__naco_virtus_bolonia/</url>
-  </evento>
+<eventos generado="2026-01-30 20:39:06" total="1783">
   <evento>
     <nombre>NAC Breda –  Twente</nombre>
     <deporte>Fútbol</deporte>
@@ -73,14 +65,6 @@
     <url>https://livetv.sx/es/eventinfo/338603900_dinamarca_islandia/</url>
   </evento>
   <evento>
-    <nombre>San Quintín –  Limoges</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. LNB Pro A</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/334814240_san_quint__n_limoges/</url>
-  </evento>
-  <evento>
     <nombre>Lazio –  Genoa</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Italia. Serie A</competicion>
@@ -129,36 +113,20 @@
     <url>https://livetv.sx/es/eventinfo/334818136_benetton_scarlets/</url>
   </evento>
   <evento>
-    <nombre>ATP Challenger. Quimper</nombre>
+    <nombre>Espanyol –  Alavés</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Quimper</competicion>
+    <competicion>España. Primera División</competicion>
     <fecha>30 de enero</fecha>
-    <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337773194_atp_challenger_quimper/</url>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/334819385_espanyol_alav__s/</url>
   </evento>
   <evento>
-    <nombre>Tseng Chun-hsin –  Marco Cecchinato</nombre>
+    <nombre>Guimaraes –  Moreirense</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Concepcion</competicion>
+    <competicion>Portugal. Primeira Liga</competicion>
     <fecha>30 de enero</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/338830015_tseng_chun_hsin_marco_cecchinato/</url>
-  </evento>
-  <evento>
-    <nombre>Kestelboim / Zormann –  Villanueva / Dos Santos</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Doubles</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/338972288_kestelboim__zormann_villanueva__dos_santos/</url>
-  </evento>
-  <evento>
-    <nombre>Sascha Gueymard Wayenburg –  Benjamin Bonzi</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Quimper</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>17:30</hora>
-    <url>https://livetv.sx/es/eventinfo/338807420_sascha_gueymard_wayenburg_benjamin_bonzi/</url>
+    <hora>22:45</hora>
+    <url>https://livetv.sx/es/eventinfo/335558415_guimaraes_moreirense/</url>
   </evento>
   <evento>
     <nombre>Carballés Baena / Barroso-Campo –  Lammons / Withrow</nombre>
@@ -201,406 +169,6 @@
     <url>https://livetv.sx/es/eventinfo/338919429_alejandro_tabilo_lautaro_midon/</url>
   </evento>
   <evento>
-    <nombre>Kiekko-Espoo Sub-20 –   Lukko Sub-20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Nuorten SM-liiga Sub-20</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:10</hora>
-    <url>https://livetv.sx/es/eventinfo/338264874__kiekko_espoo_sub_20__lukko_sub_20/</url>
-  </evento>
-  <evento>
-    <nombre>Portugal (M) –   Suiza (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Campeonato de Europa</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:15</hora>
-    <url>https://livetv.sx/es/eventinfo/338907322__portugal_m__suiza_m/</url>
-  </evento>
-  <evento>
-    <nombre>Núremberg –  Preussen Muenster</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 2 Bundesliga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/334782378_n__remberg_preussen_muenster/</url>
-  </evento>
-  <evento>
-    <nombre>Magdeburgo –  Hannover 96</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 2 Bundesliga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/334782379_magdeburgo_hannover_96/</url>
-  </evento>
-  <evento>
-    <nombre>Simulcast</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 2 Bundesliga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/338860558_simulcast/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Kholood –  Al-Nassr</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Arabia Saudita. Liga Pro</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/334785170_al_kholood_al_nassr/</url>
-  </evento>
-  <evento>
-    <nombre>Lukko –  HIFK</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Finlandia. Liiga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/334785556_lukko_hifk/</url>
-  </evento>
-  <evento>
-    <nombre>Graz –  Pioneers Vorarlberg</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/334781754_graz_pioneers_vorarlberg/</url>
-  </evento>
-  <evento>
-    <nombre>Levski Sofia –  Deya Sport</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bulgaria. Superliga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/338867174_levski_sofia_deya_sport/</url>
-  </evento>
-  <evento>
-    <nombre>Katowice –  Unia Oswiecim</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Polonia. PLH</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/334784825_katowice_unia_oswiecim/</url>
-  </evento>
-  <evento>
-    <nombre>Negritu / Merino –  Reymond / Sanchez</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Doubles</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/338906221_negritu__merino_reymond__sanchez/</url>
-  </evento>
-  <evento>
-    <nombre>Dinamo de Bucarest –  Petrolul</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rumania. Liga 1</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334791662_dinamo_de_bucarest_petrolul/</url>
-  </evento>
-  <evento>
-    <nombre>Havelse –  Erzgebirge Aue</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 3 Bundesliga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334788918_havelse_erzgebirge_aue/</url>
-  </evento>
-  <evento>
-    <nombre>Al Mokawloon –  National Bank</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Egipto. Premier League</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334789154_al_mokawloon_national_bank/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Ittihad –  Haras El Hodood</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Egipto. Premier League</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334789155_al_ittihad_haras_el_hodood/</url>
-  </evento>
-  <evento>
-    <nombre>Valerenga –  Stjernen</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Noruega. Eliteserien</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334790931_valerenga_stjernen/</url>
-  </evento>
-  <evento>
-    <nombre>Lillehammer –  Narvik</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Noruega. Eliteserien</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334790932_lillehammer_narvik/</url>
-  </evento>
-  <evento>
-    <nombre>Loerenskog –  Nidaros</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Noruega. Eliteserien</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334790933_loerenskog_nidaros/</url>
-  </evento>
-  <evento>
-    <nombre>Aurillac –  Valence Romans</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Pro D2</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337819534_aurillac_valence_romans/</url>
-  </evento>
-  <evento>
-    <nombre>Zaglebie Sosnowiec –  Tychy</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Polonia. PLH</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334791352_zaglebie_sosnowiec_tychy/</url>
-  </evento>
-  <evento>
-    <nombre>Jugovic –  Voivodina</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Serbia. Superliga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/339016531_jugovic_voivodina/</url>
-  </evento>
-  <evento>
-    <nombre>Troja/Ljungby –  Karlskoga</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792543_trojaljungby_karlskoga/</url>
-  </evento>
-  <evento>
-    <nombre>Nybro Vikings –  Sodertalje</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792544_nybro_vikings_sodertalje/</url>
-  </evento>
-  <evento>
-    <nombre>Bjorkloven –  Mora</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792545_bjorkloven_mora/</url>
-  </evento>
-  <evento>
-    <nombre>Oskarshamn –  Oestersund</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792546_oskarshamn_oestersund/</url>
-  </evento>
-  <evento>
-    <nombre>Vasteras –  Kalmar</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792547_vasteras_kalmar/</url>
-  </evento>
-  <evento>
-    <nombre>MODO –  Vimmerby</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792548_modo_vimmerby/</url>
-  </evento>
-  <evento>
-    <nombre>AIK –  Almtuna</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792549_aik_almtuna/</url>
-  </evento>
-  <evento>
-    <nombre>Odense –  Herlev</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Dinamarca. Metal Ligaen</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334789065_odense_herlev/</url>
-  </evento>
-  <evento>
-    <nombre>SonderjyskE –  Rungsted</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Dinamarca. Metal Ligaen</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334789066_sonderjyske_rungsted/</url>
-  </evento>
-  <evento>
-    <nombre>Esbjerg Energy –  Aalborg</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Dinamarca. Metal Ligaen</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334789067_esbjerg_energy_aalborg/</url>
-  </evento>
-  <evento>
-    <nombre>Nove Veseli –  Pilsen</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>República Checa. Extraliga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792420_nove_veseli_pilsen/</url>
-  </evento>
-  <evento>
-    <nombre>Spartak Subotica –  Jedinstvo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Serbia. Superliga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334778847_spartak_subotica_jedinstvo/</url>
-  </evento>
-  <evento>
-    <nombre>Ulleval –  Ready</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Noruega. Elitserien</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/338016089_ulleval_ready/</url>
-  </evento>
-  <evento>
-    <nombre>Graestorp –  Visby Roma</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792668_graestorp_visby_roma/</url>
-  </evento>
-  <evento>
-    <nombre>Grums –  Dalen</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792669_grums_dalen/</url>
-  </evento>
-  <evento>
-    <nombre>Vasterviks –  Mariestad BoIS</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792670_vasterviks_mariestad_bois/</url>
-  </evento>
-  <evento>
-    <nombre>Tyringe –  Karlskrona HK</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792671_tyringe_karlskrona_hk/</url>
-  </evento>
-  <evento>
-    <nombre>Jedinstvo Uzice (M) –   Jedinstvo (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Serbia. Mujeres. Super Liga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/339027007__jedinstvo_uzice_m__jedinstvo_m/</url>
-  </evento>
-  <evento>
-    <nombre>Mladi Krajisnik (W) –  Konjice (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Prvenstvo</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/339057222_mladi_krajisnik_w_konjice_w/</url>
-  </evento>
-  <evento>
-    <nombre>Modra (W) –  Nemsova (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Eslovaquia. Mujeres. Extraliga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/338026081_modra_w_nemsova_w/</url>
-  </evento>
-  <evento>
-    <nombre>Talsi –  Ventspils</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/339003643_talsi_ventspils/</url>
-  </evento>
-  <evento>
-    <nombre>Livani –  Gulbenes Buki</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/339003644_livani_gulbenes_buki/</url>
-  </evento>
-  <evento>
-    <nombre>Grobina –  Marupes</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/339047453_grobina_marupes/</url>
-  </evento>
-  <evento>
-    <nombre>Sudáfrica U18 (W) –  Bélgica U18 (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Div II B</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337985051_sudand225_frica_u18_w_bandeacute_lgica_u18_m/</url>
-  </evento>
-  <evento>
-    <nombre>Farjestad U20 –  Malmo U20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. J20 Nationell</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/338484114_farjestad_u20_malmo_u20/</url>
-  </evento>
-  <evento>
-    <nombre>Orebro U20 –  Rogle U-20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. J20 Nationell</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/338484115_orebro_u20_rogle_u_20/</url>
-  </evento>
-  <evento>
-    <nombre>Luleaa –  Upsala</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Basketligan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:04</hora>
-    <url>https://livetv.sx/es/eventinfo/338560020_luleaa_upsala/</url>
-  </evento>
-  <evento>
-    <nombre>Jamtland –  Sloga Uppsala</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Basketligan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:04</hora>
-    <url>https://livetv.sx/es/eventinfo/338560021_jamtland_sloga_uppsala/</url>
-  </evento>
-  <evento>
-    <nombre>Naessjoe –  Soedertalje</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Basketligan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:04</hora>
-    <url>https://livetv.sx/es/eventinfo/338560022_naessjoe_soedertalje/</url>
-  </evento>
-  <evento>
     <nombre>Olimpija –  Salzburgo</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Austria. Eishockey-Liga</competicion>
@@ -615,6 +183,14 @@
     <fecha>30 de enero</fecha>
     <hora>20:15</hora>
     <url>https://livetv.sx/es/eventinfo/334795231_viena_innsbruck/</url>
+  </evento>
+  <evento>
+    <nombre>AS Mónaco –  Virtus Bolonia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Euroliga</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/334796080_as_m__naco_virtus_bolonia/</url>
   </evento>
   <evento>
     <nombre>Stade Ls Ouchy –  Vaduz</nombre>
@@ -1201,6 +777,14 @@
     <url>https://livetv.sx/es/eventinfo/334812928_stavanger_storhamar/</url>
   </evento>
   <evento>
+    <nombre>San Quintín –  Limoges</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. LNB Pro A</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/334814240_san_quint__n_limoges/</url>
+  </evento>
+  <evento>
     <nombre>ASA –  Quimper</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Francia. LNB Pro B</competicion>
@@ -1321,12 +905,124 @@
     <url>https://livetv.sx/es/eventinfo/338906259_patrick_kypson_colton_smith/</url>
   </evento>
   <evento>
-    <nombre>Clermont – Reims</nombre>
+    <nombre>St Johnstone –  Partick Thistle</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Escocia. Championship</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/334822747_st_johnstone_partick_thistle/</url>
+  </evento>
+  <evento>
+    <nombre>VL Pésaro –  Brindisi</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie A2</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/334819553_vl_p__saro_brindisi/</url>
+  </evento>
+  <evento>
+    <nombre>Yverdon (W) –  Lausanne (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. Mujeres. NLB</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/338022875_yverdon_w_lausanne_w/</url>
+  </evento>
+  <evento>
+    <nombre>Bristol City –  Derby County</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Championship</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/334818471_bristol_city_derby_county/</url>
+  </evento>
+  <evento>
+    <nombre>Farmers Insurance Open</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>PGA Tour</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337999510_farmers_insurance_open/</url>
+  </evento>
+  <evento>
+    <nombre>Louisiana Monroe Warhawks –  Georgia Southern Eagles</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/334592237_louisiana_monroe_warhawks_georgia_southern_eagles/</url>
+  </evento>
+  <evento>
+    <nombre>Biarritz Olympique –  Grenoble</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Pro D2</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337819539_biarritz_olympique_grenoble/</url>
+  </evento>
+  <evento>
+    <nombre>Bogotá –  Internacional Palmira</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Colombia. Primera B</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/336910501_bogot___internacional_palmira/</url>
+  </evento>
+  <evento>
+    <nombre>Atlético Cali –  Barranquilla</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Colombia. Primera B</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/336910502_atl__tico_cali_barranquilla/</url>
+  </evento>
+  <evento>
+    <nombre>Marseille (M) –   París (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Mujeres. División 1</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/338866832__marseille_m__par__s_m/</url>
+  </evento>
+  <evento>
+    <nombre>Barbados U17 (M) –  Guadalupe U17 (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Campeonato Sub-17 de la Concacaf</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337340178_barbados_u17_m_guadalupe_u17_w/</url>
+  </evento>
+  <evento>
+    <nombre>Carou / Vallejo –  Alves / Pucinelli De Almeida</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Doubles</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/338704337_carou__vallejo_alves__pucinelli_de_almeida/</url>
+  </evento>
+  <evento>
+    <nombre>Tabilo / Matta –  Zeballos / Soto</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Doubles</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/338704341_tabilo__matta_zeballos__soto/</url>
+  </evento>
+  <evento>
+    <nombre>Cajamarca –  Atlético Grau</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Perú. Liga 1</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>22:15</hora>
+    <url>https://livetv.sx/es/eventinfo/334829402_cajamarca_atl__tico_grau/</url>
+  </evento>
+  <evento>
+    <nombre>Bastia – Nancy</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Francia. Ligue 2</competicion>
     <fecha>30 de enero</fecha>
     <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334806406__/</url>
+    <url>https://livetv.sx/es/eventinfo/334806407__/</url>
   </evento>
   <evento>
     <nombre>NAC Breda – Twente</nombre>
@@ -1399,62 +1095,6 @@
     <fecha>31 de enero</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/334899881__/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Kholood – Al-Nassr</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Arabia Saudita. Liga Pro</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/334785170__/</url>
-  </evento>
-  <evento>
-    <nombre>Núremberg – Preussen Muenster</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 2 Bundesliga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/334782378__/</url>
-  </evento>
-  <evento>
-    <nombre>Magdeburgo – Hannover 96</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 2 Bundesliga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/334782379__/</url>
-  </evento>
-  <evento>
-    <nombre>Al Mokawloon – National Bank</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Egipto. Premier League</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334789154__/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Ittihad – Haras El Hodood</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Egipto. Premier League</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334789155__/</url>
-  </evento>
-  <evento>
-    <nombre>Havelse – Erzgebirge Aue</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 3 Bundesliga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334788918__/</url>
-  </evento>
-  <evento>
-    <nombre>Dinamo de Bucarest – Petrolul</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rumania. Liga 1</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334791662__/</url>
   </evento>
   <evento>
     <nombre>Versailles – Caen</nombre>
@@ -1553,12 +1193,12 @@
     <url>https://livetv.sx/es/eventinfo/334765372__/</url>
   </evento>
   <evento>
-    <nombre>Bastia – Nancy</nombre>
+    <nombre>Clermont – Reims</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Francia. Ligue 2</competicion>
     <fecha>30 de enero</fecha>
     <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334806407__/</url>
+    <url>https://livetv.sx/es/eventinfo/334806406__/</url>
   </evento>
   <evento>
     <nombre>Rodez – Red Star</nombre>
@@ -5305,212 +4945,68 @@
     <url>https://livetv.sx/es/eventinfo/335521315__/</url>
   </evento>
   <evento>
-    <nombre>Lukko – HIFK</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Finlandia. Liiga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/334785556__/</url>
+    <nombre>Sao Joseense – Londrina</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Campeonato Paranaense</competicion>
+    <fecha>1 de febrero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/338166327__/</url>
   </evento>
   <evento>
-    <nombre>Troja/Ljungby – Karlskoga</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792543__/</url>
+    <nombre>MC Alger – Saint-Éloi Lupopo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga de Campeones de la CAF</competicion>
+    <fecha>1 de febrero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/334765371__/</url>
   </evento>
   <evento>
-    <nombre>Nybro Vikings – Sodertalje</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792544__/</url>
+    <nombre>Atl Bucaramanga – Alianza Valledupar</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Colombia. Primera A</competicion>
+    <fecha>1 de febrero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/335575451__/</url>
   </evento>
   <evento>
-    <nombre>Bjorkloven – Mora</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792545__/</url>
+    <nombre>Oeste – Juventus SP</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Campeonato Paulista 2</competicion>
+    <fecha>1 de febrero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/335574449__/</url>
   </evento>
   <evento>
-    <nombre>Oskarshamn – Oestersund</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792546__/</url>
+    <nombre>Flamengo-RJ – Corinthians</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Supercopa</competicion>
+    <fecha>1 de febrero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/335574512__/</url>
   </evento>
   <evento>
-    <nombre>Vasteras – Kalmar</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792547__/</url>
+    <nombre>AEK – Olympiakos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Grecia. Super League</competicion>
+    <fecha>1 de febrero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/335574774__/</url>
   </evento>
   <evento>
-    <nombre>MODO – Vimmerby</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792548__/</url>
+    <nombre>Foggia – Audace Ceriñola</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie C. Grupo C</competicion>
+    <fecha>1 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/335584542__/</url>
   </evento>
   <evento>
-    <nombre>AIK – Almtuna</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792549__/</url>
-  </evento>
-  <evento>
-    <nombre>Esbjerg Energy – Aalborg</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Dinamarca. Metal Ligaen</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334789067__/</url>
-  </evento>
-  <evento>
-    <nombre>Chicago – Columbus</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>31 de enero</fecha>
-    <hora>03:30</hora>
-    <url>https://livetv.sx/es/eventinfo/334908460__/</url>
-  </evento>
-  <evento>
-    <nombre>Kiekko-Espoo Sub-20 –  Lukko Sub-20</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:10</hora>
-    <url>https://livetv.sx/es/eventinfo/338264874__/</url>
-  </evento>
-  <evento>
-    <nombre>Katowice – Unia Oswiecim</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Polonia. PLH</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/334784825__/</url>
-  </evento>
-  <evento>
-    <nombre>Graz – Pioneers Vorarlberg</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/334781754__/</url>
-  </evento>
-  <evento>
-    <nombre>Valerenga – Stjernen</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Noruega. Eliteserien</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334790931__/</url>
-  </evento>
-  <evento>
-    <nombre>Lillehammer – Narvik</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Noruega. Eliteserien</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334790932__/</url>
-  </evento>
-  <evento>
-    <nombre>Loerenskog – Nidaros</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Noruega. Eliteserien</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334790933__/</url>
-  </evento>
-  <evento>
-    <nombre>Sudáfrica U18 (W) – Bélgica U18 (M)</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Mujeres. Campeonato mundial Sub-18. Div II B</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337985051_south_africa_u18_w_belgium_u18_w/</url>
-  </evento>
-  <evento>
-    <nombre>Zaglebie Sosnowiec – Tychy</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Polonia. PLH</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334791352__/</url>
-  </evento>
-  <evento>
-    <nombre>Odense – Herlev</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Dinamarca. Metal Ligaen</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334789065__/</url>
-  </evento>
-  <evento>
-    <nombre>SonderjyskE – Rungsted</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Dinamarca. Metal Ligaen</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334789066__/</url>
-  </evento>
-  <evento>
-    <nombre>Graestorp – Visby Roma</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792668__/</url>
-  </evento>
-  <evento>
-    <nombre>Grums – Dalen</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792669__/</url>
-  </evento>
-  <evento>
-    <nombre>Vasterviks – Mariestad BoIS</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792670__/</url>
-  </evento>
-  <evento>
-    <nombre>Tyringe – Karlskrona HK</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792671__/</url>
-  </evento>
-  <evento>
-    <nombre>Olimpija – Salzburgo</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/334795230__/</url>
-  </evento>
-  <evento>
-    <nombre>Viena – Innsbruck</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:15</hora>
-    <url>https://livetv.sx/es/eventinfo/334795231__/</url>
+    <nombre>Salernitana – Giugliano</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie C. Grupo C</competicion>
+    <fecha>1 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/335584543__/</url>
   </evento>
   <evento>
     <nombre>Frederikshavn – Herning Blue Fox</nombre>
@@ -5519,14 +5015,6 @@
     <fecha>30 de enero</fecha>
     <hora>20:30</hora>
     <url>https://livetv.sx/es/eventinfo/334796027__/</url>
-  </evento>
-  <evento>
-    <nombre>Pustertal Wolfe – Villach</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Austria. Eishockey-Liga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/334802505__/</url>
   </evento>
   <evento>
     <nombre>Davos – Berna</nombre>
@@ -5569,6 +5057,62 @@
     <url>https://livetv.sx/es/eventinfo/334806733__/</url>
   </evento>
   <evento>
+    <nombre>Brianzón – Marsella</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Francia. Ligue Magnus</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/334806437__/</url>
+  </evento>
+  <evento>
+    <nombre>Ruan – Niza</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Francia. Ligue Magnus</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/334806438__/</url>
+  </evento>
+  <evento>
+    <nombre>Chamonix – Gap</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Francia. Ligue Magnus</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>21:05</hora>
+    <url>https://livetv.sx/es/eventinfo/334814194__/</url>
+  </evento>
+  <evento>
+    <nombre>Chicago – Columbus</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>31 de enero</fecha>
+    <hora>03:30</hora>
+    <url>https://livetv.sx/es/eventinfo/334908460__/</url>
+  </evento>
+  <evento>
+    <nombre>Olimpija – Salzburgo</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Austria. Eishockey-Liga</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>20:15</hora>
+    <url>https://livetv.sx/es/eventinfo/334795230__/</url>
+  </evento>
+  <evento>
+    <nombre>Viena – Innsbruck</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Austria. Eishockey-Liga</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>20:15</hora>
+    <url>https://livetv.sx/es/eventinfo/334795231__/</url>
+  </evento>
+  <evento>
+    <nombre>Pustertal Wolfe – Villach</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Austria. Eishockey-Liga</competicion>
+    <fecha>30 de enero</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/334802505__/</url>
+  </evento>
+  <evento>
     <nombre>Olten – EHC Basilea</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suiza. Swiss League</competicion>
@@ -5593,22 +5137,6 @@
     <url>https://livetv.sx/es/eventinfo/334803075__/</url>
   </evento>
   <evento>
-    <nombre>Brianzón – Marsella</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Francia. Ligue Magnus</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334806437__/</url>
-  </evento>
-  <evento>
-    <nombre>Ruan – Niza</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Francia. Ligue Magnus</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334806438__/</url>
-  </evento>
-  <evento>
     <nombre>GCK Lions – Winterthur</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suiza. Swiss League</competicion>
@@ -5623,14 +5151,6 @@
     <fecha>30 de enero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/334806771__/</url>
-  </evento>
-  <evento>
-    <nombre>Chamonix – Gap</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Francia. Ligue Magnus</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>21:05</hora>
-    <url>https://livetv.sx/es/eventinfo/334814194__/</url>
   </evento>
   <evento>
     <nombre>Bellinzona Snakes – Visp</nombre>
@@ -8793,46 +8313,6 @@
     <url>https://livetv.sx/es/eventinfo/334884738__/</url>
   </evento>
   <evento>
-    <nombre>Talsi – Ventspils</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/339003643__/</url>
-  </evento>
-  <evento>
-    <nombre>Livani – Gulbenes Buki</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/339003644__/</url>
-  </evento>
-  <evento>
-    <nombre>Luleaa – Upsala</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Suecia. Basketligan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:04</hora>
-    <url>https://livetv.sx/es/eventinfo/338560020__/</url>
-  </evento>
-  <evento>
-    <nombre>Jamtland – Sloga Uppsala</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Suecia. Basketligan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:04</hora>
-    <url>https://livetv.sx/es/eventinfo/338560021__/</url>
-  </evento>
-  <evento>
-    <nombre>Naessjoe – Soedertalje</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Suecia. Basketligan</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:04</hora>
-    <url>https://livetv.sx/es/eventinfo/338560022__/</url>
-  </evento>
-  <evento>
     <nombre>Montpellier (M) – Chartres (W)</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Francia. Mujeres. LFB</competicion>
@@ -8943,14 +8423,6 @@
     <fecha>30 de enero</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/338022869_arlesheim_w_winterthur_w/</url>
-  </evento>
-  <evento>
-    <nombre>Yverdon (W) – Lausanne (W)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Suiza. Mujeres. NLB</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>21:45</hora>
-    <url>https://livetv.sx/es/eventinfo/338022875_yverdon_w_lausanne_w/</url>
   </evento>
   <evento>
     <nombre>VL Pésaro – Brindisi</nombre>
@@ -12673,6 +12145,62 @@
     <url>https://livetv.sx/es/eventinfo/339057230_donji_vakuf_siroki_brijeg/</url>
   </evento>
   <evento>
+    <nombre>Varese – Reggiana</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Italia. Lega Basket</competicion>
+    <fecha>1 de febrero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/335538067__/</url>
+  </evento>
+  <evento>
+    <nombre>Patrioti Levice – Nitra Blue Wings</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Eslovaquia. Extraliga</competicion>
+    <fecha>1 de febrero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/335540390__/</url>
+  </evento>
+  <evento>
+    <nombre>Marsonia – Kastela</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Croacia. Prva Liga</competicion>
+    <fecha>1 de febrero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/338021549_marsonia_kastela/</url>
+  </evento>
+  <evento>
+    <nombre>Duquesne Dukes – Rhode Island Rams</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>1 de febrero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/335539381__/</url>
+  </evento>
+  <evento>
+    <nombre>Bayern de Múnich – Ulm</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>1 de febrero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/335537601__/</url>
+  </evento>
+  <evento>
+    <nombre>Ústí nad Labem – Sokol Pisek</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>República Checa. NBL</competicion>
+    <fecha>1 de febrero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/335540955__/</url>
+  </evento>
+  <evento>
+    <nombre>Steaua Bucuresti – Timisoara</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Rumania. Liga Nationala</competicion>
+    <fecha>1 de febrero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/338021085_steaua_bucuresti_timisoara/</url>
+  </evento>
+  <evento>
     <nombre>Carballés Baena / Barroso-Campo – Lammons / Withrow</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Quimper. Doubles</competicion>
@@ -12687,30 +12215,6 @@
     <fecha>31 de enero</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/338751685__/</url>
-  </evento>
-  <evento>
-    <nombre>Kestelboim / Zormann – Villanueva / Dos Santos</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Concepcion. Doubles</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/338972288__/</url>
-  </evento>
-  <evento>
-    <nombre>Tseng Chun-hsin – Marco Cecchinato</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Concepcion</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/338830015__/</url>
-  </evento>
-  <evento>
-    <nombre>Sascha Gueymard Wayenburg – Benjamin Bonzi</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Quimper</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>17:30</hora>
-    <url>https://livetv.sx/es/eventinfo/338807420__/</url>
   </evento>
   <evento>
     <nombre>Alejandro Tabilo – Lautaro Midon</nombre>
@@ -12847,30 +12351,6 @@
     <fecha>31 de enero</fecha>
     <hora>10:30</hora>
     <url>https://livetv.sx/es/eventinfo/338779969__/</url>
-  </evento>
-  <evento>
-    <nombre>Levski Sofia – Deya Sport</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Bulgaria. Superliga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/338867174__/</url>
-  </evento>
-  <evento>
-    <nombre>Jedinstvo Uzice (M) –  Jedinstvo (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Serbia. Mujeres. Super Liga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/339027007__/</url>
-  </evento>
-  <evento>
-    <nombre>Spartak Subotica – Jedinstvo</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Serbia. Superliga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334778847__/</url>
   </evento>
   <evento>
     <nombre>St Poelten – Sokol Wien</nombre>
@@ -14223,22 +13703,6 @@
     <fecha>1 de febrero</fecha>
     <hora>20:30</hora>
     <url>https://livetv.sx/es/eventinfo/339017082__/</url>
-  </evento>
-  <evento>
-    <nombre>Jugovic – Voivodina</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Serbia. Superliga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/339016531__/</url>
-  </evento>
-  <evento>
-    <nombre>Nove Veseli – Pilsen</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>República Checa. Extraliga</competicion>
-    <fecha>30 de enero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/334792420__/</url>
   </evento>
   <evento>
     <nombre>Dinamarca – Islandia</nombre>
