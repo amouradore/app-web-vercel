@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2026-02-03 23:35:32" total="40">
+<eventos generado="2026-02-04 00:01:39" total="40">
   <evento id="1">
     <nombre>Banfield –  Rio Cuarto</nombre>
     <deporte>Hockey</deporte>
@@ -58,14 +58,7 @@ player/live.php?id=247991&amp;w=700&amp;h=480</url>
     <hora>00:00</hora>
     <url>https://livetv.sx/es/eventinfo/337230608_maranguape_tirolcefat/</url>
     <datetime_iso>2026-02-03T00:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/0KKxU7bFDyE?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=0KKxU7bFDyE&amp;lang=es&amp;eid=337230608&amp;lid=2945009&amp;ci=1750&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="3">
     <nombre>Franca –  Paulistano</nombre>
@@ -163,7 +156,14 @@ player/live.php?id=247991&amp;w=700&amp;h=480</url>
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/339819173_comercial_rp_penapolense/</url>
     <datetime_iso>2026-02-03T01:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/SIYl3e9CbWk?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=youtube&amp;c=SIYl3e9CbWk&amp;lang=es&amp;eid=339819173&amp;lid=2945025&amp;ci=7303&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="10">
     <nombre>Juan Manuel La Serna –  Renzo Olivo</nombre>
@@ -190,7 +190,14 @@ player/live.php?id=247991&amp;w=700&amp;h=480</url>
     <hora>01:10</hora>
     <url>https://livetv.sx/es/eventinfo/339369059_cannon_kingsley_colton_smith/</url>
     <datetime_iso>2026-02-03T01:10:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://dovkembed.pw/channel/bet11951408</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2945012&amp;lang=es&amp;eid=339369059&amp;lid=2945012&amp;ci=3646&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="12">
     <nombre>Brasilia –  Uniao Corinthians</nombre>
@@ -200,14 +207,7 @@ player/live.php?id=247991&amp;w=700&amp;h=480</url>
     <hora>01:15</hora>
     <url>https://livetv.sx/es/eventinfo/336199987_brasilia_uniao_corinthians/</url>
     <datetime_iso>2026-02-03T01:15:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://dovkembed.pw/channel/bet11740915</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2945029&amp;lang=es&amp;eid=336199987&amp;lid=2945029&amp;ci=2373&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="13">
     <nombre>Raphael Perot –  Jay Dylan Hara Friend</nombre>
@@ -217,14 +217,7 @@ player/live.php?id=247991&amp;w=700&amp;h=480</url>
     <hora>01:15</hora>
     <url>https://livetv.sx/es/eventinfo/339548214_raphael_perot_jay_dylan_hara_friend/</url>
     <datetime_iso>2026-02-03T01:15:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://dovkembed.pw/channel/bet11955685</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2945011&amp;lang=es&amp;eid=339548214&amp;lid=2945011&amp;ci=3646&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="14">
     <nombre>ATP Challenger. Cleveland</nombre>
@@ -236,16 +229,16 @@ player/live.php?id=247991&amp;w=700&amp;h=480</url>
     <datetime_iso>2026-02-03T17:00:00</datetime_iso>
     <streams total="4">
       <stream id="1">
-        <url>https://dovkembed.pw/channel/bet11951408</url>
+        <url>https://dovkembed.pw/channel/bet11955685</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2945012&amp;lang=es&amp;eid=339393875&amp;lid=2945012&amp;ci=3646&amp;si=4</enlace_original>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2945011&amp;lang=es&amp;eid=339393875&amp;lid=2945011&amp;ci=3646&amp;si=4</enlace_original>
       </stream>
       <stream id="2">
-        <url>https://dovkembed.pw/channel/bet11951418</url>
+        <url>https://dovkembed.pw/channel/bet11967770</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2944866&amp;lang=es&amp;eid=339393875&amp;lid=2944866&amp;ci=3646&amp;si=4</enlace_original>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2944911&amp;lang=es&amp;eid=339393875&amp;lid=2944911&amp;ci=3646&amp;si=4</enlace_original>
       </stream>
       <stream id="3">
         <url>https://dovkembed.pw/channel/bet11967869</url>
@@ -254,10 +247,10 @@ player/live.php?id=247991&amp;w=700&amp;h=480</url>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2945000&amp;lang=es&amp;eid=339393875&amp;lid=2945000&amp;ci=3646&amp;si=4</enlace_original>
       </stream>
       <stream id="4">
-        <url>https://dovkembed.pw/channel/bet11967770</url>
+        <url>https://dovkembed.pw/channel/bet11951408</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2944911&amp;lang=es&amp;eid=339393875&amp;lid=2944911&amp;ci=3646&amp;si=4</enlace_original>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2945012&amp;lang=es&amp;eid=339393875&amp;lid=2945012&amp;ci=3646&amp;si=4</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -286,32 +279,7 @@ player/live.php?id=247991&amp;w=700&amp;h=480</url>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/339394013_atp_challenger_rosario/</url>
     <datetime_iso>2026-02-03T20:00:00</datetime_iso>
-    <streams total="4">
-      <stream id="1">
-        <url>https://dovkembed.pw/channel/bet11967998</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2945002&amp;lang=es&amp;eid=339394013&amp;lid=2945002&amp;ci=8115&amp;si=4</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://dovkembed.pw/channel/bet11950326</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2944901&amp;lang=es&amp;eid=339394013&amp;lid=2944901&amp;ci=8115&amp;si=4</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://dovkembed.pw/channel/bet11950324</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2945001&amp;lang=es&amp;eid=339394013&amp;lid=2945001&amp;ci=8115&amp;si=4</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://dovkembed.pw/channel/bet11967995</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2944904&amp;lang=es&amp;eid=339394013&amp;lid=2944904&amp;ci=8115&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="17">
     <nombre>Radu Albot – Cyril Vandermeersch</nombre>
@@ -331,14 +299,7 @@ player/live.php?id=247991&amp;w=700&amp;h=480</url>
     <hora>20:50</hora>
     <url>https://livetv.sx/es/eventinfo/339057310__szabo_m___bertea_m__en_shuo_m___chong_m/</url>
     <datetime_iso>2026-02-03T20:50:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://dovkembed.pw/channel/bet11939241</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2944899&amp;lang=es&amp;eid=339057310&amp;lid=2944899&amp;ci=4077&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="19">
     <nombre>Szabo (M) /  Bertea (M) –  En-shuo (M) /  Chong (M)</nombre>
@@ -368,14 +329,7 @@ player/live.php?id=247991&amp;w=700&amp;h=480</url>
     <hora>21:05</hora>
     <url>https://livetv.sx/es/eventinfo/339890560_quinn_vandecasteele_murphy_cassone/</url>
     <datetime_iso>2026-02-03T21:05:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://dovkembed.pw/channel/bet11967919</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2944912&amp;lang=es&amp;eid=339890560&amp;lid=2944912&amp;ci=3646&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="22">
     <nombre>Quinn Vandecasteele – Murphy Cassone</nombre>
@@ -395,20 +349,7 @@ player/live.php?id=247991&amp;w=700&amp;h=480</url>
     <hora>21:05</hora>
     <url>https://livetv.sx/es/eventinfo/339749727__/</url>
     <datetime_iso>2026-02-03T21:05:00</datetime_iso>
-    <streams total="2">
-      <stream id="1">
-        <url>https://dovkembed.pw/channel/bet11961922</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2944919&amp;lang=es&amp;eid=339749727&amp;lid=2944919&amp;ci=3404&amp;si=4</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://wikisport.wiki/court/t6.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2943746&amp;lang=es&amp;eid=339749727&amp;lid=2943746&amp;ci=3404&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="24">
     <nombre>Molleker / Squire –  Duda / Latinovic</nombre>
@@ -445,7 +386,14 @@ player/live.php?id=247991&amp;w=700&amp;h=480</url>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/339576226__/</url>
     <datetime_iso>2026-02-03T21:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://dovkembed.pw/channel/bet11950330</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2944938&amp;lang=es&amp;eid=339576226&amp;lid=2944938&amp;ci=8115&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="27">
     <nombre>Molleker / Squire – Duda / Latinovic</nombre>
@@ -482,14 +430,7 @@ player/live.php?id=247991&amp;w=700&amp;h=480</url>
     <hora>22:20</hora>
     <url>https://livetv.sx/es/eventinfo/339557819_oleg_prihodko_federico_bondioli/</url>
     <datetime_iso>2026-02-03T22:20:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://dovkembed.pw/channel/bet11949397</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2944925&amp;lang=es&amp;eid=339557819&amp;lid=2944925&amp;ci=8740&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="30">
     <nombre>Sho Shimabukuro – Dan Martin</nombre>
@@ -516,14 +457,7 @@ player/live.php?id=247991&amp;w=700&amp;h=480</url>
     <hora>22:20</hora>
     <url>https://livetv.sx/es/eventinfo/339557819__/</url>
     <datetime_iso>2026-02-03T22:20:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://dovkembed.pw/channel/bet11949397</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2944925&amp;lang=es&amp;eid=339557819&amp;lid=2944925&amp;ci=8740&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="32">
     <nombre>Andrea Vavassori –  Ugo Blanchet</nombre>
@@ -572,16 +506,16 @@ player/live.php?id=247767&amp;w=700&amp;h=480</url>
         <enlace_original>https://cdn.livetv872.me/webplayer2.php?t=alieztv&amp;c=247767&amp;lang=es&amp;eid=339806241&amp;lid=2944019&amp;ci=3597&amp;si=4</enlace_original>
       </stream>
       <stream id="2">
-        <url>https://wikisport.wiki/court/t7.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2943935&amp;lang=es&amp;eid=339806241&amp;lid=2943935&amp;ci=3597&amp;si=4</enlace_original>
-      </stream>
-      <stream id="3">
         <url>https://wikisport.wiki/court/wik7.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2943936&amp;lang=es&amp;eid=339806241&amp;lid=2943936&amp;ci=3597&amp;si=4</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://wikisport.wiki/court/t7.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2943935&amp;lang=es&amp;eid=339806241&amp;lid=2943935&amp;ci=3597&amp;si=4</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -610,14 +544,7 @@ player/live.php?id=247767&amp;w=700&amp;h=480</url>
     <hora>22:45</hora>
     <url>https://livetv.sx/es/eventinfo/339890612__/</url>
     <datetime_iso>2026-02-03T22:45:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://dovkembed.pw/channel/bet11968030</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2944937&amp;lang=es&amp;eid=339890612&amp;lid=2944937&amp;ci=8115&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="36">
     <nombre>Diriangen –  Walter Ferretti</nombre>
@@ -637,14 +564,7 @@ player/live.php?id=247767&amp;w=700&amp;h=480</url>
     <hora>23:25</hora>
     <url>https://livetv.sx/es/eventinfo/339576224_juan_manuel_cerundolo_gonzalo_villanueva/</url>
     <datetime_iso>2026-02-03T23:25:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://dovkembed.pw/channel/bet11950328</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2944933&amp;lang=es&amp;eid=339576224&amp;lid=2944933&amp;ci=8115&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="38">
     <nombre>Juan Manuel Cerundolo – Gonzalo Villanueva</nombre>
@@ -688,6 +608,13 @@ player/live.php?id=247767&amp;w=700&amp;h=480</url>
     <hora>23:40</hora>
     <url>https://livetv.sx/es/eventinfo/339890563__/</url>
     <datetime_iso>2026-02-03T23:40:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://dovkembed.pw/channel/bet11967869</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv872.me/webplayer.php?t=ifr&amp;c=2945000&amp;lang=es&amp;eid=339890563&amp;lid=2945000&amp;ci=3646&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
 </eventos>
