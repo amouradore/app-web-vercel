@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-02-06 19:02:58" total="2171">
-  <evento>
-    <nombre>Bor Artnak –  Yanki Erel</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa Davis</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340625878_bor_artnak_yanki_erel/</url>
-  </evento>
-  <evento>
-    <nombre>Leandro Riedi –  Alaa Trifi</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa Davis</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340636942_leandro_riedi_alaa_trifi/</url>
-  </evento>
+<eventos generado="2026-02-06 19:46:03" total="2173">
   <evento>
     <nombre>Roberto Cid Subervi –  Karlis Ozolins</nombre>
     <deporte>Fútbol</deporte>
@@ -23,14 +7,6 @@
     <fecha>6 de febrero</fecha>
     <hora>17:15</hora>
     <url>https://livetv.sx/es/eventinfo/340648591_roberto_cid_subervi_karlis_ozolins/</url>
-  </evento>
-  <evento>
-    <nombre>Anadolu Efes –  Zalgiris</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Euroliga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>76:72</hora>
-    <url>https://livetv.sx/es/eventinfo/337004177_anadolu_efes_zalgiris/</url>
   </evento>
   <evento>
     <nombre>Nick Hardt –  Robert Strombachs</nombre>
@@ -45,7 +21,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Dinamarca. Handboldligaen</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>17:16</hora>
+    <hora>27:27</hora>
     <url>https://livetv.sx/es/eventinfo/337010352_bjerringbro_silkeborg_tms_ringsted/</url>
   </evento>
   <evento>
@@ -61,7 +37,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Euroliga</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>21:00</hora>
+    <hora>37:45</hora>
     <url>https://livetv.sx/es/eventinfo/337024467_estrella_roja_maccabi_t_a/</url>
   </evento>
   <evento>
@@ -69,7 +45,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Euroliga</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>21:00</hora>
+    <hora>35:40</hora>
     <url>https://livetv.sx/es/eventinfo/337024468_asvel_mil__n/</url>
   </evento>
   <evento>
@@ -85,7 +61,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Dinamarca. Handboldligaen</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>21:00</hora>
+    <hora>11:14</hora>
     <url>https://livetv.sx/es/eventinfo/337024414_mors_thy_skanderborg_aarhus/</url>
   </evento>
   <evento>
@@ -93,16 +69,64 @@
     <deporte>Fútbol</deporte>
     <competicion>Euroliga</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>21:15</hora>
+    <hora>36:27</hora>
     <url>https://livetv.sx/es/eventinfo/337032258_olympiacos_virtus_bolonia/</url>
   </evento>
   <evento>
-    <nombre>Europe TOP 16</nombre>
+    <nombre>Leganés –  Granada</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Campeonato Europeo</competicion>
+    <competicion>España. Segunda División</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>11:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340842159_europe_top_16/</url>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/337032521_legan__s_granada/</url>
+  </evento>
+  <evento>
+    <nombre>Union Berlín –  Eintracht</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/337032089_union_berl__n_eintracht/</url>
+  </evento>
+  <evento>
+    <nombre>Baskonia –  Barcelona</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Euroliga</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/337032259_baskonia_barcelona/</url>
+  </evento>
+  <evento>
+    <nombre>JL Bourg –  Boulazac</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. LNB Pro A</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>13:11</hora>
+    <url>https://livetv.sx/es/eventinfo/337035195_jl_bourg_boulazac/</url>
+  </evento>
+  <evento>
+    <nombre>Hellas Verona –  Pisa</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie A</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/337040702_hellas_verona_pisa/</url>
+  </evento>
+  <evento>
+    <nombre>Metz –  Lille</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 1</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/337043168_metz_lille/</url>
+  </evento>
+  <evento>
+    <nombre>Westerlo –  Sint-Truidense</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Pro League</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/337271196_westerlo_sint_truidense/</url>
   </evento>
   <evento>
     <nombre>ATP Challenger. Tenerife</nombre>
@@ -151,30 +175,6 @@
     <fecha>6 de febrero</fecha>
     <hora>15:40</hora>
     <url>https://livetv.sx/es/eventinfo/339198371_atp_montpellier/</url>
-  </evento>
-  <evento>
-    <nombre>Vera Zvonareva (M) –   Shuai Zhang (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Doha. Clasificatoria</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>16:40</hora>
-    <url>https://livetv.sx/es/eventinfo/340635318__vera_zvonareva_m__shuai_zhang_m/</url>
-  </evento>
-  <evento>
-    <nombre>Duncan / Mackinlay –  Puttergill / Goldhoff</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Doubles</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340762326_duncan__mackinlay_puttergill__goldhoff/</url>
-  </evento>
-  <evento>
-    <nombre>Masur / Geerts –  Duda / Latinovic</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Doubles</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340684923_masur__geerts_duda__latinovic/</url>
   </evento>
   <evento>
     <nombre>Katie Volynets (M) –   Katie Boulter (M)</nombre>
@@ -249,188 +249,12 @@
     <url>https://livetv.sx/es/eventinfo/340646938_martin_damm_luca_nardi/</url>
   </evento>
   <evento>
-    <nombre>Kisvarda –  Kazincbarcika</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Hungría. NB I</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>18:45</hora>
-    <url>https://livetv.sx/es/eventinfo/336997809_kisvarda_kazincbarcika/</url>
-  </evento>
-  <evento>
-    <nombre>Qatar SC –  Al-Rayyan</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Qatar. Stars League</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>18:45</hora>
-    <url>https://livetv.sx/es/eventinfo/336992722_qatar_sc_al_rayyan/</url>
-  </evento>
-  <evento>
     <nombre>Sara Bejlek (M) –   Clara Tauson (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>WTA. Abu Dhabi</competicion>
     <fecha>6 de febrero</fecha>
     <hora>18:50</hora>
     <url>https://livetv.sx/es/eventinfo/340594203__sara_bejlek_m__clara_tauson_m/</url>
-  </evento>
-  <evento>
-    <nombre>Korona Kielce –  Zaglebie Lubin</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Polonia. Ekstraklasa</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337000092_korona_kielce_zaglebie_lubin/</url>
-  </evento>
-  <evento>
-    <nombre>Lokomotiva –  Gorica</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Croacia. HNL</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337306008_lokomotiva_gorica/</url>
-  </evento>
-  <evento>
-    <nombre>Letonia –  Eslovenia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Campeonato mundial</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/339754789_letonia_eslovenia/</url>
-  </evento>
-  <evento>
-    <nombre>Zrinjski –  Sloga Doboj</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Premijer liga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337302482_zrinjski_sloga_doboj/</url>
-  </evento>
-  <evento>
-    <nombre>Odra Opole –  Pogon Siedlce</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Polonia. I Liga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337000012_odra_opole_pogon_siedlce/</url>
-  </evento>
-  <evento>
-    <nombre>Academic Plovdiv –  Spartak Pleven</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bulgaria. NBL</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/336997609_academic_plovdiv_spartak_pleven/</url>
-  </evento>
-  <evento>
-    <nombre>Zvolen –  Trencin</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Eslovaquia. Extraliga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337000520_zvolen_trencin/</url>
-  </evento>
-  <evento>
-    <nombre>Presov –  Zilina</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Eslovaquia. Extraliga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337000521_presov_zilina/</url>
-  </evento>
-  <evento>
-    <nombre>Poprad –  Banska Bystrica</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Eslovaquia. Extraliga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337000522_poprad_banska_bystrica/</url>
-  </evento>
-  <evento>
-    <nombre>Gorenje Velenje –  Skofljica</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Eslovenia. 1. NLB</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337000523_gorenje_velenje_skofljica/</url>
-  </evento>
-  <evento>
-    <nombre>USK Praga (M) –   DSK Brandys (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>República Checa. Mujeres. ZBL</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337001074__usk_praga_m__dsk_brandys_m/</url>
-  </evento>
-  <evento>
-    <nombre>Jamaica U17 –  Aruba U17</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Campeonato Sub-17 de la Concacaf</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340286692_jamaica_u17_aruba_u17/</url>
-  </evento>
-  <evento>
-    <nombre>Achilleas Kaimakli –  AEK Larnaca</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Chipre. 1 División</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337303535_achilleas_kaimakli_aek_larnaca/</url>
-  </evento>
-  <evento>
-    <nombre>Slavia Praga –  Dukla Jihlava</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>República Checa. 1 Liga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/322692274_slavia_praga_dukla_jihlava/</url>
-  </evento>
-  <evento>
-    <nombre>Dunaujvaros (M) –   Vasas (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Hungría. Mujeres. NB I</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337302694__dunaujvaros_m__vasas_m/</url>
-  </evento>
-  <evento>
-    <nombre>Valmiera Glass –  Liepaja</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Latvian-Estonian League</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/336998789_valmiera_glass_liepaja/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Hala –  Al Muharraq</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bahréin. Liga Premier</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340580916_al_hala_al_muharraq/</url>
-  </evento>
-  <evento>
-    <nombre>Velke Mezirici –  Zdar nad Sazavou</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>República Checa. 2. Liga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340308413_velke_mezirici_zdar_nad_sazavou/</url>
-  </evento>
-  <evento>
-    <nombre>Estambul BB –  Buzadam</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Turquía. Superliga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/339818017_estambul_bb_buzadam/</url>
-  </evento>
-  <evento>
-    <nombre>Jadran Herceg Novi –  Radnicki</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga Regional</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340683335_jadran_herceg_novi_radnicki/</url>
   </evento>
   <evento>
     <nombre>Diane Parry (M) –   Tamara Korpatsch (M)</nombre>
@@ -497,6 +321,14 @@
     <url>https://livetv.sx/es/eventinfo/340608141_simulcast/</url>
   </evento>
   <evento>
+    <nombre>Anadolu Efes –  Zalgiris</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Euroliga</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/337004177_anadolu_efes_zalgiris/</url>
+  </evento>
+  <evento>
     <nombre>Al-Nassr –  Al-Ittihad Yeda</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Arabia Saudita. Liga Pro</competicion>
@@ -541,7 +373,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Latvian-Estonian League</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>62:80</hora>
+    <hora>19:30</hora>
     <url>https://livetv.sx/es/eventinfo/337004900_keila_basket_vef_riga/</url>
   </evento>
   <evento>
@@ -549,7 +381,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Letonia. NBL</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>02:74</hora>
+    <hora>19:30</hora>
     <url>https://livetv.sx/es/eventinfo/340852115_salaspils_ogre/</url>
   </evento>
   <evento>
@@ -725,7 +557,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Alemania. 2 Bundesliga</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>20:24</hora>
+    <hora>30:34</hora>
     <url>https://livetv.sx/es/eventinfo/340545581_bayer_dormagen_n_luebbecke/</url>
   </evento>
   <evento>
@@ -753,14 +585,6 @@
     <url>https://livetv.sx/es/eventinfo/337013750_grums_vita_hasten/</url>
   </evento>
   <evento>
-    <nombre>Karlskrona HK –  Boraas</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337013751_karlskrona_hk_boraas/</url>
-  </evento>
-  <evento>
     <nombre>Graestorp –  Nykoeping</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Suecia. Hockeyettan. Sur</competicion>
@@ -781,7 +605,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Letonia. NBL</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>57:43</hora>
+    <hora>87:81</hora>
     <url>https://livetv.sx/es/eventinfo/340817238_limbazi_sigulda/</url>
   </evento>
   <evento>
@@ -789,7 +613,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Letonia. NBL</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>55:66</hora>
+    <hora>92:10</hora>
     <url>https://livetv.sx/es/eventinfo/340915954_jekabpils_livani/</url>
   </evento>
   <evento>
@@ -813,7 +637,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Suecia. Basketligan</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>53:39</hora>
+    <hora>05:72</hora>
     <url>https://livetv.sx/es/eventinfo/340370436_upsala_koeping/</url>
   </evento>
   <evento>
@@ -821,7 +645,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Suecia. Basketligan</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>44:38</hora>
+    <hora>65:60</hora>
     <url>https://livetv.sx/es/eventinfo/340370437_luleaa_soedertalje/</url>
   </evento>
   <evento>
@@ -829,16 +653,8 @@
     <deporte>Fútbol</deporte>
     <competicion>Suecia. Basketligan</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>54:39</hora>
+    <hora>87:68</hora>
     <url>https://livetv.sx/es/eventinfo/340370438_hoegsbo_naessjoe/</url>
-  </evento>
-  <evento>
-    <nombre>Felix Auger-Aliassime –  Arthur Fils</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP. Montpellier</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>20:05</hora>
-    <url>https://livetv.sx/es/eventinfo/340710838_felix_auger_aliassime_arthur_fils/</url>
   </evento>
   <evento>
     <nombre>Gold Madrid</nombre>
@@ -847,6 +663,14 @@
     <fecha>6 de febrero</fecha>
     <hora>20:10</hora>
     <url>https://livetv.sx/es/eventinfo/340257609_gold_madrid/</url>
+  </evento>
+  <evento>
+    <nombre>Felix Auger-Aliassime –  Arthur Fils</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP. Montpellier</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>20:10</hora>
+    <url>https://livetv.sx/es/eventinfo/340710838_felix_auger_aliassime_arthur_fils/</url>
   </evento>
   <evento>
     <nombre>Daniel Milavsky –  Joshua Sheehy</nombre>
@@ -869,7 +693,7 @@
     <deporte>Fútbol</deporte>
     <competicion>WTA. Cluj-Napoca</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>20:15</hora>
+    <hora>20:25</hora>
     <url>https://livetv.sx/es/eventinfo/340698023__sorana_cirstea_m__daria_snigur_m/</url>
   </evento>
   <evento>
@@ -957,7 +781,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Polonia. PLK</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>34:18</hora>
+    <hora>49:48</hora>
     <url>https://livetv.sx/es/eventinfo/337019210_slask_breslavia_gliwice/</url>
   </evento>
   <evento>
@@ -973,7 +797,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Alemania. 2 Bundesliga</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>10:11</hora>
+    <hora>20:18</hora>
     <url>https://livetv.sx/es/eventinfo/340545582_essen_ludwigshafen/</url>
   </evento>
   <evento>
@@ -1041,12 +865,20 @@
     <url>https://livetv.sx/es/eventinfo/340683336_sabac_estrella_roja/</url>
   </evento>
   <evento>
-    <nombre>Havlickova (M) /  Salkova (M) –   Gleason (M) /  Siskova (M)</nombre>
+    <nombre>Juan Manuel La Serna –  Hugo Dellien</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>WTA. Ostrava. Doubles</competicion>
+    <competicion>ATP Challenger. Rosario</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>20:35</hora>
-    <url>https://livetv.sx/es/eventinfo/340603828__havlickova_m___salkova_m__gleason_m___siskova_m/</url>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/340182236_juan_manuel_la_serna_hugo_dellien/</url>
+  </evento>
+  <evento>
+    <nombre>Camilo Ugo Carabelli –  Facundo Diaz Acosta</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Rosario</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/340194123_camilo_ugo_carabelli_facundo_diaz_acosta/</url>
   </evento>
   <evento>
     <nombre>ATP Challenger. Rosario</nombre>
@@ -1055,14 +887,6 @@
     <fecha>6 de febrero</fecha>
     <hora>20:40</hora>
     <url>https://livetv.sx/es/eventinfo/339394016_atp_challenger_rosario/</url>
-  </evento>
-  <evento>
-    <nombre>Colson / Loof –  Ruehl / Zahraj</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Doubles</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/340697955_colson__loof_ruehl__zahraj/</url>
   </evento>
   <evento>
     <nombre>Boulogne –  Rodez</nombre>
@@ -1111,14 +935,6 @@
     <fecha>6 de febrero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/340608201_simulcast/</url>
-  </evento>
-  <evento>
-    <nombre>Roda JC –  Den Haag</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Países Bajos. Eerste Divisie</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337026192_roda_jc_den_haag/</url>
   </evento>
   <evento>
     <nombre>TOP Oss –  Vitesse</nombre>
@@ -1197,7 +1013,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Francia. LNB Pro B</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>21:00</hora>
+    <hora>46:33</hora>
     <url>https://livetv.sx/es/eventinfo/337027404_chalons_reims_asa/</url>
   </evento>
   <evento>
@@ -1205,7 +1021,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Francia. LNB Pro B</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>21:00</hora>
+    <hora>29:39</hora>
     <url>https://livetv.sx/es/eventinfo/337027405_quimper_pau_orthez/</url>
   </evento>
   <evento>
@@ -1213,7 +1029,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Francia. LNB Pro B</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>21:00</hora>
+    <hora>37:38</hora>
     <url>https://livetv.sx/es/eventinfo/337027406_denain_challans/</url>
   </evento>
   <evento>
@@ -1269,7 +1085,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Alemania. 2 Bundesliga</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>21:00</hora>
+    <hora>13:10</hora>
     <url>https://livetv.sx/es/eventinfo/340545583_eintracht_hagen_coburg/</url>
   </evento>
   <evento>
@@ -1291,7 +1107,7 @@
   <evento>
     <nombre>Premier League</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Premier League     21:00 (PDC)</competicion>
+    <competicion>Premier League 21:00 (PDC)</competicion>
     <fecha>6 de febrero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/339754610_premier_league/</url>
@@ -1329,6 +1145,14 @@
     <url>https://livetv.sx/es/eventinfo/337027407_la_rochelle_poitiers/</url>
   </evento>
   <evento>
+    <nombre>Havlickova (M) /  Salkova (M) –   Gleason (M) /  Siskova (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>WTA. Ostrava. Doubles</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:10</hora>
+    <url>https://livetv.sx/es/eventinfo/340603828__havlickova_m___salkova_m__gleason_m___siskova_m/</url>
+  </evento>
+  <evento>
     <nombre>Vaduz –  Étoile Carouge</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Suiza. Challenge League</competicion>
@@ -1359,6 +1183,222 @@
     <fecha>6 de febrero</fecha>
     <hora>21:15</hora>
     <url>https://livetv.sx/es/eventinfo/337035151_marsella_chamonix/</url>
+  </evento>
+  <evento>
+    <nombre>Bisamberg (M) –   Eisenerz/Trofaich (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Austria. Mujeres. Bundesliga</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:25</hora>
+    <url>https://livetv.sx/es/eventinfo/340940674__bisamberg_m__eisenerztrofaich_m/</url>
+  </evento>
+  <evento>
+    <nombre>Viktor Durasovic –  Cameron Norrie</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa Davis. Clasificatoria</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:25</hora>
+    <url>https://livetv.sx/es/eventinfo/340333651_viktor_durasovic_cameron_norrie/</url>
+  </evento>
+  <evento>
+    <nombre>Lechia Gdansk –  Cracovie</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. Ekstraklasa</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/337034307_lechia_gdansk_cracovie/</url>
+  </evento>
+  <evento>
+    <nombre>Cesena –  Pescara</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie B</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/337032595_cesena_pescara/</url>
+  </evento>
+  <evento>
+    <nombre>RB Salzburgo –  Austria de Viena</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Austria. Bundesliga</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/337031377_rb_salzburgo_austria_de_viena/</url>
+  </evento>
+  <evento>
+    <nombre>Switzerland U17 –  Finlandia U17</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/339754098_switzerland_u17_finlandia_u17/</url>
+  </evento>
+  <evento>
+    <nombre>Viena –  Zadar</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga del Adriático</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/336997277_viena_zadar/</url>
+  </evento>
+  <evento>
+    <nombre>Wisla Cracovia –  GKS Tychy</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. I Liga</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/337034222_wisla_cracovia_gks_tychy/</url>
+  </evento>
+  <evento>
+    <nombre>Workington Town –  St Helens</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa Desafío</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/340931653_workington_town_st_helens/</url>
+  </evento>
+  <evento>
+    <nombre>JA Vichy –  Caen</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. LNB Pro B</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>17:20</hora>
+    <url>https://livetv.sx/es/eventinfo/337035221_ja_vichy_caen/</url>
+  </evento>
+  <evento>
+    <nombre>Saint-Chamond –  Evreux</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. LNB Pro B</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>18:14</hora>
+    <url>https://livetv.sx/es/eventinfo/337035222_saint_chamond_evreux/</url>
+  </evento>
+  <evento>
+    <nombre>Antibes –  Aix Maurienne</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. LNB Pro B</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>16:21</hora>
+    <url>https://livetv.sx/es/eventinfo/337035223_antibes_aix_maurienne/</url>
+  </evento>
+  <evento>
+    <nombre>Cergy-Pontoise –  Ruan</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue Magnus</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/337035152_cergy_pontoise_ruan/</url>
+  </evento>
+  <evento>
+    <nombre>Glasgow Clan –  Nottingham Panthers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Reino Unido. EIHL</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/337031955_glasgow_clan_nottingham_panthers/</url>
+  </evento>
+  <evento>
+    <nombre>Latina –  Cavese</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie C. Grupo C</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/337032709_latina_cavese/</url>
+  </evento>
+  <evento>
+    <nombre>Benevento –  Picerno</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie C. Grupo C</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/337032711_benevento_picerno/</url>
+  </evento>
+  <evento>
+    <nombre>Audace Ceriñola –  Salernitana</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie C. Grupo C</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/337032712_audace_ceri__ola_salernitana/</url>
+  </evento>
+  <evento>
+    <nombre>Team Altamura –  Monopoli</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie C. Grupo C</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/337032713_team_altamura_monopoli/</url>
+  </evento>
+  <evento>
+    <nombre>Catania –  Trapani</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie C. Grupo C</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/340833488_catania_trapani/</url>
+  </evento>
+  <evento>
+    <nombre>Bisamberg (W) –  Eisenerz/Trofaiach (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Austria. Mujeres. Bundesliga</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/340842055_bisamberg_w_eisenerztrofaiach_w/</url>
+  </evento>
+  <evento>
+    <nombre>Kingsley / Maginley –  Kozlov / Perez</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Doubles</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/340697943_kingsley__maginley_kozlov__perez/</url>
+  </evento>
+  <evento>
+    <nombre>Newcastle Eagles –  Olomoucko</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ENBL</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>18:18</hora>
+    <url>https://livetv.sx/es/eventinfo/340604821_newcastle_eagles_olomoucko/</url>
+  </evento>
+  <evento>
+    <nombre>Colson / Loof –  Ruehl / Zahraj</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Doubles</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/340697955_colson__loof_ruehl__zahraj/</url>
+  </evento>
+  <evento>
+    <nombre>Tallon Griekspoor –  Titouan Droguet</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP. Montpellier</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:35</hora>
+    <url>https://livetv.sx/es/eventinfo/340624255_tallon_griekspoor_titouan_droguet/</url>
+  </evento>
+  <evento>
+    <nombre>Airdrieonians –  St Mirren</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Escocia. Copa</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/337975106_airdrieonians_st_mirren/</url>
+  </evento>
+  <evento>
+    <nombre>Waterford –  Shelbourne</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irlanda. Primera División</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/337040497_waterford_shelbourne/</url>
+  </evento>
+  <evento>
+    <nombre>Galway United –  Drogheda United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irlanda. Primera División</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/337040498_galway_united_drogheda_united/</url>
   </evento>
   <evento>
     <nombre>NAC Breda – Excelsior</nombre>
@@ -1433,52 +1473,12 @@
     <url>https://livetv.sx/es/eventinfo/337103445__/</url>
   </evento>
   <evento>
-    <nombre>UANL – Santos Laguna</nombre>
+    <nombre>Necaxa – Atlético de San Luis</nombre>
     <deporte>Fútbol</deporte>
     <competicion>México. Liga MX</competicion>
     <fecha>7 de febrero</fecha>
     <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337120352__/</url>
-  </evento>
-  <evento>
-    <nombre>Qatar SC – Al-Rayyan</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Qatar. Stars League</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>18:45</hora>
-    <url>https://livetv.sx/es/eventinfo/336992722__/</url>
-  </evento>
-  <evento>
-    <nombre>Odra Opole – Pogon Siedlce</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Polonia. I Liga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337000012__/</url>
-  </evento>
-  <evento>
-    <nombre>Lokomotiva – Gorica</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Croacia. HNL</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337306008__/</url>
-  </evento>
-  <evento>
-    <nombre>Korona Kielce – Zaglebie Lubin</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Polonia. Ekstraklasa</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337000092__/</url>
-  </evento>
-  <evento>
-    <nombre>Zrinjski – Sloga Doboj</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bosnia y Herzegovina. Premijer liga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337302482__/</url>
+    <url>https://livetv.sx/es/eventinfo/337120353__/</url>
   </evento>
   <evento>
     <nombre>Friburgo (M) –  Bayern de Múnich (M)</nombre>
@@ -2065,12 +2065,12 @@
     <url>https://livetv.sx/es/eventinfo/337089321__/</url>
   </evento>
   <evento>
-    <nombre>Necaxa – Atlético de San Luis</nombre>
+    <nombre>UANL – Santos Laguna</nombre>
     <deporte>Fútbol</deporte>
     <competicion>México. Liga MX</competicion>
     <fecha>7 de febrero</fecha>
     <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337120353__/</url>
+    <url>https://livetv.sx/es/eventinfo/337120352__/</url>
   </evento>
   <evento>
     <nombre>Venados – Alebrijes</nombre>
@@ -5337,36 +5337,60 @@
     <url>https://livetv.sx/es/eventinfo/337975112__/</url>
   </evento>
   <evento>
-    <nombre>Assat – Pelicans</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Finlandia. Liiga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/336994969__/</url>
+    <nombre>Monza – Avellino</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie B</competicion>
+    <fecha>8 de febrero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337667925__/</url>
   </evento>
   <evento>
-    <nombre>Lukko – TPS</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Finlandia. Liiga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/336994970__/</url>
+    <nombre>Spartak Subotica – Zeleznicar Pancevo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Superliga</competicion>
+    <fecha>8 de febrero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337305456__/</url>
   </evento>
   <evento>
-    <nombre>Jukurit – KalPa</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Finlandia. Liiga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/336994971__/</url>
+    <nombre>Lecce – Udinese</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie A</competicion>
+    <fecha>8 de febrero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337667958__/</url>
   </evento>
   <evento>
-    <nombre>HIFK – Karpat</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Finlandia. Liiga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/336994972__/</url>
+    <nombre>Olimpija Ljubljana – Celje</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Eslovenia. PrvaLiga</competicion>
+    <fecha>8 de febrero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337670026__/</url>
+  </evento>
+  <evento>
+    <nombre>Varazdin – Osijek</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Croacia. HNL</competicion>
+    <fecha>8 de febrero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337306010__/</url>
+  </evento>
+  <evento>
+    <nombre>Bohemian – St Patrick`s Athletic</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irlanda. Primera División</competicion>
+    <fecha>8 de febrero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337667747__/</url>
+  </evento>
+  <evento>
+    <nombre>Panserraikos – AEK</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Grecia. Super League</competicion>
+    <fecha>8 de febrero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337667497__/</url>
   </evento>
   <evento>
     <nombre>Ilves – KooKoo</nombre>
@@ -5417,76 +5441,36 @@
     <url>https://livetv.sx/es/eventinfo/337013627__/</url>
   </evento>
   <evento>
-    <nombre>Kosice – Dukla Michalovce</nombre>
+    <nombre>Almtuna – Sodertalje</nombre>
     <deporte>Hockey</deporte>
-    <competicion>Eslovaquia. Extraliga</competicion>
+    <competicion>Suecia. Allsvenskan</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/336994679__/</url>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337013628__/</url>
   </evento>
   <evento>
-    <nombre>Spisska Nova Ves – Liptovsky Mikulas</nombre>
+    <nombre>Troja/Ljungby – Vasteras</nombre>
     <deporte>Hockey</deporte>
-    <competicion>Eslovaquia. Extraliga</competicion>
+    <competicion>Suecia. Allsvenskan</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/336994680__/</url>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337013629__/</url>
   </evento>
   <evento>
-    <nombre>Hermes – K-Vantaa</nombre>
+    <nombre>Odense – SonderjyskE</nombre>
     <deporte>Hockey</deporte>
-    <competicion>Finlandia. Mestis</competicion>
+    <competicion>Dinamarca. Metal Ligaen</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/336994995__/</url>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337010347__/</url>
   </evento>
   <evento>
-    <nombre>TuTo – JoKP</nombre>
+    <nombre>Esbjerg Energy – Herning Blue Fox</nombre>
     <deporte>Hockey</deporte>
-    <competicion>Finlandia. Mestis</competicion>
+    <competicion>Dinamarca. Metal Ligaen</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/336994996__/</url>
-  </evento>
-  <evento>
-    <nombre>Kettera – IPK</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Finlandia. Mestis</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/336994997__/</url>
-  </evento>
-  <evento>
-    <nombre>Pyry – Jokerit</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Finlandia. Mestis</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/336994998__/</url>
-  </evento>
-  <evento>
-    <nombre>Estambul BB – Buzadam</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Turquía. Superliga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/339818017_istanbul_bb_buzadam/</url>
-  </evento>
-  <evento>
-    <nombre>Zvolen – Trencin</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Eslovaquia. Extraliga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337000520__/</url>
-  </evento>
-  <evento>
-    <nombre>Presov – Zilina</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Eslovaquia. Extraliga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337000521__/</url>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337010348__/</url>
   </evento>
   <evento>
     <nombre>Poprad – Banska Bystrica</nombre>
@@ -5535,38 +5519,6 @@
     <fecha>6 de febrero</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/340598598_austria_hungary/</url>
-  </evento>
-  <evento>
-    <nombre>Almtuna – Sodertalje</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337013628__/</url>
-  </evento>
-  <evento>
-    <nombre>Troja/Ljungby – Vasteras</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Allsvenskan</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337013629__/</url>
-  </evento>
-  <evento>
-    <nombre>Odense – SonderjyskE</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Dinamarca. Metal Ligaen</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337010347__/</url>
-  </evento>
-  <evento>
-    <nombre>Esbjerg Energy – Herning Blue Fox</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Dinamarca. Metal Ligaen</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337010348__/</url>
   </evento>
   <evento>
     <nombre>Visby Roma – Vasterviks</nombre>
@@ -8487,46 +8439,6 @@
     <fecha>7 de febrero</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/337121164__/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Hala – Al Muharraq</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Bahréin. Liga Premier</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340580916__/</url>
-  </evento>
-  <evento>
-    <nombre>USK Praga (M) –  DSK Brandys (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>República Checa. Mujeres. ZBL</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337001074__/</url>
-  </evento>
-  <evento>
-    <nombre>Valmiera Glass – Liepaja</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Latvian-Estonian League</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/336998789__/</url>
-  </evento>
-  <evento>
-    <nombre>Academic Plovdiv – Spartak Pleven</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Bulgaria. NBL</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/336997609__/</url>
-  </evento>
-  <evento>
-    <nombre>Achilleas Kaimakli – AEK Larnaca</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Chipre. 1 División</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337303535__/</url>
   </evento>
   <evento>
     <nombre>Keila Basket – VEF Riga</nombre>
@@ -12401,12 +12313,44 @@
     <url>https://livetv.sx/es/eventinfo/337698492__/</url>
   </evento>
   <evento>
-    <nombre>Bor Artnak – Yanki Erel</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Copa Davis</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340625878__/</url>
+    <nombre>Trento – Varese</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Italia. Lega Basket</competicion>
+    <fecha>8 de febrero</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337696645__/</url>
+  </evento>
+  <evento>
+    <nombre>Dubrovnik – Zadar</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Croacia. Premier League</competicion>
+    <fecha>8 de febrero</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337324960__/</url>
+  </evento>
+  <evento>
+    <nombre>Patriot (W) – Sport Tim (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Macedonia del Norte. Mujeres. Prva Liga</competicion>
+    <fecha>8 de febrero</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/339804326_patriot_w_sport_tim_w/</url>
+  </evento>
+  <evento>
+    <nombre>Sibiu – Petrolul</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Rumania. Liga Nationala</competicion>
+    <fecha>8 de febrero</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/339804332_sibiu_petrolul/</url>
+  </evento>
+  <evento>
+    <nombre>Basket Ostrava (M) –  Zabiny Brno (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>República Checa. Mujeres. ZBL</competicion>
+    <fecha>8 de febrero</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337699268__/</url>
   </evento>
   <evento>
     <nombre>Leandro Riedi – Alaa Trifi</nombre>
@@ -12423,6 +12367,22 @@
     <fecha>6 de febrero</fecha>
     <hora>17:15</hora>
     <url>https://livetv.sx/es/eventinfo/340648591__/</url>
+  </evento>
+  <evento>
+    <nombre>Matej Dodig – Elmer Moller</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Copa Davis. Clasificatoria</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>17:15</hora>
+    <url>https://livetv.sx/es/eventinfo/340605407__/</url>
+  </evento>
+  <evento>
+    <nombre>Dino Prizmic – August Holmgren</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Copa Davis. Clasificatoria</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>19:10</hora>
+    <url>https://livetv.sx/es/eventinfo/340605410__/</url>
   </evento>
   <evento>
     <nombre>Nick Hardt – Robert Strombachs</nombre>
@@ -12447,14 +12407,6 @@
     <fecha>6 de febrero</fecha>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/340838769__/</url>
-  </evento>
-  <evento>
-    <nombre>Chile – Serbia</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Copa Davis. Clasificatoria</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/339754253_chile_serbia/</url>
   </evento>
   <evento>
     <nombre>James Watt – Mirza Basic</nombre>
@@ -12489,62 +12441,6 @@
     <url>https://livetv.sx/es/eventinfo/339200027_atp_challenger_koblenz/</url>
   </evento>
   <evento>
-    <nombre>Travaglia / Huesler – Winter Lopez / Llamas Ruiz</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Tenerife. Doubles</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>16:05</hora>
-    <url>https://livetv.sx/es/eventinfo/340646922__/</url>
-  </evento>
-  <evento>
-    <nombre>Sawangkaew (M) /  Fossa Huergo (M) –  Kuwata (M) /  Park (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Mumbai. Doubles</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>16:05</hora>
-    <url>https://livetv.sx/es/eventinfo/340624288__/</url>
-  </evento>
-  <evento>
-    <nombre>Hailey Baptiste (M) –  Ekaterina Alexandrova (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Abu Dhabi</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>16:05</hora>
-    <url>https://livetv.sx/es/eventinfo/340659168__/</url>
-  </evento>
-  <evento>
-    <nombre>Pietro Fellin – Raul Brancaccio</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Cesenatico</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>16:15</hora>
-    <url>https://livetv.sx/es/eventinfo/340613770__/</url>
-  </evento>
-  <evento>
-    <nombre>Vera Zvonareva (M) –  Shuai Zhang (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Doha. Clasificatoria</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>16:40</hora>
-    <url>https://livetv.sx/es/eventinfo/340635318__/</url>
-  </evento>
-  <evento>
-    <nombre>Croacia – Dinamarca</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Copa Davis. Clasificatoria</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/339754251_croatia_denmark/</url>
-  </evento>
-  <evento>
-    <nombre>Alemania – Perú</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Copa Davis. Clasificatoria</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/339754252_germany_peru/</url>
-  </evento>
-  <evento>
     <nombre>Masur / Geerts – Duda / Latinovic</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Coblenza. Doubles</competicion>
@@ -12567,14 +12463,6 @@
     <fecha>6 de febrero</fecha>
     <hora>17:10</hora>
     <url>https://livetv.sx/es/eventinfo/340646992__/</url>
-  </evento>
-  <evento>
-    <nombre>Matej Dodig – Elmer Moller</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Copa Davis. Clasificatoria</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>17:15</hora>
-    <url>https://livetv.sx/es/eventinfo/340605407__/</url>
   </evento>
   <evento>
     <nombre>Yannick Hanfmann – Gonzalo Bueno</nombre>
@@ -12649,14 +12537,6 @@
     <url>https://livetv.sx/es/eventinfo/340389324__/</url>
   </evento>
   <evento>
-    <nombre>Dino Prizmic – August Holmgren</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>Copa Davis. Clasificatoria</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:10</hora>
-    <url>https://livetv.sx/es/eventinfo/340605410__/</url>
-  </evento>
-  <evento>
     <nombre>Jan-lennard Struff – Juan Varillas</nombre>
     <deporte>Tenis</deporte>
     <competicion>Copa Davis. Clasificatoria</competicion>
@@ -12681,14 +12561,6 @@
     <url>https://livetv.sx/es/eventinfo/340308731__/</url>
   </evento>
   <evento>
-    <nombre>Felix Auger-Aliassime – Arthur Fils</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Montpellier</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>20:05</hora>
-    <url>https://livetv.sx/es/eventinfo/340710838__/</url>
-  </evento>
-  <evento>
     <nombre>Daniel Milavsky – Joshua Sheehy</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Cleveland</competicion>
@@ -12697,11 +12569,19 @@
     <url>https://livetv.sx/es/eventinfo/340671850__/</url>
   </evento>
   <evento>
+    <nombre>Felix Auger-Aliassime – Arthur Fils</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Montpellier</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>20:10</hora>
+    <url>https://livetv.sx/es/eventinfo/340710838__/</url>
+  </evento>
+  <evento>
     <nombre>Sorana Cirstea (M) –  Daria Snigur (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Cluj-Napoca</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>20:15</hora>
+    <hora>20:25</hora>
     <url>https://livetv.sx/es/eventinfo/340698023__/</url>
   </evento>
   <evento>
@@ -12721,28 +12601,20 @@
     <url>https://livetv.sx/es/eventinfo/340182236__/</url>
   </evento>
   <evento>
-    <nombre>Havlickova (M) /  Salkova (M) –  Gleason (M) /  Siskova (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Ostrava. Doubles</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>20:35</hora>
-    <url>https://livetv.sx/es/eventinfo/340603828__/</url>
-  </evento>
-  <evento>
-    <nombre>Colson / Loof – Ruehl / Zahraj</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Coblenza. Doubles</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/340697955__/</url>
-  </evento>
-  <evento>
     <nombre>Oleg Prihodko – Federico Iannaccone</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Cesenatico</competicion>
     <fecha>6 de febrero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/340697974__/</url>
+  </evento>
+  <evento>
+    <nombre>Havlickova (M) /  Salkova (M) –  Gleason (M) /  Siskova (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Ostrava. Doubles</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:10</hora>
+    <url>https://livetv.sx/es/eventinfo/340603828__/</url>
   </evento>
   <evento>
     <nombre>Kingsley / Maginley – Kozlov / Perez</nombre>
@@ -12753,11 +12625,19 @@
     <url>https://livetv.sx/es/eventinfo/340697943__/</url>
   </evento>
   <evento>
+    <nombre>Colson / Loof – Ruehl / Zahraj</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Coblenza. Doubles</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/340697955__/</url>
+  </evento>
+  <evento>
     <nombre>Tallon Griekspoor – Titouan Droguet</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Montpellier</competicion>
     <fecha>6 de febrero</fecha>
-    <hora>21:30</hora>
+    <hora>21:35</hora>
     <url>https://livetv.sx/es/eventinfo/340624255__/</url>
   </evento>
   <evento>
@@ -12775,6 +12655,14 @@
     <fecha>6 de febrero</fecha>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/340749542__/</url>
+  </evento>
+  <evento>
+    <nombre>Chile – Serbia</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>Copa Davis. Clasificatoria</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/339754253_chile_serbia/</url>
   </evento>
   <evento>
     <nombre>Tomas Barrios – Dusan Lajovic</nombre>
@@ -13057,22 +12945,6 @@
     <url>https://livetv.sx/es/eventinfo/340949404__/</url>
   </evento>
   <evento>
-    <nombre>Haase / Frantzen – Schnaitter / Wallner</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Montpellier. Doubles</competicion>
-    <fecha>7 de febrero</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340635303__/</url>
-  </evento>
-  <evento>
-    <nombre>Adrian Mannarino – Martin Damm</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Montpellier</competicion>
-    <fecha>7 de febrero</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340947658__/</url>
-  </evento>
-  <evento>
     <nombre>Menelaos Efstathiou – Amar Huseinovikj</nombre>
     <deporte>Tenis</deporte>
     <competicion>Copa Davis</competicion>
@@ -13161,6 +13033,22 @@
     <url>https://livetv.sx/es/eventinfo/340947642__/</url>
   </evento>
   <evento>
+    <nombre>Vitaliy Sachko – Christopher O`Connell</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Róterdam. Clasificatoria</competicion>
+    <fecha>7 de febrero</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/340963015__/</url>
+  </evento>
+  <evento>
+    <nombre>Hugo Grenier – Jan Choinski</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Róterdam. Clasificatoria</competicion>
+    <fecha>7 de febrero</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/340963016__/</url>
+  </evento>
+  <evento>
     <nombre>Reda Bennani – Adria Soriano Barrera</nombre>
     <deporte>Tenis</deporte>
     <competicion>Copa Davis</competicion>
@@ -13247,6 +13135,22 @@
     <fecha>7 de febrero</fecha>
     <hora>13:30</hora>
     <url>https://livetv.sx/es/eventinfo/340907864__/</url>
+  </evento>
+  <evento>
+    <nombre>Haase / Frantzen – Schnaitter / Wallner</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Montpellier. Doubles</competicion>
+    <fecha>7 de febrero</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/340635303__/</url>
+  </evento>
+  <evento>
+    <nombre>Hugo Gaston – Alec Deckers</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Róterdam. Clasificatoria</competicion>
+    <fecha>7 de febrero</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/340963017__/</url>
   </evento>
   <evento>
     <nombre>Bor Artnak – Mert Alkaya</nombre>
@@ -13377,6 +13281,22 @@
     <url>https://livetv.sx/es/eventinfo/340635270__/</url>
   </evento>
   <evento>
+    <nombre>Mees Rottgering – Kyrian Jacquet</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Róterdam. Clasificatoria</competicion>
+    <fecha>7 de febrero</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/340963018__/</url>
+  </evento>
+  <evento>
+    <nombre>Luka Pavlovic  – Billy Harris</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Róterdam. Clasificatoria</competicion>
+    <fecha>7 de febrero</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/340963019__/</url>
+  </evento>
+  <evento>
     <nombre>Sebastian Dominko – Yanki Erel</nombre>
     <deporte>Tenis</deporte>
     <competicion>Copa Davis</competicion>
@@ -13449,12 +13369,44 @@
     <url>https://livetv.sx/es/eventinfo/340895647__/</url>
   </evento>
   <evento>
+    <nombre>Adrian Mannarino – Martin Damm</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Montpellier</competicion>
+    <fecha>7 de febrero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/340947658__/</url>
+  </evento>
+  <evento>
     <nombre>Raul Brancaccio – Filippo Romano</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Cesenatico</competicion>
     <fecha>7 de febrero</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/340920294__/</url>
+  </evento>
+  <evento>
+    <nombre>Pablo Carreno Busta – Roberto Carballés Baena</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Róterdam. Clasificatoria</competicion>
+    <fecha>7 de febrero</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/340963020__/</url>
+  </evento>
+  <evento>
+    <nombre>Hamad Medjedovic – Nikoloz Basilashvili</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Róterdam. Clasificatoria</competicion>
+    <fecha>7 de febrero</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/340963021__/</url>
+  </evento>
+  <evento>
+    <nombre>Katie Boulter (M) –  Tamara Korpatsch (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Ostrava</competicion>
+    <fecha>7 de febrero</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/340963085__/</url>
   </evento>
   <evento>
     <nombre>Jerome Kym – Alaa Trifi</nombre>
@@ -14039,14 +13991,6 @@
     <fecha>8 de febrero</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/340885772__/</url>
-  </evento>
-  <evento>
-    <nombre>Slepsk Suwalki – Projekt Warszawa</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Polonia. PlusLiga</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/336994236__/</url>
   </evento>
   <evento>
     <nombre>Spartak Subotica (M) –  Tent Obrenovac (M)</nombre>
@@ -15425,6 +15369,14 @@
     <url>https://livetv.sx/es/eventinfo/340312988_melilla_w_socuellamos_w/</url>
   </evento>
   <evento>
+    <nombre>Haasrode Lovaina – Projekt Warszawa</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Liga de Campeones</competicion>
+    <fecha>11 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/338564794__/</url>
+  </evento>
+  <evento>
     <nombre>Christian Medina Jimenez – Adrian Curiel</nombre>
     <deporte>Boxeo</deporte>
     <competicion>Boxeo</competicion>
@@ -15767,22 +15719,6 @@
     <fecha>11 de febrero</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/340313306_pte_peak_kecskemet/</url>
-  </evento>
-  <evento>
-    <nombre>Gorenje Velenje – Skofljica</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Eslovenia. 1. NLB</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337000523__/</url>
-  </evento>
-  <evento>
-    <nombre>Dunaujvaros (M) –  Vasas (M)</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Hungría. Mujeres. NB I</competicion>
-    <fecha>6 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/337302694__/</url>
   </evento>
   <evento>
     <nombre>Bayer Dormagen – N-Luebbecke</nombre>
@@ -17159,6 +17095,86 @@
     <fecha>11 de febrero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/337322184__/</url>
+  </evento>
+  <evento>
+    <nombre>Guadalajara – Logroño La Rioja</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>España. Liga ASOBAL</competicion>
+    <fecha>11 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/337322185__/</url>
+  </evento>
+  <evento>
+    <nombre>BHC – Melsungen</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>11 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/338563814__/</url>
+  </evento>
+  <evento>
+    <nombre>Leeds Utd –  Nottingham Forest</nombre>
+    <deporte>Deporte_15</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337039653_leeds_utd_nottingham_forest/</url>
+  </evento>
+  <evento>
+    <nombre>Celta –  Osasuna</nombre>
+    <deporte>Deporte_15</deporte>
+    <competicion>España. Primera División</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337040571_celta_osasuna/</url>
+  </evento>
+  <evento>
+    <nombre>Alex Santino Nunez Vera –  Radu David Turcanu</nombre>
+    <deporte>Deporte_15</deporte>
+    <competicion>Copa Davis</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/340838769_alex_santino_nunez_vera_radu_david_turcanu/</url>
+  </evento>
+  <evento>
+    <nombre>Inglaterra Sub-20 –   Gales Sub-20</nombre>
+    <deporte>Deporte_15</deporte>
+    <competicion>Torneo de las Seis Naciones Sub-20</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/340625962__inglaterra_sub_20__gales_sub_20/</url>
+  </evento>
+  <evento>
+    <nombre>Torino –  Fortitudo Bologna</nombre>
+    <deporte>Deporte_15</deporte>
+    <competicion>Italia. Serie A2</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/337040723_torino_fortitudo_bologna/</url>
+  </evento>
+  <evento>
+    <nombre>Derry City –  Sligo Rovers</nombre>
+    <deporte>Deporte_15</deporte>
+    <competicion>Irlanda. Primera División</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/337040499_derry_city_sligo_rovers/</url>
+  </evento>
+  <evento>
+    <nombre>Deportivo Moquegua –  Cajamarca</nombre>
+    <deporte>Deporte_15</deporte>
+    <competicion>Perú. Liga 1</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/340347834_deportivo_moquegua_cajamarca/</url>
+  </evento>
+  <evento>
+    <nombre>Francia Sub-20 –   Irlanda Sub-20</nombre>
+    <deporte>Deporte_15</deporte>
+    <competicion>Torneo de las Seis Naciones Sub-20</competicion>
+    <fecha>6 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/340667237__francia_sub_20__irlanda_sub_20/</url>
   </evento>
   <evento>
     <nombre>Workington Town – St Helens</nombre>
