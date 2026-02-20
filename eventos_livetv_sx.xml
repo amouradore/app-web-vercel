@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-02-20 19:41:55" total="2216">
-  <evento>
-    <nombre>Wetzlar –  Leipzig</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. Bundesliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>26:26</hora>
-    <url>https://livetv.sx/es/eventinfo/340941457_wetzlar_leipzig/</url>
-  </evento>
-  <evento>
-    <nombre>Logroño La Rioja –  Cuenca</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Liga ASOBAL</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>32:31</hora>
-    <url>https://livetv.sx/es/eventinfo/341275816_logro__o_la_rioja_cuenca/</url>
-  </evento>
+<eventos generado="2026-02-20 20:41:29" total="2191">
   <evento>
     <nombre>Fortuna Sittard –  Excelsior</nombre>
     <deporte>Fútbol</deporte>
@@ -29,7 +13,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Alemania. Bundesliga</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>13:17</hora>
+    <hora>32:30</hora>
     <url>https://livetv.sx/es/eventinfo/340956058_rn_loewen_lemgo/</url>
   </evento>
   <evento>
@@ -45,7 +29,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Francia. Starligue</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>16:18</hora>
+    <hora>30:30</hora>
     <url>https://livetv.sx/es/eventinfo/340959235_toulouse_chambery/</url>
   </evento>
   <evento>
@@ -53,7 +37,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Francia. Starligue</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>15:14</hora>
+    <hora>33:28</hora>
     <url>https://livetv.sx/es/eventinfo/340959236_montpellier_istres/</url>
   </evento>
   <evento>
@@ -61,7 +45,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Dinamarca. Handboldligaen</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>13:14</hora>
+    <hora>27:28</hora>
     <url>https://livetv.sx/es/eventinfo/340956174_hoej_elite_holstebro/</url>
   </evento>
   <evento>
@@ -77,7 +61,7 @@
     <deporte>Fútbol</deporte>
     <competicion>España. Liga ASOBAL</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>21:30</hora>
+    <hora>35:20</hora>
     <url>https://livetv.sx/es/eventinfo/341275818_barcelona_cb_villa_de_aranda/</url>
   </evento>
   <evento>
@@ -85,7 +69,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Francia. Starligue</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>21:30</hora>
+    <hora>20:23</hora>
     <url>https://livetv.sx/es/eventinfo/340967154_selestat_limoges/</url>
   </evento>
   <evento>
@@ -121,20 +105,36 @@
     <url>https://livetv.sx/es/eventinfo/341218343_gante_cercle/</url>
   </evento>
   <evento>
+    <nombre>Athletic de Bilbao –  Elche</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Primera División</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/340972705_athletic_de_bilbao_elche/</url>
+  </evento>
+  <evento>
+    <nombre>Barcelona –  Murcia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Copa del Rey</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>36:36</hora>
+    <url>https://livetv.sx/es/eventinfo/342242621_barcelona_murcia/</url>
+  </evento>
+  <evento>
+    <nombre>Estrela –  Tondela</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Primeira Liga</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:45</hora>
+    <url>https://livetv.sx/es/eventinfo/340991166_estrela_tondela/</url>
+  </evento>
+  <evento>
     <nombre>Juegos Olímpicos 2026</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Juegos Olímpicos</competicion>
     <fecha>20 de febrero</fecha>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/342517669_juegos_ol__mpicos_2026/</url>
-  </evento>
-  <evento>
-    <nombre>ATP Challenger. Lille</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Lille</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>12:10</hora>
-    <url>https://livetv.sx/es/eventinfo/343615701_atp_challenger_lille/</url>
   </evento>
   <evento>
     <nombre>West Indies (W) –  Sri Lanka (M)</nombre>
@@ -151,30 +151,6 @@
     <fecha>20 de febrero</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/343840431_atp_challenger_tigre/</url>
-  </evento>
-  <evento>
-    <nombre>Moise Kouame –  Nishesh Basavareddy</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Lille</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>17:20</hora>
-    <url>https://livetv.sx/es/eventinfo/345106134_moise_kouame_nishesh_basavareddy/</url>
-  </evento>
-  <evento>
-    <nombre>Viktorija Golubic (M) –   Kaitlin Quevedo (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Oeiras 2</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>17:30</hora>
-    <url>https://livetv.sx/es/eventinfo/344816298__viktorija_golubic_m__kaitlin_quevedo_m/</url>
-  </evento>
-  <evento>
-    <nombre>Guido Ivan Justo –  Bruno Fernandez</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Tigre</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>17:35</hora>
-    <url>https://livetv.sx/es/eventinfo/345120780_guido_ivan_justo_bruno_fernandez/</url>
   </evento>
   <evento>
     <nombre>ATP. Delray Beach</nombre>
@@ -265,102 +241,6 @@
     <url>https://livetv.sx/es/eventinfo/345120837__andrea_lazaro_garcia_m__diana_martynova_m/</url>
   </evento>
   <evento>
-    <nombre>Greuther Fuerth –  Arminia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 2 Bundesliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340934507_greuther_fuerth_arminia/</url>
-  </evento>
-  <evento>
-    <nombre>Bochum –  Núremberg</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 2 Bundesliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340934508_bochum_n__remberg/</url>
-  </evento>
-  <evento>
-    <nombre>Simulcast</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 2 Bundesliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/342839616_simulcast/</url>
-  </evento>
-  <evento>
-    <nombre>Al Wahda –  Al Jazira</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EÁU. Pro League</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340936623_al_wahda_al_jazira/</url>
-  </evento>
-  <evento>
-    <nombre>Al Dhafra –  Shabab Al Ahli</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EÁU. Pro League</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340936624_al_dhafra_shabab_al_ahli/</url>
-  </evento>
-  <evento>
-    <nombre>Ajman –  Sharjah</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EÁU. Pro League</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340936625_ajman_sharjah/</url>
-  </evento>
-  <evento>
-    <nombre>Montana –  Deya Sport</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bulgaria. Superliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/344808483_montana_deya_sport/</url>
-  </evento>
-  <evento>
-    <nombre>Union Berlin (M) –   Colonia (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. Mujeres. Bundesliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340934614__union_berlin_m__colonia_m/</url>
-  </evento>
-  <evento>
-    <nombre>Nis –  Partizan</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Serbia. Superliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340930356_nis_partizan/</url>
-  </evento>
-  <evento>
-    <nombre>Paide –  Flora</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Estonia. Torneo de invierno</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/345033508_paide_flora/</url>
-  </evento>
-  <evento>
-    <nombre>Municipal Targoviste (M) –   Arad (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rumania. Mujeres. Copa</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/345037655__municipal_targoviste_m__arad_m/</url>
-  </evento>
-  <evento>
-    <nombre>Tukums –  Ventspils</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/345292349_tukums_ventspils/</url>
-  </evento>
-  <evento>
     <nombre>Jerome Kym –  Titouan Droguet</nombre>
     <deporte>Fútbol</deporte>
     <competicion>ATP Challenger. Lille</competicion>
@@ -385,308 +265,12 @@
     <url>https://livetv.sx/es/eventinfo/345135454_estevez__ratti_villanueva__rodr__guez_taverna/</url>
   </evento>
   <evento>
-    <nombre>Fenerbahce –  Turk Telekom</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Turquía. Copa</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>76:68</hora>
-    <url>https://livetv.sx/es/eventinfo/344773878_fenerbahce_turk_telekom/</url>
-  </evento>
-  <evento>
-    <nombre>Nomme United –  Viimsi</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Partido amistoso</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345321273_nomme_united_viimsi/</url>
-  </evento>
-  <evento>
-    <nombre>Botosani –  U Cluj</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rumania. Liga 1</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/341237271_botosani_u_cluj/</url>
-  </evento>
-  <evento>
-    <nombre>Nordsjaelland –  Vejle</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Dinamarca. Superliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340941555_nordsjaelland_vejle/</url>
-  </evento>
-  <evento>
-    <nombre>Stuttgart II –  Waldhof</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 3 Bundesliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340941393_stuttgart_ii_waldhof/</url>
-  </evento>
-  <evento>
-    <nombre>Agen –  Valence Romans</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Pro D2</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>34:11</hora>
-    <url>https://livetv.sx/es/eventinfo/343962216_agen_valence_romans/</url>
-  </evento>
-  <evento>
-    <nombre>SonderjyskE –  Odense</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Dinamarca. Metal Ligaen</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340941542_sonderjyske_odense/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Muharraq –  Bahrain SC</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bahréin. Liga Premier</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340940992_al_muharraq_bahrain_sc/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Ahli Manama –  Al-Najma</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bahréin. Liga Premier</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340940993_al_ahli_manama_al_najma/</url>
-  </evento>
-  <evento>
-    <nombre>Chrudim –  Interobal Plzen</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>República Checa. 1 Liga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345084640_chrudim_interobal_plzen/</url>
-  </evento>
-  <evento>
-    <nombre>Trimo Trebnje –  Izvidac Ljubuski</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EHF Eurocup</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>33:34</hora>
-    <url>https://livetv.sx/es/eventinfo/340941580_trimo_trebnje_izvidac_ljubuski/</url>
-  </evento>
-  <evento>
-    <nombre>Angers (W) –  Landerneau Bretagne (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Mujeres. LFB</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/344785386_angers_w_landerneau_bretagne_w/</url>
-  </evento>
-  <evento>
-    <nombre>Chemik Police (M) –   Bydgoszcz (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Polonia. Mujeres. MP</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340943583__chemik_police_m__bydgoszcz_m/</url>
-  </evento>
-  <evento>
-    <nombre>Potsdam II (W) –  Cottbus (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>2 Bundesliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/344272524_potsdam_ii_w_cottbus_w/</url>
-  </evento>
-  <evento>
-    <nombre>Balingen/W –  Luebeck Schwartau</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 2 Bundesliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>36:25</hora>
-    <url>https://livetv.sx/es/eventinfo/344978387_balingenw_luebeck_schwartau/</url>
-  </evento>
-  <evento>
-    <nombre>Rubene –  SAC</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. Elite League</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345085200_rubene_sac/</url>
-  </evento>
-  <evento>
-    <nombre>Kungalv –  Visby Roma</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340944942_kungalv_visby_roma/</url>
-  </evento>
-  <evento>
-    <nombre>Grums –  Jarfalla</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340944943_grums_jarfalla/</url>
-  </evento>
-  <evento>
-    <nombre>Nykoeping –  Boraas</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340944944_nykoeping_boraas/</url>
-  </evento>
-  <evento>
-    <nombre>Dalen –  Karlskrona HK</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340944945_dalen_karlskrona_hk/</url>
-  </evento>
-  <evento>
-    <nombre>Mjoelby –  Huddinge</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340944946_mjoelby_huddinge/</url>
-  </evento>
-  <evento>
-    <nombre>Tyringe –  Graestorp</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340944947_tyringe_graestorp/</url>
-  </evento>
-  <evento>
-    <nombre>Hanvikens –  Vasterviks</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340944948_hanvikens_vasterviks/</url>
-  </evento>
-  <evento>
-    <nombre>Vita Hasten –  Tingsryds</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340944949_vita_hasten_tingsryds/</url>
-  </evento>
-  <evento>
-    <nombre>PAOK –  Zafeirakis</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Grecia. A1</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>31:23</hora>
-    <url>https://livetv.sx/es/eventinfo/345084386_paok_zafeirakis/</url>
-  </evento>
-  <evento>
     <nombre>Poland Open</nombre>
     <deporte>Fútbol</deporte>
     <competicion>No especificado</competicion>
     <fecha>20 de febrero</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/345300691_poland_open/</url>
-  </evento>
-  <evento>
-    <nombre>Nexe –  Trogir</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Croacia. Premijer Liga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>39:30</hora>
-    <url>https://livetv.sx/es/eventinfo/341278650_nexe_trogir/</url>
-  </evento>
-  <evento>
-    <nombre>Newroz –  Al-Náyaf</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Irak. Liga Premier</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/344481231_newroz_al_n__yaf/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Gharraf –  Duhok</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Irak. Liga Premier</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/344481232_al_gharraf_duhok/</url>
-  </evento>
-  <evento>
-    <nombre>Livani –  Limbazi</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345292350_livani_limbazi/</url>
-  </evento>
-  <evento>
-    <nombre>Jekabpils –  Ogre</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345361729_jekabpils_ogre/</url>
-  </evento>
-  <evento>
-    <nombre>Talsi –  Ekselences centrs</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345384224_talsi_ekselences_centrs/</url>
-  </evento>
-  <evento>
-    <nombre>Sigulda/Mapri Buve –  Daugavpils Sporta skola</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345384225_siguldamapri_buve_daugavpils_sporta_skola/</url>
-  </evento>
-  <evento>
-    <nombre>Mornar –  Buducnost</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Montenegro. Copa</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345384783_mornar_buducnost/</url>
-  </evento>
-  <evento>
-    <nombre>Latgols (W) –  Kaunas Zalgiris (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Liga Báltica</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/344248269_latgols_w_kaunas_zalgiris_w/</url>
-  </evento>
-  <evento>
-    <nombre>Viimsi –  Nomme United</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Estonia. Torneo de invierno</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:01</hora>
-    <url>https://livetv.sx/es/eventinfo/345390349_viimsi_nomme_united/</url>
-  </evento>
-  <evento>
-    <nombre>Boraas –  Hoegsbo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Suecia. Basketligan</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:04</hora>
-    <url>https://livetv.sx/es/eventinfo/344820645_boraas_hoegsbo/</url>
-  </evento>
-  <evento>
-    <nombre>Noruega –  Suiza</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Juegos Olímpicos</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:05</hora>
-    <url>https://livetv.sx/es/eventinfo/345290074_noruega_suiza/</url>
   </evento>
   <evento>
     <nombre>Baltimore –  NY Yankees</nombre>
@@ -845,7 +429,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Francia. Pro D2</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>13:14</hora>
+    <hora>20:30</hora>
     <url>https://livetv.sx/es/eventinfo/343971975_dax_fos_provence/</url>
   </evento>
   <evento>
@@ -853,7 +437,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Francia. Pro D2</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>21:21</hora>
+    <hora>20:30</hora>
     <url>https://livetv.sx/es/eventinfo/343971976_carcasona_nevers/</url>
   </evento>
   <evento>
@@ -909,7 +493,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Alemania. 2 Bundesliga</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>16:19</hora>
+    <hora>20:30</hora>
     <url>https://livetv.sx/es/eventinfo/344978388_oppenweilerbacknang_essen/</url>
   </evento>
   <evento>
@@ -1133,7 +717,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Croacia. Copa</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>37:51</hora>
+    <hora>63:99</hora>
     <url>https://livetv.sx/es/eventinfo/345038294_sibenik_zadar/</url>
   </evento>
   <evento>
@@ -1165,7 +749,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Bosnia y Herzegovina. Copa</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>41:47</hora>
+    <hora>78:73</hora>
     <url>https://livetv.sx/es/eventinfo/345384504_borac_igokea/</url>
   </evento>
   <evento>
@@ -1173,7 +757,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Alemania. 2 Bundesliga</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>19:14</hora>
+    <hora>30:29</hora>
     <url>https://livetv.sx/es/eventinfo/344978389_eintracht_hagen_ferndorf/</url>
   </evento>
   <evento>
@@ -1181,7 +765,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Eslovenia. Copa</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>47:31</hora>
+    <hora>91:73</hora>
     <url>https://livetv.sx/es/eventinfo/345283772_cedevita_olimpija_krka/</url>
   </evento>
   <evento>
@@ -1281,14 +865,6 @@
     <url>https://livetv.sx/es/eventinfo/345057207__gales_sub_20__escocia_sub_20/</url>
   </evento>
   <evento>
-    <nombre>Dutra da Silva / Pereira –  Kestelboim / Prado Angelo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Tigre. Doubles</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>21:15</hora>
-    <url>https://livetv.sx/es/eventinfo/345106175_dutra_da_silva__pereira_kestelboim__prado_angelo/</url>
-  </evento>
-  <evento>
     <nombre>CDM Futsal –  Napoli</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Italia. Serie A</competicion>
@@ -1327,14 +903,6 @@
     <fecha>20 de febrero</fecha>
     <hora>21:20</hora>
     <url>https://livetv.sx/es/eventinfo/345390864_sandro_abate_saviatesta_mantova/</url>
-  </evento>
-  <evento>
-    <nombre>Katherine Sebov (M) –   Mary Stoiana (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Midland</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>21:25</hora>
-    <url>https://livetv.sx/es/eventinfo/344816284__katherine_sebov_m__mary_stoiana_m/</url>
   </evento>
   <evento>
     <nombre>Widzew Lodz –  Cracovie</nombre>
@@ -1405,7 +973,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Serbia. Copa</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>06:13</hora>
+    <hora>41:51</hora>
     <url>https://livetv.sx/es/eventinfo/345294162_partizan_mega_bemax/</url>
   </evento>
   <evento>
@@ -1415,6 +983,14 @@
     <fecha>20 de febrero</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/344982918_pogon_szczecin_zielona_gora/</url>
+  </evento>
+  <evento>
+    <nombre>Wilki Morskie –  Zielona Gora</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. Copa</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>51:54</hora>
+    <url>https://livetv.sx/es/eventinfo/345415531_wilki_morskie_zielona_gora/</url>
   </evento>
   <evento>
     <nombre>Pianese –  Guidonia Montecelio</nombre>
@@ -1437,7 +1013,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Bahréin. Liga Premier</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>21:30</hora>
+    <hora>37:20</hora>
     <url>https://livetv.sx/es/eventinfo/344816753_al_muharraq_al_ahli/</url>
   </evento>
   <evento>
@@ -1449,12 +1025,12 @@
     <url>https://livetv.sx/es/eventinfo/345377820_cnbs_winterthur/</url>
   </evento>
   <evento>
-    <nombre>Alexander Blockx –  Benjamin Bonzi</nombre>
+    <nombre>Katherine Sebov (M) –   Mary Stoiana (M)</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Lille</competicion>
+    <competicion>WTA. Midland</competicion>
     <fecha>20 de febrero</fecha>
     <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/345044799_alexander_blockx_benjamin_bonzi/</url>
+    <url>https://livetv.sx/es/eventinfo/344816284__katherine_sebov_m__mary_stoiana_m/</url>
   </evento>
   <evento>
     <nombre>Panathinaikos –  Peristeriou</nombre>
@@ -1471,6 +1047,246 @@
     <fecha>20 de febrero</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/344832033_borna_gojo_bernard_tomic/</url>
+  </evento>
+  <evento>
+    <nombre>Waterford –  Sligo Rovers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irlanda. Primera División</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/340972623_waterford_sligo_rovers/</url>
+  </evento>
+  <evento>
+    <nombre>Shelbourne –  Galway United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irlanda. Primera División</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/340972624_shelbourne_galway_united/</url>
+  </evento>
+  <evento>
+    <nombre>Derry City –  Bohemian</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irlanda. Primera División</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/340972625_derry_city_bohemian/</url>
+  </evento>
+  <evento>
+    <nombre>Raith Rovers –  St Johnstone</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Escocia. Championship</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/340975853_raith_rovers_st_johnstone/</url>
+  </evento>
+  <evento>
+    <nombre>Inglaterra U20 –  Irlanda U20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Torneo de las Seis Naciones Sub-20</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/344808223_inglaterra_u20_irlanda_u20/</url>
+  </evento>
+  <evento>
+    <nombre>Inglaterra Sub-20 –   Irlanda Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Torneo de las Seis Naciones Sub-20</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/345057208__inglaterra_sub_20__irlanda_sub_20/</url>
+  </evento>
+  <evento>
+    <nombre>Gloucester –  Sale Sharks</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Premiership Rugby Cup</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/344847279_gloucester_sale_sharks/</url>
+  </evento>
+  <evento>
+    <nombre>Boston College Santiago (W) –  Olympic (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Campeonato Sudamericano de Clubes</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/344868174_boston_college_santiago_w_olympic_w/</url>
+  </evento>
+  <evento>
+    <nombre>Dutra da Silva / Pereira –  Kestelboim / Prado Angelo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Tigre. Doubles</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>21:55</hora>
+    <url>https://livetv.sx/es/eventinfo/345106175_dutra_da_silva__pereira_kestelboim__prado_angelo/</url>
+  </evento>
+  <evento>
+    <nombre>Shamrock Rovers –  St Patrick`s Athletic</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irlanda. Primera División</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/340972626_shamrock_rovers_st_patricks_athletic/</url>
+  </evento>
+  <evento>
+    <nombre>Dundalk –  Drogheda United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irlanda. Primera División</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/340972627_dundalk_drogheda_united/</url>
+  </evento>
+  <evento>
+    <nombre>Blackburn –  Preston</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Championship</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/340971709_blackburn_preston/</url>
+  </evento>
+  <evento>
+    <nombre>Biarritz Olympique –  Vannes</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Pro D2</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>12:14</hora>
+    <url>https://livetv.sx/es/eventinfo/344002237_biarritz_olympique_vannes/</url>
+  </evento>
+  <evento>
+    <nombre>Juegos Olímpicos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Pista corta</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344231189_juegos_oland237_mpicos/</url>
+  </evento>
+  <evento>
+    <nombre>Lincoln Red Imps –  Mons Calpe</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Gibraltar. Primera División</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/340972318_lincoln_red_imps_mons_calpe/</url>
+  </evento>
+  <evento>
+    <nombre>Leeds Rhinos –  York City Knights</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Super League</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/340971676_leeds_rhinos_york_city_knights/</url>
+  </evento>
+  <evento>
+    <nombre>Bradford Bulls –  Catalans Dragons</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Super League</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/340971677_bradford_bulls_catalans_dragons/</url>
+  </evento>
+  <evento>
+    <nombre>St Helens –  Leigh Leopards</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Super League</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>08:16</hora>
+    <url>https://livetv.sx/es/eventinfo/340971678_st_helens_leigh_leopards/</url>
+  </evento>
+  <evento>
+    <nombre>Alexander Blockx –  Benjamin Bonzi</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Lille</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/345044799_alexander_blockx_benjamin_bonzi/</url>
+  </evento>
+  <evento>
+    <nombre>Chi Cubs –  Chi White Sox</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>MLB. Pretemporada</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:05</hora>
+    <url>https://livetv.sx/es/eventinfo/340981877_chi_cubs_chi_white_sox/</url>
+  </evento>
+  <evento>
+    <nombre>Texas –  Kansas City</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>MLB. Pretemporada</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:05</hora>
+    <url>https://livetv.sx/es/eventinfo/340981878_texas_kansas_city/</url>
+  </evento>
+  <evento>
+    <nombre>EUA –  Eslovaquia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Juegos Olímpicos</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:10</hora>
+    <url>https://livetv.sx/es/eventinfo/344866611_eua_eslovaquia/</url>
+  </evento>
+  <evento>
+    <nombre>Seattle –  San Diego</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>MLB. Pretemporada</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:10</hora>
+    <url>https://livetv.sx/es/eventinfo/340981879_seattle_san_diego/</url>
+  </evento>
+  <evento>
+    <nombre>Colorado –  Arizona</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>MLB. Pretemporada</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:10</hora>
+    <url>https://livetv.sx/es/eventinfo/340981880_colorado_arizona/</url>
+  </evento>
+  <evento>
+    <nombre>Tomas Etcheverry –  Jaime Faria</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP. Rio de Janeiro</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:10</hora>
+    <url>https://livetv.sx/es/eventinfo/345164516_tomas_etcheverry_jaime_faria/</url>
+  </evento>
+  <evento>
+    <nombre>Defensa y Justicia –  Belgrano</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Argentina. Liga Profesional</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:15</hora>
+    <url>https://livetv.sx/es/eventinfo/340685381_defensa_y_justicia_belgrano/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Talaba –  Al-Quwa</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irak. Liga Premier</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:15</hora>
+    <url>https://livetv.sx/es/eventinfo/344481233_al_talaba_al_quwa/</url>
+  </evento>
+  <evento>
+    <nombre>Sebastian Korda –  Casper Ruud</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP. Delray Beach</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:30</hora>
+    <url>https://livetv.sx/es/eventinfo/344935717_sebastian_korda_casper_ruud/</url>
+  </evento>
+  <evento>
+    <nombre>Martin / Barry –  Duncan / Jones</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dobles</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:40</hora>
+    <url>https://livetv.sx/es/eventinfo/345178975_martin__barry_duncan__jones/</url>
+  </evento>
+  <evento>
+    <nombre>Estudiantes LP –  Sarmiento</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Argentina. Liga Profesional</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>22:45</hora>
+    <url>https://livetv.sx/es/eventinfo/340988405_estudiantes_lp_sarmiento/</url>
   </evento>
   <evento>
     <nombre>Fortuna Sittard – Excelsior</nombre>
@@ -1553,118 +1369,6 @@
     <url>https://livetv.sx/es/eventinfo/340711261__/</url>
   </evento>
   <evento>
-    <nombre>Greuther Fuerth – Arminia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 2 Bundesliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340934507__/</url>
-  </evento>
-  <evento>
-    <nombre>Bochum – Núremberg</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 2 Bundesliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340934508__/</url>
-  </evento>
-  <evento>
-    <nombre>Al Wahda – Al Jazira</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EÁU. Pro League</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340936623__/</url>
-  </evento>
-  <evento>
-    <nombre>Al Dhafra – Shabab Al Ahli</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EÁU. Pro League</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340936624__/</url>
-  </evento>
-  <evento>
-    <nombre>Ajman – Sharjah</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EÁU. Pro League</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340936625__/</url>
-  </evento>
-  <evento>
-    <nombre>Union Berlin (M) –  Colonia (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. Mujeres. Bundesliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340934614__/</url>
-  </evento>
-  <evento>
-    <nombre>Botosani – U Cluj</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rumania. Liga 1</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/341237271__/</url>
-  </evento>
-  <evento>
-    <nombre>Stuttgart II – Waldhof</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 3 Bundesliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340941393__/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Muharraq – Bahrain SC</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bahréin. Liga Premier</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340940992__/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Ahli Manama – Al-Najma</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bahréin. Liga Premier</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340940993__/</url>
-  </evento>
-  <evento>
-    <nombre>Newroz – Al-Náyaf</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Irak. Liga Premier</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/344481231__/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Gharraf – Duhok</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Irak. Liga Premier</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/344481232__/</url>
-  </evento>
-  <evento>
-    <nombre>Nordsjaelland – Vejle</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Dinamarca. Superliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340941555__/</url>
-  </evento>
-  <evento>
-    <nombre>Viimsi – Nomme United</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Estonia. Torneo de invierno</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:01</hora>
-    <url>https://livetv.sx/es/eventinfo/345390349__/</url>
-  </evento>
-  <evento>
     <nombre>Al-Shahania – Qatar SC</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Qatar. Stars League</competicion>
@@ -1735,14 +1439,6 @@
     <fecha>20 de febrero</fecha>
     <hora>20:30</hora>
     <url>https://livetv.sx/es/eventinfo/340951709__/</url>
-  </evento>
-  <evento>
-    <nombre>Ajaccio – Fleury 91</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. National</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340951710__/</url>
   </evento>
   <evento>
     <nombre>Rapperswil-Jona – Bellinzona</nombre>
@@ -5457,6 +5153,134 @@
     <url>https://livetv.sx/es/eventinfo/341634398__/</url>
   </evento>
   <evento>
+    <nombre>Atalanta Sub-23 – Cosenza</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie C. Grupo C</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/341634424__/</url>
+  </evento>
+  <evento>
+    <nombre>Sheffield Utd – Sheffield Wednesday</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Championship</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/341639192__/</url>
+  </evento>
+  <evento>
+    <nombre>Bohemians – Dukla Praga</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>República Checa. 1. liga</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/341642859__/</url>
+  </evento>
+  <evento>
+    <nombre>Radnicki Nis – Novi Beograd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Superliga</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/341256821__/</url>
+  </evento>
+  <evento>
+    <nombre>Bangkok Utd – Muangthong Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Tailandia. Thai League 1</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/341642404__/</url>
+  </evento>
+  <evento>
+    <nombre>Sileks – Shkendija</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Macedonia del Norte. 1. MFL</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/341655008__/</url>
+  </evento>
+  <evento>
+    <nombre>Pelister (W) – Cair (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Oporto 2</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/345066470_pelister_w_cair_w/</url>
+  </evento>
+  <evento>
+    <nombre>Hegelmann – Banga</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Lituania. A Lyga</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>14:15</hora>
+    <url>https://livetv.sx/es/eventinfo/344159881__/</url>
+  </evento>
+  <evento>
+    <nombre>Beroe – Arda</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bulgaria. Parva Liga</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>14:15</hora>
+    <url>https://livetv.sx/es/eventinfo/341253785__/</url>
+  </evento>
+  <evento>
+    <nombre>Genk – Standard Lieja</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Pro League</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/341218344__/</url>
+  </evento>
+  <evento>
+    <nombre>Simulcast</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/342839618_simulcast/</url>
+  </evento>
+  <evento>
+    <nombre>Preussen Muenster – Kaiserslautern</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/341645979__/</url>
+  </evento>
+  <evento>
+    <nombre>Paderborn – Hertha Berlín</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/341645980__/</url>
+  </evento>
+  <evento>
+    <nombre>Hannover 96 – Dinamo Dresde</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/341645981__/</url>
+  </evento>
+  <evento>
+    <nombre>Lion City Sailors – Tampines Rovers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Singapur. S-League</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/341648549__/</url>
+  </evento>
+  <evento>
+    <nombre>1860 Múnich – Hansa Rostock</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 3 Bundesliga</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/341646002__/</url>
+  </evento>
+  <evento>
     <nombre>SonderjyskE – Odense</nombre>
     <deporte>Hockey</deporte>
     <competicion>Dinamarca. Metal Ligaen</competicion>
@@ -5537,76 +5361,12 @@
     <url>https://livetv.sx/es/eventinfo/341055000__/</url>
   </evento>
   <evento>
-    <nombre>Unia Oswiecim – TTH Torun</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Polonia. PLH</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340929959__/</url>
-  </evento>
-  <evento>
-    <nombre>Tychy – Jastrzebie</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Polonia. PLH</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340929960__/</url>
-  </evento>
-  <evento>
-    <nombre>Kungalv – Visby Roma</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340944942__/</url>
-  </evento>
-  <evento>
-    <nombre>Grums – Jarfalla</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340944943__/</url>
-  </evento>
-  <evento>
-    <nombre>Nykoeping – Boraas</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340944944__/</url>
-  </evento>
-  <evento>
-    <nombre>Dalen – Karlskrona HK</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340944945__/</url>
-  </evento>
-  <evento>
-    <nombre>Mjoelby – Huddinge</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340944946__/</url>
-  </evento>
-  <evento>
     <nombre>Tyringe – Graestorp</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. Hockeyettan. Sur</competicion>
     <fecha>20 de febrero</fecha>
     <hora>20:00</hora>
     <url>https://livetv.sx/es/eventinfo/340944947__/</url>
-  </evento>
-  <evento>
-    <nombre>Hanvikens – Vasterviks</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Suecia. Hockeyettan. Sur</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340944948__/</url>
   </evento>
   <evento>
     <nombre>Vita Hasten – Tingsryds</nombre>
@@ -5929,6 +5689,30 @@
     <url>https://livetv.sx/es/eventinfo/345395925__/</url>
   </evento>
   <evento>
+    <nombre>Assat Sub-20 –  Pelicans Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
+    <fecha>21 de febrero</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/345420029__/</url>
+  </evento>
+  <evento>
+    <nombre>SaiPa Sub-20 –  Lukko Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
+    <fecha>21 de febrero</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/345420030__/</url>
+  </evento>
+  <evento>
+    <nombre>KalPa Sub-20 –  Tappara Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
+    <fecha>21 de febrero</fecha>
+    <hora>12:15</hora>
+    <url>https://livetv.sx/es/eventinfo/345420031__/</url>
+  </evento>
+  <evento>
     <nombre>Lulea U20 – Mora U20</nombre>
     <deporte>Hockey</deporte>
     <competicion>Suecia. J20 Nationell</competicion>
@@ -5975,6 +5759,22 @@
     <fecha>21 de febrero</fecha>
     <hora>13:30</hora>
     <url>https://livetv.sx/es/eventinfo/341193620__/</url>
+  </evento>
+  <evento>
+    <nombre>Kiekko-Espoo Sub-20 –  Ilves Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
+    <fecha>21 de febrero</fecha>
+    <hora>13:40</hora>
+    <url>https://livetv.sx/es/eventinfo/345420032__/</url>
+  </evento>
+  <evento>
+    <nombre>Sport Vaasan Sub-20 –  RoKi Sub-20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
+    <fecha>21 de febrero</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/345420033__/</url>
   </evento>
   <evento>
     <nombre>Ártico – Briansk</nombre>
@@ -8993,20 +8793,12 @@
     <url>https://livetv.sx/es/eventinfo/342610134__/</url>
   </evento>
   <evento>
-    <nombre>Fenerbahce – Turk Telekom</nombre>
+    <nombre>Wilki Morskie – Zielona Gora</nombre>
     <deporte>Baloncesto</deporte>
-    <competicion>Turquía. Copa</competicion>
+    <competicion>Polonia. Copa</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>19:45</hora>
-    <url>https://livetv.sx/es/eventinfo/344773878__/</url>
-  </evento>
-  <evento>
-    <nombre>Boraas – Hoegsbo</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Suecia. Basketligan</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:04</hora>
-    <url>https://livetv.sx/es/eventinfo/344820645__/</url>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/345415531__/</url>
   </evento>
   <evento>
     <nombre>Barcelona – Murcia</nombre>
@@ -9071,46 +8863,6 @@
     <fecha>21 de febrero</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/341054215__/</url>
-  </evento>
-  <evento>
-    <nombre>Tukums – Ventspils</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/345292349__/</url>
-  </evento>
-  <evento>
-    <nombre>Municipal Targoviste (M) –  Arad (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Rumania. Mujeres. Copa</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/345037655__/</url>
-  </evento>
-  <evento>
-    <nombre>Sigulda/Mapri Buve – Daugavpils Sporta skola</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345384225_sigulda_mapri_buve_daugavpils_sporta_skola/</url>
-  </evento>
-  <evento>
-    <nombre>Livani – Limbazi</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345292350__/</url>
-  </evento>
-  <evento>
-    <nombre>Jekabpils – Ogre</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Letonia. NBL</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345361729__/</url>
   </evento>
   <evento>
     <nombre>Borac – Igokea</nombre>
@@ -11801,6 +11553,14 @@
     <url>https://livetv.sx/es/eventinfo/341683031__/</url>
   </evento>
   <evento>
+    <nombre>Fenerbahce – Besiktas</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Turquía. Copa</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/345428332__/</url>
+  </evento>
+  <evento>
     <nombre>Omis – Kastela</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Croacia. Prva Liga</competicion>
@@ -12135,6 +11895,14 @@
     <fecha>22 de febrero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/341761655__/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Najma – Nuwaidrat</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Bahréin. Liga Premier</competicion>
+    <fecha>22 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/345416437__/</url>
   </evento>
   <evento>
     <nombre>Mogi das Cruzes – São José</nombre>
@@ -12945,6 +12713,62 @@
     <url>https://livetv.sx/es/eventinfo/342429173__/</url>
   </evento>
   <evento>
+    <nombre>Portland – Minnesota</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342441482__/</url>
+  </evento>
+  <evento>
+    <nombre>LA Lakers – Orlando</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>05:30</hora>
+    <url>https://livetv.sx/es/eventinfo/342447256__/</url>
+  </evento>
+  <evento>
+    <nombre>Nevada Wolf Pack – New Mexico Lobos</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>06:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342452786__/</url>
+  </evento>
+  <evento>
+    <nombre>UCLA Bruins – USC Trojans</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>06:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342452787__/</url>
+  </evento>
+  <evento>
+    <nombre>BYU Cougars – UCF Knights</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>06:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342452788__/</url>
+  </evento>
+  <evento>
+    <nombre>Astana – Barsy Atirau</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Kazajistán. Liga Nacional</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342566427__/</url>
+  </evento>
+  <evento>
+    <nombre>KP Brno (M) –  DSK Brandys (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>República Checa. Mujeres. ZBL</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344171459__/</url>
+  </evento>
+  <evento>
     <nombre>Elina Svitolina (M) –  Cori Gauff (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Dubai</competicion>
@@ -12989,7 +12813,7 @@
     <deporte>Tenis</deporte>
     <competicion>ATP. Delray Beach</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>21:45</hora>
+    <hora>22:30</hora>
     <url>https://livetv.sx/es/eventinfo/344935717__/</url>
   </evento>
   <evento>
@@ -12997,16 +12821,8 @@
     <deporte>Tenis</deporte>
     <competicion>ATP. Rio de Janeiro</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>23:30</hora>
+    <hora>23:40</hora>
     <url>https://livetv.sx/es/eventinfo/345233461__/</url>
-  </evento>
-  <evento>
-    <nombre>Thiago Tirante – Alejandro Tabilo</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Rio de Janeiro</competicion>
-    <fecha>21 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/344923146__/</url>
   </evento>
   <evento>
     <nombre>Learner Tien – Francis Tiafoe</nombre>
@@ -13017,28 +12833,12 @@
     <url>https://livetv.sx/es/eventinfo/345164500__/</url>
   </evento>
   <evento>
-    <nombre>Moise Kouame – Nishesh Basavareddy</nombre>
+    <nombre>Thiago Tirante – Alejandro Tabilo</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Lille</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>17:20</hora>
-    <url>https://livetv.sx/es/eventinfo/345106134__/</url>
-  </evento>
-  <evento>
-    <nombre>Viktorija Golubic (M) –  Kaitlin Quevedo (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Oeiras 2</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>17:30</hora>
-    <url>https://livetv.sx/es/eventinfo/344816298__/</url>
-  </evento>
-  <evento>
-    <nombre>Guido Ivan Justo – Bruno Fernandez</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Tigre</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>17:35</hora>
-    <url>https://livetv.sx/es/eventinfo/345120780__/</url>
+    <competicion>ATP. Rio de Janeiro</competicion>
+    <fecha>21 de febrero</fecha>
+    <hora>01:10</hora>
+    <url>https://livetv.sx/es/eventinfo/344923146__/</url>
   </evento>
   <evento>
     <nombre>Draxl / Maginley – Olivetti / Arribage</nombre>
@@ -13129,22 +12929,6 @@
     <url>https://livetv.sx/es/eventinfo/345178966__/</url>
   </evento>
   <evento>
-    <nombre>Dutra da Silva / Pereira – Kestelboim / Prado Angelo</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Tigre. Doubles</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>21:15</hora>
-    <url>https://livetv.sx/es/eventinfo/345106175__/</url>
-  </evento>
-  <evento>
-    <nombre>Katherine Sebov (M) –  Mary Stoiana (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Midland</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>21:25</hora>
-    <url>https://livetv.sx/es/eventinfo/344816284__/</url>
-  </evento>
-  <evento>
     <nombre>Borna Gojo – Bernard Tomic</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Metepec</competicion>
@@ -13153,11 +12937,27 @@
     <url>https://livetv.sx/es/eventinfo/344832033__/</url>
   </evento>
   <evento>
+    <nombre>Katherine Sebov (M) –  Mary Stoiana (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Midland</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/344816284__/</url>
+  </evento>
+  <evento>
+    <nombre>Dutra da Silva / Pereira – Kestelboim / Prado Angelo</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Tigre. Doubles</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>21:55</hora>
+    <url>https://livetv.sx/es/eventinfo/345106175__/</url>
+  </evento>
+  <evento>
     <nombre>Alexander Blockx – Benjamin Bonzi</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Lille</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>21:30</hora>
+    <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/345044799__/</url>
   </evento>
   <evento>
@@ -13165,7 +12965,7 @@
     <deporte>Tenis</deporte>
     <competicion>ATP. Rio de Janeiro</competicion>
     <fecha>20 de febrero</fecha>
-    <hora>22:00</hora>
+    <hora>22:10</hora>
     <url>https://livetv.sx/es/eventinfo/345164516__/</url>
   </evento>
   <evento>
@@ -13313,14 +13113,6 @@
     <url>https://livetv.sx/es/eventinfo/345392436__/</url>
   </evento>
   <evento>
-    <nombre>Alina Korneeva (M) –  Dominika Salkova (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Les Sables-d'Olonne</competicion>
-    <fecha>21 de febrero</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345366105__/</url>
-  </evento>
-  <evento>
     <nombre>Nikoloz Basilashvili – Alexander Shevchenko</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Dubai. Clasificatoria</competicion>
@@ -13361,6 +13153,14 @@
     <url>https://livetv.sx/es/eventinfo/345378803__/</url>
   </evento>
   <evento>
+    <nombre>Lautaro Midon – Carlos Sánchez Jover</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Tigre</competicion>
+    <fecha>21 de febrero</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/345424386__/</url>
+  </evento>
+  <evento>
     <nombre>Paul / Vocel – Liutarevich / Pieczonka</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Lille. Doubles</competicion>
@@ -13377,6 +13177,22 @@
     <url>https://livetv.sx/es/eventinfo/345378754__/</url>
   </evento>
   <evento>
+    <nombre>Alina Korneeva (M) –  Dominika Salkova (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Les Sables-d'Olonne</competicion>
+    <fecha>21 de febrero</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/345366105__/</url>
+  </evento>
+  <evento>
+    <nombre>Elina Svitolina (M) –  Jessica Pegula (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Dubai</competicion>
+    <fecha>21 de febrero</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/345415953__/</url>
+  </evento>
+  <evento>
     <nombre>Draxl / Maginley – Krajicek / Mektic</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Delray Beach. Doubles</competicion>
@@ -13391,6 +13207,14 @@
     <fecha>21 de febrero</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/345092403__/</url>
+  </evento>
+  <evento>
+    <nombre>Alina Charaeva (M) –  Daria Vidmanova (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Midland</competicion>
+    <fecha>21 de febrero</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/345424435__/</url>
   </evento>
   <evento>
     <nombre>Corley (M) /  Corley (M) –  Hruncakova (M) /  Knutson (M)</nombre>
@@ -13413,32 +13237,8 @@
     <deporte>Tenis</deporte>
     <competicion>WTA. Les Sables-d'Olonne</competicion>
     <fecha>21 de febrero</fecha>
-    <hora>18:00</hora>
+    <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/345407758__/</url>
-  </evento>
-  <evento>
-    <nombre>Montana – Deya Sport</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Bulgaria. Superliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/344808483__/</url>
-  </evento>
-  <evento>
-    <nombre>Nis – Partizan</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Serbia. Superliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/340930356__/</url>
-  </evento>
-  <evento>
-    <nombre>Chemik Police (M) –  Bydgoszcz (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Polonia. Mujeres. MP</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340943583__/</url>
   </evento>
   <evento>
     <nombre>Kedzierzyn-Kozle – Olsztyn</nombre>
@@ -13447,14 +13247,6 @@
     <fecha>20 de febrero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/340958240__/</url>
-  </evento>
-  <evento>
-    <nombre>Boston College Santiago (W) – Olympic (W)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Campeonato Sudamericano de Clubes</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>21:45</hora>
-    <url>https://livetv.sx/es/eventinfo/344868174_boston_college_santiago_w_olympic_w/</url>
   </evento>
   <evento>
     <nombre>Barueri (M) –  Fluminense (M)</nombre>
@@ -14673,6 +14465,14 @@
     <url>https://livetv.sx/es/eventinfo/342585570__/</url>
   </evento>
   <evento>
+    <nombre>Unión La Calera –  Ñublense</nombre>
+    <deporte>Boxeo</deporte>
+    <competicion>Chile. Primera División</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/340992237_uni__n_la_calera___ublense/</url>
+  </evento>
+  <evento>
     <nombre>Leigh Wood – Josh Warrington</nombre>
     <deporte>Boxeo</deporte>
     <competicion>Boxeo</competicion>
@@ -15169,38 +14969,6 @@
     <url>https://livetv.sx/es/eventinfo/344259132_aks_vest_deva_deva/</url>
   </evento>
   <evento>
-    <nombre>Wetzlar – Leipzig</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Alemania. Bundesliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340941457__/</url>
-  </evento>
-  <evento>
-    <nombre>Logroño La Rioja – Cuenca</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>España. Liga ASOBAL</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/341275816__/</url>
-  </evento>
-  <evento>
-    <nombre>Balingen/W – Luebeck Schwartau</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Alemania. 2 Bundesliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/344978387__/</url>
-  </evento>
-  <evento>
-    <nombre>Oppenweiler/Backnang – Essen</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Alemania. 2 Bundesliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/344978388__/</url>
-  </evento>
-  <evento>
     <nombre>Toulouse – Chambery</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Francia. Starligue</competicion>
@@ -15233,6 +15001,14 @@
     <url>https://livetv.sx/es/eventinfo/340956058__/</url>
   </evento>
   <evento>
+    <nombre>Eintracht Hagen – Ferndorf</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>20 de febrero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344978389__/</url>
+  </evento>
+  <evento>
     <nombre>Barcelona – CB Villa de Aranda</nombre>
     <deporte>Balonmano</deporte>
     <competicion>España. Liga ASOBAL</competicion>
@@ -15247,38 +15023,6 @@
     <fecha>20 de febrero</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/340967154__/</url>
-  </evento>
-  <evento>
-    <nombre>Trimo Trebnje – Izvidac Ljubuski</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>EHF Eurocup</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/340941580__/</url>
-  </evento>
-  <evento>
-    <nombre>Nexe – Trogir</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Croacia. Premijer Liga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/341278650__/</url>
-  </evento>
-  <evento>
-    <nombre>PAOK – Zafeirakis</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Grecia. A1</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345084386__/</url>
-  </evento>
-  <evento>
-    <nombre>Eintracht Hagen – Ferndorf</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Alemania. 2 Bundesliga</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/344978389__/</url>
   </evento>
   <evento>
     <nombre>RIVNE-YOUTH SCHOOL 4 – Real Mykolaiv (W)</nombre>
@@ -16785,6 +16529,22 @@
     <url>https://livetv.sx/es/eventinfo/342618355__/</url>
   </evento>
   <evento>
+    <nombre>GOG – Pelister</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Liga de Campeones de la EHF</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/342635139__/</url>
+  </evento>
+  <evento>
+    <nombre>Kolstad – Nantes</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Liga de Campeones de la EHF</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/342635140__/</url>
+  </evento>
+  <evento>
     <nombre>Leeds Rhinos – York City Knights</nombre>
     <deporte>Rugby</deporte>
     <competicion>Inglaterra. Super League</competicion>
@@ -16887,14 +16647,6 @@
     <fecha>20 de febrero</fecha>
     <hora>20:15</hora>
     <url>https://livetv.sx/es/eventinfo/344231322_olympic_games/</url>
-  </evento>
-  <evento>
-    <nombre>Juegos OlímpicosMujer</nombre>
-    <deporte>Deporte_18</deporte>
-    <competicion>Bobsleigh</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:30</hora>
-    <url>https://livetv.sx/es/eventinfo/342038291_olympic_games/</url>
   </evento>
   <evento>
     <nombre>Juegos Olímpicos</nombre>
@@ -17721,11 +17473,59 @@
     <url>https://livetv.sx/es/eventinfo/342611979__/</url>
   </evento>
   <evento>
-    <nombre>Noruega – Suiza</nombre>
-    <deporte>Deporte_20</deporte>
-    <competicion>Juegos Olímpicos</competicion>
-    <fecha>20 de febrero</fecha>
-    <hora>20:05</hora>
-    <url>https://livetv.sx/es/eventinfo/345290074_norway_switzerland/</url>
+    <nombre>Chi White Sox – Cincinnati</nombre>
+    <deporte>Béisbol</deporte>
+    <competicion>MLB. Pretemporada</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>22:05</hora>
+    <url>https://livetv.sx/es/eventinfo/342643595__/</url>
+  </evento>
+  <evento>
+    <nombre>Cleveland – Texas</nombre>
+    <deporte>Béisbol</deporte>
+    <competicion>MLB. Pretemporada</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>22:05</hora>
+    <url>https://livetv.sx/es/eventinfo/342643596__/</url>
+  </evento>
+  <evento>
+    <nombre>Kansas City – Seattle</nombre>
+    <deporte>Béisbol</deporte>
+    <competicion>MLB. Pretemporada</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>22:05</hora>
+    <url>https://livetv.sx/es/eventinfo/342643597__/</url>
+  </evento>
+  <evento>
+    <nombre>Chi Cubs – Colorado</nombre>
+    <deporte>Béisbol</deporte>
+    <competicion>MLB. Pretemporada</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>22:05</hora>
+    <url>https://livetv.sx/es/eventinfo/342643598__/</url>
+  </evento>
+  <evento>
+    <nombre>Milwaukee – San Francisco</nombre>
+    <deporte>Béisbol</deporte>
+    <competicion>MLB. Pretemporada</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>22:10</hora>
+    <url>https://livetv.sx/es/eventinfo/342643599__/</url>
+  </evento>
+  <evento>
+    <nombre>San Diego – LA Angels</nombre>
+    <deporte>Béisbol</deporte>
+    <competicion>MLB. Pretemporada</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>22:10</hora>
+    <url>https://livetv.sx/es/eventinfo/342643600__/</url>
+  </evento>
+  <evento>
+    <nombre>Arizona – LA Dodgers</nombre>
+    <deporte>Béisbol</deporte>
+    <competicion>MLB. Pretemporada</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>22:10</hora>
+    <url>https://livetv.sx/es/eventinfo/342643601__/</url>
   </evento>
 </eventos>
