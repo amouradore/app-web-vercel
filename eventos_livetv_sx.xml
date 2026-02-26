@@ -1,60 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-02-25 23:36:00" total="2028">
+<eventos generado="2026-02-26 02:40:19" total="2041">
   <evento>
-    <nombre>Remo –  Inter-RS</nombre>
+    <nombre>New Jersey –  Buffalo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342701554_new_jersey_buffalo/</url>
+  </evento>
+  <evento>
+    <nombre>Washington –  Filadelfia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342701555_washington_filadelfia/</url>
+  </evento>
+  <evento>
+    <nombre>Tampa Bay –  Toronto</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/342709969_tampa_bay_toronto/</url>
+  </evento>
+  <evento>
+    <nombre>Detroit –  Oklahoma</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>06:92</hora>
+    <url>https://livetv.sx/es/eventinfo/342701483_detroit_oklahoma/</url>
+  </evento>
+  <evento>
+    <nombre>Memphis –  Golden State</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>94:12</hora>
+    <url>https://livetv.sx/es/eventinfo/342709895_memphis_golden_state/</url>
+  </evento>
+  <evento>
+    <nombre>Toronto –  San Antonio</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>94:93</hora>
+    <url>https://livetv.sx/es/eventinfo/342709896_toronto_san_antonio/</url>
+  </evento>
+  <evento>
+    <nombre>Palmeiras –  Fluminense</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Brasil. Serie A</competicion>
     <fecha>25 de febrero</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342666787_remo_inter_rs/</url>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/342707791_palmeiras_fluminense/</url>
   </evento>
   <evento>
-    <nombre>RB Bragantino –  Athletico-PR</nombre>
+    <nombre>Dallas –  Seattle Kraken</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Brasil. Serie A</competicion>
+    <competicion>No especificado</competicion>
     <fecha>25 de febrero</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342666788_rb_bragantino_athletico_pr/</url>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342718362_dallas_seattle_kraken/</url>
   </evento>
   <evento>
-    <nombre>Vélez Sarsfield –  Deportivo Riestra</nombre>
+    <nombre>Milwaukee –  Cleveland</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Argentina. Liga Profesional</competicion>
+    <competicion>No especificado</competicion>
     <fecha>25 de febrero</fecha>
-    <hora>00:30</hora>
-    <url>https://livetv.sx/es/eventinfo/342674602_v__lez_sarsfield_deportivo_riestra/</url>
+    <hora>92:89</hora>
+    <url>https://livetv.sx/es/eventinfo/342718287_milwaukee_cleveland/</url>
   </evento>
   <evento>
-    <nombre>Newell`s Old Boys –  Estudiantes LP</nombre>
+    <nombre>Houston –  Sacramento</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Argentina. Liga Profesional</competicion>
+    <competicion>No especificado</competicion>
     <fecha>25 de febrero</fecha>
-    <hora>00:30</hora>
-    <url>https://livetv.sx/es/eventinfo/342674603_newells_old_boys_estudiantes_lp/</url>
+    <hora>88:70</hora>
+    <url>https://livetv.sx/es/eventinfo/342718288_houston_sacramento/</url>
   </evento>
   <evento>
-    <nombre>Coritiba –  Sao Paolo</nombre>
+    <nombre>Utah Mammoth –  Colorado</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Brasil. Serie A</competicion>
+    <competicion>No especificado</competicion>
     <fecha>25 de febrero</fecha>
-    <hora>00:30</hora>
-    <url>https://livetv.sx/es/eventinfo/342979635_coritiba_sao_paolo/</url>
-  </evento>
-  <evento>
-    <nombre>Cruzeiro-MG –  Corinthians</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Serie A</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342683019_cruzeiro_mg_corinthians/</url>
-  </evento>
-  <evento>
-    <nombre>ATP. Santiago</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP. Santiago</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>18:10</hora>
-    <url>https://livetv.sx/es/eventinfo/345628586_atp_santiago/</url>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342734459_utah_mammoth_colorado/</url>
   </evento>
   <evento>
     <nombre>WTA. Austin</nombre>
@@ -65,132 +97,12 @@
     <url>https://livetv.sx/es/eventinfo/345628669_wta_austin/</url>
   </evento>
   <evento>
-    <nombre>Dino Prizmic –  Vilius Gaubas</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP. Santiago</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>21:50</hora>
-    <url>https://livetv.sx/es/eventinfo/346794551_dino_prizmic_vilius_gaubas/</url>
-  </evento>
-  <evento>
-    <nombre>Nikola Bartunkova (M) –   Taylor Townsend (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Austin</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>21:55</hora>
-    <url>https://livetv.sx/es/eventinfo/346628669__nikola_bartunkova_m__taylor_townsend_m/</url>
-  </evento>
-  <evento>
-    <nombre>Stollar (M) /  Krueger (M) –   Shibahara (M) /  Aoyama (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Austin. Doubles</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346031651__stollar_m___krueger_m__shibahara_m___aoyama_m/</url>
-  </evento>
-  <evento>
     <nombre>WTA. Merida</nombre>
     <deporte>Fútbol</deporte>
     <competicion>WTA. Mérida</competicion>
     <fecha>25 de febrero</fecha>
     <hora>22:10</hora>
     <url>https://livetv.sx/es/eventinfo/345628828_wta_merida/</url>
-  </evento>
-  <evento>
-    <nombre>Magda Linette (M) –   Victoria  Jimenez Kasintseva (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Mérida</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>22:10</hora>
-    <url>https://livetv.sx/es/eventinfo/346851991__magda_linette_m__victoria__jimenez_kasintseva_m/</url>
-  </evento>
-  <evento>
-    <nombre>Mladenovic (M) /  Guo (M) –   Gleason (M) /  Kempen (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Mérida. Doubles</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>22:10</hora>
-    <url>https://livetv.sx/es/eventinfo/345963603__mladenovic_m___guo_m__gleason_m___kempen_m/</url>
-  </evento>
-  <evento>
-    <nombre>Arthur Bouquier –  Laurent Lokoli</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Saint-Brieuc</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>22:50</hora>
-    <url>https://livetv.sx/es/eventinfo/346794447_arthur_bouquier_laurent_lokoli/</url>
-  </evento>
-  <evento>
-    <nombre>Zeballos / Soto –  Rocha / Faria</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP. Santiago. Clasificatoria</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>23:20</hora>
-    <url>https://livetv.sx/es/eventinfo/347163031_zeballos__soto_rocha__faria/</url>
-  </evento>
-  <evento>
-    <nombre>Ameliano –  Cerro Porteño</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Paraguay. Primera División</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>23:30</hora>
-    <url>https://livetv.sx/es/eventinfo/341802186_ameliano_cerro_porte__o/</url>
-  </evento>
-  <evento>
-    <nombre>McNally (M) /  Birrell (M) –   Jovic (M) /  Stoiana (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Austin. Doubles</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>23:35</hora>
-    <url>https://livetv.sx/es/eventinfo/346031656__mcnally_m___birrell_m__jovic_m___stoiana_m/</url>
-  </evento>
-  <evento>
-    <nombre>Lumsden (M) /  Haverlag (M) –   Zarazua (M) /  Gomez Pezuela Cano (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Mérida. Doubles</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>23:40</hora>
-    <url>https://livetv.sx/es/eventinfo/345963602__lumsden_m___haverlag_m__zarazua_m___gomez_pezuela_cano_m/</url>
-  </evento>
-  <evento>
-    <nombre>RS Berkan –  Raja CA</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Marruecos. Botola Pro</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345068853_rs_berkan_raja_ca/</url>
-  </evento>
-  <evento>
-    <nombre>Água Santa –  Gremio Prudente</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 2</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342666722___gua_santa_gremio_prudente/</url>
-  </evento>
-  <evento>
-    <nombre>Managua –  ART Jalapa</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Nicaragua. Liga Primera</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347017646_managua_art_jalapa/</url>
-  </evento>
-  <evento>
-    <nombre>Bahia –  O`Higgins</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificatoria</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342667741_bahia_ohiggins/</url>
-  </evento>
-  <evento>
-    <nombre>Gremio Sao-Carlense U20 –  Tanabi</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 4</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347019871_gremio_sao_carlense_u20_tanabi/</url>
   </evento>
   <evento>
     <nombre>Zakharova (M) /  Selekhmeteva (M) –   Saisai (M) /  Wang (M)</nombre>
@@ -201,140 +113,12 @@
     <url>https://livetv.sx/es/eventinfo/346031657__zakharova_m___selekhmeteva_m__saisai_m___wang_m/</url>
   </evento>
   <evento>
-    <nombre>Sao Bento –  Linense</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 2</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>00:30</hora>
-    <url>https://livetv.sx/es/eventinfo/342674811_sao_bento_linense/</url>
-  </evento>
-  <evento>
-    <nombre>Francana –  Rio Branco</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 3</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>00:30</hora>
-    <url>https://livetv.sx/es/eventinfo/346815766_francana_rio_branco/</url>
-  </evento>
-  <evento>
-    <nombre>Catanduva –  Marília</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 3</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>00:30</hora>
-    <url>https://livetv.sx/es/eventinfo/346830565_catanduva_mar__lia/</url>
-  </evento>
-  <evento>
-    <nombre>XV de Jau –  Portuguesa Santista</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 3</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>00:30</hora>
-    <url>https://livetv.sx/es/eventinfo/347019870_xv_de_jau_portuguesa_santista/</url>
-  </evento>
-  <evento>
-    <nombre>Vocem –  Inter de Bebedouro</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 4</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>00:30</hora>
-    <url>https://livetv.sx/es/eventinfo/347019872_vocem_inter_de_bebedouro/</url>
-  </evento>
-  <evento>
-    <nombre>Boston Eagles –  Wake Forest Demon Deacons</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>19:23</hora>
-    <url>https://livetv.sx/es/eventinfo/342403078_boston_eagles_wake_forest_demon_deacons/</url>
-  </evento>
-  <evento>
-    <nombre>Furman Paladins –  Citadel Bulldogs</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>27:24</hora>
-    <url>https://livetv.sx/es/eventinfo/342693281_furman_paladins_citadel_bulldogs/</url>
-  </evento>
-  <evento>
-    <nombre>Taubate –  XV de Piracicaba</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 2</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342682949_taubate_xv_de_piracicaba/</url>
-  </evento>
-  <evento>
-    <nombre>São José –  Ituano</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 2</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342682950_s__o_jos___ituano/</url>
-  </evento>
-  <evento>
-    <nombre>Inter de Limeira –  Oeste</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 2</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342682951_inter_de_limeira_oeste/</url>
-  </evento>
-  <evento>
-    <nombre>Ferroviária –  Votuporanguense</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 2</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342682952_ferrovi__ria_votuporanguense/</url>
-  </evento>
-  <evento>
     <nombre>Mariano Navone –  Luciano Darderi</nombre>
     <deporte>Fútbol</deporte>
     <competicion>ATP. Santiago</competicion>
     <fecha>25 de febrero</fecha>
-    <hora>01:00</hora>
+    <hora>01:10</hora>
     <url>https://livetv.sx/es/eventinfo/346837272_mariano_navone_luciano_darderi/</url>
-  </evento>
-  <evento>
-    <nombre>Renata –  Murano</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Campeonato Sudamericano de Clubes</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346440829_renata_murano/</url>
-  </evento>
-  <evento>
-    <nombre>Venezuela U20 (M) –  Colombia U20 (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Campeonato Sudamericano Sub-20</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/344215957_venezuela_u20_m_colombia_u20_m/</url>
-  </evento>
-  <evento>
-    <nombre>Joinville –  Chapecoense</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Supercopa</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346723390_joinville_chapecoense/</url>
-  </evento>
-  <evento>
-    <nombre>Surinam U20 –  French Guiana U20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Clasificatoria</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346435991_surinam_u20_french_guiana_u20/</url>
-  </evento>
-  <evento>
-    <nombre>Qianhui (M) /  Yifan (M) –   Arango (M) /  Sonmez (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Mérida. Doubles</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>01:05</hora>
-    <url>https://livetv.sx/es/eventinfo/345963604__qianhui_m___yifan_m__arango_m___sonmez_m/</url>
   </evento>
   <evento>
     <nombre>Hidalgo / Trhac –  Verbeek / Gille</nombre>
@@ -345,284 +129,572 @@
     <url>https://livetv.sx/es/eventinfo/346794559_hidalgo__trhac_verbeek__gille/</url>
   </evento>
   <evento>
-    <nombre>IUPUI Jaguars –  Oakland Golden Grizzlies</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>01:30</hora>
-    <url>https://livetv.sx/es/eventinfo/342693280_iupui_jaguars_oakland_golden_grizzlies/</url>
-  </evento>
-  <evento>
-    <nombre>Sportivo Trinidense –  Sportivo Luqueño</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Paraguay. Primera División</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>01:30</hora>
-    <url>https://livetv.sx/es/eventinfo/341802187_sportivo_trinidense_sportivo_luque__o/</url>
-  </evento>
-  <evento>
-    <nombre>Olimpia –  Libertad</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Paraguay. Primera División</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>01:30</hora>
-    <url>https://livetv.sx/es/eventinfo/341802190_olimpia_libertad/</url>
-  </evento>
-  <evento>
     <nombre>Emiliana Arango (M) –   Marie Bouzkova (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>WTA. Mérida</competicion>
     <fecha>25 de febrero</fecha>
-    <hora>01:30</hora>
+    <hora>01:45</hora>
     <url>https://livetv.sx/es/eventinfo/346650400__emiliana_arango_m__marie_bouzkova_m/</url>
   </evento>
   <evento>
-    <nombre>NY Yankees –  Washington</nombre>
+    <nombre>Grand Rapids Griffins –  Manitoba Moose</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>MLB. Pretemporada</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>01:35</hora>
-    <url>https://livetv.sx/es/eventinfo/342700701_ny_yankees_washington/</url>
-  </evento>
-  <evento>
-    <nombre>New Jersey –  Buffalo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
+    <competicion>EUA. AHL</competicion>
     <fecha>25 de febrero</fecha>
     <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701554_new_jersey_buffalo/</url>
+    <url>https://livetv.sx/es/eventinfo/342702270_grand_rapids_griffins_manitoba_moose/</url>
   </evento>
   <evento>
-    <nombre>Remo – Inter-RS</nombre>
+    <nombre>Laval Rocket –  Toronto Marlies</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Brasil. Serie A</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342666787__/</url>
-  </evento>
-  <evento>
-    <nombre>RB Bragantino – Athletico-PR</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Serie A</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342666788__/</url>
-  </evento>
-  <evento>
-    <nombre>Coritiba – Sao Paolo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Serie A</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>00:30</hora>
-    <url>https://livetv.sx/es/eventinfo/342979635__/</url>
-  </evento>
-  <evento>
-    <nombre>Vélez Sarsfield – Deportivo Riestra</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Argentina. Liga Profesional</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>00:30</hora>
-    <url>https://livetv.sx/es/eventinfo/342674602__/</url>
-  </evento>
-  <evento>
-    <nombre>Newell`s Old Boys – Estudiantes LP</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Argentina. Liga Profesional</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>00:30</hora>
-    <url>https://livetv.sx/es/eventinfo/342674603__/</url>
-  </evento>
-  <evento>
-    <nombre>Cruzeiro-MG – Corinthians</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Serie A</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342683019__/</url>
-  </evento>
-  <evento>
-    <nombre>Cincinnati – OM</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa de Campeones de la Concacaf</competicion>
-    <fecha>26 de febrero</fecha>
+    <competicion>EUA. AHL</competicion>
+    <fecha>25 de febrero</fecha>
     <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342700347__/</url>
+    <url>https://livetv.sx/es/eventinfo/342702271_laval_rocket_toronto_marlies/</url>
   </evento>
   <evento>
-    <nombre>Godoy Cruz – Deportivo Morón</nombre>
+    <nombre>Nicaragua –  Cuba</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Torneo amistoso</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347036218_nicaragua_cuba/</url>
+  </evento>
+  <evento>
+    <nombre>ATP. Acapulco</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP. Acapulco</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/345938554_atp_acapulco/</url>
+  </evento>
+  <evento>
+    <nombre>Terence Atmane –  Rafael Jodar</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP. Acapulco</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/346909928_terence_atmane_rafael_jodar/</url>
+  </evento>
+  <evento>
+    <nombre>Dalibor Svrcina –  Flavio Cobolli</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP. Acapulco</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/346909939_dalibor_svrcina_flavio_cobolli/</url>
+  </evento>
+  <evento>
+    <nombre>Harrison / Skupski –  Andreozzi / Guinard</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP. Acapulco. Doubles</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/345866830_harrison__skupski_andreozzi__guinard/</url>
+  </evento>
+  <evento>
+    <nombre>Lehigh Valley Phantoms –  Providence Bruins</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. AHL</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:05</hora>
+    <url>https://livetv.sx/es/eventinfo/342710682_lehigh_valley_phantoms_providence_bruins/</url>
+  </evento>
+  <evento>
+    <nombre>Wheeling Nailers –  Fort Wayne Komets</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. ECHL</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:10</hora>
+    <url>https://livetv.sx/es/eventinfo/347025565_wheeling_nailers_fort_wayne_komets/</url>
+  </evento>
+  <evento>
+    <nombre>Godoy Cruz –  Deportivo Morón</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Argentina. Copa</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:15</hora>
-    <url>https://livetv.sx/es/eventinfo/342650143__/</url>
-  </evento>
-  <evento>
-    <nombre>Gremio-RS – Atlético-MG</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Serie A</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:30</hora>
-    <url>https://livetv.sx/es/eventinfo/342707790__/</url>
-  </evento>
-  <evento>
-    <nombre>Palmeiras – Fluminense</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Serie A</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:30</hora>
-    <url>https://livetv.sx/es/eventinfo/342707791__/</url>
-  </evento>
-  <evento>
-    <nombre>Ameliano – Cerro Porteño</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Paraguay. Primera División</competicion>
     <fecha>25 de febrero</fecha>
-    <hora>23:30</hora>
-    <url>https://livetv.sx/es/eventinfo/341802186__/</url>
+    <hora>02:15</hora>
+    <url>https://livetv.sx/es/eventinfo/342650143_godoy_cruz_deportivo_mor__n/</url>
   </evento>
   <evento>
-    <nombre>RS Berkan – Raja CA</nombre>
+    <nombre>Alexander Zverev –  Miomir Kecmanovic</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Marruecos. Botola Pro</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345068853__/</url>
+    <competicion>ATP. Acapulco</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:15</hora>
+    <url>https://livetv.sx/es/eventinfo/346936706_alexander_zverev_miomir_kecmanovic/</url>
   </evento>
   <evento>
-    <nombre>Managua – ART Jalapa</nombre>
+    <nombre>Townsend (M) /  Hunter (M) –   Williams (M) /  Stearns (M)</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Nicaragua. Liga Primera</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347017646__/</url>
+    <competicion>WTA. Austin. Doubles</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:15</hora>
+    <url>https://livetv.sx/es/eventinfo/346031658__townsend_m___hunter_m__williams_m___stearns_m/</url>
   </evento>
   <evento>
-    <nombre>Bahia – O`Higgins</nombre>
+    <nombre>Gremio-RS –  Atlético-MG</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Copa Libertadores. Clasificatoria</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342667741__/</url>
+    <competicion>Brasil. Serie A</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/342707790_gremio_rs_atl__tico_mg/</url>
   </evento>
   <evento>
-    <nombre>Água Santa – Gremio Prudente</nombre>
+    <nombre>Providence Friars –  Xavier Musketeers</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 2</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342666722__/</url>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/342409697_providence_friars_xavier_musketeers/</url>
   </evento>
   <evento>
-    <nombre>Francana – Rio Branco</nombre>
+    <nombre>Belmont Bruins –  Evansville Purple Aces</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 3</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>00:30</hora>
-    <url>https://livetv.sx/es/eventinfo/346815766__/</url>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/342709825_belmont_bruins_evansville_purple_aces/</url>
   </evento>
   <evento>
-    <nombre>Sao Bento – Linense</nombre>
+    <nombre>Tulane Green Wave –  Tulsa Golden Hurricane</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 2</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>00:30</hora>
-    <url>https://livetv.sx/es/eventinfo/342674811__/</url>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/342709826_tulane_green_wave_tulsa_golden_hurricane/</url>
   </evento>
   <evento>
-    <nombre>Catanduva – Marília</nombre>
+    <nombre>Botafogo-RJ –  Nacional Potosí</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 3</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>00:30</hora>
-    <url>https://livetv.sx/es/eventinfo/346830565__/</url>
+    <competicion>Clasificatoria</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/342708744_botafogo_rj_nacional_potos__/</url>
   </evento>
   <evento>
-    <nombre>Taubate – XV de Piracicaba</nombre>
+    <nombre>Argentinos Juniors –  Barcelona SC</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 2</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342682949__/</url>
+    <competicion>Clasificatoria</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/342708745_argentinos_juniors_barcelona_sc/</url>
   </evento>
   <evento>
-    <nombre>São José – Ituano</nombre>
+    <nombre>Cincinnati Cyclones –  Toledo Walleye</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 2</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342682950__/</url>
+    <competicion>EUA. ECHL</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>02:35</hora>
+    <url>https://livetv.sx/es/eventinfo/347025566_cincinnati_cyclones_toledo_walleye/</url>
   </evento>
   <evento>
-    <nombre>Inter de Limeira – Oeste</nombre>
+    <nombre>UTSA Roadrunners –  East Carolina Pirates</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 2</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342682951__/</url>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>73:73</hora>
+    <url>https://livetv.sx/es/eventinfo/342718210_utsa_roadrunners_east_carolina_pirates/</url>
   </evento>
   <evento>
-    <nombre>Ferroviária – Votuporanguense</nombre>
+    <nombre>Rice Owls –  South Florida Bulls</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 2</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342682952__/</url>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>45:65</hora>
+    <url>https://livetv.sx/es/eventinfo/342718211_rice_owls_south_florida_bulls/</url>
   </evento>
   <evento>
-    <nombre>Venezuela U20 (M) – Colombia U20 (M)</nombre>
+    <nombre>James Madison Dukes –  Georgia Southern Eagles</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Campeonato Sudamericano Sub-20</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/344215957_venezuela_u20_w_colombia_u20_w/</url>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>65:54</hora>
+    <url>https://livetv.sx/es/eventinfo/342718212_james_madison_dukes_georgia_southern_eagles/</url>
   </evento>
   <evento>
-    <nombre>Surinam U20 – French Guiana U20</nombre>
+    <nombre>Illinois Salukis –  Indiana Sycamores</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Campeonato Sub-20 de la Concacaf. Clasificatoria</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346435991_suriname_u20_french_guiana_u20/</url>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>62:42</hora>
+    <url>https://livetv.sx/es/eventinfo/342718213_illinois_salukis_indiana_sycamores/</url>
   </evento>
   <evento>
-    <nombre>Sportivo Trinidense – Sportivo Luqueño</nombre>
+    <nombre>Valparaiso Beacons –  Drake Bulldogs</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Paraguay. Primera División</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>01:30</hora>
-    <url>https://livetv.sx/es/eventinfo/341802187__/</url>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>63:67</hora>
+    <url>https://livetv.sx/es/eventinfo/342718214_valparaiso_beacons_drake_bulldogs/</url>
   </evento>
   <evento>
-    <nombre>Olimpia – Libertad</nombre>
+    <nombre>Stanford Cardinal –  Pittsburgh Panthers</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Paraguay. Primera División</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>01:30</hora>
-    <url>https://livetv.sx/es/eventinfo/341802190__/</url>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>57:63</hora>
+    <url>https://livetv.sx/es/eventinfo/342718215_stanford_cardinal_pittsburgh_panthers/</url>
   </evento>
   <evento>
-    <nombre>Santa Fe – Atlético Nacional</nombre>
+    <nombre>Milwaukee Panthers –  Youngstown Penguins</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Colombia. Primera A</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345068599__/</url>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>64:56</hora>
+    <url>https://livetv.sx/es/eventinfo/342718216_milwaukee_panthers_youngstown_penguins/</url>
   </evento>
   <evento>
-    <nombre>Turks and Caicos Islands U20 – Jamaica U20</nombre>
+    <nombre>AEW DYNAMITE</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Campeonato Sub-20 de la Concacaf. Clasificatoria</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346435992_turks_and_caicos_islands_u20_jamaica_u20/</url>
+    <competicion>Lucha</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347047081_aew_dynamite/</url>
   </evento>
   <evento>
-    <nombre>Matagalpa – Export Sebaco</nombre>
+    <nombre>Comunicaciones –  Municipal</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Nicaragua. Liga Primera</competicion>
+    <competicion>Guatemala. Liga Nacional</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342716291_comunicaciones_municipal/</url>
+  </evento>
+  <evento>
+    <nombre>Rio Grande Valley Vipers –  San Diego Clippers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NBA. G League</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347025625_rio_grande_valley_vipers_san_diego_clippers/</url>
+  </evento>
+  <evento>
+    <nombre>Iowa Heartlanders –  Bloomington Bison</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. ECHL</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347025567_iowa_heartlanders_bloomington_bison/</url>
+  </evento>
+  <evento>
+    <nombre>Argentina U20 (M) –  Paraguay U20 (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Campeonato Sudamericano Sub-20</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344215958_argentina_u20_m_paraguay_u20_m/</url>
+  </evento>
+  <evento>
+    <nombre>Kansas City –  Allen Americans</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. ECHL</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>03:05</hora>
+    <url>https://livetv.sx/es/eventinfo/347025568_kansas_city_allen_americans/</url>
+  </evento>
+  <evento>
+    <nombre>HSBC Women's World Championship</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>LPGA Tour</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>03:30</hora>
+    <url>https://livetv.sx/es/eventinfo/346445934_hsbc_womens_world_championship/</url>
+  </evento>
+  <evento>
+    <nombre>Austin-Peay-Governors –  Central Arkansas Sugar</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>46:44</hora>
+    <url>https://livetv.sx/es/eventinfo/342726311_austin_peay_governors_central_arkansas_sugar/</url>
+  </evento>
+  <evento>
+    <nombre>South Alabama Jaguars –  Louisiana Monroe Warhawks</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>54:27</hora>
+    <url>https://livetv.sx/es/eventinfo/342726312_south_alabama_jaguars_louisiana_monroe_warhawks/</url>
+  </evento>
+  <evento>
+    <nombre>North Alabama Lions –  Bellarmine</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>03:45</hora>
+    <url>https://livetv.sx/es/eventinfo/342734305_north_alabama_lions_bellarmine/</url>
+  </evento>
+  <evento>
+    <nombre>Yue Yuan (M) –   Dalma Galfi (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>WTA. Austin</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>03:45</hora>
+    <url>https://livetv.sx/es/eventinfo/346895613__yue_yuan_m__dalma_galfi_m/</url>
+  </evento>
+  <evento>
+    <nombre>Katie Boulter (M) –   Camila Osorio (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>WTA. Mérida</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>03:55</hora>
+    <url>https://livetv.sx/es/eventinfo/346851992__katie_boulter_m__camila_osorio_m/</url>
+  </evento>
+  <evento>
+    <nombre>Stockton Heat –  San José Barracuda</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. AHL</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342735161_stockton_heat_san_jos___barracuda/</url>
+  </evento>
+  <evento>
+    <nombre>Iowa Hawkeyes –  Ohio Buckeyes</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>21:15</hora>
+    <url>https://livetv.sx/es/eventinfo/342734306_iowa_hawkeyes_ohio_buckeyes/</url>
+  </evento>
+  <evento>
+    <nombre>Grand Canyon Antelopes –  UNLV Runnin Rebels</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>22:12</hora>
+    <url>https://livetv.sx/es/eventinfo/342734307_grand_canyon_antelopes_unlv_runnin_rebels/</url>
+  </evento>
+  <evento>
+    <nombre>Colorado Buffaloes –  Kansas Wildcats</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>26:14</hora>
+    <url>https://livetv.sx/es/eventinfo/342734308_colorado_buffaloes_kansas_wildcats/</url>
+  </evento>
+  <evento>
+    <nombre>Gonzaga-Bulldogs –  Portland Pilots</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>30:19</hora>
+    <url>https://livetv.sx/es/eventinfo/342734309_gonzaga_bulldogs_portland_pilots/</url>
+  </evento>
+  <evento>
+    <nombre>Pepperdine Waves –  Seattle Redhawks</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>25:31</hora>
+    <url>https://livetv.sx/es/eventinfo/342734310_pepperdine_waves_seattle_redhawks/</url>
+  </evento>
+  <evento>
+    <nombre>Ole Miss Rebels –  LSU Tigers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>28:24</hora>
+    <url>https://livetv.sx/es/eventinfo/342734311_ole_miss_rebels_lsu_tigers/</url>
+  </evento>
+  <evento>
+    <nombre>Alabama Crimson Tide –  Missisipi Bulldogs</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>42:22</hora>
+    <url>https://livetv.sx/es/eventinfo/342734312_alabama_crimson_tide_missisipi_bulldogs/</url>
+  </evento>
+  <evento>
+    <nombre>Creighton Bluejays –  DePaul Blue Demons</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>27:19</hora>
+    <url>https://livetv.sx/es/eventinfo/342734313_creighton_bluejays_depaul_blue_demons/</url>
+  </evento>
+  <evento>
+    <nombre>Arkansas Razorbacks –  Texas Aggies</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>22:18</hora>
+    <url>https://livetv.sx/es/eventinfo/343020553_arkansas_razorbacks_texas_aggies/</url>
+  </evento>
+  <evento>
+    <nombre>México –  Islandia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso. Selecciones</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347152557_m__xico_islandia/</url>
+  </evento>
+  <evento>
+    <nombre>Sen-Marten do 20 –  Salvador U20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificatoria</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/346435993_sen_marten_do_20_salvador_u20/</url>
+  </evento>
+  <evento>
+    <nombre>San Martín Sub-20 –   Salvador Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificatoria</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347228138__san_mart__n_sub_20__salvador_sub_20/</url>
+  </evento>
+  <evento>
+    <nombre>Colorado Eagles –  Bakersfield Condors</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. AHL</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>04:05</hora>
+    <url>https://livetv.sx/es/eventinfo/342742658_colorado_eagles_bakersfield_condors/</url>
+  </evento>
+  <evento>
+    <nombre>Haase / Frantzen –  Erler / Galloway</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP. Acapulco. Doubles</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>04:05</hora>
+    <url>https://livetv.sx/es/eventinfo/345866828_haase__frantzen_erler__galloway/</url>
+  </evento>
+  <evento>
+    <nombre>Idaho Steelheads –  Wichita Thunder</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. ECHL</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>04:10</hora>
+    <url>https://livetv.sx/es/eventinfo/347025569_idaho_steelheads_wichita_thunder/</url>
+  </evento>
+  <evento>
+    <nombre>Utah Grizzlies –  Tahoe Knight Monsters</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. ECHL</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>04:10</hora>
+    <url>https://livetv.sx/es/eventinfo/347025570_utah_grizzlies_tahoe_knight_monsters/</url>
+  </evento>
+  <evento>
+    <nombre>Brandon Nakashima –  Patrick Kypson</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP. Acapulco</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>04:10</hora>
+    <url>https://livetv.sx/es/eventinfo/346650298_brandon_nakashima_patrick_kypson/</url>
+  </evento>
+  <evento>
+    <nombre>Francis Tiafoe –  Aleksandar Kovacevic</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP. Acapulco</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>04:15</hora>
+    <url>https://livetv.sx/es/eventinfo/346936705_francis_tiafoe_aleksandar_kovacevic/</url>
+  </evento>
+  <evento>
+    <nombre>Yibing Wu –  Sho Shimabukuro</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP. Acapulco</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>04:15</hora>
+    <url>https://livetv.sx/es/eventinfo/346960512_yibing_wu_sho_shimabukuro/</url>
+  </evento>
+  <evento>
+    <nombre>Qianhui (M) /  Yifan (M) –   Arango (M) /  Sonmez (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>WTA. Mérida. Doubles</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>04:15</hora>
+    <url>https://livetv.sx/es/eventinfo/345963604__qianhui_m___yifan_m__arango_m___sonmez_m/</url>
+  </evento>
+  <evento>
+    <nombre>Vancouver –  Cartaginés</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Copa de Campeones de la Concacaf</competicion>
+    <fecha>25 de febrero</fecha>
+    <hora>04:30</hora>
+    <url>https://livetv.sx/es/eventinfo/342733232_vancouver_cartagin__s/</url>
+  </evento>
+  <evento>
+    <nombre>Simulcast</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Europa League</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347110101__/</url>
+    <hora>19:45</hora>
+    <url>https://livetv.sx/es/eventinfo/346538852_simulcast/</url>
+  </evento>
+  <evento>
+    <nombre>Estrella Roja – Lille</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Europa League</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>19:45</hora>
+    <url>https://livetv.sx/es/eventinfo/342915286__/</url>
+  </evento>
+  <evento>
+    <nombre>Viktoria Pilsen – Panathinaikos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Europa League</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>19:45</hora>
+    <url>https://livetv.sx/es/eventinfo/342915287__/</url>
+  </evento>
+  <evento>
+    <nombre>Stuttgart – Celtic</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Europa League</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>19:45</hora>
+    <url>https://livetv.sx/es/eventinfo/342915288__/</url>
+  </evento>
+  <evento>
+    <nombre>Ferencvaros – Ludogorets</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Europa League</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>19:45</hora>
+    <url>https://livetv.sx/es/eventinfo/342915289__/</url>
+  </evento>
+  <evento>
+    <nombre>Rijeka – Omonia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga Europa Conferencia</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>19:45</hora>
+    <url>https://livetv.sx/es/eventinfo/342915314__/</url>
+  </evento>
+  <evento>
+    <nombre>Nottingham Forest – Fenerbahce</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Europa League</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342940982__/</url>
+  </evento>
+  <evento>
+    <nombre>Celta – PAOK</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Europa League</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342940983__/</url>
+  </evento>
+  <evento>
+    <nombre>Bolonia – Brann</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Europa League</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342940984__/</url>
+  </evento>
+  <evento>
+    <nombre>Genk – Dinamo Zagreb</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Europa League</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342940985__/</url>
   </evento>
   <evento>
     <nombre>Botafogo-RJ – Nacional Potosí</nombre>
@@ -641,6 +713,22 @@
     <url>https://livetv.sx/es/eventinfo/342708745__/</url>
   </evento>
   <evento>
+    <nombre>Gremio-RS – Atlético-MG</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Serie A</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/342707790__/</url>
+  </evento>
+  <evento>
+    <nombre>Palmeiras – Fluminense</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Serie A</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/342707791__/</url>
+  </evento>
+  <evento>
     <nombre>Comunicaciones – Municipal</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Guatemala. Liga Nacional</competicion>
@@ -657,28 +745,20 @@
     <url>https://livetv.sx/es/eventinfo/344215958_argentina_u20_w_paraguay_u20_w/</url>
   </evento>
   <evento>
-    <nombre>Sen-Marten do 20 – Salvador U20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Campeonato Sub-20 de la Concacaf. Clasificatoria</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346435993_sen_marten_do_20_salvador_u20/</url>
-  </evento>
-  <evento>
-    <nombre>México – Islandia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Partido amistoso. Selecciones</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347047082_mexico_iceland/</url>
-  </evento>
-  <evento>
     <nombre>México – Islandia</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Partido amistoso. Selecciones</competicion>
     <fecha>26 de febrero</fecha>
     <hora>04:00</hora>
     <url>https://livetv.sx/es/eventinfo/347152557__/</url>
+  </evento>
+  <evento>
+    <nombre>San Martín Sub-20 –  Salvador Sub-20</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Campeonato Sub-20 de la Concacaf. Clasificatoria</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347228138__/</url>
   </evento>
   <evento>
     <nombre>Vancouver – Cartaginés</nombre>
@@ -777,54 +857,6 @@
     <url>https://livetv.sx/es/eventinfo/342910198__/</url>
   </evento>
   <evento>
-    <nombre>Simulcast</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Europa League</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>19:45</hora>
-    <url>https://livetv.sx/es/eventinfo/346538852_simulcast/</url>
-  </evento>
-  <evento>
-    <nombre>Estrella Roja – Lille</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Europa League</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>19:45</hora>
-    <url>https://livetv.sx/es/eventinfo/342915286__/</url>
-  </evento>
-  <evento>
-    <nombre>Viktoria Pilsen – Panathinaikos</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Europa League</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>19:45</hora>
-    <url>https://livetv.sx/es/eventinfo/342915287__/</url>
-  </evento>
-  <evento>
-    <nombre>Stuttgart – Celtic</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Europa League</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>19:45</hora>
-    <url>https://livetv.sx/es/eventinfo/342915288__/</url>
-  </evento>
-  <evento>
-    <nombre>Ferencvaros – Ludogorets</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Europa League</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>19:45</hora>
-    <url>https://livetv.sx/es/eventinfo/342915289__/</url>
-  </evento>
-  <evento>
-    <nombre>Rijeka – Omonia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga Europa Conferencia</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>19:45</hora>
-    <url>https://livetv.sx/es/eventinfo/342915314__/</url>
-  </evento>
-  <evento>
     <nombre>Fiorentina – Jagiellonia</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Liga Europa Conferencia</competicion>
@@ -911,38 +943,6 @@
     <fecha>26 de febrero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/342929439__/</url>
-  </evento>
-  <evento>
-    <nombre>Nottingham Forest – Fenerbahce</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Europa League</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342940982__/</url>
-  </evento>
-  <evento>
-    <nombre>Celta – PAOK</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Europa League</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342940983__/</url>
-  </evento>
-  <evento>
-    <nombre>Bolonia – Brann</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Europa League</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342940984__/</url>
-  </evento>
-  <evento>
-    <nombre>Genk – Dinamo Zagreb</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Europa League</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342940985__/</url>
   </evento>
   <evento>
     <nombre>AZ – Noah</nombre>
@@ -4369,6 +4369,326 @@
     <url>https://livetv.sx/es/eventinfo/346436008_bermuda_u20_sint_maarten_u_20/</url>
   </evento>
   <evento>
+    <nombre>San Galo – Winterthur</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. Superliga</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343525288__/</url>
+  </evento>
+  <evento>
+    <nombre>Stade Ls Ouchy – Étoile Carouge</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. Challenge League</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343525296__/</url>
+  </evento>
+  <evento>
+    <nombre>Goztepe – Eyupspor</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. Superliga</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343951823__/</url>
+  </evento>
+  <evento>
+    <nombre>Galatasaray – Alanyaspor</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. Superliga</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343951825__/</url>
+  </evento>
+  <evento>
+    <nombre>Royal Antwerp – Sint-Truidense</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Pro League</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:15</hora>
+    <url>https://livetv.sx/es/eventinfo/343532167__/</url>
+  </evento>
+  <evento>
+    <nombre>Dortmund – Bayern de Múnich</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343532571__/</url>
+  </evento>
+  <evento>
+    <nombre>Maccabi Bnei Raina – Hapoel Jerusalem</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Israel. Liga Premier</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343532842__/</url>
+  </evento>
+  <evento>
+    <nombre>Kiryat Shemona – Bnei Sajnin</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Israel. Liga Premier</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343532843__/</url>
+  </evento>
+  <evento>
+    <nombre>Hapoel Haifa – Maccabi Tel Aviv</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Israel. Liga Premier</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343532844__/</url>
+  </evento>
+  <evento>
+    <nombre>Atromitos – Panetolikos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Grecia. Super League</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343532646__/</url>
+  </evento>
+  <evento>
+    <nombre>The New Saints – Barry Town Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Gales. Copa de la Liga</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/346774407__/</url>
+  </evento>
+  <evento>
+    <nombre>Leeds Utd – Manchester City</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343531921__/</url>
+  </evento>
+  <evento>
+    <nombre>Partizan – OFK Belgrado</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Superliga</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343505064__/</url>
+  </evento>
+  <evento>
+    <nombre>Mallorca – Real Sociedad</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Primera División</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343532971__/</url>
+  </evento>
+  <evento>
+    <nombre>Real Valladolid – Huesca</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Segunda División</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343532995__/</url>
+  </evento>
+  <evento>
+    <nombre>Granada – Málaga</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Segunda División</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343532996__/</url>
+  </evento>
+  <evento>
+    <nombre>Heracles Almelo – PSV</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eredivisie</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:45</hora>
+    <url>https://livetv.sx/es/eventinfo/343545653__/</url>
+  </evento>
+  <evento>
+    <nombre>Naft Maysan – Al-Talaba</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irak. Liga Premier</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/346493504__/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Qasim – Al-Karkh</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Irak. Liga Premier</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/346493505__/</url>
+  </evento>
+  <evento>
+    <nombre>Nacional – Braga</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Primeira Liga</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343546015__/</url>
+  </evento>
+  <evento>
+    <nombre>UD Leiria – Portimonense</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Segunda Liga</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343435181__/</url>
+  </evento>
+  <evento>
+    <nombre>AS Mónaco – Angers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 1</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343546798__/</url>
+  </evento>
+  <evento>
+    <nombre>Farul – CFR Cluj</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rumania. Liga 1</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343487428__/</url>
+  </evento>
+  <evento>
+    <nombre>Kifisia FC – Levadiakos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Grecia. Super League</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343543767__/</url>
+  </evento>
+  <evento>
+    <nombre>Leones Del Norte – Libertad</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ecuador. Serie A</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344022504__/</url>
+  </evento>
+  <evento>
+    <nombre>Orleans – Rouen</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. National</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343546862__/</url>
+  </evento>
+  <evento>
+    <nombre>Cajamarca – Alianza Lima</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Perú. Liga 1</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>20:15</hora>
+    <url>https://livetv.sx/es/eventinfo/343594203__/</url>
+  </evento>
+  <evento>
+    <nombre>Slask – Chrobry Glogovia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. I Liga</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343568961__/</url>
+  </evento>
+  <evento>
+    <nombre>LKS Lodz – Miedz Legnica</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. I Liga</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343568962__/</url>
+  </evento>
+  <evento>
+    <nombre>Grodzisk Mazowiecki – Polonia Bytom</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. I Liga</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343568963__/</url>
+  </evento>
+  <evento>
+    <nombre>New Jersey – Buffalo</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342701554__/</url>
+  </evento>
+  <evento>
+    <nombre>Washington – Filadelfia</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342701555__/</url>
+  </evento>
+  <evento>
+    <nombre>Tampa Bay – Toronto</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/342709969__/</url>
+  </evento>
+  <evento>
+    <nombre>Dallas – Seattle Kraken</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342718362__/</url>
+  </evento>
+  <evento>
+    <nombre>Utah Mammoth – Colorado</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342734459__/</url>
+  </evento>
+  <evento>
+    <nombre>Vancouver – Winnipeg</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342749168__/</url>
+  </evento>
+  <evento>
+    <nombre>Los Ángeles – Vegas</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342749169__/</url>
+  </evento>
+  <evento>
+    <nombre>Anaheim – Edmonton</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>05:30</hora>
+    <url>https://livetv.sx/es/eventinfo/342756298__/</url>
+  </evento>
+  <evento>
+    <nombre>Florida – Toronto</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342994767__/</url>
+  </evento>
+  <evento>
+    <nombre>Ottawa – Detroit</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342994768__/</url>
+  </evento>
+  <evento>
     <nombre>Hershey Bears – Utica Comets</nombre>
     <deporte>Hockey</deporte>
     <competicion>EUA. AHL</competicion>
@@ -4409,92 +4729,12 @@
     <url>https://livetv.sx/es/eventinfo/342702271__/</url>
   </evento>
   <evento>
-    <nombre>New Jersey – Buffalo</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701554__/</url>
-  </evento>
-  <evento>
-    <nombre>Washington – Filadelfia</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701555__/</url>
-  </evento>
-  <evento>
     <nombre>Lehigh Valley Phantoms – Providence Bruins</nombre>
     <deporte>Hockey</deporte>
     <competicion>EUA. AHL</competicion>
     <fecha>26 de febrero</fecha>
     <hora>02:05</hora>
     <url>https://livetv.sx/es/eventinfo/342710682__/</url>
-  </evento>
-  <evento>
-    <nombre>Tampa Bay – Toronto</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:30</hora>
-    <url>https://livetv.sx/es/eventinfo/342709969__/</url>
-  </evento>
-  <evento>
-    <nombre>Dallas – Seattle Kraken</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342718362__/</url>
-  </evento>
-  <evento>
-    <nombre>Adirondack Thunder – Reading Royals</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>EUA. ECHL</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347025563_adirondack_thunder_reading_royals/</url>
-  </evento>
-  <evento>
-    <nombre>Norfolk Admirals – Greensboro Gargoyles</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>EUA. ECHL</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:05</hora>
-    <url>https://livetv.sx/es/eventinfo/347025564_norfolk_admirals_greensboro_gargoyles/</url>
-  </evento>
-  <evento>
-    <nombre>Wheeling Nailers – Fort Wayne Komets</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>EUA. ECHL</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:10</hora>
-    <url>https://livetv.sx/es/eventinfo/347025565_wheeling_nailers_fort_wayne_komets/</url>
-  </evento>
-  <evento>
-    <nombre>Cincinnati Cyclones – Toledo Walleye</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>EUA. ECHL</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:35</hora>
-    <url>https://livetv.sx/es/eventinfo/347025566_cincinnati_cyclones_toledo_walleye/</url>
-  </evento>
-  <evento>
-    <nombre>Iowa Heartlanders – Bloomington Bison</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>EUA. ECHL</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347025567_iowa_heartlanders_bloomington_bison/</url>
-  </evento>
-  <evento>
-    <nombre>Kansas City – Allen Americans</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>EUA. ECHL</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>03:05</hora>
-    <url>https://livetv.sx/es/eventinfo/347025568_kansas_city_allen_americans/</url>
   </evento>
   <evento>
     <nombre>Stockton Heat – San José Barracuda</nombre>
@@ -4505,14 +4745,6 @@
     <url>https://livetv.sx/es/eventinfo/342735161__/</url>
   </evento>
   <evento>
-    <nombre>Utah Mammoth – Colorado</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342734459__/</url>
-  </evento>
-  <evento>
     <nombre>Colorado Eagles – Bakersfield Condors</nombre>
     <deporte>Hockey</deporte>
     <competicion>EUA. AHL</competicion>
@@ -4521,52 +4753,12 @@
     <url>https://livetv.sx/es/eventinfo/342742658__/</url>
   </evento>
   <evento>
-    <nombre>Idaho Steelheads – Wichita Thunder</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>EUA. ECHL</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>04:10</hora>
-    <url>https://livetv.sx/es/eventinfo/347025569_idaho_steelheads_wichita_thunder/</url>
-  </evento>
-  <evento>
-    <nombre>Utah Grizzlies – Tahoe Knight Monsters</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>EUA. ECHL</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>04:10</hora>
-    <url>https://livetv.sx/es/eventinfo/347025570_utah_grizzlies_tahoe_knight_monsters/</url>
-  </evento>
-  <evento>
     <nombre>San Diego Gulls – Tucson Roadrunners</nombre>
     <deporte>Hockey</deporte>
     <competicion>EUA. AHL</competicion>
     <fecha>26 de febrero</fecha>
     <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/342749870__/</url>
-  </evento>
-  <evento>
-    <nombre>Vancouver – Winnipeg</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>05:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342749168__/</url>
-  </evento>
-  <evento>
-    <nombre>Los Ángeles – Vegas</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>05:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342749169__/</url>
-  </evento>
-  <evento>
-    <nombre>Anaheim – Edmonton</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>05:30</hora>
-    <url>https://livetv.sx/es/eventinfo/342756298__/</url>
   </evento>
   <evento>
     <nombre>Sakhalin (M) – Biryusa (M)</nombre>
@@ -4903,22 +5095,6 @@
     <fecha>26 de febrero</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/342926316__/</url>
-  </evento>
-  <evento>
-    <nombre>Florida – Toronto</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342994767__/</url>
-  </evento>
-  <evento>
-    <nombre>Ottawa – Detroit</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342994768__/</url>
   </evento>
   <evento>
     <nombre>Montreal – NY Islanders</nombre>
@@ -6327,6 +6503,14 @@
     <fecha>28 de febrero</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/343488397__/</url>
+  </evento>
+  <evento>
+    <nombre>Zemgale – Panter Tallin</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Letonia. LHL</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347191951__/</url>
   </evento>
   <evento>
     <nombre>Saipa – HPK</nombre>
@@ -8369,6 +8553,14 @@
     <url>https://livetv.sx/es/eventinfo/344230125__/</url>
   </evento>
   <evento>
+    <nombre>Loko-76 – Belye Medvedi</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/344230126__/</url>
+  </evento>
+  <evento>
     <nombre>Memphis – Golden State</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>No especificado</competicion>
@@ -8409,76 +8601,44 @@
     <url>https://livetv.sx/es/eventinfo/342718288__/</url>
   </evento>
   <evento>
-    <nombre>Boston Eagles – Wake Forest Demon Deacons</nombre>
+    <nombre>Denver – Boston</nombre>
     <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
+    <competicion>No especificado</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342403078__/</url>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342749093__/</url>
   </evento>
   <evento>
-    <nombre>Furman Paladins – Citadel Bulldogs</nombre>
+    <nombre>Indiana – Charlotte</nombre>
     <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342693281__/</url>
-  </evento>
-  <evento>
-    <nombre>IUPUI Jaguars – Oakland Golden Grizzlies</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>01:30</hora>
-    <url>https://livetv.sx/es/eventinfo/342693280__/</url>
-  </evento>
-  <evento>
-    <nombre>South Dakota Coyotes – Nebraska-Omaha Mavericks</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
+    <competicion>No especificado</competicion>
+    <fecha>27 de febrero</fecha>
     <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701394__/</url>
+    <url>https://livetv.sx/es/eventinfo/342994688__/</url>
   </evento>
   <evento>
-    <nombre>West Georgia Wolves – Lipscomb Bisons</nombre>
+    <nombre>Filadelfia – Miami</nombre>
     <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
+    <competicion>No especificado</competicion>
+    <fecha>27 de febrero</fecha>
     <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701395__/</url>
+    <url>https://livetv.sx/es/eventinfo/342994689__/</url>
   </evento>
   <evento>
-    <nombre>Cleveland State Vikings – Northern Kentucky Norse</nombre>
+    <nombre>Atlanta – Washington</nombre>
     <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701396__/</url>
+    <competicion>No especificado</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343001224__/</url>
   </evento>
   <evento>
-    <nombre>Loyola Maryland Greyhounds – Navy Midshipmen</nombre>
+    <nombre>Brooklyn Nets – San Antonio</nombre>
     <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701397__/</url>
-  </evento>
-  <evento>
-    <nombre>American Eagles – Lehigh Mountain Hawks</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701398__/</url>
-  </evento>
-  <evento>
-    <nombre>Eastern Kentucky Colonels – Queens-University-Royals</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701399__/</url>
+    <competicion>No especificado</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>02:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343001225__/</url>
   </evento>
   <evento>
     <nombre>Texas Longhorns – Florida-Gators</nombre>
@@ -8489,92 +8649,12 @@
     <url>https://livetv.sx/es/eventinfo/342701400__/</url>
   </evento>
   <evento>
-    <nombre>East Tennessee Buccaneers – Wofford Terriers</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701401__/</url>
-  </evento>
-  <evento>
     <nombre>Western Carolina Catamounts – Mercer Bears</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
     <fecha>26 de febrero</fecha>
     <hora>02:00</hora>
     <url>https://livetv.sx/es/eventinfo/342701402__/</url>
-  </evento>
-  <evento>
-    <nombre>Northern Iowa Panthers – Illinois Redbirds</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701403__/</url>
-  </evento>
-  <evento>
-    <nombre>Purdue Fort Wayne – Wright Raiders</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701404__/</url>
-  </evento>
-  <evento>
-    <nombre>Robert Morris Colonials – Detroit Mercy Titans</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701405__/</url>
-  </evento>
-  <evento>
-    <nombre>Connecticut Huskies – St John`s Red Storm</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701406__/</url>
-  </evento>
-  <evento>
-    <nombre>Villanova Wildcats – Butler Bulldogs</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701407__/</url>
-  </evento>
-  <evento>
-    <nombre>Boston Terriers – Holy Cross Crusaders</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701408__/</url>
-  </evento>
-  <evento>
-    <nombre>Nebraska Cornhuskers – Maryland Terrapins</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701409__/</url>
-  </evento>
-  <evento>
-    <nombre>St Joseph`s Hawks – George Mason Patriots</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701410__/</url>
-  </evento>
-  <evento>
-    <nombre>Colgate Raiders – Lafayette Leopards</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701411__/</url>
   </evento>
   <evento>
     <nombre>Charlotte 49ers – North Texas Mean Green</nombre>
@@ -8585,44 +8665,12 @@
     <url>https://livetv.sx/es/eventinfo/342701412__/</url>
   </evento>
   <evento>
-    <nombre>Duquesne Dukes – Davidson Wildcats</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701413__/</url>
-  </evento>
-  <evento>
-    <nombre>St Bonaventure Bonnies – Rhode Island Rams</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342701414__/</url>
-  </evento>
-  <evento>
     <nombre>Vanderbilt Commodores – Georgia Bulldogs</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
     <fecha>26 de febrero</fecha>
     <hora>02:00</hora>
     <url>https://livetv.sx/es/eventinfo/342701415__/</url>
-  </evento>
-  <evento>
-    <nombre>Long Island Nets – Maine Celtics</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NBA. G League</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347025623_long_island_nets_maine_celtics/</url>
-  </evento>
-  <evento>
-    <nombre>Osceola Magic – Cleveland Charge</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NBA. G League</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347025624_osceola_magic_cleveland_charge/</url>
   </evento>
   <evento>
     <nombre>Belmont Bruins – Evansville Purple Aces</nombre>
@@ -8703,14 +8751,6 @@
     <fecha>26 de febrero</fecha>
     <hora>03:00</hora>
     <url>https://livetv.sx/es/eventinfo/342718216__/</url>
-  </evento>
-  <evento>
-    <nombre>Rio Grande Valley Vipers – San Diego Clippers</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NBA. G League</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347025625_rio_grande_valley_vipers_san_diego_clippers/</url>
   </evento>
   <evento>
     <nombre>Austin-Peay-Governors – Central Arkansas Sugar</nombre>
@@ -8823,14 +8863,6 @@
     <fecha>26 de febrero</fecha>
     <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/342749020__/</url>
-  </evento>
-  <evento>
-    <nombre>Denver – Boston</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>05:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342749093__/</url>
   </evento>
   <evento>
     <nombre>Oregon Ducks – Wisconsin Badgers</nombre>
@@ -9177,22 +9209,6 @@
     <url>https://livetv.sx/es/eventinfo/342988114__/</url>
   </evento>
   <evento>
-    <nombre>Indiana – Charlotte</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342994688__/</url>
-  </evento>
-  <evento>
-    <nombre>Filadelfia – Miami</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342994689__/</url>
-  </evento>
-  <evento>
     <nombre>Wagner Seahawks – New Haven Chargers</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>NCAA</competicion>
@@ -9423,22 +9439,6 @@
     <fecha>27 de febrero</fecha>
     <hora>02:30</hora>
     <url>https://livetv.sx/es/eventinfo/343001162__/</url>
-  </evento>
-  <evento>
-    <nombre>Atlanta – Washington</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>02:30</hora>
-    <url>https://livetv.sx/es/eventinfo/343001224__/</url>
-  </evento>
-  <evento>
-    <nombre>Brooklyn Nets – San Antonio</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>02:30</hora>
-    <url>https://livetv.sx/es/eventinfo/343001225__/</url>
   </evento>
   <evento>
     <nombre>Orlando – Houston</nombre>
@@ -12369,140 +12369,268 @@
     <url>https://livetv.sx/es/eventinfo/347025650_santa_cruz_warriors_san_diego_clippers/</url>
   </evento>
   <evento>
-    <nombre>Dino Prizmic – Vilius Gaubas</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Santiago</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>21:50</hora>
-    <url>https://livetv.sx/es/eventinfo/346794551__/</url>
+    <nombre>Uganda – Egipto</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Clasificación para la Copa Mundial. Africa</competicion>
+    <fecha>1 de marzo</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344020980__/</url>
   </evento>
   <evento>
-    <nombre>Nikola Bartunkova (M) –  Taylor Townsend (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Austin</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>21:55</hora>
-    <url>https://livetv.sx/es/eventinfo/346628669__/</url>
+    <nombre>Senegal – República Democrática del Cong</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Clasificación para la Copa Mundial. Africa</competicion>
+    <fecha>1 de marzo</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344020981__/</url>
+  </evento>
+  <evento>
+    <nombre>Drake Bulldogs – Northern Iowa Panthers</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344030219__/</url>
+  </evento>
+  <evento>
+    <nombre>UTSA Roadrunners – Wichita State Shockers</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344030220__/</url>
+  </evento>
+  <evento>
+    <nombre>Indiana – Memphis</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344030301__/</url>
+  </evento>
+  <evento>
+    <nombre>Mexico City Capitanes – Noblesville Boom</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NBA. G League</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347025651_mexico_city_capitanes_noblesville_boom/</url>
+  </evento>
+  <evento>
+    <nombre>Puerto Rico – Bahamas</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Clasificación para la Copa Mundial. America</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344030451__/</url>
+  </evento>
+  <evento>
+    <nombre>Jamaica – Canadá</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Clasificación para la Copa Mundial. America</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344056465__/</url>
+  </evento>
+  <evento>
+    <nombre>Orlando – Detroit</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344056309__/</url>
+  </evento>
+  <evento>
+    <nombre>Atlanta – Portland</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344056310__/</url>
+  </evento>
+  <evento>
+    <nombre>UNC Wilmington Seahawks – Charleston Cougars</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344064457__/</url>
+  </evento>
+  <evento>
+    <nombre>EUA – México</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Clasificación para la Copa Mundial. America</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>02:10</hora>
+    <url>https://livetv.sx/es/eventinfo/344072256__/</url>
+  </evento>
+  <evento>
+    <nombre>Dallas – Oklahoma</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344079435__/</url>
+  </evento>
+  <evento>
+    <nombre>Boston – Filadelfia</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344079436__/</url>
+  </evento>
+  <evento>
+    <nombre>Nicaragua – República Dominicana</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Clasificación para la Copa Mundial. America</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>03:30</hora>
+    <url>https://livetv.sx/es/eventinfo/344086237__/</url>
+  </evento>
+  <evento>
+    <nombre>LA Clippers – Nueva Orleans</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344092604__/</url>
+  </evento>
+  <evento>
+    <nombre>LA Lakers – Sacramento</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>04:30</hora>
+    <url>https://livetv.sx/es/eventinfo/344104738__/</url>
+  </evento>
+  <evento>
+    <nombre>CHAMP1ON – ChelGU</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347025613_champ1on_chelgu/</url>
+  </evento>
+  <evento>
+    <nombre>Zhetysu (W) – Kaspiy (W)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Kazajistán. Mujeres. Vysheyshaya Liga</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347025621_zhetysu_w_kaspiy_w/</url>
+  </evento>
+  <evento>
+    <nombre>Almatynskiy Legion 2 – Tobol-2</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/347025614_almatynskiy_legion_2_tobol_2/</url>
+  </evento>
+  <evento>
+    <nombre>Iraq – Jordania</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Clasificación para la Copa Mundial. Asia</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344203764__/</url>
+  </evento>
+  <evento>
+    <nombre>Kaspiy-Aktau – Astana</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Kazajistán. Liga Nacional</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344212526__/</url>
+  </evento>
+  <evento>
+    <nombre>Ormansport – Fenerbahce 2</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Turquía. TBL</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/346475774_ormansport_fenerbahce_2/</url>
   </evento>
   <evento>
     <nombre>Mariano Navone – Luciano Darderi</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Santiago</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>01:00</hora>
+    <hora>01:10</hora>
     <url>https://livetv.sx/es/eventinfo/346837272__/</url>
   </evento>
   <evento>
-    <nombre>Terence Atmane – Rafael Jodar</nombre>
+    <nombre>ATP. Dubai</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP. Acapulco</competicion>
+    <competicion>ATP. Dubai</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346909928__/</url>
+    <hora>09:10</hora>
+    <url>https://livetv.sx/es/eventinfo/345623723_atp_dubai/</url>
   </evento>
   <evento>
-    <nombre>Dalibor Svrcina – Flavio Cobolli</nombre>
+    <nombre>Daniil Medvedev – Jenson Brooksby</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP. Acapulco</competicion>
+    <competicion>ATP. Dubai</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346909939__/</url>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347025762__/</url>
   </evento>
   <evento>
-    <nombre>Yibing Wu – Sho Shimabukuro</nombre>
+    <nombre>Felix Auger-Aliassime – Jiri Lehecka</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP. Acapulco</competicion>
+    <competicion>ATP. Dubai</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>03:30</hora>
-    <url>https://livetv.sx/es/eventinfo/346960512__/</url>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347059553__/</url>
   </evento>
   <evento>
-    <nombre>Brandon Nakashima – Patrick Kypson</nombre>
+    <nombre>ATP. Santiago</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP. Acapulco</competicion>
+    <competicion>ATP. Santiago</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>03:30</hora>
-    <url>https://livetv.sx/es/eventinfo/346650298__/</url>
+    <hora>16:10</hora>
+    <url>https://livetv.sx/es/eventinfo/345628587_atp_santiago/</url>
   </evento>
   <evento>
-    <nombre>Yue Yuan (M) –  Dalma Galfi (M)</nombre>
+    <nombre>Andréi Rubliov – Arthur Rinderknech</nombre>
     <deporte>Tenis</deporte>
-    <competicion>WTA. Austin</competicion>
+    <competicion>ATP. Dubai</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>03:30</hora>
-    <url>https://livetv.sx/es/eventinfo/346895613__/</url>
+    <hora>17:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347148805__/</url>
   </evento>
   <evento>
-    <nombre>Moise Kouame – Titouan Droguet</nombre>
+    <nombre>Adolfo Daniel Vallejo – Emilio Nava</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Saint-Brieuc</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>20:40</hora>
-    <url>https://livetv.sx/es/eventinfo/345866788__/</url>
+    <competicion>ATP. Santiago</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/346895546__/</url>
   </evento>
   <evento>
-    <nombre>Maxim Mrva – Michael Mmoh</nombre>
+    <nombre>Francisco Cerundolo – Elmer Moller</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Lugano</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>20:45</hora>
-    <url>https://livetv.sx/es/eventinfo/346723406__/</url>
+    <competicion>ATP. Santiago</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/346808026__/</url>
   </evento>
   <evento>
-    <nombre>Stollar (M) /  Krueger (M) –  Shibahara (M) /  Aoyama (M)</nombre>
+    <nombre>Christian Garin – Sebastian Baez</nombre>
     <deporte>Tenis</deporte>
-    <competicion>WTA. Austin. Doubles</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346031651__/</url>
+    <competicion>ATP. Santiago</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>23:30</hora>
+    <url>https://livetv.sx/es/eventinfo/346880958__/</url>
   </evento>
   <evento>
-    <nombre>Mladenovic (M) /  Guo (M) –  Gleason (M) /  Kempen (M)</nombre>
+    <nombre>Alejandro Tabilo – Thiago Tirante</nombre>
     <deporte>Tenis</deporte>
-    <competicion>WTA. Mérida. Doubles</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>22:10</hora>
-    <url>https://livetv.sx/es/eventinfo/345963603__/</url>
-  </evento>
-  <evento>
-    <nombre>Magda Linette (M) –  Victoria  Jimenez Kasintseva (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Mérida</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>22:10</hora>
-    <url>https://livetv.sx/es/eventinfo/346851991__/</url>
-  </evento>
-  <evento>
-    <nombre>Arthur Bouquier – Laurent Lokoli</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Saint-Brieuc</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>22:50</hora>
-    <url>https://livetv.sx/es/eventinfo/346794447__/</url>
-  </evento>
-  <evento>
-    <nombre>Zeballos / Soto – Barrios / Buse</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Santiago. Clasificatoria</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>23:20</hora>
-    <url>https://livetv.sx/es/eventinfo/347099467__/</url>
-  </evento>
-  <evento>
-    <nombre>Zeballos / Soto – Rocha / Faria</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Santiago. Clasificatoria</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>23:20</hora>
-    <url>https://livetv.sx/es/eventinfo/347163031__/</url>
-  </evento>
-  <evento>
-    <nombre>McNally (M) /  Birrell (M) –  Jovic (M) /  Stoiana (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Austin. Doubles</competicion>
-    <fecha>25 de febrero</fecha>
-    <hora>23:35</hora>
-    <url>https://livetv.sx/es/eventinfo/346031656__/</url>
+    <competicion>ATP. Santiago</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/346909973__/</url>
   </evento>
   <evento>
     <nombre>Lumsden (M) /  Haverlag (M) –  Zarazua (M) /  Gomez Pezuela Cano (M)</nombre>
@@ -12521,14 +12649,6 @@
     <url>https://livetv.sx/es/eventinfo/346031657__/</url>
   </evento>
   <evento>
-    <nombre>Qianhui (M) /  Yifan (M) –  Arango (M) /  Sonmez (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Mérida. Doubles</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>01:05</hora>
-    <url>https://livetv.sx/es/eventinfo/345963604__/</url>
-  </evento>
-  <evento>
     <nombre>Hidalgo / Trhac – Verbeek / Gille</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Santiago. Clasificatoria</competicion>
@@ -12541,16 +12661,8 @@
     <deporte>Tenis</deporte>
     <competicion>WTA. Mérida</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>01:30</hora>
+    <hora>01:45</hora>
     <url>https://livetv.sx/es/eventinfo/346650400__/</url>
-  </evento>
-  <evento>
-    <nombre>Townsend (M) /  Hunter (M) –  Williams (M) /  Stearns (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Austin. Doubles</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346031658__/</url>
   </evento>
   <evento>
     <nombre>Harrison / Skupski – Andreozzi / Guinard</nombre>
@@ -12561,27 +12673,51 @@
     <url>https://livetv.sx/es/eventinfo/345866830__/</url>
   </evento>
   <evento>
-    <nombre>ATP. Acapulco</nombre>
+    <nombre>Terence Atmane – Rafael Jodar</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Acapulco</competicion>
     <fecha>26 de febrero</fecha>
     <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345938554_atp_acapulco/</url>
+    <url>https://livetv.sx/es/eventinfo/346909928__/</url>
+  </evento>
+  <evento>
+    <nombre>Dalibor Svrcina – Flavio Cobolli</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Acapulco</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/346909939__/</url>
+  </evento>
+  <evento>
+    <nombre>Townsend (M) /  Hunter (M) –  Williams (M) /  Stearns (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Austin. Doubles</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>02:15</hora>
+    <url>https://livetv.sx/es/eventinfo/346031658__/</url>
   </evento>
   <evento>
     <nombre>Alexander Zverev – Miomir Kecmanovic</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Acapulco</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
+    <hora>02:15</hora>
     <url>https://livetv.sx/es/eventinfo/346936706__/</url>
+  </evento>
+  <evento>
+    <nombre>Yue Yuan (M) –  Dalma Galfi (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Austin</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>03:45</hora>
+    <url>https://livetv.sx/es/eventinfo/346895613__/</url>
   </evento>
   <evento>
     <nombre>Katie Boulter (M) –  Camila Osorio (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Mérida</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>03:00</hora>
+    <hora>03:55</hora>
     <url>https://livetv.sx/es/eventinfo/346851992__/</url>
   </evento>
   <evento>
@@ -12589,15 +12725,31 @@
     <deporte>Tenis</deporte>
     <competicion>ATP. Acapulco. Doubles</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>03:30</hora>
+    <hora>04:05</hora>
     <url>https://livetv.sx/es/eventinfo/345866828__/</url>
+  </evento>
+  <evento>
+    <nombre>Brandon Nakashima – Patrick Kypson</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Acapulco</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>04:10</hora>
+    <url>https://livetv.sx/es/eventinfo/346650298__/</url>
+  </evento>
+  <evento>
+    <nombre>Yibing Wu – Sho Shimabukuro</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Acapulco</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>04:15</hora>
+    <url>https://livetv.sx/es/eventinfo/346960512__/</url>
   </evento>
   <evento>
     <nombre>Francis Tiafoe – Aleksandar Kovacevic</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Acapulco</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>03:30</hora>
+    <hora>04:15</hora>
     <url>https://livetv.sx/es/eventinfo/346936705__/</url>
   </evento>
   <evento>
@@ -12605,7 +12757,7 @@
     <deporte>Tenis</deporte>
     <competicion>WTA. Mérida</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>04:30</hora>
+    <hora>05:15</hora>
     <url>https://livetv.sx/es/eventinfo/346866544__/</url>
   </evento>
   <evento>
@@ -12613,7 +12765,7 @@
     <deporte>Tenis</deporte>
     <competicion>ATP. Acapulco. Doubles</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>05:00</hora>
+    <hora>05:30</hora>
     <url>https://livetv.sx/es/eventinfo/345866825__/</url>
   </evento>
   <evento>
@@ -12621,7 +12773,7 @@
     <deporte>Tenis</deporte>
     <competicion>ATP. Acapulco. Doubles</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>05:00</hora>
+    <hora>05:45</hora>
     <url>https://livetv.sx/es/eventinfo/345866827__/</url>
   </evento>
   <evento>
@@ -12629,7 +12781,7 @@
     <deporte>Tenis</deporte>
     <competicion>ATP. Acapulco</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>05:00</hora>
+    <hora>05:45</hora>
     <url>https://livetv.sx/es/eventinfo/346960511__/</url>
   </evento>
   <evento>
@@ -12637,7 +12789,7 @@
     <deporte>Tenis</deporte>
     <competicion>ATP. Acapulco</competicion>
     <fecha>26 de febrero</fecha>
-    <hora>05:00</hora>
+    <hora>05:45</hora>
     <url>https://livetv.sx/es/eventinfo/346936704__/</url>
   </evento>
   <evento>
@@ -12671,14 +12823,6 @@
     <fecha>26 de febrero</fecha>
     <hora>08:30</hora>
     <url>https://livetv.sx/es/eventinfo/346994116__/</url>
-  </evento>
-  <evento>
-    <nombre>ATP. Dubai</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Dubai</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>09:10</hora>
-    <url>https://livetv.sx/es/eventinfo/345623723_atp_dubai/</url>
   </evento>
   <evento>
     <nombre>Nuria Brancaccio (M) –  Panna Udvardy (M)</nombre>
@@ -12809,14 +12953,6 @@
     <url>https://livetv.sx/es/eventinfo/346734367__/</url>
   </evento>
   <evento>
-    <nombre>Daniil Medvedev – Jenson Brooksby</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Dubai</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>12:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347025762__/</url>
-  </evento>
-  <evento>
     <nombre>Edas Butvilas – Wu Tung-Lin</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Pune</competicion>
@@ -12897,14 +13033,6 @@
     <url>https://livetv.sx/es/eventinfo/346972096__/</url>
   </evento>
   <evento>
-    <nombre>Felix Auger-Aliassime – Jiri Lehecka</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Dubai</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347059553__/</url>
-  </evento>
-  <evento>
     <nombre>Marc-Andrea Huesler – Daniil Glinka</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Lugano</competicion>
@@ -12977,14 +13105,6 @@
     <url>https://livetv.sx/es/eventinfo/347115393__/</url>
   </evento>
   <evento>
-    <nombre>ATP. Santiago</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Santiago</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>16:10</hora>
-    <url>https://livetv.sx/es/eventinfo/345628587_atp_santiago/</url>
-  </evento>
-  <evento>
     <nombre>Seggerman / Kittay – Sachko / Latinovic</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Lugano. Doubles</competicion>
@@ -13009,28 +13129,12 @@
     <url>https://livetv.sx/es/eventinfo/346866428__/</url>
   </evento>
   <evento>
-    <nombre>Andréi Rubliov – Arthur Rinderknech</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Dubai</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347148805__/</url>
-  </evento>
-  <evento>
     <nombre>Mark Lajal – Pierre-Hugues Herbert</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Saint-Brieuc</competicion>
     <fecha>26 de febrero</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/346851846__/</url>
-  </evento>
-  <evento>
-    <nombre>Ayukawa (M) /  Morisaki (M) –  Shibahara (M) /  Aoyama (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Austin. Doubles</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347165455__/</url>
   </evento>
   <evento>
     <nombre>Guido Ivan Justo – Alvaro-Guillen Meza</nombre>
@@ -13041,68 +13145,12 @@
     <url>https://livetv.sx/es/eventinfo/346822426__/</url>
   </evento>
   <evento>
-    <nombre>Jessica Bouzas Maneiro (M) –  Magdalena Frech (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Mérida</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346910016__/</url>
-  </evento>
-  <evento>
-    <nombre>Ann Li (M) –  Zeynep Sonmez (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Mérida</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346910017__/</url>
-  </evento>
-  <evento>
-    <nombre>Bhosale (M) /  Ninomiya (M) –  Bucsa (M) /  Jiang (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Mérida. Doubles</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346983490__/</url>
-  </evento>
-  <evento>
-    <nombre>Ajla Tomljanovic (M) –  Iva Jovic (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Austin</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346837333__/</url>
-  </evento>
-  <evento>
     <nombre>Basic / Fatic – Ovcharenko / Nesterov</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Lugano. Doubles</competicion>
     <fecha>26 de febrero</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/347165322__/</url>
-  </evento>
-  <evento>
-    <nombre>Guarachi (M) /  Appleton (M) –  En-shuo (M) /  Chong (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Austin. Doubles</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346591884__/</url>
-  </evento>
-  <evento>
-    <nombre>Kaja Juvan (M) –  Peyton Stearns (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Austin</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346923923__/</url>
-  </evento>
-  <evento>
-    <nombre>Anastasia Zakharova (M) –  Ashlyn Krueger (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Austin</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346923924__/</url>
   </evento>
   <evento>
     <nombre>Ribeiro / Marcondes – Sánchez Jover / Cadenasso</nombre>
@@ -13113,60 +13161,12 @@
     <url>https://livetv.sx/es/eventinfo/347115414__/</url>
   </evento>
   <evento>
-    <nombre>Adolfo Daniel Vallejo – Emilio Nava</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Santiago</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346895546__/</url>
-  </evento>
-  <evento>
-    <nombre>Gleason (M) /  Kempen (M) –  Lumsden (M) /  Haverlag (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Mérida. Doubles</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347182017__/</url>
-  </evento>
-  <evento>
-    <nombre>Shuai Zhang (M) –  Emma Navarro (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Mérida</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346936781__/</url>
-  </evento>
-  <evento>
-    <nombre>Jasmine Paolini (M) –  Priscilla Hon (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Mérida</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346936783__/</url>
-  </evento>
-  <evento>
-    <nombre>Kimberly Birrell (M) –  Caroline Dolehide (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Austin</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346936802__/</url>
-  </evento>
-  <evento>
     <nombre>Escobar / Rojer – Luz / Matos</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Santiago. Clasificatoria</competicion>
     <fecha>26 de febrero</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/347132132__/</url>
-  </evento>
-  <evento>
-    <nombre>Piter (M) /  Tjen (M) –  Bouzkova (M) /  Li (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Mérida. Doubles</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346895599__/</url>
   </evento>
   <evento>
     <nombre>WTA. Austin</nombre>
@@ -13201,12 +13201,12 @@
     <url>https://livetv.sx/es/eventinfo/346807884__/</url>
   </evento>
   <evento>
-    <nombre>McNally (M) /  Birrell (M) –  Harrison (M) /  Hewitt (M)</nombre>
+    <nombre>Anastasia Zakharova (M) –  Ashlyn Krueger (M)</nombre>
     <deporte>Tenis</deporte>
-    <competicion>WTA. Austin. Doubles</competicion>
+    <competicion>WTA. Austin</competicion>
     <fecha>26 de febrero</fecha>
     <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347182035__/</url>
+    <url>https://livetv.sx/es/eventinfo/346923924__/</url>
   </evento>
   <evento>
     <nombre>WTA. Merida</nombre>
@@ -13241,14 +13241,6 @@
     <url>https://livetv.sx/es/eventinfo/347181984__/</url>
   </evento>
   <evento>
-    <nombre>Francisco Cerundolo – Elmer Moller</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Santiago</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346808026__/</url>
-  </evento>
-  <evento>
     <nombre>Nikles / Von-Der-Schulenburg – Bertola / Bernet</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Lugano. Doubles</competicion>
@@ -13257,12 +13249,68 @@
     <url>https://livetv.sx/es/eventinfo/347014900__/</url>
   </evento>
   <evento>
-    <nombre>Christian Garin – Sebastian Baez</nombre>
+    <nombre>Kaja Juvan (M) –  Peyton Stearns (M)</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP. Santiago</competicion>
+    <competicion>WTA. Austin</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/346923923__/</url>
+  </evento>
+  <evento>
+    <nombre>Ayukawa (M) /  Morisaki (M) –  Shibahara (M) /  Aoyama (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Austin. Doubles</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347165455__/</url>
+  </evento>
+  <evento>
+    <nombre>Jessica Bouzas Maneiro (M) –  Magdalena Frech (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Mérida</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/346910016__/</url>
+  </evento>
+  <evento>
+    <nombre>Gleason (M) /  Kempen (M) –  Lumsden (M) /  Haverlag (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Mérida. Doubles</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347182017__/</url>
+  </evento>
+  <evento>
+    <nombre>Kimberly Birrell (M) –  Caroline Dolehide (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Austin</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>22:30</hora>
+    <url>https://livetv.sx/es/eventinfo/346936802__/</url>
+  </evento>
+  <evento>
+    <nombre>Ann Li (M) –  Zeynep Sonmez (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Mérida</competicion>
     <fecha>26 de febrero</fecha>
     <hora>23:30</hora>
-    <url>https://livetv.sx/es/eventinfo/346880958__/</url>
+    <url>https://livetv.sx/es/eventinfo/346910017__/</url>
+  </evento>
+  <evento>
+    <nombre>Bhosale (M) /  Ninomiya (M) –  Bucsa (M) /  Jiang (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Mérida. Doubles</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>23:30</hora>
+    <url>https://livetv.sx/es/eventinfo/346983490__/</url>
+  </evento>
+  <evento>
+    <nombre>Townsend (M) /  Hunter (M) –  Zakharova (M) /  Selekhmeteva (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Austin. Doubles</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>23:30</hora>
+    <url>https://livetv.sx/es/eventinfo/347230655__/</url>
   </evento>
   <evento>
     <nombre>Brandon Nakashima – Patrick Kypson</nombre>
@@ -13273,20 +13321,52 @@
     <url>https://livetv.sx/es/eventinfo/346676640__/</url>
   </evento>
   <evento>
-    <nombre>Alejandro Tabilo – Thiago Tirante</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Santiago</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346909973__/</url>
-  </evento>
-  <evento>
     <nombre>ATP. Acapulco</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Acapulco</competicion>
     <fecha>27 de febrero</fecha>
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/345938555_atp_acapulco/</url>
+  </evento>
+  <evento>
+    <nombre>Piter (M) /  Tjen (M) –  Bouzkova (M) /  Li (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Mérida. Doubles</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/346895599__/</url>
+  </evento>
+  <evento>
+    <nombre>Ajla Tomljanovic (M) –  Iva Jovic (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Austin</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/346837333__/</url>
+  </evento>
+  <evento>
+    <nombre>Jasmine Paolini (M) –  Priscilla Hon (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Mérida</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/346936783__/</url>
+  </evento>
+  <evento>
+    <nombre>Guarachi (M) /  Appleton (M) –  En-shuo (M) /  Chong (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Austin. Doubles</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>03:30</hora>
+    <url>https://livetv.sx/es/eventinfo/346591884__/</url>
+  </evento>
+  <evento>
+    <nombre>Shuai Zhang (M) –  Emma Navarro (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Mérida</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>03:30</hora>
+    <url>https://livetv.sx/es/eventinfo/346936781__/</url>
   </evento>
   <evento>
     <nombre>Manas Dhamne – Duje Ajdukovic</nombre>
@@ -13319,6 +13399,14 @@
     <fecha>27 de febrero</fecha>
     <hora>09:10</hora>
     <url>https://livetv.sx/es/eventinfo/345623724_atp_dubai/</url>
+  </evento>
+  <evento>
+    <nombre>Laurent Lokoli – Clement Chidekh</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Saint-Brieuc</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347198752__/</url>
   </evento>
   <evento>
     <nombre>Nicolai Budkov Kjaer – Matej Dodig</nombre>
@@ -13361,6 +13449,14 @@
     <url>https://livetv.sx/es/eventinfo/346085835_atp_challenger_lugano/</url>
   </evento>
   <evento>
+    <nombre>Andrea Pellegrino – Luciano Darderi</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Santiago</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347230600__/</url>
+  </evento>
+  <evento>
     <nombre>Yannick Hanfmann – Vilius Gaubas</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Santiago</competicion>
@@ -13401,6 +13497,14 @@
     <url>https://livetv.sx/es/eventinfo/345628588_atp_santiago/</url>
   </evento>
   <evento>
+    <nombre>McNally (M) /  Birrell (M) –  Harrison (M) /  Hewitt (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Austin. Doubles</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347182035__/</url>
+  </evento>
+  <evento>
     <nombre>WTA. Austin</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Austin</competicion>
@@ -13415,6 +13519,14 @@
     <fecha>27 de febrero</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/347165450__/</url>
+  </evento>
+  <evento>
+    <nombre>Andreozzi / Guinard – Stevens / Kirkov</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Acapulco. Doubles</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347230587__/</url>
   </evento>
   <evento>
     <nombre>WTA. Merida</nombre>
@@ -13457,20 +13569,20 @@
     <url>https://livetv.sx/es/eventinfo/343922794__/</url>
   </evento>
   <evento>
-    <nombre>Sada Cruzeiro – Banfield</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Campeonato Sudamericano de Clubes</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346440830_sada_cruzeiro_banfield/</url>
-  </evento>
-  <evento>
     <nombre>Paris Volley – Montpellier</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Francia. Ligue A</competicion>
     <fecha>26 de febrero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/347099415__/</url>
+  </evento>
+  <evento>
+    <nombre>Sada Cruzeiro – Banfield</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Campeonato Sudamericano de Clubes</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/346440830_sada_cruzeiro_banfield/</url>
   </evento>
   <evento>
     <nombre>Minas – Ciudad</nombre>
@@ -14057,6 +14169,14 @@
     <url>https://livetv.sx/es/eventinfo/344313996__/</url>
   </evento>
   <evento>
+    <nombre>Praia Clube – Sada Cruzeiro</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Brasil. Superliga</competicion>
+    <fecha>3 de marzo</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344340111__/</url>
+  </evento>
+  <evento>
     <nombre>Gran Premio de Australia</nombre>
     <deporte>Automovilismo</deporte>
     <competicion>Fórmula 1</competicion>
@@ -14345,6 +14465,86 @@
     <url>https://livetv.sx/es/eventinfo/346774289_lubart_cardinal_vanguard/</url>
   </evento>
   <evento>
+    <nombre>Fuechse Berlin – Vive Kielce</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Liga de Campeones de la EHF</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>19:45</hora>
+    <url>https://livetv.sx/es/eventinfo/342915381__/</url>
+  </evento>
+  <evento>
+    <nombre>Lemgo – Hamburgo</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342914484__/</url>
+  </evento>
+  <evento>
+    <nombre>Eisenach – Erlangen</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342914485__/</url>
+  </evento>
+  <evento>
+    <nombre>Nordsjaelland – TMS Ringsted</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Dinamarca. Handboldligaen</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/342927134__/</url>
+  </evento>
+  <evento>
+    <nombre>Atlético Valladolid – Torrelavega</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>España. Liga ASOBAL</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343522294__/</url>
+  </evento>
+  <evento>
+    <nombre>Toulouse – Selestat</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Francia. Starligue</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/342936489__/</url>
+  </evento>
+  <evento>
+    <nombre>PSG – Pick Szeged</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Liga de Campeones de la EHF</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/342941082__/</url>
+  </evento>
+  <evento>
+    <nombre>Barcelona – Zagreb</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Liga de Campeones de la EHF</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/342941083__/</url>
+  </evento>
+  <evento>
+    <nombre>Wisla Plock – Magdeburgo</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Liga de Campeones de la EHF</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/342941084__/</url>
+  </evento>
+  <evento>
+    <nombre>Sporting – Aalborg</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Liga de Campeones de la EHF</competicion>
+    <fecha>26 de febrero</fecha>
+    <hora>21:45</hora>
+    <url>https://livetv.sx/es/eventinfo/342941085__/</url>
+  </evento>
+  <evento>
     <nombre>Sácer – Cingoli</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Italia. Copa</competicion>
@@ -14401,14 +14601,6 @@
     <url>https://livetv.sx/es/eventinfo/343196417__/</url>
   </evento>
   <evento>
-    <nombre>Fuechse Berlin – Vive Kielce</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Liga de Campeones de la EHF</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>19:45</hora>
-    <url>https://livetv.sx/es/eventinfo/342915381__/</url>
-  </evento>
-  <evento>
     <nombre>Holstebro – Ribe-Esbjerg</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Dinamarca. Handboldligaen</competicion>
@@ -14417,84 +14609,12 @@
     <url>https://livetv.sx/es/eventinfo/342914583__/</url>
   </evento>
   <evento>
-    <nombre>Lemgo – Hamburgo</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Alemania. Bundesliga</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342914484__/</url>
-  </evento>
-  <evento>
-    <nombre>Eisenach – Erlangen</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Alemania. Bundesliga</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342914485__/</url>
-  </evento>
-  <evento>
-    <nombre>Nordsjaelland – TMS Ringsted</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Dinamarca. Handboldligaen</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/342927134__/</url>
-  </evento>
-  <evento>
     <nombre>Kichevo – RK Dracevo</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Macedonia del Norte. Copa</competicion>
     <fecha>26 de febrero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/347070249_kichevo_rk_dracevo/</url>
-  </evento>
-  <evento>
-    <nombre>Atlético Valladolid – Torrelavega</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>España. Liga ASOBAL</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/343522294__/</url>
-  </evento>
-  <evento>
-    <nombre>Toulouse – Selestat</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Francia. Starligue</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/342936489__/</url>
-  </evento>
-  <evento>
-    <nombre>PSG – Pick Szeged</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Liga de Campeones de la EHF</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>21:45</hora>
-    <url>https://livetv.sx/es/eventinfo/342941082__/</url>
-  </evento>
-  <evento>
-    <nombre>Barcelona – Zagreb</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Liga de Campeones de la EHF</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>21:45</hora>
-    <url>https://livetv.sx/es/eventinfo/342941083__/</url>
-  </evento>
-  <evento>
-    <nombre>Wisla Plock – Magdeburgo</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Liga de Campeones de la EHF</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>21:45</hora>
-    <url>https://livetv.sx/es/eventinfo/342941084__/</url>
-  </evento>
-  <evento>
-    <nombre>Sporting – Aalborg</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Liga de Campeones de la EHF</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>21:45</hora>
-    <url>https://livetv.sx/es/eventinfo/342941085__/</url>
   </evento>
   <evento>
     <nombre>Karpaty Uzhgorod – Avia Grade Constanta</nombre>
@@ -15503,22 +15623,6 @@
     <fecha>1 de marzo</fecha>
     <hora>13:30</hora>
     <url>https://livetv.sx/es/eventinfo/346445729_world_cup_falun/</url>
-  </evento>
-  <evento>
-    <nombre>NY Yankees – Washington</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>MLB. Pretemporada</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>01:35</hora>
-    <url>https://livetv.sx/es/eventinfo/342700701__/</url>
-  </evento>
-  <evento>
-    <nombre>Nicaragua – Cuba</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>Torneo amistoso</competicion>
-    <fecha>26 de febrero</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347036218_nicaragua_cuba/</url>
   </evento>
   <evento>
     <nombre>Chiba Marines – República Checa</nombre>
