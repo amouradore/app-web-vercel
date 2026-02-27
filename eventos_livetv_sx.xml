@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-02-27 09:52:21" total="1911">
+<eventos generado="2026-02-27 10:47:39" total="1922">
   <evento>
     <nombre>Gran Premio de Australia</nombre>
     <deporte>Fútbol</deporte>
@@ -7,6 +7,14 @@
     <fecha>27 de febrero</fecha>
     <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/346436104_gran_premio_de_australia/</url>
+  </evento>
+  <evento>
+    <nombre>Sorteo Liga de Campeones</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga de Campeones</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/346872340_sorteo_liga_de_campeones/</url>
   </evento>
   <evento>
     <nombre>Singapore Smash</nombre>
@@ -25,44 +33,12 @@
     <url>https://livetv.sx/es/eventinfo/346436123_australia_m_india_m/</url>
   </evento>
   <evento>
-    <nombre>Nueva Zelanda (M) –  Zimbabue (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Twenty20</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>08:15</hora>
-    <url>https://livetv.sx/es/eventinfo/346436126_nueva_zelanda_m_zimbabue_m/</url>
-  </evento>
-  <evento>
     <nombre>ATP Challenger. Pune</nombre>
     <deporte>Fútbol</deporte>
     <competicion>ATP Challenger. Pune</competicion>
     <fecha>27 de febrero</fecha>
     <hora>08:40</hora>
     <url>https://livetv.sx/es/eventinfo/346085914_atp_challenger_pune/</url>
-  </evento>
-  <evento>
-    <nombre>Copa de Rusia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Biatlón</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>09:30</hora>
-    <url>https://livetv.sx/es/eventinfo/346971704_copa_de_rusia/</url>
-  </evento>
-  <evento>
-    <nombre>Riera (M) /  Romero Gormaz (M) –   Tran (M) /  Zolotareva (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Antalya. Doubles</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>09:40</hora>
-    <url>https://livetv.sx/es/eventinfo/347348175__riera_m___romero_gormaz_m__tran_m___zolotareva_m/</url>
-  </evento>
-  <evento>
-    <nombre>Ekaterine Gorgodze (M) –   Anhelina Kalinina (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Antalya</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>09:40</hora>
-    <url>https://livetv.sx/es/eventinfo/347358230__ekaterine_gorgodze_m__anhelina_kalinina_m/</url>
   </evento>
   <evento>
     <nombre>Western Bulldogs –  Hawthorn</nombre>
@@ -117,7 +93,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Super Rugby</competicion>
     <fecha>27 de febrero</fecha>
-    <hora>24:14</hora>
+    <hora>10:35</hora>
     <url>https://livetv.sx/es/eventinfo/343102140_reds_highlanders/</url>
   </evento>
   <evento>
@@ -161,6 +137,14 @@
     <url>https://livetv.sx/es/eventinfo/347328186__moyuka_uchijima_m__despina_papamichail_m/</url>
   </evento>
   <evento>
+    <nombre>Veronika Erjavec (M) –   Nuria Brancaccio (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>WTA. Antalya</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>11:25</hora>
+    <url>https://livetv.sx/es/eventinfo/347338217__veronika_erjavec_m__nuria_brancaccio_m/</url>
+  </evento>
+  <evento>
     <nombre>Lions –  Gold Coast Knights</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Australia. NPL Queensland</competicion>
@@ -193,14 +177,6 @@
     <url>https://livetv.sx/es/eventinfo/347612156__moreton_city_m__north_brisbane_m/</url>
   </evento>
   <evento>
-    <nombre>Veronika Erjavec (M) –   Nuria Brancaccio (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Antalya</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>11:30</hora>
-    <url>https://livetv.sx/es/eventinfo/347338217__veronika_erjavec_m__nuria_brancaccio_m/</url>
-  </evento>
-  <evento>
     <nombre>ATP. Dubai</nombre>
     <deporte>Fútbol</deporte>
     <competicion>ATP. Dubai</competicion>
@@ -225,12 +201,140 @@
     <url>https://livetv.sx/es/eventinfo/346445823_copa_del_mundo_soldeu/</url>
   </evento>
   <evento>
+    <nombre>North Lakes United (M) –   Ipswich Knights (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NPL Queensland</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>11:45</hora>
+    <url>https://livetv.sx/es/eventinfo/347612624__north_lakes_united_m__ipswich_knights_m/</url>
+  </evento>
+  <evento>
+    <nombre>Sanfrecce Hiroshima –  Kioto Sanga</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J League</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/345071581_sanfrecce_hiroshima_kioto_sanga/</url>
+  </evento>
+  <evento>
+    <nombre>Vissel Kobe –  Avispa Fukuoka</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J League</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/345071582_vissel_kobe_avispa_fukuoka/</url>
+  </evento>
+  <evento>
+    <nombre>Machida Zelvia –  JEF United Chiba</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. J League</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/345071583_machida_zelvia_jef_united_chiba/</url>
+  </evento>
+  <evento>
+    <nombre>Japón –  Chunichi Dragons</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Torneo amistoso</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347036224_japandoacute_n_chunichi_dragons/</url>
+  </evento>
+  <evento>
+    <nombre>LNZ U19 –  Polesia U19</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. Premier League Sub-19</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347030386_lnz_u19_polesia_u19/</url>
+  </evento>
+  <evento>
+    <nombre>Chipre (M) Sub-19 –    Eslovenia (M) Sub-19</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Calificación</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347568708___chipre_m_sub_19___eslovenia_m_sub_19/</url>
+  </evento>
+  <evento>
+    <nombre>ATP Challenger. Saint-Brieuc</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Saint-Brieuc</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>12:10</hora>
+    <url>https://livetv.sx/es/eventinfo/346086048_atp_challenger_saint_brieuc/</url>
+  </evento>
+  <evento>
+    <nombre>Reymond / Sanchez –  Paris / Willis</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Doubles</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>12:10</hora>
+    <url>https://livetv.sx/es/eventinfo/347358180_reymond__sanchez_paris__willis/</url>
+  </evento>
+  <evento>
+    <nombre>Kapaz –  Sumqayit</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Azerbaiyán. Premier League</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343114029_kapaz_sumqayit/</url>
+  </evento>
+  <evento>
+    <nombre>South African Open</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>DP World Tour</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/346450524_south_african_open/</url>
+  </evento>
+  <evento>
+    <nombre>Metalist 1925 U19 –  Oleksandria U19</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Ucrania. Premier League Sub-19</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/347030387_metalist_1925_u19_oleksandria_u19/</url>
+  </evento>
+  <evento>
+    <nombre>Ipswich –  St George Willawong</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Queensland Premier League</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343113948_ipswich_st_george_willawong/</url>
+  </evento>
+  <evento>
+    <nombre>Pine Hills –  Moreton City II</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Queensland Premier League 2</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/346966448_pine_hills_moreton_city_ii/</url>
+  </evento>
+  <evento>
+    <nombre>Arda –  Spartak Varna</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bulgaria. Parva Liga</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>12:45</hora>
+    <url>https://livetv.sx/es/eventinfo/343119465_arda_spartak_varna/</url>
+  </evento>
+  <evento>
     <nombre>Manas Dhamne –  Duje Ajdukovic</nombre>
     <deporte>Fútbol</deporte>
     <competicion>ATP Challenger. Pune</competicion>
     <fecha>27 de febrero</fecha>
-    <hora>11:45</hora>
+    <hora>12:45</hora>
     <url>https://livetv.sx/es/eventinfo/347025688_manas_dhamne_duje_ajdukovic/</url>
+  </evento>
+  <evento>
+    <nombre>Lechemia (M) /  Barnett (M) –   Kobori (M) /  Plipuech (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>WTA. Antalya. Doubles</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>12:45</hora>
+    <url>https://livetv.sx/es/eventinfo/347368584__lechemia_m___barnett_m__kobori_m___plipuech_m/</url>
   </evento>
   <evento>
     <nombre>Sorteo Liga de Campeones</nombre>
@@ -313,22 +417,6 @@
     <url>https://livetv.sx/es/eventinfo/343249147__/</url>
   </evento>
   <evento>
-    <nombre>Box Hill United (M) –  Preston Lions (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Australia. Mujeres. NPL Victoria</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>10:30</hora>
-    <url>https://livetv.sx/es/eventinfo/347264547__/</url>
-  </evento>
-  <evento>
-    <nombre>St Albans Saints – Oakleigh Cannons</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Australia. NPL Victoria</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>10:30</hora>
-    <url>https://livetv.sx/es/eventinfo/343093583__/</url>
-  </evento>
-  <evento>
     <nombre>Heidelberg United – Dandenong City</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Australia. NPL Victoria</competicion>
@@ -385,20 +473,20 @@
     <url>https://livetv.sx/es/eventinfo/347612156__/</url>
   </evento>
   <evento>
+    <nombre>North Lakes United (M) –  Ipswich Knights (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Mujeres. NPL Queensland</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>11:45</hora>
+    <url>https://livetv.sx/es/eventinfo/347612624__/</url>
+  </evento>
+  <evento>
     <nombre>Chipre (M) Sub-19 –   Eslovenia (M) Sub-19</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Mujeres. Campeonato de Europa Sub-19. Calificación</competicion>
     <fecha>27 de febrero</fecha>
     <hora>12:00</hora>
     <url>https://livetv.sx/es/eventinfo/347568708__/</url>
-  </evento>
-  <evento>
-    <nombre>LNZ U19 – Polesia U19</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Ucrania. Premier League Sub-19</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>12:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347030386_lnz_u19_polesia_u19/</url>
   </evento>
   <evento>
     <nombre>Sanfrecce Hiroshima – Kioto Sanga</nombre>
@@ -431,14 +519,6 @@
     <fecha>27 de febrero</fecha>
     <hora>12:30</hora>
     <url>https://livetv.sx/es/eventinfo/343114029__/</url>
-  </evento>
-  <evento>
-    <nombre>Metalist 1925 U19 – Oleksandria U19</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Ucrania. Premier League Sub-19</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>12:30</hora>
-    <url>https://livetv.sx/es/eventinfo/347030387_metalist_1925_u19_oleksandria_u19/</url>
   </evento>
   <evento>
     <nombre>Pine Hills – Moreton City II</nombre>
@@ -4231,6 +4311,14 @@
     <fecha>28 de febrero</fecha>
     <hora>23:00</hora>
     <url>https://livetv.sx/es/eventinfo/344215961_ecuador_u20_w_paraguay_u20_w/</url>
+  </evento>
+  <evento>
+    <nombre>Patriotas Boyacá – Real Cundinamarca</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Colombia. Primera B</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>23:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343618203__/</url>
   </evento>
   <evento>
     <nombre>Avangard – Metallurg Mg</nombre>
@@ -8215,6 +8303,14 @@
     <fecha>4 de marzo</fecha>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/344739055__/</url>
+  </evento>
+  <evento>
+    <nombre>Filipinas (M) – Sudáfrica (M)</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Mujeres. Campeonato mundial. Div III B</competicion>
+    <fecha>4 de marzo</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/347036514_philippines_w_south_africa_w/</url>
   </evento>
   <evento>
     <nombre>Emlak Konut (W) – Orman Genclik (M)</nombre>
@@ -12225,14 +12321,6 @@
     <url>https://livetv.sx/es/eventinfo/347368545__/</url>
   </evento>
   <evento>
-    <nombre>ATP. Santiago</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Santiago</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>16:10</hora>
-    <url>https://livetv.sx/es/eventinfo/345628588_atp_santiago/</url>
-  </evento>
-  <evento>
     <nombre>Andréi Rubliov – Tallon Griekspoor</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Dubai</competicion>
@@ -12247,6 +12335,14 @@
     <fecha>27 de febrero</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/347181973__/</url>
+  </evento>
+  <evento>
+    <nombre>ATP. Santiago</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Santiago</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>18:10</hora>
+    <url>https://livetv.sx/es/eventinfo/345628588_atp_santiago/</url>
   </evento>
   <evento>
     <nombre>Francisco Cerundolo – Emilio Nava</nombre>
@@ -12297,14 +12393,6 @@
     <url>https://livetv.sx/es/eventinfo/347348102__/</url>
   </evento>
   <evento>
-    <nombre>Alastair Gray – Federico Cina</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Pune</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>10:45</hora>
-    <url>https://livetv.sx/es/eventinfo/347004548__/</url>
-  </evento>
-  <evento>
     <nombre>Moyuka Uchijima (M) –  Despina Papamichail (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Antalya</competicion>
@@ -12317,7 +12405,7 @@
     <deporte>Tenis</deporte>
     <competicion>WTA. Antalya</competicion>
     <fecha>27 de febrero</fecha>
-    <hora>11:30</hora>
+    <hora>11:25</hora>
     <url>https://livetv.sx/es/eventinfo/347338217__/</url>
   </evento>
   <evento>
@@ -12329,28 +12417,20 @@
     <url>https://livetv.sx/es/eventinfo/347348142__/</url>
   </evento>
   <evento>
-    <nombre>Manas Dhamne – Duje Ajdukovic</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Pune</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>11:45</hora>
-    <url>https://livetv.sx/es/eventinfo/347025688__/</url>
-  </evento>
-  <evento>
     <nombre>Reymond / Sanchez – Paris / Willis</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Saint-Brieuc. Doubles</competicion>
     <fecha>27 de febrero</fecha>
-    <hora>12:00</hora>
+    <hora>12:10</hora>
     <url>https://livetv.sx/es/eventinfo/347358180__/</url>
   </evento>
   <evento>
-    <nombre>ATP Challenger. Saint-Brieuc</nombre>
+    <nombre>Manas Dhamne – Duje Ajdukovic</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Saint-Brieuc</competicion>
+    <competicion>ATP Challenger. Pune</competicion>
     <fecha>27 de febrero</fecha>
-    <hora>12:10</hora>
-    <url>https://livetv.sx/es/eventinfo/346086048_atp_challenger_saint_brieuc/</url>
+    <hora>12:45</hora>
+    <url>https://livetv.sx/es/eventinfo/347025688__/</url>
   </evento>
   <evento>
     <nombre>Lechemia (M) /  Barnett (M) –  Kobori (M) /  Plipuech (M)</nombre>
@@ -12377,14 +12457,6 @@
     <url>https://livetv.sx/es/eventinfo/347348169__/</url>
   </evento>
   <evento>
-    <nombre>Donski / Siddhant – Ji-sung / Niklas-Salminen</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Pune. Doubles</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>13:15</hora>
-    <url>https://livetv.sx/es/eventinfo/347368513__/</url>
-  </evento>
-  <evento>
     <nombre>Paul / Vocel – Bollipalli / Winegar</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Saint-Brieuc. Doubles</competicion>
@@ -12407,6 +12479,14 @@
     <fecha>27 de febrero</fecha>
     <hora>14:10</hora>
     <url>https://livetv.sx/es/eventinfo/346085835_atp_challenger_lugano/</url>
+  </evento>
+  <evento>
+    <nombre>Donski / Siddhant – Ji-sung / Niklas-Salminen</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Pune. Doubles</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>14:15</hora>
+    <url>https://livetv.sx/es/eventinfo/347368513__/</url>
   </evento>
   <evento>
     <nombre>Udvardy (M) /  Erjavec (M) –  Maleckova (M) /  Skoch (M)</nombre>
@@ -12669,7 +12749,7 @@
     <deporte>Tenis</deporte>
     <competicion>WTA. Antalya. Doubles</competicion>
     <fecha>28 de febrero</fecha>
-    <hora>13:00</hora>
+    <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/347607613__/</url>
   </evento>
   <evento>
@@ -12679,14 +12759,6 @@
     <fecha>28 de febrero</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/347507870__/</url>
-  </evento>
-  <evento>
-    <nombre>Kralovo Pole (M) –  Olymp Praga (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>República Checa. Mujeres. Copa</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347483406__/</url>
   </evento>
   <evento>
     <nombre>Fenerbahce (M) –  Bahcelievler (M)</nombre>
@@ -12753,12 +12825,28 @@
     <url>https://livetv.sx/es/eventinfo/343189668__/</url>
   </evento>
   <evento>
+    <nombre>Leskovac (M) –  Sremska Mitrovica (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Serbia. Mujeres. Super Liga</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347615925__/</url>
+  </evento>
+  <evento>
     <nombre>Nowy Dwor (M) –  Stal Mielec (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Polonia. Mujeres. MP</competicion>
     <fecha>27 de febrero</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/343504613__/</url>
+  </evento>
+  <evento>
+    <nombre>Kralovo Pole (M) –  Olymp Praga (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>República Checa. Mujeres. Copa</competicion>
+    <fecha>27 de febrero</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347483406__/</url>
   </evento>
   <evento>
     <nombre>Prostejov (M) –  Dukla Liberec (M)</nombre>
@@ -13433,12 +13521,28 @@
     <url>https://livetv.sx/es/eventinfo/346436105_australian_grand_prix/</url>
   </evento>
   <evento>
+    <nombre>Gran Premio de San Petersburgo</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>Indy Car</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>16:30</hora>
+    <url>https://livetv.sx/es/eventinfo/347621966_grand_prix_of_st_petersburg/</url>
+  </evento>
+  <evento>
     <nombre>Focused Health 250</nombre>
     <deporte>Automovilismo</deporte>
     <competicion>NASCAR</competicion>
     <fecha>28 de febrero</fecha>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/347036023_focused_health_250/</url>
+  </evento>
+  <evento>
+    <nombre>Gran Premio de San Petersburgo</nombre>
+    <deporte>Automovilismo</deporte>
+    <competicion>Indy Car</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>23:30</hora>
+    <url>https://livetv.sx/es/eventinfo/347621968_grand_prix_of_st_petersburg/</url>
   </evento>
   <evento>
     <nombre>Gran Premio de Tailandia</nombre>
@@ -14553,14 +14657,6 @@
     <url>https://livetv.sx/es/eventinfo/343894051__/</url>
   </evento>
   <evento>
-    <nombre>Copa del Mundo, Bad Mitterndorf</nombre>
-    <deporte>Deporte_18</deporte>
-    <competicion>Combinada nórdica</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346445703_world_cup_bad_mitterndorf/</url>
-  </evento>
-  <evento>
     <nombre>Copa del Mundo, SoldeuMujer</nombre>
     <deporte>Deporte_18</deporte>
     <competicion>Esquí alpino</competicion>
@@ -14703,14 +14799,6 @@
     <fecha>1 de marzo</fecha>
     <hora>13:30</hora>
     <url>https://livetv.sx/es/eventinfo/346445729_world_cup_falun/</url>
-  </evento>
-  <evento>
-    <nombre>China Taipéi – Hokkaido Fighters</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>Torneo amistoso</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>09:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347036223_chinese_taipei_hokkaido_fighters/</url>
   </evento>
   <evento>
     <nombre>Japón – Chunichi Dragons</nombre>
