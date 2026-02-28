@@ -1,42 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-02-28 06:50:01" total="1828">
-  <evento>
-    <nombre>Gran Premio de Australia</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Fórmula 1</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>09:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346436105_gran_premio_de_australia/</url>
-  </evento>
-  <evento>
-    <nombre>Auckland Aces –  Northern Brave</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Nueva Zelanda. Plunket Shield</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>23:30</hora>
-    <url>https://livetv.sx/es/eventinfo/347036368_auckland_aces_northern_brave/</url>
-  </evento>
-  <evento>
-    <nombre>Canterbury Kings –  Otago Volts</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Nueva Zelanda. Plunket Shield</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>23:30</hora>
-    <url>https://livetv.sx/es/eventinfo/347036369_canterbury_kings_otago_volts/</url>
-  </evento>
-  <evento>
-    <nombre>Central Stags –  Wellington Firebirds</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Nueva Zelanda. Plunket Shield</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>23:30</hora>
-    <url>https://livetv.sx/es/eventinfo/347036370_central_stags_wellington_firebirds/</url>
-  </evento>
+<eventos generado="2026-02-28 07:33:59" total="1825">
   <evento>
     <nombre>Gran Premio de Tailandia</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Moto GP</competicion>
-    <fecha>27 de febrero</fecha>
+    <fecha>28 de febrero</fecha>
     <hora>03:40</hora>
     <url>https://livetv.sx/es/eventinfo/346436084_gran_premio_de_tailandia/</url>
   </evento>
@@ -44,31 +12,15 @@
     <nombre>Singapore Smash</nombre>
     <deporte>Fútbol</deporte>
     <competicion>No especificado</competicion>
-    <fecha>27 de febrero</fecha>
+    <fecha>28 de febrero</fecha>
     <hora>04:00</hora>
     <url>https://livetv.sx/es/eventinfo/346440947_singapore_smash/</url>
-  </evento>
-  <evento>
-    <nombre>Pacheco Mendez / Jodar –  Zverev / Melo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP. Acapulco. Doubles</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>04:25</hora>
-    <url>https://livetv.sx/es/eventinfo/347573640_pacheco_mendez__jodar_zverev__melo/</url>
-  </evento>
-  <evento>
-    <nombre>Piter (M) /  Tjen (M) –   Bucsa (M) /  Jiang (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Mérida. Doubles</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>04:35</hora>
-    <url>https://livetv.sx/es/eventinfo/347549125__piter_m___tjen_m__bucsa_m___jiang_m/</url>
   </evento>
   <evento>
     <nombre>Yue Yuan (M) –   Ashlyn Krueger (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>WTA. Austin</competicion>
-    <fecha>27 de febrero</fecha>
+    <fecha>28 de febrero</fecha>
     <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/347425578__yue_yuan_m__ashlyn_krueger_m/</url>
   </evento>
@@ -76,79 +28,15 @@
     <nombre>Jasmine Paolini (M) –   Katie Boulter (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>WTA. Mérida</competicion>
-    <fecha>27 de febrero</fecha>
+    <fecha>28 de febrero</fecha>
     <hora>05:20</hora>
     <url>https://livetv.sx/es/eventinfo/347522206__jasmine_paolini_m__katie_boulter_m/</url>
-  </evento>
-  <evento>
-    <nombre>St Kilda –  Essendon</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Australia. AFL</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>06:10</hora>
-    <url>https://livetv.sx/es/eventinfo/347394271_st_kilda_essendon/</url>
-  </evento>
-  <evento>
-    <nombre>Russian Championship</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Esquí de fondo</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>06:30</hora>
-    <url>https://livetv.sx/es/eventinfo/346971795_russian_championship/</url>
-  </evento>
-  <evento>
-    <nombre>Urawa Red Diamonds –  Kashima Antlers</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Japón. J League</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345071585_urawa_red_diamonds_kashima_antlers/</url>
-  </evento>
-  <evento>
-    <nombre>Ulsan Hyundai –  Gangwon</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Corea del Sur. K-League</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/343366091_ulsan_hyundai_gangwon/</url>
-  </evento>
-  <evento>
-    <nombre>Incheon Utd –  Seúl</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Corea del Sur. K-League</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/343366092_incheon_utd_se__l/</url>
-  </evento>
-  <evento>
-    <nombre>Gimhae City –  Ansan Greeners</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Corea del Sur. K-League 2</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/343366093_gimhae_city_ansan_greeners/</url>
-  </evento>
-  <evento>
-    <nombre>Magic United –  Peninsula Power</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Australia. NPL Queensland</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/343362974_magic_united_peninsula_power/</url>
-  </evento>
-  <evento>
-    <nombre>Bulleen Lions (M) –   Keilor Park (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>NPL Victoria</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347264549__bulleen_lions_m__keilor_park_m/</url>
   </evento>
   <evento>
     <nombre>Heidelberg United (M) –   South Melbourne (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>NPL Victoria</competicion>
-    <fecha>27 de febrero</fecha>
+    <fecha>28 de febrero</fecha>
     <hora>07:15</hora>
     <url>https://livetv.sx/es/eventinfo/347264550__heidelberg_united_m__south_melbourne_m/</url>
   </evento>
@@ -156,7 +44,7 @@
     <nombre>Brisbane City (M) –   Souths Utd (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>NPL Queensland</competicion>
-    <fecha>27 de febrero</fecha>
+    <fecha>28 de febrero</fecha>
     <hora>07:45</hora>
     <url>https://livetv.sx/es/eventinfo/346948851__brisbane_city_m__souths_utd_m/</url>
   </evento>
@@ -164,7 +52,7 @@
     <nombre>Gamba Osaka –  Shimizu S-Pulse</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Japón. J League</competicion>
-    <fecha>27 de febrero</fecha>
+    <fecha>28 de febrero</fecha>
     <hora>08:00</hora>
     <url>https://livetv.sx/es/eventinfo/345071586_gamba_osaka_shimizu_s_pulse/</url>
   </evento>
@@ -172,7 +60,7 @@
     <nombre>Tokio –  Kashiwa Reysol</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Japón. J League</competicion>
-    <fecha>27 de febrero</fecha>
+    <fecha>28 de febrero</fecha>
     <hora>08:00</hora>
     <url>https://livetv.sx/es/eventinfo/345071587_tokio_kashiwa_reysol/</url>
   </evento>
@@ -180,7 +68,7 @@
     <nombre>Central Coast Mariners –  Newcastle Jets</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Australia. A-League</competicion>
-    <fecha>27 de febrero</fecha>
+    <fecha>28 de febrero</fecha>
     <hora>08:00</hora>
     <url>https://livetv.sx/es/eventinfo/343374727_central_coast_mariners_newcastle_jets/</url>
   </evento>
@@ -188,7 +76,7 @@
     <nombre>Russian Championship</nombre>
     <deporte>Fútbol</deporte>
     <competicion>National Event</competicion>
-    <fecha>27 de febrero</fecha>
+    <fecha>28 de febrero</fecha>
     <hora>08:00</hora>
     <url>https://livetv.sx/es/eventinfo/346966035_russian_championship/</url>
   </evento>
@@ -196,15 +84,15 @@
     <nombre>Chiefs –  Crusaders</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Super Rugby</competicion>
-    <fecha>27 de febrero</fecha>
-    <hora>21:21</hora>
+    <fecha>28 de febrero</fecha>
+    <hora>21:36</hora>
     <url>https://livetv.sx/es/eventinfo/343384253_chiefs_crusaders/</url>
   </evento>
   <evento>
     <nombre>Copa de Rusia</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Biatlón</competicion>
-    <fecha>27 de febrero</fecha>
+    <fecha>28 de febrero</fecha>
     <hora>08:30</hora>
     <url>https://livetv.sx/es/eventinfo/346971796_copa_de_rusia/</url>
   </evento>
@@ -212,9 +100,97 @@
     <nombre>Gran Premio</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Grand Prix</competicion>
-    <fecha>27 de febrero</fecha>
+    <fecha>28 de febrero</fecha>
     <hora>08:30</hora>
     <url>https://livetv.sx/es/eventinfo/346787087_gran_premio/</url>
+  </evento>
+  <evento>
+    <nombre>George Cross –  Dandenong Thunder</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NPL Victoria</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343386710_george_cross_dandenong_thunder/</url>
+  </evento>
+  <evento>
+    <nombre>Brisbane Roar –  Perth Glory</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. A-League</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343386668_brisbane_roar_perth_glory/</url>
+  </evento>
+  <evento>
+    <nombre>Rochedale Rovers –  Gold Coast Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NPL Queensland</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343386719_rochedale_rovers_gold_coast_utd/</url>
+  </evento>
+  <evento>
+    <nombre>Capalaba (W) –  FQ Academy QAS (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NPL Queensland</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347071319_capalaba_w_fq_academy_qas_w/</url>
+  </evento>
+  <evento>
+    <nombre>Capalaba (M) –   QAS (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NPL Queensland</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347907245__capalaba_m__qas_m/</url>
+  </evento>
+  <evento>
+    <nombre>Samford Rangers –  Virginia Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Queensland Premier League 2</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347317984_samford_rangers_virginia_utd/</url>
+  </evento>
+  <evento>
+    <nombre>Fremantle –  Adelaide</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. AFL</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>09:10</hora>
+    <url>https://livetv.sx/es/eventinfo/347394272_fremantle_adelaide/</url>
+  </evento>
+  <evento>
+    <nombre>Altona Magic –  South Melbourne</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NPL Victoria</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>09:15</hora>
+    <url>https://livetv.sx/es/eventinfo/343392678_altona_magic_south_melbourne/</url>
+  </evento>
+  <evento>
+    <nombre>Gimcheon Sangmu –  Pohang Steelers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Corea del Sur. K-League</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>09:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343401717_gimcheon_sangmu_pohang_steelers/</url>
+  </evento>
+  <evento>
+    <nombre>Suwon Bluewings –  Seúl E-Land</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Corea del Sur. K-League 2</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>09:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343401719_suwon_bluewings_se__l_e_land/</url>
+  </evento>
+  <evento>
+    <nombre>Bournemouth – Sunderland</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343456453__/</url>
   </evento>
   <evento>
     <nombre>Rayo Vallecano – Athletic de Bilbao</nombre>
@@ -233,12 +209,12 @@
     <url>https://livetv.sx/es/eventinfo/343484313__/</url>
   </evento>
   <evento>
-    <nombre>Liverpool – West Ham United</nombre>
+    <nombre>Burnley – Brentford</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Inglaterra. Premier League</competicion>
     <fecha>28 de febrero</fecha>
     <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/343484314__/</url>
+    <url>https://livetv.sx/es/eventinfo/343484315__/</url>
   </evento>
   <evento>
     <nombre>Barcelona – Villarreal</nombre>
@@ -255,14 +231,6 @@
     <fecha>28 de febrero</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/343505529__/</url>
-  </evento>
-  <evento>
-    <nombre>Leeds Utd – Manchester City</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. Premier League</competicion>
-    <fecha>28 de febrero</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/343531921__/</url>
   </evento>
   <evento>
     <nombre>Mallorca – Real Sociedad</nombre>
@@ -295,54 +263,6 @@
     <fecha>28 de febrero</fecha>
     <hora>22:05</hora>
     <url>https://livetv.sx/es/eventinfo/343607564__/</url>
-  </evento>
-  <evento>
-    <nombre>Bulleen Lions (M) –  Keilor Park (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Australia. Mujeres. NPL Victoria</competicion>
-    <fecha>28 de febrero</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347264549__/</url>
-  </evento>
-  <evento>
-    <nombre>Magic United – Peninsula Power</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Australia. NPL Queensland</competicion>
-    <fecha>28 de febrero</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/343362974__/</url>
-  </evento>
-  <evento>
-    <nombre>Ulsan Hyundai – Gangwon</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Corea del Sur. K-League</competicion>
-    <fecha>28 de febrero</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/343366091__/</url>
-  </evento>
-  <evento>
-    <nombre>Incheon Utd – Seúl</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Corea del Sur. K-League</competicion>
-    <fecha>28 de febrero</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/343366092__/</url>
-  </evento>
-  <evento>
-    <nombre>Gimhae City – Ansan Greeners</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Corea del Sur. K-League 2</competicion>
-    <fecha>28 de febrero</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/343366093__/</url>
-  </evento>
-  <evento>
-    <nombre>Urawa Red Diamonds – Kashima Antlers</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Japón. J League</competicion>
-    <fecha>28 de febrero</fecha>
-    <hora>07:00</hora>
-    <url>https://livetv.sx/es/eventinfo/345071585__/</url>
   </evento>
   <evento>
     <nombre>Heidelberg United (M) –  South Melbourne (M)</nombre>
@@ -401,20 +321,20 @@
     <url>https://livetv.sx/es/eventinfo/343386710__/</url>
   </evento>
   <evento>
-    <nombre>Capalaba (W) – FQ Academy QAS (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Australia. Mujeres. NPL Queensland</competicion>
-    <fecha>28 de febrero</fecha>
-    <hora>09:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347071319_capalaba_w_fq_academy_qas_w/</url>
-  </evento>
-  <evento>
     <nombre>Rochedale Rovers – Gold Coast Utd</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Australia. NPL Queensland</competicion>
     <fecha>28 de febrero</fecha>
     <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/343386719__/</url>
+  </evento>
+  <evento>
+    <nombre>Capalaba (M) –  QAS (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Mujeres. NPL Queensland</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347907245__/</url>
   </evento>
   <evento>
     <nombre>Samford Rangers – Virginia Utd</nombre>
@@ -991,14 +911,6 @@
     <fecha>28 de febrero</fecha>
     <hora>14:30</hora>
     <url>https://livetv.sx/es/eventinfo/343456422__/</url>
-  </evento>
-  <evento>
-    <nombre>Bournemouth – Sunderland</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Inglaterra. Premier League</competicion>
-    <fecha>28 de febrero</fecha>
-    <hora>14:30</hora>
-    <url>https://livetv.sx/es/eventinfo/343456453__/</url>
   </evento>
   <evento>
     <nombre>Portsmouth – Hull City</nombre>
@@ -1785,12 +1697,12 @@
     <url>https://livetv.sx/es/eventinfo/347120017_simulcast/</url>
   </evento>
   <evento>
-    <nombre>Burnley – Brentford</nombre>
+    <nombre>Liverpool – West Ham United</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Inglaterra. Premier League</competicion>
     <fecha>28 de febrero</fecha>
     <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/343484315__/</url>
+    <url>https://livetv.sx/es/eventinfo/343484314__/</url>
   </evento>
   <evento>
     <nombre>Waasland-Beveren – Olympic Charleroi</nombre>
@@ -2327,6 +2239,14 @@
     <fecha>28 de febrero</fecha>
     <hora>19:30</hora>
     <url>https://livetv.sx/es/eventinfo/346774407__/</url>
+  </evento>
+  <evento>
+    <nombre>Leeds Utd – Manchester City</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/343531921__/</url>
   </evento>
   <evento>
     <nombre>Partizan – OFK Belgrado</nombre>
@@ -3705,6 +3625,14 @@
     <url>https://livetv.sx/es/eventinfo/347687683_cuba_kur_araz/</url>
   </evento>
   <evento>
+    <nombre>Pattaya United – Khonkaen Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Tailandia. Thai League 2</competicion>
+    <fecha>1 de marzo</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347911994__/</url>
+  </evento>
+  <evento>
     <nombre>Kanchanaburi – Chiangrai Utd</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Tailandia. Thai League 1</competicion>
@@ -4215,6 +4143,38 @@
     <fecha>1 de marzo</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/343879177__/</url>
+  </evento>
+  <evento>
+    <nombre>Manchester Utd – Crystal Palace</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>1 de marzo</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343879178__/</url>
+  </evento>
+  <evento>
+    <nombre>Viseu – Maritimo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Segunda Liga</competicion>
+    <fecha>1 de marzo</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343882010__/</url>
+  </evento>
+  <evento>
+    <nombre>Pescara – Palermo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie B</competicion>
+    <fecha>1 de marzo</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343880220__/</url>
+  </evento>
+  <evento>
+    <nombre>Catanzaro – Frosinone</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie B</competicion>
+    <fecha>1 de marzo</fecha>
+    <hora>16:00</hora>
+    <url>https://livetv.sx/es/eventinfo/343880221__/</url>
   </evento>
   <evento>
     <nombre>Rangers – Pittsburgh</nombre>
@@ -6727,6 +6687,30 @@
     <fecha>2 de marzo</fecha>
     <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/344239458__/</url>
+  </evento>
+  <evento>
+    <nombre>Brynas (M) –  Skelleftea (M)</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suecia. Mujeres. SDHL</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347906881__/</url>
+  </evento>
+  <evento>
+    <nombre>Froelunda (M) –  Farjestad (M)</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suecia. Mujeres. SDHL</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347906882__/</url>
+  </evento>
+  <evento>
+    <nombre>SDE (M) –  MoDo (M)</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suecia. Mujeres. SDHL</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347906883__/</url>
   </evento>
   <evento>
     <nombre>SonderjyskE – Rodovre</nombre>
@@ -11817,14 +11801,6 @@
     <url>https://livetv.sx/es/eventinfo/347425578__/</url>
   </evento>
   <evento>
-    <nombre>Francis Tiafoe – Brandon Nakashima</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Acapulco</competicion>
-    <fecha>28 de febrero</fecha>
-    <hora>06:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347627571__/</url>
-  </evento>
-  <evento>
     <nombre>Daniil Medvedev – Tallon Griekspoor</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Dubai</competicion>
@@ -11863,14 +11839,6 @@
     <fecha>1 de marzo</fecha>
     <hora>00:30</hora>
     <url>https://livetv.sx/es/eventinfo/347848086__/</url>
-  </evento>
-  <evento>
-    <nombre>Pacheco Mendez / Jodar – Zverev / Melo</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Acapulco. Doubles</competicion>
-    <fecha>28 de febrero</fecha>
-    <hora>04:25</hora>
-    <url>https://livetv.sx/es/eventinfo/347573640__/</url>
   </evento>
   <evento>
     <nombre>Piter (M) /  Tjen (M) –  Bucsa (M) /  Jiang (M)</nombre>
@@ -12065,6 +12033,14 @@
     <url>https://livetv.sx/es/eventinfo/347896949__/</url>
   </evento>
   <evento>
+    <nombre>Flavio Cobolli – Francis Tiafoe</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Acapulco</competicion>
+    <fecha>1 de marzo</fecha>
+    <hora>05:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347908392__/</url>
+  </evento>
+  <evento>
     <nombre>Paul / Vocel – Reymond / Sanchez</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Saint-Brieuc. Doubles</competicion>
@@ -12247,6 +12223,14 @@
     <fecha>28 de febrero</fecha>
     <hora>15:00</hora>
     <url>https://livetv.sx/es/eventinfo/344441376__/</url>
+  </evento>
+  <evento>
+    <nombre>Graz 2 – Muhlviertel</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Austria. Copa</competicion>
+    <fecha>28 de febrero</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/347908551__/</url>
   </evento>
   <evento>
     <nombre>Zenit – Fakel</nombre>
@@ -12735,14 +12719,6 @@
     <fecha>1 de marzo</fecha>
     <hora>06:00</hora>
     <url>https://livetv.sx/es/eventinfo/347412425_emanuel_navarrete_jose_eduardo_nunez/</url>
-  </evento>
-  <evento>
-    <nombre>Gran Premio de Australia</nombre>
-    <deporte>Automovilismo</deporte>
-    <competicion>Fórmula 1</competicion>
-    <fecha>28 de febrero</fecha>
-    <hora>09:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346436105_australian_grand_prix/</url>
   </evento>
   <evento>
     <nombre>Gran Premio de Tailandia</nombre>
