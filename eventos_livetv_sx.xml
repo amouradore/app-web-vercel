@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-03-02 04:53:46" total="1496">
-  <evento>
-    <nombre>LA Lakers –  Sacramento</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>1 de marzo</fecha>
-    <hora>28:10</hora>
-    <url>https://livetv.sx/es/eventinfo/344104738_la_lakers_sacramento/</url>
-  </evento>
+<eventos generado="2026-03-02 05:58:03" total="1497">
   <evento>
     <nombre>Auckland Aces –  Northern Brave</nombre>
     <deporte>Fútbol</deporte>
@@ -33,30 +25,6 @@
     <url>https://livetv.sx/es/eventinfo/347036376_central_stags_wellington_firebirds/</url>
   </evento>
   <evento>
-    <nombre>Lumsden (M) /  Haverlag (M) –   Bucsa (M) /  Jiang (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>WTA. Mérida. Doubles</competicion>
-    <fecha>1 de marzo</fecha>
-    <hora>04:40</hora>
-    <url>https://livetv.sx/es/eventinfo/348201856__lumsden_m___haverlag_m__bucsa_m___jiang_m/</url>
-  </evento>
-  <evento>
-    <nombre>Hanshin Tigers –  Corea del Sur</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Torneo amistoso</competicion>
-    <fecha>1 de marzo</fecha>
-    <hora>05:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347036229_hanshin_tigers_corea_del_sur/</url>
-  </evento>
-  <evento>
-    <nombre>Tacoma Defiance –  Los Ángeles 2</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. MLS Next Pro</competicion>
-    <fecha>1 de marzo</fecha>
-    <hora>05:00</hora>
-    <url>https://livetv.sx/es/eventinfo/348078554_tacoma_defiance_los___ngeles_2/</url>
-  </evento>
-  <evento>
     <nombre>Daejeon Citizen –  Anyang</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Corea del Sur. K-League</competicion>
@@ -71,6 +39,14 @@
     <fecha>1 de marzo</fecha>
     <hora>07:00</hora>
     <url>https://livetv.sx/es/eventinfo/344126868_chungnam_asan_paju_citizen/</url>
+  </evento>
+  <evento>
+    <nombre>Russian Championship</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>National Event</competicion>
+    <fecha>1 de marzo</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/348646035_russian_championship/</url>
   </evento>
   <evento>
     <nombre>Anastasia Gasanova (M) –   Panna Udvardy (M)</nombre>
@@ -161,6 +137,30 @@
     <url>https://livetv.sx/es/eventinfo/348502515__guiomar_maristany_m__arantxa_rus_m/</url>
   </evento>
   <evento>
+    <nombre>Oleksandra Oliynykova (M) –   Nuria Brancaccio (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>WTA. Antalya 2</competicion>
+    <fecha>1 de marzo</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/348502516__oleksandra_oliynykova_m__nuria_brancaccio_m/</url>
+  </evento>
+  <evento>
+    <nombre>Busan IPark –  Seongnam</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Corea del Sur. K-League 2</competicion>
+    <fecha>1 de marzo</fecha>
+    <hora>09:30</hora>
+    <url>https://livetv.sx/es/eventinfo/344151899_busan_ipark_seongnam/</url>
+  </evento>
+  <evento>
+    <nombre>Sakhalinskie Akuly –  Red Machine</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>1 de marzo</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/344156785_sakhalinskie_akuly_red_machine/</url>
+  </evento>
+  <evento>
     <nombre>Sochi – Spartak M</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Rusia. Premier Liga</competicion>
@@ -241,14 +241,6 @@
     <url>https://livetv.sx/es/eventinfo/344339894__/</url>
   </evento>
   <evento>
-    <nombre>Tacoma Defiance – Los Ángeles 2</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. MLS Next Pro</competicion>
-    <fecha>2 de marzo</fecha>
-    <hora>05:00</hora>
-    <url>https://livetv.sx/es/eventinfo/348078554__/</url>
-  </evento>
-  <evento>
     <nombre>Daejeon Citizen – Anyang</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Corea del Sur. K-League</competicion>
@@ -279,6 +271,14 @@
     <fecha>2 de marzo</fecha>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/347934906__/</url>
+  </evento>
+  <evento>
+    <nombre>Rakhine United – Shan Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Myanmar. National League</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/348643538__/</url>
   </evento>
   <evento>
     <nombre>Estonia (M) Sub-19 –   Chipre (M) Sub-19</nombre>
@@ -6873,22 +6873,6 @@
     <url>https://livetv.sx/es/eventinfo/345535572__/</url>
   </evento>
   <evento>
-    <nombre>LA Clippers – Nueva Orleans</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>2 de marzo</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/344092604__/</url>
-  </evento>
-  <evento>
-    <nombre>LA Lakers – Sacramento</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>2 de marzo</fecha>
-    <hora>04:30</hora>
-    <url>https://livetv.sx/es/eventinfo/344104738__/</url>
-  </evento>
-  <evento>
     <nombre>Ormansport – Fenerbahce 2</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Turquía. TBL</competicion>
@@ -6959,14 +6943,6 @@
     <fecha>2 de marzo</fecha>
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/348524068__/</url>
-  </evento>
-  <evento>
-    <nombre>CHAMP1ON – ChelGU</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
-    <fecha>2 de marzo</fecha>
-    <hora>10:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347025613_champ1on_chelgu/</url>
   </evento>
   <evento>
     <nombre>Zhetysu (W) – Kaspiy (W)</nombre>
@@ -9225,6 +9201,14 @@
     <url>https://livetv.sx/es/eventinfo/345541517__/</url>
   </evento>
   <evento>
+    <nombre>Colorado Rams – Boise Broncos</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>7 de marzo</fecha>
+    <hora>07:00</hora>
+    <url>https://livetv.sx/es/eventinfo/345560840__/</url>
+  </evento>
+  <evento>
     <nombre>Kaja Juvan (M) –  Akasha Urhobo (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Indian Wells. Clasificatoria</competicion>
@@ -9303,14 +9287,6 @@
     <fecha>3 de marzo</fecha>
     <hora>02:00</hora>
     <url>https://livetv.sx/es/eventinfo/348601874__/</url>
-  </evento>
-  <evento>
-    <nombre>Lumsden (M) /  Haverlag (M) –  Bucsa (M) /  Jiang (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Mérida. Doubles</competicion>
-    <fecha>2 de marzo</fecha>
-    <hora>04:40</hora>
-    <url>https://livetv.sx/es/eventinfo/348201856__/</url>
   </evento>
   <evento>
     <nombre>Anastasia Gasanova (M) –  Panna Udvardy (M)</nombre>
@@ -9465,20 +9441,20 @@
     <url>https://livetv.sx/es/eventinfo/348498510_oriol_roca_batalla_michiel_de_krom/</url>
   </evento>
   <evento>
+    <nombre>ATP Challenger. Hersonissos</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Jersónisos</competicion>
+    <fecha>2 de marzo</fecha>
+    <hora>10:10</hora>
+    <url>https://livetv.sx/es/eventinfo/348343859_atp_challenger_hersonissos/</url>
+  </evento>
+  <evento>
     <nombre>ATP Challenger. Kigali</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Kigali</competicion>
     <fecha>2 de marzo</fecha>
     <hora>10:10</hora>
     <url>https://livetv.sx/es/eventinfo/348348541_atp_challenger_kigali/</url>
-  </evento>
-  <evento>
-    <nombre>ATP Challenger. Hersonissos</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Jersónisos</competicion>
-    <fecha>2 de marzo</fecha>
-    <hora>10:40</hora>
-    <url>https://livetv.sx/es/eventinfo/348343859_atp_challenger_hersonissos/</url>
   </evento>
   <evento>
     <nombre>Hayato Matsuoka – Muzammil Murtaza</nombre>
@@ -10737,6 +10713,14 @@
     <url>https://livetv.sx/es/eventinfo/344340111__/</url>
   </evento>
   <evento>
+    <nombre>Zarechie Odintsovo (M) – Dynamo-Ak Bars (W)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Rusia. Mujeres. Superliga</competicion>
+    <fecha>3 de marzo</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/348645949_zarechie_odintsovo_w_dynamo_ak_bars_w/</url>
+  </evento>
+  <evento>
     <nombre>SESI Bauru – Uberlandia Monte Carmelo</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Brasil. Superliga</competicion>
@@ -11039,6 +11023,46 @@
     <fecha>6 de marzo</fecha>
     <hora>06:00</hora>
     <url>https://livetv.sx/es/eventinfo/346436105_australian_grand_prix/</url>
+  </evento>
+  <evento>
+    <nombre>Russian Championship</nombre>
+    <deporte>Deporte_9</deporte>
+    <competicion>National Event</competicion>
+    <fecha>3 de marzo</fecha>
+    <hora>04:30</hora>
+    <url>https://livetv.sx/es/eventinfo/348646036_russian_championship/</url>
+  </evento>
+  <evento>
+    <nombre>Russian Championship</nombre>
+    <deporte>Deporte_9</deporte>
+    <competicion>National Event</competicion>
+    <fecha>3 de marzo</fecha>
+    <hora>05:30</hora>
+    <url>https://livetv.sx/es/eventinfo/348646122_russian_championship/</url>
+  </evento>
+  <evento>
+    <nombre>Russian Championship</nombre>
+    <deporte>Deporte_9</deporte>
+    <competicion>National Event</competicion>
+    <fecha>3 de marzo</fecha>
+    <hora>06:30</hora>
+    <url>https://livetv.sx/es/eventinfo/348646123_russian_championship/</url>
+  </evento>
+  <evento>
+    <nombre>Russian Championship</nombre>
+    <deporte>Deporte_9</deporte>
+    <competicion>National Event</competicion>
+    <fecha>3 de marzo</fecha>
+    <hora>07:30</hora>
+    <url>https://livetv.sx/es/eventinfo/348646124_russian_championship/</url>
+  </evento>
+  <evento>
+    <nombre>Russian Championship</nombre>
+    <deporte>Deporte_9</deporte>
+    <competicion>National Event</competicion>
+    <fecha>3 de marzo</fecha>
+    <hora>08:40</hora>
+    <url>https://livetv.sx/es/eventinfo/348646125_russian_championship/</url>
   </evento>
   <evento>
     <nombre>PSP – Dinamo Tb</nombre>
@@ -11513,36 +11537,20 @@
     <url>https://livetv.sx/es/eventinfo/345416258__/</url>
   </evento>
   <evento>
+    <nombre>Russian Championship</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Esquí de fondo</competicion>
+    <fecha>4 de marzo</fecha>
+    <hora>06:30</hora>
+    <url>https://livetv.sx/es/eventinfo/348646212_russian_championship/</url>
+  </evento>
+  <evento>
     <nombre>Eurocopa</nombre>
     <deporte>Deporte_18</deporte>
     <competicion>Esquí de travesía</competicion>
     <fecha>4 de marzo</fecha>
     <hora>12:00</hora>
     <url>https://livetv.sx/es/eventinfo/348497301_european_championship/</url>
-  </evento>
-  <evento>
-    <nombre>China Taipéi – Orix Buffaloes 2</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>Torneo amistoso</competicion>
-    <fecha>2 de marzo</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347036227_chinese_taipei_orix_buffaloes_2/</url>
-  </evento>
-  <evento>
-    <nombre>Fukuoka Hawks 2 – Australia</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>Torneo amistoso</competicion>
-    <fecha>2 de marzo</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347036228_fukuoka_hawks_2_australia/</url>
-  </evento>
-  <evento>
-    <nombre>Hanshin Tigers – Corea del Sur</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>Torneo amistoso</competicion>
-    <fecha>2 de marzo</fecha>
-    <hora>05:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347036229_hanshin_tigers_south_korea/</url>
   </evento>
   <evento>
     <nombre>Yomiuri Giants 2 – República Checa</nombre>
