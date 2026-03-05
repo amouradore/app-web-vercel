@@ -1,63 +1,6 @@
 <?xml version="1.0" ?>
 <playlist version="1">
   <track>
-    <title>12:15 Bangkok United x Tampines Rovers</title>
-    <url>https://www2.sprtsonline.click/channels/hd/hd9.php</url>
-  </track>
-  <track>
-    <title>13:45 Lokomotiv Plovdiv x CSKA 1948</title>
-    <url>https://www2.sprtsonline.click/channels/hd/hd10.php</url>
-  </track>
-  <track>
-    <title>16:30 Ludogorets x Levski Sofia</title>
-    <url>https://www2.sprtsonline.click/channels/hd/hd10.php</url>
-  </track>
-  <track>
-    <title>17:25 Al-kholood Club x Al-qadisiyah</title>
-    <url>https://www2.sprtsonline.click/channels/pt/sporttv1.php</url>
-  </track>
-  <track>
-    <title>18:00 Dinamo Bucureşti x Metalul Buzău</title>
-    <url>https://www2.sprtsonline.click/channels/hd/hd8.php</url>
-  </track>
-  <track>
-    <title>19:30 Radomiak Radom x Arka Gdynia</title>
-    <url>https://www2.sprtsonline.click/channels/hd/hd3.php</url>
-  </track>
-  <track>
-    <title>19:45 Handball: SC Magdeburg x Barcelona</title>
-    <url>https://www2.sprtsonline.click/channels/pt/sporttv3.php</url>
-  </track>
-  <track>
-    <title>20:00 Tottenham Hotspur x Crystal Palace</title>
-    <url>https://www2.sprtsonline.click/channels/hd/hd1.php</url>
-    <url>https://www2.sprtsonline.click/channels/hd/hd9.php</url>
-    <url>https://www2.sprtsonline.click/channels/pt/eleven1.php</url>
-    <url>https://www2.sprtsonline.click/channels/bra/br2.php</url>
-  </track>
-  <track>
-    <title>20:10 Olympique Lyonnais x Lens</title>
-    <url>https://www2.sprtsonline.click/channels/hd/hd4.php</url>
-    <url>https://www2.sprtsonline.click/channels/pt/sporttv1.php</url>
-  </track>
-  <track>
-    <title>21:00 Deportes Tolima x Santa Fe</title>
-    <url>https://www2.sprtsonline.click/channels/hd/hd11.php</url>
-  </track>
-  <track>
-    <title>22:00 Nacional Asunción x Deportivo Recoleta</title>
-    <url>https://www2.sprtsonline.click/channels/hd/hd10.php</url>
-  </track>
-  <track>
-    <title>22:00 Boston River x Racing</title>
-    <url>https://www2.sprtsonline.click/channels/hd/hd6.php</url>
-    <url>https://www2.sprtsonline.click/channels/bra/br6.php</url>
-  </track>
-  <track>
-    <title>22:00 Desportiva ES x Sport Recife</title>
-    <url>https://www2.sprtsonline.click/channels/bra/br1.php</url>
-  </track>
-  <track>
     <title>23:10 Llaneros x Inter Bogotá</title>
     <url>https://www2.sprtsonline.click/channels/hd/hd11.php</url>
   </track>
@@ -99,17 +42,12 @@
   </track>
   <additional>
     <item>HD1 ENGLISH</item>
-    <item>HD3 POLISH</item>
-    <item>HD4 FRENCH</item>
     <item>HD5 ENGLISH</item>
     <item>HD6 SPANISH</item>
     <item>HD7 ITALIAN</item>
-    <item>HD8 ROMANIAN</item>
-    <item>HD9 ARABIC</item>
-    <item>HD10 BULGARIAN &amp; ENGLISH</item>
+    <item>HD10 ENGLISH</item>
     <item>HD11 SPANISH</item>
     <item>BR1 BRAZILIAN</item>
     <item>BR2 BRAZILIAN</item>
-    <item>BR6 BRAZILIAN</item>
   </additional>
 </playlist>
