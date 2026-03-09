@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-03-09 07:53:29" total="1387">
-  <evento>
-    <nombre>Sakhalinskie Akuly –  JHC Atlant</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rusia. MHL</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>08:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346390406_sakhalinskie_akuly_jhc_atlant/</url>
-  </evento>
-  <evento>
-    <nombre>Kuznezkie Medvedi –  Reaktor</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rusia. MHL</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>08:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346390407_kuznezkie_medvedi_reaktor/</url>
-  </evento>
+<eventos generado="2026-03-09 08:54:56" total="1389">
   <evento>
     <nombre>Omskiye Yastreby –  Sputnik Almetyevsk</nombre>
     <deporte>Fútbol</deporte>
@@ -153,12 +137,28 @@
     <url>https://livetv.sx/es/eventinfo/348741008_north_korea_univ_w_china_m/</url>
   </evento>
   <evento>
-    <nombre>Jonas Forejtek –  Aziz Ouakaa</nombre>
+    <nombre>ATP Challenger. Cherbourg</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Kigali 2</competicion>
+    <competicion>ATP Challenger. Cherbourg</competicion>
     <fecha>9 de marzo</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/351628038_jonas_forejtek_aziz_ouakaa/</url>
+    <hora>11:10</hora>
+    <url>https://livetv.sx/es/eventinfo/351820685_atp_challenger_cherbourg/</url>
+  </evento>
+  <evento>
+    <nombre>Thitsar Arman –  Dagon</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Myanmar. National League</competicion>
+    <fecha>9 de marzo</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/352031196_thitsar_arman_dagon/</url>
+  </evento>
+  <evento>
+    <nombre>Antoine Ghibaudo –  Matt Ponchet</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Cherbourg</competicion>
+    <fecha>9 de marzo</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/352345660_antoine_ghibaudo_matt_ponchet/</url>
   </evento>
   <evento>
     <nombre>Tractor Sazi – Shabab Al Ahli</nombre>
@@ -4241,22 +4241,6 @@
     <url>https://livetv.sx/es/eventinfo/346601132__/</url>
   </evento>
   <evento>
-    <nombre>Sakhalinskie Akuly – JHC Atlant</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. MHL</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>08:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346390406__/</url>
-  </evento>
-  <evento>
-    <nombre>Kuznezkie Medvedi – Reaktor</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. MHL</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>08:00</hora>
-    <url>https://livetv.sx/es/eventinfo/346390407__/</url>
-  </evento>
-  <evento>
     <nombre>Omskiye Yastreby – Sputnik Almetyevsk</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. MHL</competicion>
@@ -6001,30 +5985,6 @@
     <url>https://livetv.sx/es/eventinfo/347678844__/</url>
   </evento>
   <evento>
-    <nombre>Herlev – SonderjyskE</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Dinamarca. Metal Ligaen</competicion>
-    <fecha>13 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/352318411__/</url>
-  </evento>
-  <evento>
-    <nombre>Esbjerg Energy – Rungsted</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Dinamarca. Metal Ligaen</competicion>
-    <fecha>13 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/352318413__/</url>
-  </evento>
-  <evento>
-    <nombre>Aalborg – Odense</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Dinamarca. Metal Ligaen</competicion>
-    <fecha>13 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/352318415__/</url>
-  </evento>
-  <evento>
     <nombre>AKM-Junior – JHC Dynamo SPb</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. MHL</competicion>
@@ -6201,6 +6161,22 @@
     <url>https://livetv.sx/es/eventinfo/352357757__/</url>
   </evento>
   <evento>
+    <nombre>Herlev – SonderjyskE</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Dinamarca. Metal Ligaen</competicion>
+    <fecha>13 de marzo</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/352318411__/</url>
+  </evento>
+  <evento>
+    <nombre>Esbjerg Energy – Rungsted</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Dinamarca. Metal Ligaen</competicion>
+    <fecha>13 de marzo</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/352318413__/</url>
+  </evento>
+  <evento>
     <nombre>Schwenninger – Iserlohn Roosters</nombre>
     <deporte>Hockey</deporte>
     <competicion>Alemania. DEL</competicion>
@@ -6255,6 +6231,14 @@
     <fecha>13 de marzo</fecha>
     <hora>20:30</hora>
     <url>https://livetv.sx/es/eventinfo/347709761__/</url>
+  </evento>
+  <evento>
+    <nombre>Aalborg – Odense</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Dinamarca. Metal Ligaen</competicion>
+    <fecha>13 de marzo</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/352318415__/</url>
   </evento>
   <evento>
     <nombre>Herning Blue Fox – Rodovre</nombre>
@@ -6471,6 +6455,30 @@
     <fecha>14 de marzo</fecha>
     <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/347905892__/</url>
+  </evento>
+  <evento>
+    <nombre>Tolpar – Snezhnye Barsy</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>14 de marzo</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347917265__/</url>
+  </evento>
+  <evento>
+    <nombre>Tyumensky Legion – AKM Novomoskovsk</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>14 de marzo</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347917266__/</url>
+  </evento>
+  <evento>
+    <nombre>Stalnye Lisy – Mamonty Yugry</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>14 de marzo</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347917267__/</url>
   </evento>
   <evento>
     <nombre>Vikos – Halkida</nombre>
@@ -8337,124 +8345,20 @@
     <url>https://livetv.sx/es/eventinfo/351868612__/</url>
   </evento>
   <evento>
-    <nombre>Jonas Forejtek – Aziz Ouakaa</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Kigali 2</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/351628038__/</url>
-  </evento>
-  <evento>
     <nombre>Marco Trungelliti – Pol Martin Tiffon</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Kigali 2</competicion>
     <fecha>9 de marzo</fecha>
-    <hora>11:00</hora>
+    <hora>11:30</hora>
     <url>https://livetv.sx/es/eventinfo/351628039__/</url>
-  </evento>
-  <evento>
-    <nombre>Cesar Bouchelaghem – Arthur Gea</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Kigali 2</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/351628040__/</url>
-  </evento>
-  <evento>
-    <nombre>Florent Bax – Maximilian Neuchrist</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Kigali 2</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/351628041__/</url>
-  </evento>
-  <evento>
-    <nombre>Joel Josef Schwaerzler – Stefano Napolitano</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Kigali 2</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/351628042__/</url>
   </evento>
   <evento>
     <nombre>Mathys Erhard – Andrej Martin</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Kigali 2</competicion>
     <fecha>9 de marzo</fecha>
-    <hora>11:00</hora>
+    <hora>11:30</hora>
     <url>https://livetv.sx/es/eventinfo/351628043__/</url>
-  </evento>
-  <evento>
-    <nombre>Sandro  Kopp – Calvin Hemery</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Kigali 2</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/351628044__/</url>
-  </evento>
-  <evento>
-    <nombre>Oriol Roca Batalla – Zdenek Kolar</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Kigali 2</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/351628045__/</url>
-  </evento>
-  <evento>
-    <nombre>Eliakim Coulibaly – Corentin Denolly</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Kigali 2</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/351628046__/</url>
-  </evento>
-  <evento>
-    <nombre>Max Houkes – Luka Pavlovic</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Kigali 2</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/351628047__/</url>
-  </evento>
-  <evento>
-    <nombre>Henry Bernet – Stefan Dostanic</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Hersonissos 2</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/351628057__/</url>
-  </evento>
-  <evento>
-    <nombre>Tiago Pereira – Michael Geerts</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Hersonissos 2</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/351628058__/</url>
-  </evento>
-  <evento>
-    <nombre>Pavlos Tsitsipas – Paul Jubb</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Hersonissos 2</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/351628062__/</url>
-  </evento>
-  <evento>
-    <nombre>Lorenzo Giustino – Viktor Durasovic</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Hersonissos 2</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/351628063__/</url>
-  </evento>
-  <evento>
-    <nombre>ATP Challenger. Cherbourg</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Cherbourg</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>11:10</hora>
-    <url>https://livetv.sx/es/eventinfo/351820685_atp_challenger_cherbourg/</url>
   </evento>
   <evento>
     <nombre>Marco Trungelliti – Pol Martin Tiffon</nombre>
@@ -8463,14 +8367,6 @@
     <fecha>9 de marzo</fecha>
     <hora>11:30</hora>
     <url>https://livetv.sx/es/eventinfo/352345657_marco_trungelliti_pol_martin_tiffon/</url>
-  </evento>
-  <evento>
-    <nombre>Antoine Ghibaudo – Matt Ponchet</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Cherbourg</competicion>
-    <fecha>9 de marzo</fecha>
-    <hora>11:30</hora>
-    <url>https://livetv.sx/es/eventinfo/352345660_antoine_ghibaudo_matt_ponchet/</url>
   </evento>
   <evento>
     <nombre>Lucas Poullain – Alex Knaff</nombre>
@@ -8511,6 +8407,46 @@
     <fecha>9 de marzo</fecha>
     <hora>12:00</hora>
     <url>https://livetv.sx/es/eventinfo/352345659_alexander_donski_nicholas_david_ionel/</url>
+  </evento>
+  <evento>
+    <nombre>Jonas Forejtek – Aziz Ouakaa</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Kigali 2</competicion>
+    <fecha>9 de marzo</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/351628038__/</url>
+  </evento>
+  <evento>
+    <nombre>Oriol Roca Batalla – Zdenek Kolar</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Kigali 2</competicion>
+    <fecha>9 de marzo</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/351628045__/</url>
+  </evento>
+  <evento>
+    <nombre>Henry Bernet – Stefan Dostanic</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Hersonissos 2</competicion>
+    <fecha>9 de marzo</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/351628057__/</url>
+  </evento>
+  <evento>
+    <nombre>Pavlos Tsitsipas – Paul Jubb</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Hersonissos 2</competicion>
+    <fecha>9 de marzo</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/351628062__/</url>
+  </evento>
+  <evento>
+    <nombre>Lorenzo Giustino – Viktor Durasovic</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Hersonissos 2</competicion>
+    <fecha>9 de marzo</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/351628063__/</url>
   </evento>
   <evento>
     <nombre>Maxime Janvier – Yanis Ghazouani Durand</nombre>
@@ -8575,6 +8511,14 @@
     <fecha>9 de marzo</fecha>
     <hora>15:10</hora>
     <url>https://livetv.sx/es/eventinfo/351830700_atp_challenger_santiago/</url>
+  </evento>
+  <evento>
+    <nombre>Tiago Pereira – Michael Geerts</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Hersonissos 2</competicion>
+    <fecha>9 de marzo</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/351628058__/</url>
   </evento>
   <evento>
     <nombre>Jelle Sels – Geoffrey Blancaneaux</nombre>
@@ -8999,6 +8943,54 @@
     <fecha>10 de marzo</fecha>
     <hora>10:10</hora>
     <url>https://livetv.sx/es/eventinfo/351829444_atp_challenger_hersonissos_2/</url>
+  </evento>
+  <evento>
+    <nombre>Cesar Bouchelaghem – Arthur Gea</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Kigali 2</competicion>
+    <fecha>10 de marzo</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/351628040__/</url>
+  </evento>
+  <evento>
+    <nombre>Florent Bax – Maximilian Neuchrist</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Kigali 2</competicion>
+    <fecha>10 de marzo</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/351628041__/</url>
+  </evento>
+  <evento>
+    <nombre>Joel Josef Schwaerzler – Stefano Napolitano</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Kigali 2</competicion>
+    <fecha>10 de marzo</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/351628042__/</url>
+  </evento>
+  <evento>
+    <nombre>Sandro  Kopp – Calvin Hemery</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Kigali 2</competicion>
+    <fecha>10 de marzo</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/351628044__/</url>
+  </evento>
+  <evento>
+    <nombre>Eliakim Coulibaly – Corentin Denolly</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Kigali 2</competicion>
+    <fecha>10 de marzo</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/351628046__/</url>
+  </evento>
+  <evento>
+    <nombre>Max Houkes – Luka Pavlovic</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Kigali 2</competicion>
+    <fecha>10 de marzo</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/351628047__/</url>
   </evento>
   <evento>
     <nombre>Menelaos Efstathiou – Toby Samuel</nombre>
@@ -9785,6 +9777,14 @@
     <url>https://livetv.sx/es/eventinfo/346764628__/</url>
   </evento>
   <evento>
+    <nombre>Vero Volley Milán (M) –  Vakifbank (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Mujeres. Liga de Campeones</competicion>
+    <fecha>10 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/352666565__/</url>
+  </evento>
+  <evento>
     <nombre>Eczacibasi (M) –  Rzeszow (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Mujeres. Liga de Campeones</competicion>
@@ -10039,6 +10039,14 @@
     <fecha>9 de marzo</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/345726286__/</url>
+  </evento>
+  <evento>
+    <nombre>Voivodina – Radnicki</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Serbia. Superliga</competicion>
+    <fecha>9 de marzo</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/352661448__/</url>
   </evento>
   <evento>
     <nombre>Goeppingen – Eisenach</nombre>
@@ -10423,6 +10431,14 @@
     <fecha>14 de marzo</fecha>
     <hora>08:30</hora>
     <url>https://livetv.sx/es/eventinfo/347897027__/</url>
+  </evento>
+  <evento>
+    <nombre>Panthers – Sharks</nombre>
+    <deporte>Rugby</deporte>
+    <competicion>Australia. NRL</competicion>
+    <fecha>14 de marzo</fecha>
+    <hora>10:35</hora>
+    <url>https://livetv.sx/es/eventinfo/347919617__/</url>
   </evento>
   <evento>
     <nombre>Australia – Corea del Sur</nombre>
