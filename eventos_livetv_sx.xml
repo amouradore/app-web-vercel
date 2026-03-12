@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-03-12 17:54:16" total="1812">
+<eventos generado="2026-03-12 19:03:09" total="1827">
   <evento>
     <nombre>Lille – Aston Villa</nombre>
     <deporte>Fútbol</deporte>
@@ -41,14 +41,6 @@
     <url>https://livetv.sx/es/eventinfo/352636032_simulcast/</url>
   </evento>
   <evento>
-    <nombre>Rijeka – Estrasburgo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga Europa Conferencia</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>19:45</hora>
-    <url>https://livetv.sx/es/eventinfo/347660500__/</url>
-  </evento>
-  <evento>
     <nombre>Nottingham Forest – Midtjylland</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Europa League</competicion>
@@ -81,28 +73,12 @@
     <url>https://livetv.sx/es/eventinfo/347649567__/</url>
   </evento>
   <evento>
-    <nombre>Dila – FC Meshakhte Tkibuli</nombre>
+    <nombre>Celje – AEK</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Georgia. Erovnuli Liga</competicion>
+    <competicion>Liga Europa Conferencia</competicion>
     <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347396292__/</url>
-  </evento>
-  <evento>
-    <nombre>Maardu – Elva</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Estonia. Esiliiga</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347388665__/</url>
-  </evento>
-  <evento>
-    <nombre>Bravo – Nafta</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Eslovenia. Copa</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/346431231__/</url>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347660501__/</url>
   </evento>
   <evento>
     <nombre>Suiza (M) Sub-17 –   Grecia (M) Sub-17</nombre>
@@ -127,14 +103,6 @@
     <fecha>12 de marzo</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/353764767__/</url>
-  </evento>
-  <evento>
-    <nombre>Turquía (M) – Argentina (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Campeonato mundial</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/353764653_turkey_w_argentina_w/</url>
   </evento>
   <evento>
     <nombre>Barcelona Sub-19 –  Deportivo Sub-19</nombre>
@@ -167,6 +135,14 @@
     <fecha>12 de marzo</fecha>
     <hora>19:45</hora>
     <url>https://livetv.sx/es/eventinfo/354315027__/</url>
+  </evento>
+  <evento>
+    <nombre>Rijeka – Estrasburgo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga Europa Conferencia</competicion>
+    <fecha>12 de marzo</fecha>
+    <hora>19:45</hora>
+    <url>https://livetv.sx/es/eventinfo/347660500__/</url>
   </evento>
   <evento>
     <nombre>AZ – Sparta Praga</nombre>
@@ -321,28 +297,12 @@
     <url>https://livetv.sx/es/eventinfo/347909587__/</url>
   </evento>
   <evento>
-    <nombre>Colombia (M) – Francia (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Mujeres. Campeonato mundial</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>21:30</hora>
-    <url>https://livetv.sx/es/eventinfo/353764655_colombia_w_france_w/</url>
-  </evento>
-  <evento>
     <nombre>Badalona (M) –  Barcelona (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Mujeres. Copa de la Reina</competicion>
     <fecha>12 de marzo</fecha>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/353764766__/</url>
-  </evento>
-  <evento>
-    <nombre>Celje – AEK</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga Europa Conferencia</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347660501__/</url>
   </evento>
   <evento>
     <nombre>Fiorentina – Rakow</nombre>
@@ -1911,6 +1871,14 @@
     <fecha>14 de marzo</fecha>
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/347792092__/</url>
+  </evento>
+  <evento>
+    <nombre>Carolina Ascent (M) –  Tampa Bay Sun (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. Mujeres. USL</competicion>
+    <fecha>14 de marzo</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/354459369__/</url>
   </evento>
   <evento>
     <nombre>Once Caldas – Deportivo Pasto</nombre>
@@ -4001,6 +3969,38 @@
     <url>https://livetv.sx/es/eventinfo/348457436__/</url>
   </evento>
   <evento>
+    <nombre>Goztepe – Alanyaspor</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. Superliga</competicion>
+    <fecha>14 de marzo</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/348457441__/</url>
+  </evento>
+  <evento>
+    <nombre>Galatasaray – Basaksehir</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. Superliga</competicion>
+    <fecha>14 de marzo</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/348457443__/</url>
+  </evento>
+  <evento>
+    <nombre>Union Saint-Gilloise – Dender EH</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Pro League</competicion>
+    <fecha>14 de marzo</fecha>
+    <hora>19:15</hora>
+    <url>https://livetv.sx/es/eventinfo/348043506__/</url>
+  </evento>
+  <evento>
+    <nombre>Chelsea – Newcastle United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Premier League</competicion>
+    <fecha>14 de marzo</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/348043288__/</url>
+  </evento>
+  <evento>
     <nombre>Toronto – Anaheim</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -4081,102 +4081,6 @@
     <url>https://livetv.sx/es/eventinfo/347488920__/</url>
   </evento>
   <evento>
-    <nombre>JHC Spartak – Akademiya SKA-Yunior</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. MHL</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>17:30</hora>
-    <url>https://livetv.sx/es/eventinfo/347382296__/</url>
-  </evento>
-  <evento>
-    <nombre>Krasnaya Armiya – Dynamo Carelia</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. MHL</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>17:30</hora>
-    <url>https://livetv.sx/es/eventinfo/347382297__/</url>
-  </evento>
-  <evento>
-    <nombre>Neftyanik – Rubin Tyumen</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. VHL</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>17:30</hora>
-    <url>https://livetv.sx/es/eventinfo/347382201__/</url>
-  </evento>
-  <evento>
-    <nombre>Bars – Omskiye Kryliya</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. VHL</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>17:30</hora>
-    <url>https://livetv.sx/es/eventinfo/347382202__/</url>
-  </evento>
-  <evento>
-    <nombre>Tverichi Tver – Leningradets</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. NMHL</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/353954600__/</url>
-  </evento>
-  <evento>
-    <nombre>Buran – Dynamo-576</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. NMHL</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/353954602__/</url>
-  </evento>
-  <evento>
-    <nombre>Ryazan – Khimik Vs</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. VHL</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347387469__/</url>
-  </evento>
-  <evento>
-    <nombre>Dizel – Torpedo-Gorki</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. VHL</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347387470__/</url>
-  </evento>
-  <evento>
-    <nombre>AKM – Zvezda Moscú</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. VHL</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347387471__/</url>
-  </evento>
-  <evento>
-    <nombre>Chelny – Yugra</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. VHL</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347387472__/</url>
-  </evento>
-  <evento>
-    <nombre>Olimpiya – Yuzhny Ural</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. VHL</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347387473__/</url>
-  </evento>
-  <evento>
-    <nombre>Frydek Mistek – Dukla Jihlava</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>República Checa. 1 Liga</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/348138605__/</url>
-  </evento>
-  <evento>
     <nombre>Olomouc – Ocelari Trinec</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. Extraliga</competicion>
@@ -4185,28 +4089,12 @@
     <url>https://livetv.sx/es/eventinfo/351268780__/</url>
   </evento>
   <evento>
-    <nombre>Dinamo Szynnik – Mikhailov Academy</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Rusia. MHL</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347387569__/</url>
-  </evento>
-  <evento>
     <nombre>Berani Zlin – Slavia Praga</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. 1 Liga</competicion>
     <fecha>12 de marzo</fecha>
     <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/351268630__/</url>
-  </evento>
-  <evento>
-    <nombre>TPS Sub-20 –  HPK Sub-20</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/353941905__/</url>
   </evento>
   <evento>
     <nombre>Spisska Nova Ves – Dukla Michalovce</nombre>
@@ -4681,14 +4569,6 @@
     <url>https://livetv.sx/es/eventinfo/347678844__/</url>
   </evento>
   <evento>
-    <nombre>Olomouc – Ocelari Trinec</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>República Checa. Extraliga</competicion>
-    <fecha>13 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/351268794__/</url>
-  </evento>
-  <evento>
     <nombre>Lida – Slavutych</nombre>
     <deporte>Hockey</deporte>
     <competicion>Bielorrusia. Extraliga</competicion>
@@ -4793,6 +4673,14 @@
     <url>https://livetv.sx/es/eventinfo/351268788__/</url>
   </evento>
   <evento>
+    <nombre>Vitkovice – Karlovy Vary</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>República Checa. Extraliga</competicion>
+    <fecha>13 de marzo</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/351268792__/</url>
+  </evento>
+  <evento>
     <nombre>Spartak M – Amur</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -4849,12 +4737,12 @@
     <url>https://livetv.sx/es/eventinfo/351268790__/</url>
   </evento>
   <evento>
-    <nombre>Vitkovice – Karlovy Vary</nombre>
+    <nombre>Olomouc – Ocelari Trinec</nombre>
     <deporte>Hockey</deporte>
     <competicion>República Checa. Extraliga</competicion>
     <fecha>13 de marzo</fecha>
     <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/351268792__/</url>
+    <url>https://livetv.sx/es/eventinfo/351268794__/</url>
   </evento>
   <evento>
     <nombre>Ruan – Amiens</nombre>
@@ -7321,6 +7209,150 @@
     <url>https://livetv.sx/es/eventinfo/349126826__/</url>
   </evento>
   <evento>
+    <nombre>Linkoping U20 – Orebro U20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suecia. J20 Nationell</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/353773088_linkoping_u20_orebro_u20/</url>
+  </evento>
+  <evento>
+    <nombre>Sodertalje U-20 – Farjestad U20</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suecia. J20 Nationell</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/353773089_sodertalje_u_20_farjestad_u20/</url>
+  </evento>
+  <evento>
+    <nombre>Troja/Ljungby – Vasteras</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suecia. Allsvenskan</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/351268952__/</url>
+  </evento>
+  <evento>
+    <nombre>Bjorkloven – Oskarshamn</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suecia. Allsvenskan</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/354347988__/</url>
+  </evento>
+  <evento>
+    <nombre>Kalmar – Sodertalje</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suecia. Allsvenskan</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/354347992__/</url>
+  </evento>
+  <evento>
+    <nombre>Herning Blue Fox – Rodovre</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Dinamarca. Metal Ligaen</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/352318427__/</url>
+  </evento>
+  <evento>
+    <nombre>Herlev – SonderjyskE</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Dinamarca. Metal Ligaen</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/352318429__/</url>
+  </evento>
+  <evento>
+    <nombre>Esbjerg Energy – Rungsted</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Dinamarca. Metal Ligaen</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/352318431__/</url>
+  </evento>
+  <evento>
+    <nombre>Aalborg – Odense</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Dinamarca. Metal Ligaen</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/352318433__/</url>
+  </evento>
+  <evento>
+    <nombre>Villach – Graz</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Austria. Eishockey-Liga</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:15</hora>
+    <url>https://livetv.sx/es/eventinfo/352423596__/</url>
+  </evento>
+  <evento>
+    <nombre>Olimpija – Bolzano</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Austria. Eishockey-Liga</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:15</hora>
+    <url>https://livetv.sx/es/eventinfo/352423598__/</url>
+  </evento>
+  <evento>
+    <nombre>Fehervar AV19 – Klagenfurt</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Austria. Eishockey-Liga</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:15</hora>
+    <url>https://livetv.sx/es/eventinfo/352423600__/</url>
+  </evento>
+  <evento>
+    <nombre>Visp – La Chaux-de-Fonds</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suiza. Swiss League</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/352324413__/</url>
+  </evento>
+  <evento>
+    <nombre>Pustertal Wolfe – Salzburgo</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Austria. Eishockey-Liga</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:45</hora>
+    <url>https://livetv.sx/es/eventinfo/352423602__/</url>
+  </evento>
+  <evento>
+    <nombre>Wipptal Broncos – Zeller Eisbaren</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Alps Hockey League</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/352316697__/</url>
+  </evento>
+  <evento>
+    <nombre>Merano – Asiago</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Alps Hockey League</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/352316699__/</url>
+  </evento>
+  <evento>
+    <nombre>Sierre – Olten</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suiza. Swiss League</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/351339141__/</url>
+  </evento>
+  <evento>
+    <nombre>Gap – Cergy-Pontoise</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Francia. Ligue Magnus</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/351246247__/</url>
+  </evento>
+  <evento>
     <nombre>Real Madrid – Valencia</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Euroliga</competicion>
@@ -7399,54 +7431,6 @@
     <fecha>13 de marzo</fecha>
     <hora>03:30</hora>
     <url>https://livetv.sx/es/eventinfo/347510483__/</url>
-  </evento>
-  <evento>
-    <nombre>Zalgiris 2 – Kedainiu</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Lituania. NKL</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/352814746__/</url>
-  </evento>
-  <evento>
-    <nombre>Suduva-Mantinga – Mazeikiai</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Lituania. NKL</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/352814748__/</url>
-  </evento>
-  <evento>
-    <nombre>Omega-Tauras – Silute</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Lituania. NKL</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/352814749__/</url>
-  </evento>
-  <evento>
-    <nombre>Dzukija – Vilniaus Stekas</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Lituania. NKL</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/352814750__/</url>
-  </evento>
-  <evento>
-    <nombre>Vytis – Vilkaviskio Perlas</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Lituania. NKL</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/352814752__/</url>
-  </evento>
-  <evento>
-    <nombre>Filipinas (M) –  Alemania (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Mujeres. Campeonato mundial</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/354282938__/</url>
   </evento>
   <evento>
     <nombre>Kretinga – Jurbarkas-Karys</nombre>
@@ -9217,6 +9201,14 @@
     <url>https://livetv.sx/es/eventinfo/348034280__/</url>
   </evento>
   <evento>
+    <nombre>Hoegsbo – Umeaa</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Suecia. Basketligan</competicion>
+    <fecha>14 de marzo</fecha>
+    <hora>19:04</hora>
+    <url>https://livetv.sx/es/eventinfo/354449415__/</url>
+  </evento>
+  <evento>
     <nombre>Cholet – Le Portel</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Francia. LNB Pro A</competicion>
@@ -9241,6 +9233,14 @@
     <url>https://livetv.sx/es/eventinfo/348047181__/</url>
   </evento>
   <evento>
+    <nombre>Dornbirn Lions – Future Team Steiermark</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Austria. 2. Liga</competicion>
+    <fecha>14 de marzo</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/354442016__/</url>
+  </evento>
+  <evento>
     <nombre>Wurzburgo – Bonn</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Alemania. Bundesliga</competicion>
@@ -9255,6 +9255,14 @@
     <fecha>14 de marzo</fecha>
     <hora>19:30</hora>
     <url>https://livetv.sx/es/eventinfo/348043919__/</url>
+  </evento>
+  <evento>
+    <nombre>Blackbirds – DC Timberwolves</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Austria. 2. Liga</competicion>
+    <fecha>14 de marzo</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/354453258__/</url>
   </evento>
   <evento>
     <nombre>Murcia – Gran Canaria</nombre>
@@ -9287,6 +9295,14 @@
     <fecha>14 de marzo</fecha>
     <hora>20:30</hora>
     <url>https://livetv.sx/es/eventinfo/348036659__/</url>
+  </evento>
+  <evento>
+    <nombre>Vasco de Gama – Esgueira</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Portugal. LPB</competicion>
+    <fecha>14 de marzo</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/354469718__/</url>
   </evento>
   <evento>
     <nombre>Países Bajos (M) –  Letonia (M)</nombre>
@@ -10625,6 +10641,126 @@
     <url>https://livetv.sx/es/eventinfo/354007354__/</url>
   </evento>
   <evento>
+    <nombre>Capital City – Santa Cruz Warriors</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>NBA. G League</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/353773318_capital_city_santa_cruz_warriors/</url>
+  </evento>
+  <evento>
+    <nombre>Austria (M) –  Suiza (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujer. Campeonato Europeo. Calificación</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:15</hora>
+    <url>https://livetv.sx/es/eventinfo/349143719__/</url>
+  </evento>
+  <evento>
+    <nombre>JL Bourg – Cedevita Olimpija</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Copa Europea</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/354007358__/</url>
+  </evento>
+  <evento>
+    <nombre>Reino Unido (M) –  Noruega (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujer. Campeonato Europeo. Calificación</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/349154584__/</url>
+  </evento>
+  <evento>
+    <nombre>Bosnia y Herzegovina (M) –  Luxemburgo (M)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Mujer. Campeonato Europeo. Calificación</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/349154586__/</url>
+  </evento>
+  <evento>
+    <nombre>Málaga – Joventut</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Liga de Campeones</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/349156132__/</url>
+  </evento>
+  <evento>
+    <nombre>Wurzburgo – Elan Chalon</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Liga de Campeones</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/349156134__/</url>
+  </evento>
+  <evento>
+    <nombre>Orleans Loiret – Pau Orthez</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Francia. LNB Pro B</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/349160115__/</url>
+  </evento>
+  <evento>
+    <nombre>Denain – Antibes</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Francia. LNB Pro B</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/349160117__/</url>
+  </evento>
+  <evento>
+    <nombre>Roanne – ADA Blois</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Francia. LNB Pro B</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/349160119__/</url>
+  </evento>
+  <evento>
+    <nombre>Quimper – La-Rochelle</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Francia. LNB Pro B</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/349160121__/</url>
+  </evento>
+  <evento>
+    <nombre>Nantes – Chalons-Reims</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Francia. LNB Pro B</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/349160123__/</url>
+  </evento>
+  <evento>
+    <nombre>Evreux – ASA</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Francia. LNB Pro B</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/349160125__/</url>
+  </evento>
+  <evento>
+    <nombre>Caen – Hyeres-Toulon</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Francia. LNB Pro B</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/349160127__/</url>
+  </evento>
+  <evento>
+    <nombre>Ruan – Aix Maurienne</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Francia. LNB Pro B</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/349160129__/</url>
+  </evento>
+  <evento>
     <nombre>Lanlana Tararudee (M) –  Anastasia Zakharova (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Austin</competicion>
@@ -10633,11 +10769,19 @@
     <url>https://livetv.sx/es/eventinfo/353976622__/</url>
   </evento>
   <evento>
+    <nombre>Kimberly Birrell (M) –  Kessler McCartney (M)</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>WTA. Austin</competicion>
+    <fecha>12 de marzo</fecha>
+    <hora>20:00</hora>
+    <url>https://livetv.sx/es/eventinfo/354063103__/</url>
+  </evento>
+  <evento>
     <nombre>Aryna Sabalenka (M) –  Victoria Mboko (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Indian Wells</competicion>
     <fecha>12 de marzo</fecha>
-    <hora>20:00</hora>
+    <hora>20:05</hora>
     <url>https://livetv.sx/es/eventinfo/353608820__/</url>
   </evento>
   <evento>
@@ -10645,16 +10789,8 @@
     <deporte>Tenis</deporte>
     <competicion>ATP. Indian Wells</competicion>
     <fecha>12 de marzo</fecha>
-    <hora>20:00</hora>
+    <hora>20:05</hora>
     <url>https://livetv.sx/es/eventinfo/353475999__/</url>
-  </evento>
-  <evento>
-    <nombre>Kimberly Birrell (M) –  Kessler McCartney (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Austin</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/354063103__/</url>
   </evento>
   <evento>
     <nombre>Learner Tien – Jannik Sinner</nombre>
@@ -10705,22 +10841,6 @@
     <url>https://livetv.sx/es/eventinfo/354193106__/</url>
   </evento>
   <evento>
-    <nombre>Remy Bertola – August Holmgren</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Cherbourg</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>17:30</hora>
-    <url>https://livetv.sx/es/eventinfo/353895220__/</url>
-  </evento>
-  <evento>
-    <nombre>Fakundo Mena – Nikolas Sanchez Izquierdo</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Santiago</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/353421223__/</url>
-  </evento>
-  <evento>
     <nombre>Zeballos / Reyes Varela – Villanueva / Sanchez Izquierdo</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Santiago. Doubles</competicion>
@@ -10769,12 +10889,12 @@
     <url>https://livetv.sx/es/eventinfo/354092119__/</url>
   </evento>
   <evento>
-    <nombre>Harrison / Skupski – Andreozzi / Guinard</nombre>
+    <nombre>ATP/WTA Tour, Indian Wells</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP. Indian Wells. Doubles</competicion>
+    <competicion>ATP/WTA Tour</competicion>
     <fecha>12 de marzo</fecha>
     <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/353503866__/</url>
+    <url>https://livetv.sx/es/eventinfo/351818865_atp_wta_tour_indian_wells/</url>
   </evento>
   <evento>
     <nombre>Nuno Borges – James Duckworth</nombre>
@@ -10793,20 +10913,20 @@
     <url>https://livetv.sx/es/eventinfo/353559228__/</url>
   </evento>
   <evento>
+    <nombre>Harrison / Skupski – Andreozzi / Guinard</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Indian Wells. Doubles</competicion>
+    <fecha>12 de marzo</fecha>
+    <hora>20:05</hora>
+    <url>https://livetv.sx/es/eventinfo/353503866__/</url>
+  </evento>
+  <evento>
     <nombre>Harrison (M) /  Corley (M) –  Kato (M) /  Hao-ching (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Austin. Doubles</competicion>
     <fecha>12 de marzo</fecha>
     <hora>20:30</hora>
     <url>https://livetv.sx/es/eventinfo/353503982__/</url>
-  </evento>
-  <evento>
-    <nombre>ATP/WTA Tour, Indian Wells</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP/WTA Tour</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/351818865_atp_wta_tour_indian_wells/</url>
   </evento>
   <evento>
     <nombre>Jurij Rodionov – Alex Knaff</nombre>
@@ -11215,14 +11335,6 @@
     <fecha>12 de marzo</fecha>
     <hora>21:30</hora>
     <url>https://livetv.sx/es/eventinfo/346764626__/</url>
-  </evento>
-  <evento>
-    <nombre>Fenerbahce – ACH Volley</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Copa CEV</competicion>
-    <fecha>12 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/352913719__/</url>
   </evento>
   <evento>
     <nombre>TFL Altekma – Power Volley</nombre>
@@ -11959,6 +12071,14 @@
     <fecha>17 de marzo</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/353773327_mok_mursa_haok_mladost/</url>
+  </evento>
+  <evento>
+    <nombre>Aich/Dob – MAV Elore SC</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Campeonato MEVZA</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/353773328_aich_dob_mav_elore_sc/</url>
   </evento>
   <evento>
     <nombre>Winline. IBA. Pro 15</nombre>
