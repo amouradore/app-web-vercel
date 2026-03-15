@@ -1,29 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-03-15 22:36:10" total="1298">
-  <evento>
-    <nombre>Porto – Moreirense</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Portugal. Primeira Liga</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:30</hora>
-    <url>https://livetv.sx/es/eventinfo/348456716__/</url>
-  </evento>
-  <evento>
-    <nombre>Vancouver – Minnesota Utd</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EUA. MLS</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:30</hora>
-    <url>https://livetv.sx/es/eventinfo/348246199__/</url>
-  </evento>
-  <evento>
-    <nombre>Belgrano – Talleres de Córdoba</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Argentina. Liga Profesional</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:30</hora>
-    <url>https://livetv.sx/es/eventinfo/348502987__/</url>
-  </evento>
+<eventos generado="2026-03-15 23:36:37" total="1292">
   <evento>
     <nombre>Coritiba – Remo</nombre>
     <deporte>Fútbol</deporte>
@@ -47,6 +23,14 @@
     <fecha>16 de marzo</fecha>
     <hora>00:45</hora>
     <url>https://livetv.sx/es/eventinfo/348552181__/</url>
+  </evento>
+  <evento>
+    <nombre>UANL – Querétaro</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>México. Liga MX</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/347825056__/</url>
   </evento>
   <evento>
     <nombre>San José – Seattle Sounders</nombre>
@@ -81,100 +65,20 @@
     <url>https://livetv.sx/es/eventinfo/348463697__/</url>
   </evento>
   <evento>
-    <nombre>Emelec – Orense</nombre>
+    <nombre>Unión de Santa Fe – Boca Juniors</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Ecuador. Serie A</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:30</hora>
-    <url>https://livetv.sx/es/eventinfo/348517000__/</url>
+    <competicion>Argentina. Liga Profesional</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/348586995__/</url>
   </evento>
   <evento>
-    <nombre>Alianza Atlético – Deportivo Moquegua</nombre>
+    <nombre>América – Mazatlán</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Perú. Liga 1</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:30</hora>
-    <url>https://livetv.sx/es/eventinfo/348056253__/</url>
-  </evento>
-  <evento>
-    <nombre>Deportivo Pereira – Aguilas Doradas</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Colombia. Primera A</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:30</hora>
-    <url>https://livetv.sx/es/eventinfo/348474613__/</url>
-  </evento>
-  <evento>
-    <nombre>Deportivo Achuapa – Deportivo Marquense</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Guatemala. Liga Nacional</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/348513313__/</url>
-  </evento>
-  <evento>
-    <nombre>Carabobo – Rayo Zuliano</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Venezuela. Primera División</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/348123003__/</url>
-  </evento>
-  <evento>
-    <nombre>San Martín T – Nueva Chicago</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Argentina. Primera Nacional</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/348552132__/</url>
-  </evento>
-  <evento>
-    <nombre>ES Tunis – Al-Ahly El Cairo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga de Campeones de la CAF</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347689682__/</url>
-  </evento>
-  <evento>
-    <nombre>San Martín Burzaco – Deportivo Camioneros</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Argentina. Primera B Metropolitana</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/348122579__/</url>
-  </evento>
-  <evento>
-    <nombre>Cobresal – Deportes Limache</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Chile. Primera División</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/348516827__/</url>
-  </evento>
-  <evento>
-    <nombre>Bandeirante – Catanduva</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Campeonato Paulista 3</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/354006518__/</url>
-  </evento>
-  <evento>
-    <nombre>Guadalupe – Puntarenas</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Costa Rica. Primera División</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/348514295__/</url>
-  </evento>
-  <evento>
-    <nombre>América de Cali – Deportes Tolima</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Colombia. Primera A</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>23:10</hora>
-    <url>https://livetv.sx/es/eventinfo/348524173__/</url>
+    <competicion>México. Liga MX</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>03:00</hora>
+    <url>https://livetv.sx/es/eventinfo/348588533__/</url>
   </evento>
   <evento>
     <nombre>Nacional As – Rubio Ñu</nombre>
@@ -273,14 +177,6 @@
     <url>https://livetv.sx/es/eventinfo/348123002__/</url>
   </evento>
   <evento>
-    <nombre>UANL – Querétaro</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>México. Liga MX</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/347825056__/</url>
-  </evento>
-  <evento>
     <nombre>Cuzco – Cienciano</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Perú. Liga 1</competicion>
@@ -353,14 +249,6 @@
     <url>https://livetv.sx/es/eventinfo/348565182__/</url>
   </evento>
   <evento>
-    <nombre>Belgrano U20 – Nacional U20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Copa Libertadores Sub-20</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/351258631_belgrano_u20_nacional_u20/</url>
-  </evento>
-  <evento>
     <nombre>Belgrano Sub-20 –  Nacional M Sub-20</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Copa Libertadores Sub-20</competicion>
@@ -399,22 +287,6 @@
     <fecha>16 de marzo</fecha>
     <hora>02:30</hora>
     <url>https://livetv.sx/es/eventinfo/355581927__/</url>
-  </evento>
-  <evento>
-    <nombre>Unión de Santa Fe – Boca Juniors</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Argentina. Liga Profesional</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/348586995__/</url>
-  </evento>
-  <evento>
-    <nombre>América – Mazatlán</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>México. Liga MX</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>03:00</hora>
-    <url>https://livetv.sx/es/eventinfo/348588533__/</url>
   </evento>
   <evento>
     <nombre>Atlético Junior – Fortaleza CEIF</nombre>
@@ -4001,6 +3873,134 @@
     <url>https://livetv.sx/es/eventinfo/350829663__/</url>
   </evento>
   <evento>
+    <nombre>Ajaccio – Chateauroux</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. National</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/350829665__/</url>
+  </evento>
+  <evento>
+    <nombre>Stade Nyonnais – Rapperswil-Jona</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. Challenge League</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/350830212__/</url>
+  </evento>
+  <evento>
+    <nombre>Bellinzona – Stade Ls Ouchy</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. Challenge League</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/350830214__/</url>
+  </evento>
+  <evento>
+    <nombre>Sturm – RB Salzburgo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Austria. Bundesliga</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/352700328__/</url>
+  </evento>
+  <evento>
+    <nombre>EB/Streymur – KI Klaksvik</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Islas Feroe. Liga Premier</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/350829305__/</url>
+  </evento>
+  <evento>
+    <nombre>Simulcast</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 2</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/354392850_simulcast/</url>
+  </evento>
+  <evento>
+    <nombre>MTK – Paksi</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Hungría. NB I</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/350839169__/</url>
+  </evento>
+  <evento>
+    <nombre>Heracles Almelo – Excelsior</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eredivisie</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/350842509__/</url>
+  </evento>
+  <evento>
+    <nombre>Roda JC – Helmond Sport</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eerste Divisie</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/350842567__/</url>
+  </evento>
+  <evento>
+    <nombre>TOP Oss – Eindhoven</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eerste Divisie</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/350842569__/</url>
+  </evento>
+  <evento>
+    <nombre>Jong Utrecht – Dordrecht</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eerste Divisie</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/350842571__/</url>
+  </evento>
+  <evento>
+    <nombre>Jong PSV – Vitesse</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eerste Divisie</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/350842573__/</url>
+  </evento>
+  <evento>
+    <nombre>Jong Ajax – Almere City</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eerste Divisie</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/350842575__/</url>
+  </evento>
+  <evento>
+    <nombre>Emmen – VVV-Venlo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eerste Divisie</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/350842577__/</url>
+  </evento>
+  <evento>
+    <nombre>Cambuur – Jong AZ</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eerste Divisie</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/350842579__/</url>
+  </evento>
+  <evento>
+    <nombre>Patro Eisden – Beerschot</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Challenger Pro League</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/350838745__/</url>
+  </evento>
+  <evento>
     <nombre>Ottawa – San José</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -6209,6 +6209,54 @@
     <url>https://livetv.sx/es/eventinfo/351246251__/</url>
   </evento>
   <evento>
+    <nombre>Washington – New Jersey</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>21 de marzo</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/350986095__/</url>
+  </evento>
+  <evento>
+    <nombre>Toronto – Carolina</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>21 de marzo</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/350986097__/</url>
+  </evento>
+  <evento>
+    <nombre>Laval Rocket – Springfield Thunderbirds</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>EUA. AHL</competicion>
+    <fecha>21 de marzo</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/350987637__/</url>
+  </evento>
+  <evento>
+    <nombre>Belleville Senators – Wilkes-Barre/Scranton</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>EUA. AHL</competicion>
+    <fecha>21 de marzo</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/350987639__/</url>
+  </evento>
+  <evento>
+    <nombre>Utica Comets – Providence Bruins</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>EUA. AHL</competicion>
+    <fecha>21 de marzo</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/350987641__/</url>
+  </evento>
+  <evento>
+    <nombre>Rochester Americans – Syracuse Crunch</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>EUA. AHL</competicion>
+    <fecha>21 de marzo</fecha>
+    <hora>01:05</hora>
+    <url>https://livetv.sx/es/eventinfo/351005853__/</url>
+  </evento>
+  <evento>
     <nombre>Filadelfia – Portland</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>No especificado</competicion>
@@ -6223,14 +6271,6 @@
     <fecha>16 de marzo</fecha>
     <hora>02:00</hora>
     <url>https://livetv.sx/es/eventinfo/348572610__/</url>
-  </evento>
-  <evento>
-    <nombre>Italia (M) –  España (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Mujeres. Campeonato mundial</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356112477__/</url>
   </evento>
   <evento>
     <nombre>Rip City Remix – South Bay Lakers</nombre>
@@ -8033,20 +8073,36 @@
     <url>https://livetv.sx/es/eventinfo/350964131__/</url>
   </evento>
   <evento>
-    <nombre>Bianca Andreescu (M) –  Suzan Lamens (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Miami. Clasificatoria</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/355878207__/</url>
+    <nombre>Flamengo – Osasco</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Brasil. NBB</competicion>
+    <fecha>21 de marzo</fecha>
+    <hora>01:00</hora>
+    <url>https://livetv.sx/es/eventinfo/350982171__/</url>
   </evento>
   <evento>
-    <nombre>Anastasia Zakharova (M) –  Lanlana Tararudee (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Miami. Clasificatoria</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/355878208__/</url>
+    <nombre>Brasilia – Corinthians</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Brasil. NBB</competicion>
+    <fecha>21 de marzo</fecha>
+    <hora>01:15</hora>
+    <url>https://livetv.sx/es/eventinfo/351000379__/</url>
+  </evento>
+  <evento>
+    <nombre>Detroit – Golden State</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>21 de marzo</fecha>
+    <hora>01:30</hora>
+    <url>https://livetv.sx/es/eventinfo/351003921__/</url>
+  </evento>
+  <evento>
+    <nombre>Brooklyn Nets – Nueva York</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>21 de marzo</fecha>
+    <hora>01:30</hora>
+    <url>https://livetv.sx/es/eventinfo/351003923__/</url>
   </evento>
   <evento>
     <nombre>Daniil Medvedev – Jannik Sinner</nombre>
@@ -8063,46 +8119,6 @@
     <fecha>15 de marzo</fecha>
     <hora>21:10</hora>
     <url>https://livetv.sx/es/eventinfo/356154855_atp_challenger_asuncion/</url>
-  </evento>
-  <evento>
-    <nombre>Juan Sebastian Gomez – Samuel Heredia</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Morelos. Clasificatoria</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356155181_juan_sebastian_gomez_samuel_heredia/</url>
-  </evento>
-  <evento>
-    <nombre>Jesse Flores – Matteo Covato</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Morelos. Clasificatoria</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:30</hora>
-    <url>https://livetv.sx/es/eventinfo/356155185_jesse_flores_matteo_covato/</url>
-  </evento>
-  <evento>
-    <nombre>Alan Sau Franco – Alan Fernando Rubio Fierros</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Morelos. Clasificatoria</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:30</hora>
-    <url>https://livetv.sx/es/eventinfo/356155186_alan_sau_franco_alan_fernando_rubio_fierros/</url>
-  </evento>
-  <evento>
-    <nombre>Victor Braga – Johannes Ingildsen</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Asuncion. Clasificatoria</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:30</hora>
-    <url>https://livetv.sx/es/eventinfo/355923383_victor_braga_johannes_ingildsen/</url>
-  </evento>
-  <evento>
-    <nombre>Thiago Cigarran – Facundo Martin Martinez Morel</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Asuncion. Clasificatoria</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:30</hora>
-    <url>https://livetv.sx/es/eventinfo/355923384_thiago_cigarran_facundo_martin_martinez_morel/</url>
   </evento>
   <evento>
     <nombre>Marcos Giron – Ethan Quinn</nombre>
@@ -8305,22 +8321,6 @@
     <url>https://livetv.sx/es/eventinfo/355836993__/</url>
   </evento>
   <evento>
-    <nombre>Daniel Mérida Aguilar – Dalibor Svrcina</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509221__/</url>
-  </evento>
-  <evento>
-    <nombre>Zachary Svajda – Colton Smith</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509223__/</url>
-  </evento>
-  <evento>
     <nombre>Bu Yunchaokete – Tristan Schoolkate</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Miami. Clasificatoria</competicion>
@@ -8335,166 +8335,6 @@
     <fecha>16 de marzo</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/356509227__/</url>
-  </evento>
-  <evento>
-    <nombre>Nicolas Mejia – Christopher O`Connell</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509229__/</url>
-  </evento>
-  <evento>
-    <nombre>Alexander Blockx – Tseng Chun-hsin</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509231__/</url>
-  </evento>
-  <evento>
-    <nombre>Alex Bolt – Sho Shimabukuro</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509233__/</url>
-  </evento>
-  <evento>
-    <nombre>Patrick Kypson – Nikoloz Basilashvili</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509235__/</url>
-  </evento>
-  <evento>
-    <nombre>Yosuke Watanuki – Francesco Maestrelli</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509237__/</url>
-  </evento>
-  <evento>
-    <nombre>Mattia Bellucci – Nicolas Jarry</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509239__/</url>
-  </evento>
-  <evento>
-    <nombre>Dane Sweeny – Rinky Hijikata</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509241__/</url>
-  </evento>
-  <evento>
-    <nombre>Adam Walton – Chris Rodesch</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509243__/</url>
-  </evento>
-  <evento>
-    <nombre>Jay Clarke – Shintaro Mochizuki</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509245__/</url>
-  </evento>
-  <evento>
-    <nombre>Christian Garin – Liam Draxl</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509247__/</url>
-  </evento>
-  <evento>
-    <nombre>Nishesh Basavareddy – Tomas Barrios</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509249__/</url>
-  </evento>
-  <evento>
-    <nombre>Aleksandar Vukic – Billy Harris</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509251__/</url>
-  </evento>
-  <evento>
-    <nombre>Martin Landaluce – Mackenzie McDonald</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509253__/</url>
-  </evento>
-  <evento>
-    <nombre>Thiago Tirante – Diego Dedura-Palomero</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509255__/</url>
-  </evento>
-  <evento>
-    <nombre>Benjamin Willwerth – Luca van Assche</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509257__/</url>
-  </evento>
-  <evento>
-    <nombre>Yannick Hanfmann – Leandro Riedi</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509259__/</url>
-  </evento>
-  <evento>
-    <nombre>Jack Pinnington Jones – Coleman Wong</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509261__/</url>
-  </evento>
-  <evento>
-    <nombre>Ignacio Buse – Moez Echargui</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509263__/</url>
-  </evento>
-  <evento>
-    <nombre>Luis Miguel – Benjamin Bonzi</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509265__/</url>
-  </evento>
-  <evento>
-    <nombre>Rafael Jodar – Manas Dhamne</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>16 de marzo</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356509267__/</url>
   </evento>
   <evento>
     <nombre>Pablo Llamas Ruiz – Javier Barranco Cosano</nombre>
@@ -8537,6 +8377,38 @@
     <url>https://livetv.sx/es/eventinfo/356146648_wta_miami/</url>
   </evento>
   <evento>
+    <nombre>Benjamin Willwerth – Luca van Assche</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/356509257__/</url>
+  </evento>
+  <evento>
+    <nombre>Yannick Hanfmann – Leandro Riedi</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/356509259__/</url>
+  </evento>
+  <evento>
+    <nombre>Jack Pinnington Jones – Coleman Wong</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/356509261__/</url>
+  </evento>
+  <evento>
+    <nombre>Ignacio Buse – Moez Echargui</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/356509263__/</url>
+  </evento>
+  <evento>
     <nombre>ATP Challenger. Morelos</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Morelos</competicion>
@@ -8551,6 +8423,54 @@
     <fecha>16 de marzo</fecha>
     <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/356475023_paulo_andre_saraiva_dos_santos_franco_ribero/</url>
+  </evento>
+  <evento>
+    <nombre>Nicolas Mejia – Christopher O`Connell</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356509229__/</url>
+  </evento>
+  <evento>
+    <nombre>Alex Bolt – Sho Shimabukuro</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356509233__/</url>
+  </evento>
+  <evento>
+    <nombre>Patrick Kypson – Nikoloz Basilashvili</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356509235__/</url>
+  </evento>
+  <evento>
+    <nombre>Jay Clarke – Shintaro Mochizuki</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356509245__/</url>
+  </evento>
+  <evento>
+    <nombre>Christian Garin – Liam Draxl</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356509247__/</url>
+  </evento>
+  <evento>
+    <nombre>Alexander Blockx – Tseng Chun-hsin</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/356509231__/</url>
   </evento>
   <evento>
     <nombre>Vadym Ursu – Andres Martin</nombre>
@@ -8601,12 +8521,108 @@
     <url>https://livetv.sx/es/eventinfo/356154856_atp_challenger_asuncion/</url>
   </evento>
   <evento>
+    <nombre>Daniel Mérida Aguilar – Dalibor Svrcina</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356509221__/</url>
+  </evento>
+  <evento>
+    <nombre>Yosuke Watanuki – Francesco Maestrelli</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356509237__/</url>
+  </evento>
+  <evento>
+    <nombre>Dane Sweeny – Rinky Hijikata</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356509241__/</url>
+  </evento>
+  <evento>
+    <nombre>Nishesh Basavareddy – Tomas Barrios</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356509249__/</url>
+  </evento>
+  <evento>
+    <nombre>Aleksandar Vukic – Billy Harris</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356509251__/</url>
+  </evento>
+  <evento>
+    <nombre>Martin Landaluce – Mackenzie McDonald</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356509253__/</url>
+  </evento>
+  <evento>
+    <nombre>Thiago Tirante – Diego Dedura-Palomero</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356509255__/</url>
+  </evento>
+  <evento>
+    <nombre>Luis Miguel – Benjamin Bonzi</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356509265__/</url>
+  </evento>
+  <evento>
+    <nombre>Rafael Jodar – Manas Dhamne</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356509267__/</url>
+  </evento>
+  <evento>
+    <nombre>Zachary Svajda – Colton Smith</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>23:30</hora>
+    <url>https://livetv.sx/es/eventinfo/356509223__/</url>
+  </evento>
+  <evento>
     <nombre>Lautaro Midon – Gonzalo Villanueva</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Asunción</competicion>
     <fecha>16 de marzo</fecha>
     <hora>23:30</hora>
     <url>https://livetv.sx/es/eventinfo/356005688__/</url>
+  </evento>
+  <evento>
+    <nombre>Adam Walton – Chris Rodesch</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>16 de marzo</fecha>
+    <hora>23:30</hora>
+    <url>https://livetv.sx/es/eventinfo/356509243__/</url>
+  </evento>
+  <evento>
+    <nombre>Mattia Bellucci – Nicolas Jarry</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>00:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356509239__/</url>
   </evento>
   <evento>
     <nombre>Federico Agustín Gómez – Dan Martin</nombre>
@@ -9561,14 +9577,6 @@
     <url>https://livetv.sx/es/eventinfo/350963945__/</url>
   </evento>
   <evento>
-    <nombre>Pennzoil 400</nombre>
-    <deporte>Automovilismo</deporte>
-    <competicion>Copa NASCAR</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>23:00</hora>
-    <url>https://livetv.sx/es/eventinfo/353803066_pennzoil_400/</url>
-  </evento>
-  <evento>
     <nombre>Nyiregyhaza – Veszprem</nombre>
     <deporte>Futsal</deporte>
     <competicion>Hungría. NB I</competicion>
@@ -9807,70 +9815,6 @@
     <fecha>20 de marzo</fecha>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/350872831__/</url>
-  </evento>
-  <evento>
-    <nombre>Chi Cubs – LA Dodgers</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>MLB. Pretemporada</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:05</hora>
-    <url>https://livetv.sx/es/eventinfo/348504811__/</url>
-  </evento>
-  <evento>
-    <nombre>San Francisco – Milwaukee</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>MLB. Pretemporada</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:05</hora>
-    <url>https://livetv.sx/es/eventinfo/348504812__/</url>
-  </evento>
-  <evento>
-    <nombre>Kansas City – Chi White Sox</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>MLB. Pretemporada</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:05</hora>
-    <url>https://livetv.sx/es/eventinfo/348504813__/</url>
-  </evento>
-  <evento>
-    <nombre>LA Dodgers – Texas</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>MLB. Pretemporada</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:05</hora>
-    <url>https://livetv.sx/es/eventinfo/348504814__/</url>
-  </evento>
-  <evento>
-    <nombre>Cleveland – Oakland</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>MLB. Pretemporada</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:05</hora>
-    <url>https://livetv.sx/es/eventinfo/348504815__/</url>
-  </evento>
-  <evento>
-    <nombre>Seattle – Cincinnati</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>MLB. Pretemporada</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:10</hora>
-    <url>https://livetv.sx/es/eventinfo/348504816__/</url>
-  </evento>
-  <evento>
-    <nombre>Arizona – San Diego</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>MLB. Pretemporada</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:10</hora>
-    <url>https://livetv.sx/es/eventinfo/348504817__/</url>
-  </evento>
-  <evento>
-    <nombre>LA Angels – Colorado</nombre>
-    <deporte>Béisbol</deporte>
-    <competicion>MLB. Pretemporada</competicion>
-    <fecha>15 de marzo</fecha>
-    <hora>22:10</hora>
-    <url>https://livetv.sx/es/eventinfo/348504818__/</url>
   </evento>
   <evento>
     <nombre>Baltimore – NY Yankees</nombre>
@@ -10383,5 +10327,13 @@
     <fecha>21 de marzo</fecha>
     <hora>00:35</hora>
     <url>https://livetv.sx/es/eventinfo/350985495__/</url>
+  </evento>
+  <evento>
+    <nombre>Miami – Washington</nombre>
+    <deporte>Béisbol</deporte>
+    <competicion>MLB. Pretemporada</competicion>
+    <fecha>21 de marzo</fecha>
+    <hora>01:10</hora>
+    <url>https://livetv.sx/es/eventinfo/351003703__/</url>
   </evento>
 </eventos>
