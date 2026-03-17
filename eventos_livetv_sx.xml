@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-03-17 04:58:32" total="1504">
+<eventos generado="2026-03-17 06:06:52" total="1508">
   <evento>
     <nombre>Sporting – Bodoe/Glimt</nombre>
     <deporte>Fútbol</deporte>
@@ -81,14 +81,6 @@
     <url>https://livetv.sx/es/eventinfo/354787866__/</url>
   </evento>
   <evento>
-    <nombre>León (M) –  Mazatlán (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>México. Mujeres. Liga MX</competicion>
-    <fecha>17 de marzo</fecha>
-    <hora>05:00</hora>
-    <url>https://livetv.sx/es/eventinfo/348883525__/</url>
-  </evento>
-  <evento>
     <nombre>Sídney – Melbourne City</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Australia. A-League</competicion>
@@ -103,6 +95,14 @@
     <fecha>17 de marzo</fecha>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/357067742__/</url>
+  </evento>
+  <evento>
+    <nombre>Sagaing United – Ayeyawady United</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Myanmar. National League</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/357075198__/</url>
   </evento>
   <evento>
     <nombre>Khankendi – Agdash</nombre>
@@ -6393,12 +6393,36 @@
     <url>https://livetv.sx/es/eventinfo/351860103__/</url>
   </evento>
   <evento>
-    <nombre>LA Clippers – San Antonio</nombre>
+    <nombre>Biryusa (M) – Tornado (M)</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. Mujeres. WHL</competicion>
+    <fecha>22 de marzo</fecha>
+    <hora>08:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356877058_biryusa_w_tornado_w/</url>
+  </evento>
+  <evento>
+    <nombre>Kuznezkie Medvedi – Omskiye Yastreby</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>22 de marzo</fecha>
+    <hora>08:00</hora>
+    <url>https://livetv.sx/es/eventinfo/351966524__/</url>
+  </evento>
+  <evento>
+    <nombre>Sibirskie Snaypery – Ladia</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>22 de marzo</fecha>
+    <hora>08:00</hora>
+    <url>https://livetv.sx/es/eventinfo/351966526__/</url>
+  </evento>
+  <evento>
+    <nombre>Málaga – Joventut</nombre>
     <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
+    <competicion>Liga de Campeones</competicion>
     <fecha>17 de marzo</fecha>
-    <hora>04:00</hora>
-    <url>https://livetv.sx/es/eventinfo/348878443__/</url>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/349156132__/</url>
   </evento>
   <evento>
     <nombre>Wurzburgo – Elan Chalon</nombre>
@@ -6815,14 +6839,6 @@
     <fecha>17 de marzo</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/349154586__/</url>
-  </evento>
-  <evento>
-    <nombre>Málaga – Joventut</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Liga de Campeones</competicion>
-    <fecha>17 de marzo</fecha>
-    <hora>21:00</hora>
-    <url>https://livetv.sx/es/eventinfo/349156132__/</url>
   </evento>
   <evento>
     <nombre>Partizan – Dubai</nombre>
@@ -7495,6 +7511,14 @@
     <fecha>18 de marzo</fecha>
     <hora>21:00</hora>
     <url>https://livetv.sx/es/eventinfo/353878109__/</url>
+  </evento>
+  <evento>
+    <nombre>Sutjeska – Sloboda Tuzla</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Liga del Adriático. Liga 2</competicion>
+    <fecha>18 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/357079928__/</url>
   </evento>
   <evento>
     <nombre>Hapoel Jerusalén – Turk Telekom</nombre>
@@ -9617,14 +9641,6 @@
     <url>https://livetv.sx/es/eventinfo/356994098__/</url>
   </evento>
   <evento>
-    <nombre>Rafael Jodar – Benjamin Bonzi</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Miami. Clasificatoria</competicion>
-    <fecha>17 de marzo</fecha>
-    <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/357012834__/</url>
-  </evento>
-  <evento>
     <nombre>Viktorija Golubic (M) –  Nikola Bartunkova (M)</nombre>
     <deporte>Tenis</deporte>
     <competicion>WTA. Miami. Clasificatoria</competicion>
@@ -9655,6 +9671,14 @@
     <fecha>17 de marzo</fecha>
     <hora>20:30</hora>
     <url>https://livetv.sx/es/eventinfo/356839871_paulo_andre_saraiva_dos_santos_franco_ribero/</url>
+  </evento>
+  <evento>
+    <nombre>Rafael Jodar – Benjamin Bonzi</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Miami. Clasificatoria</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/357012834__/</url>
   </evento>
   <evento>
     <nombre>Stefan Kozlov – Alan Magadan</nombre>
@@ -11279,6 +11303,14 @@
     <fecha>21 de marzo</fecha>
     <hora>19:30</hora>
     <url>https://livetv.sx/es/eventinfo/351495736__/</url>
+  </evento>
+  <evento>
+    <nombre>Eels – Dragons</nombre>
+    <deporte>Rugby</deporte>
+    <competicion>Australia. NRL</competicion>
+    <fecha>22 de marzo</fecha>
+    <hora>07:05</hora>
+    <url>https://livetv.sx/es/eventinfo/351948847__/</url>
   </evento>
   <evento>
     <nombre>Alfa-Bank Russian Championship</nombre>
