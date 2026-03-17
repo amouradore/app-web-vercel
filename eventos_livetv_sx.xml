@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-03-17 07:59:01" total="1510">
+<eventos generado="2026-03-17 09:03:13" total="1515">
   <evento>
     <nombre>Sporting – Bodoe/Glimt</nombre>
     <deporte>Fútbol</deporte>
@@ -463,6 +463,14 @@
     <fecha>17 de marzo</fecha>
     <hora>20:30</hora>
     <url>https://livetv.sx/es/eventinfo/351459687__/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Ittihad – Busaiteen</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bahréin. 2 Division</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>20:30</hora>
+    <url>https://livetv.sx/es/eventinfo/357124852__/</url>
   </evento>
   <evento>
     <nombre>UDG Tenerife (M) –  Atlético de Madrid (M)</nombre>
@@ -3993,14 +4001,6 @@
     <url>https://livetv.sx/es/eventinfo/351291905__/</url>
   </evento>
   <evento>
-    <nombre>Serik Belediyespor – Sakaryaspor</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Turquía. 1 Lig</competicion>
-    <fecha>21 de marzo</fecha>
-    <hora>12:30</hora>
-    <url>https://livetv.sx/es/eventinfo/351290529__/</url>
-  </evento>
-  <evento>
     <nombre>Lada Tl – Amur</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -6423,6 +6423,30 @@
     <fecha>22 de marzo</fecha>
     <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/351989457__/</url>
+  </evento>
+  <evento>
+    <nombre>Tyumensky Legion – JHC Molot</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>22 de marzo</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/352011636__/</url>
+  </evento>
+  <evento>
+    <nombre>Avto – Tolpar</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>22 de marzo</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/352011638__/</url>
+  </evento>
+  <evento>
+    <nombre>Belye Medvedi – Stalnye Lisy</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. MHL</competicion>
+    <fecha>22 de marzo</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/352011640__/</url>
   </evento>
   <evento>
     <nombre>Málaga – Joventut</nombre>
@@ -9185,6 +9209,14 @@
     <url>https://livetv.sx/es/eventinfo/356867278_new_taipei_ctbc_dea_hsinchu_jko_lioneers/</url>
   </evento>
   <evento>
+    <nombre>Taipei Taishin Mars – Formosa Dreamers</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Taiwán. TPBL</competicion>
+    <fecha>22 de marzo</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356867279_taipei_taishin_mars_formosa_dreamers/</url>
+  </evento>
+  <evento>
     <nombre>Maxim Mrva – Alex Molcan</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Zadar</competicion>
@@ -10199,6 +10231,14 @@
     <fecha>21 de marzo</fecha>
     <hora>16:10</hora>
     <url>https://livetv.sx/es/eventinfo/356731602_atp_wta_tour_miami/</url>
+  </evento>
+  <evento>
+    <nombre>Mangystau – Turan Dynamo</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Kazajistán. Vysheyshaya Liga</competicion>
+    <fecha>17 de marzo</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/357126582__/</url>
   </evento>
   <evento>
     <nombre>Dynamo-Ural – Belogorie</nombre>
@@ -11333,14 +11373,6 @@
     <deporte>Deporte_18</deporte>
     <competicion>Biatlón</competicion>
     <fecha>17 de marzo</fecha>
-    <hora>08:30</hora>
-    <url>https://livetv.sx/es/eventinfo/356727876_alfa_bank_russian_championship/</url>
-  </evento>
-  <evento>
-    <nombre>Alfa-Bank Russian Championship</nombre>
-    <deporte>Deporte_18</deporte>
-    <competicion>Biatlón</competicion>
-    <fecha>17 de marzo</fecha>
     <hora>10:30</hora>
     <url>https://livetv.sx/es/eventinfo/356727895_alfa_bank_russian_championship/</url>
   </evento>
@@ -11463,6 +11495,14 @@
     <fecha>22 de marzo</fecha>
     <hora>00:00</hora>
     <url>https://livetv.sx/es/eventinfo/356767086_women_world_championship/</url>
+  </evento>
+  <evento>
+    <nombre>Copa del Mundo, Vikersund</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Salto en esquí</competicion>
+    <fecha>22 de marzo</fecha>
+    <hora>10:20</hora>
+    <url>https://livetv.sx/es/eventinfo/356767131_world_cup_vikersund/</url>
   </evento>
   <evento>
     <nombre>Detroit – Baltimore</nombre>
