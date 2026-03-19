@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-03-19 07:52:07" total="1639">
+<eventos generado="2026-03-19 08:53:38" total="1641">
   <evento>
     <nombre>World Open</nombre>
     <deporte>Fútbol</deporte>
@@ -9,19 +9,11 @@
     <url>https://livetv.sx/es/eventinfo/356812971_world_open/</url>
   </evento>
   <evento>
-    <nombre>Zhetysu (M) –   Astana (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga Nacional</competicion>
-    <fecha>19 de marzo</fecha>
-    <hora>08:00</hora>
-    <url>https://livetv.sx/es/eventinfo/357949318__zhetysu_m__astana_m/</url>
-  </evento>
-  <evento>
     <nombre>Taiyuan (M) –   Chunghua Telecom (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Taiwán. Mujeres. WSBL</competicion>
     <fecha>19 de marzo</fecha>
-    <hora>33:39</hora>
+    <hora>77:76</hora>
     <url>https://livetv.sx/es/eventinfo/357240695__taiyuan_m__chunghua_telecom_m/</url>
   </evento>
   <evento>
@@ -33,20 +25,20 @@
     <url>https://livetv.sx/es/eventinfo/357612706_alfa_bank_russian_championship/</url>
   </evento>
   <evento>
-    <nombre>Hawthorn –  Sídney Swans</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Australia. AFL</competicion>
-    <fecha>19 de marzo</fecha>
-    <hora>09:30</hora>
-    <url>https://livetv.sx/es/eventinfo/355348782_hawthorn_s__dney_swans/</url>
-  </evento>
-  <evento>
     <nombre>PSP –  FLC 03</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Georgia. Campeonato</competicion>
     <fecha>19 de marzo</fecha>
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/357651584_psp_flc_03/</url>
+  </evento>
+  <evento>
+    <nombre>Hawthorn –  Sídney Swans</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. AFL</competicion>
+    <fecha>19 de marzo</fecha>
+    <hora>26:30</hora>
+    <url>https://livetv.sx/es/eventinfo/355348782_hawthorn_s__dney_swans/</url>
   </evento>
   <evento>
     <nombre>Raiders –  Bulldogs</nombre>
@@ -159,6 +151,14 @@
     <fecha>19 de marzo</fecha>
     <hora>13:00</hora>
     <url>https://livetv.sx/es/eventinfo/351445387_oleksandria_dinamo_de_kiev/</url>
+  </evento>
+  <evento>
+    <nombre>Karvan –  Zira</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Azerbaiyán. Premier League</competicion>
+    <fecha>19 de marzo</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/350094928_karvan_zira/</url>
   </evento>
   <evento>
     <nombre>Simulcast</nombre>
@@ -695,6 +695,14 @@
     <fecha>20 de marzo</fecha>
     <hora>01:30</hora>
     <url>https://livetv.sx/es/eventinfo/350399067__/</url>
+  </evento>
+  <evento>
+    <nombre>Rancho Santana – Santo Tomas</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Nicaragua. Copa</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>02:00</hora>
+    <url>https://livetv.sx/es/eventinfo/358083386__/</url>
   </evento>
   <evento>
     <nombre>Emelec – Independiente</nombre>
@@ -4153,14 +4161,6 @@
     <url>https://livetv.sx/es/eventinfo/351459509__/</url>
   </evento>
   <evento>
-    <nombre>Mura – Radomlje</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Eslovenia. PrvaLiga</competicion>
-    <fecha>21 de marzo</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/351462881__/</url>
-  </evento>
-  <evento>
     <nombre>Torpedo NN – Amur</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -4927,6 +4927,22 @@
     <fecha>20 de marzo</fecha>
     <hora>20:45</hora>
     <url>https://livetv.sx/es/eventinfo/351339143__/</url>
+  </evento>
+  <evento>
+    <nombre>Fribourg – Rapperswil-Jona</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suiza. National League</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/358085650__/</url>
+  </evento>
+  <evento>
+    <nombre>Davos – Zug</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suiza. National League</competicion>
+    <fecha>20 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/358085652__/</url>
   </evento>
   <evento>
     <nombre>Cergy-Pontoise – Anglet</nombre>
@@ -6151,6 +6167,22 @@
     <fecha>22 de marzo</fecha>
     <hora>20:15</hora>
     <url>https://livetv.sx/es/eventinfo/354791184__/</url>
+  </evento>
+  <evento>
+    <nombre>Zug – Davos</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suiza. National League</competicion>
+    <fecha>22 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/358085660__/</url>
+  </evento>
+  <evento>
+    <nombre>Rapperswil-Jona – Fribourg</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suiza. National League</competicion>
+    <fecha>22 de marzo</fecha>
+    <hora>21:00</hora>
+    <url>https://livetv.sx/es/eventinfo/358085662__/</url>
   </evento>
   <evento>
     <nombre>Chicago – Nashville</nombre>
@@ -10745,14 +10777,6 @@
     <url>https://livetv.sx/es/eventinfo/350787527__/</url>
   </evento>
   <evento>
-    <nombre>Zhetysu (M) –  Astana (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Kazajistán. Mujeres. Liga Nacional</competicion>
-    <fecha>19 de marzo</fecha>
-    <hora>08:00</hora>
-    <url>https://livetv.sx/es/eventinfo/357949318__/</url>
-  </evento>
-  <evento>
     <nombre>Sokol Frydek Mistek (M) –  Prostejov (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>República Checa. Mujeres. Extraliga</competicion>
@@ -11695,14 +11719,6 @@
     <fecha>19 de marzo</fecha>
     <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/357674011__/</url>
-  </evento>
-  <evento>
-    <nombre>Estonia – Reino Unido</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Partido amistoso. Selecciones</competicion>
-    <fecha>19 de marzo</fecha>
-    <hora>14:00</hora>
-    <url>https://livetv.sx/es/eventinfo/357659867_estonia_united_kingdom/</url>
   </evento>
   <evento>
     <nombre>Croacia – Suiza</nombre>
