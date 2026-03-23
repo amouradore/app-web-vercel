@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-03-23 09:06:13" total="1142">
-  <evento>
-    <nombre>Namibia –  Uganda</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>23 de marzo</fecha>
-    <hora>09:00</hora>
-    <url>https://livetv.sx/es/eventinfo/360333827_namibia_uganda/</url>
-  </evento>
-  <evento>
-    <nombre>Russian Championship</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Skeleton</competicion>
-    <fecha>23 de marzo</fecha>
-    <hora>10:00</hora>
-    <url>https://livetv.sx/es/eventinfo/360299567_russian_championship/</url>
-  </evento>
+<eventos generado="2026-03-23 10:59:24" total="1161">
   <evento>
     <nombre>Aktobe (M) –   Turan (M)</nombre>
     <deporte>Fútbol</deporte>
@@ -145,20 +129,36 @@
     <url>https://livetv.sx/es/eventinfo/359332360_atp_challenger_alicante/</url>
   </evento>
   <evento>
-    <nombre>Campeonato Mundial</nombre>
+    <nombre>Andrea Guerrieri –  Federico Bondioli</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Patinaje artístico</competicion>
+    <competicion>Clasificatoria</competicion>
     <fecha>23 de marzo</fecha>
     <hora>12:30</hora>
-    <url>https://livetv.sx/es/eventinfo/360356177_campeonato_mundial/</url>
+    <url>https://livetv.sx/es/eventinfo/360126299_andrea_guerrieri_federico_bondioli/</url>
+  </evento>
+  <evento>
+    <nombre>Adrian Oetzbach –  Stefan Popovic</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificatoria</competicion>
+    <fecha>23 de marzo</fecha>
+    <hora>12:50</hora>
+    <url>https://livetv.sx/es/eventinfo/360126293_adrian_oetzbach_stefan_popovic/</url>
   </evento>
   <evento>
     <nombre>Hynek Barton –  Lorenzo Rottoli</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Clasificatoria</competicion>
     <fecha>23 de marzo</fecha>
-    <hora>12:30</hora>
+    <hora>13:00</hora>
     <url>https://livetv.sx/es/eventinfo/360126297_hynek_barton_lorenzo_rottoli/</url>
+  </evento>
+  <evento>
+    <nombre>Lorenzo Carboni –  Francesco Forti</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificatoria</competicion>
+    <fecha>23 de marzo</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360126298_lorenzo_carboni_francesco_forti/</url>
   </evento>
   <evento>
     <nombre>Cheliábinsk – Torpedo M</nombre>
@@ -729,14 +729,6 @@
     <url>https://livetv.sx/es/eventinfo/358606685__/</url>
   </evento>
   <evento>
-    <nombre>Kazajstán – Comoras</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Partido amistoso. Selecciones</competicion>
-    <fecha>25 de marzo</fecha>
-    <hora>12:00</hora>
-    <url>https://livetv.sx/es/eventinfo/353743133__/</url>
-  </evento>
-  <evento>
     <nombre>Bélgica Sub-17 –  Suiza Sub-17</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Clasificación para la Eurocopa Sub-17</competicion>
@@ -855,6 +847,14 @@
     <fecha>25 de marzo</fecha>
     <hora>14:00</hora>
     <url>https://livetv.sx/es/eventinfo/357658913_england_u18_bulgaria_u18/</url>
+  </evento>
+  <evento>
+    <nombre>Kazajstán – Namibia</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso. Selecciones</competicion>
+    <fecha>25 de marzo</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360396096__/</url>
   </evento>
   <evento>
     <nombre>República Checa Sub-19 –  Letonia Sub-19</nombre>
@@ -2273,6 +2273,14 @@
     <url>https://livetv.sx/es/eventinfo/355019975__/</url>
   </evento>
   <evento>
+    <nombre>Independiente – Atenas De Rio Cuarto</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Argentina. Copa</competicion>
+    <fecha>27 de marzo</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/355049714__/</url>
+  </evento>
+  <evento>
     <nombre>Marruecos – Ecuador</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Partido amistoso. Selecciones</competicion>
@@ -2295,14 +2303,6 @@
     <fecha>27 de marzo</fecha>
     <hora>23:00</hora>
     <url>https://livetv.sx/es/eventinfo/355049716__/</url>
-  </evento>
-  <evento>
-    <nombre>Belgrano – Atlético de Rafaela</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Argentina. Copa</competicion>
-    <fecha>28 de marzo</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/355049712__/</url>
   </evento>
   <evento>
     <nombre>One Knoxville – Richmond Kickers</nombre>
@@ -2351,14 +2351,6 @@
     <fecha>28 de marzo</fecha>
     <hora>02:00</hora>
     <url>https://livetv.sx/es/eventinfo/355152285__/</url>
-  </evento>
-  <evento>
-    <nombre>Independiente – Atenas De Rio Cuarto</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Argentina. Copa</competicion>
-    <fecha>28 de marzo</fecha>
-    <hora>02:15</hora>
-    <url>https://livetv.sx/es/eventinfo/355049714__/</url>
   </evento>
   <evento>
     <nombre>San Martín SJ – Racing de Cordoba</nombre>
@@ -2415,6 +2407,14 @@
     <fecha>28 de marzo</fecha>
     <hora>03:10</hora>
     <url>https://livetv.sx/es/eventinfo/355200294__/</url>
+  </evento>
+  <evento>
+    <nombre>Belgrano – Atlético de Rafaela</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Argentina. Copa</competicion>
+    <fecha>28 de marzo</fecha>
+    <hora>03:15</hora>
+    <url>https://livetv.sx/es/eventinfo/355049712__/</url>
   </evento>
   <evento>
     <nombre>Angel City (M) –  Houston Dash (M)</nombre>
@@ -2633,6 +2633,30 @@
     <url>https://livetv.sx/es/eventinfo/358625100__/</url>
   </evento>
   <evento>
+    <nombre>Lions – Brisbane City</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. NPL Queensland</competicion>
+    <fecha>28 de marzo</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/355381449__/</url>
+  </evento>
+  <evento>
+    <nombre>Kazajstán – Comoras</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Partido amistoso. Selecciones</competicion>
+    <fecha>28 de marzo</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/353743133__/</url>
+  </evento>
+  <evento>
+    <nombre>Chipre Sub-17 –  Suiza Sub-17</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Clasificación para la Eurocopa Sub-17</competicion>
+    <fecha>28 de marzo</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/358156154__/</url>
+  </evento>
+  <evento>
     <nombre>Avtomobilist – Salavat Yulaev</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -2645,7 +2669,7 @@
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
     <fecha>23 de marzo</fecha>
-    <hora>18:00</hora>
+    <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/358734009__/</url>
   </evento>
   <evento>
@@ -2653,7 +2677,7 @@
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
     <fecha>23 de marzo</fecha>
-    <hora>18:00</hora>
+    <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/359044579__/</url>
   </evento>
   <evento>
@@ -2661,7 +2685,7 @@
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
     <fecha>23 de marzo</fecha>
-    <hora>18:00</hora>
+    <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/359044581__/</url>
   </evento>
   <evento>
@@ -3001,22 +3025,6 @@
     <url>https://livetv.sx/es/eventinfo/358734011__/</url>
   </evento>
   <evento>
-    <nombre>Lokomotiv – Spartak M</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>24 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359044583__/</url>
-  </evento>
-  <evento>
-    <nombre>Dinamo Mn – Dynamo Msk</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>24 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359044585__/</url>
-  </evento>
-  <evento>
     <nombre>Avangard – Neftekhimik</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -3047,6 +3055,22 @@
     <fecha>24 de marzo</fecha>
     <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/356447706__/</url>
+  </evento>
+  <evento>
+    <nombre>Lokomotiv – Spartak M</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>24 de marzo</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/359044583__/</url>
+  </evento>
+  <evento>
+    <nombre>Dinamo Mn – Dynamo Msk</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>24 de marzo</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/359044585__/</url>
   </evento>
   <evento>
     <nombre>Ocelari Trinec – Mountfield</nombre>
@@ -3425,14 +3449,6 @@
     <url>https://livetv.sx/es/eventinfo/360117575__/</url>
   </evento>
   <evento>
-    <nombre>Ak Bars – Traktor</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>25 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/358734017__/</url>
-  </evento>
-  <evento>
     <nombre>Ryazan – Rubin Tyumen</nombre>
     <deporte>Hockey</deporte>
     <competicion>Rusia. VHL</competicion>
@@ -3441,20 +3457,12 @@
     <url>https://livetv.sx/es/eventinfo/358098378__/</url>
   </evento>
   <evento>
-    <nombre>CSKA – SKA</nombre>
+    <nombre>Ak Bars – Traktor</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
     <fecha>25 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359044593__/</url>
-  </evento>
-  <evento>
-    <nombre>Severstal – Torpedo NN</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>No especificado</competicion>
-    <fecha>25 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359044595__/</url>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/358734017__/</url>
   </evento>
   <evento>
     <nombre>Dukla Michalovce – Nitra</nombre>
@@ -3463,6 +3471,22 @@
     <fecha>25 de marzo</fecha>
     <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/356447710__/</url>
+  </evento>
+  <evento>
+    <nombre>CSKA – SKA</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>25 de marzo</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/359044593__/</url>
+  </evento>
+  <evento>
+    <nombre>Severstal – Torpedo NN</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>25 de marzo</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/359044595__/</url>
   </evento>
   <evento>
     <nombre>Liptovsky Mikulas – Slovan</nombre>
@@ -4231,6 +4255,14 @@
     <fecha>28 de marzo</fecha>
     <hora>04:00</hora>
     <url>https://livetv.sx/es/eventinfo/355218465__/</url>
+  </evento>
+  <evento>
+    <nombre>Bars – Yugra</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>28 de marzo</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/358098394__/</url>
   </evento>
   <evento>
     <nombre>Petkim Spor – Bursaspor</nombre>
@@ -6321,6 +6353,14 @@
     <url>https://livetv.sx/es/eventinfo/359718112_taipei_taishin_mars_kaohsiung_aquas/</url>
   </evento>
   <evento>
+    <nombre>Fenerbahce 2 (W) – Тургутлу (Ж)</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Turquía. Mujeres. TKBL</competicion>
+    <fecha>28 de marzo</fecha>
+    <hora>12:00</hora>
+    <url>https://livetv.sx/es/eventinfo/359718312_fenerbahce_2_w_turgutlu_w/</url>
+  </evento>
+  <evento>
     <nombre>Cash / Tracy – Nys / Roger-Vasselin</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Miami. Doubles</competicion>
@@ -6421,7 +6461,7 @@
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Split. Clasificatoria</competicion>
     <fecha>23 de marzo</fecha>
-    <hora>12:30</hora>
+    <hora>13:00</hora>
     <url>https://livetv.sx/es/eventinfo/360126291_simone_agostini_gerard_campana_lee/</url>
   </evento>
   <evento>
@@ -6429,32 +6469,8 @@
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Split. Clasificatoria</competicion>
     <fecha>23 de marzo</fecha>
-    <hora>12:30</hora>
+    <hora>13:00</hora>
     <url>https://livetv.sx/es/eventinfo/360126292_mirza_basic_juan_cruz_martin_manzano/</url>
-  </evento>
-  <evento>
-    <nombre>Adrian Oetzbach – Stefan Popovic</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Split. Clasificatoria</competicion>
-    <fecha>23 de marzo</fecha>
-    <hora>12:30</hora>
-    <url>https://livetv.sx/es/eventinfo/360126293_adrian_oetzbach_stefan_popovic/</url>
-  </evento>
-  <evento>
-    <nombre>Lorenzo Carboni – Francesco Forti</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Nápoles. Clasificatoria</competicion>
-    <fecha>23 de marzo</fecha>
-    <hora>12:30</hora>
-    <url>https://livetv.sx/es/eventinfo/360126298_lorenzo_carboni_francesco_forti/</url>
-  </evento>
-  <evento>
-    <nombre>Andrea Guerrieri – Federico Bondioli</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Nápoles. Clasificatoria</competicion>
-    <fecha>23 de marzo</fecha>
-    <hora>12:30</hora>
-    <url>https://livetv.sx/es/eventinfo/360126299_andrea_guerrieri_federico_bondioli/</url>
   </evento>
   <evento>
     <nombre>Raul Brancaccio – Alejo Sanchez Quilez</nombre>
@@ -7857,6 +7873,14 @@
     <url>https://livetv.sx/es/eventinfo/351461867__/</url>
   </evento>
   <evento>
+    <nombre>Karlovarsko – Pribram</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>República Checa. Extraliga</competicion>
+    <fecha>23 de marzo</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360383903__/</url>
+  </evento>
+  <evento>
     <nombre>Dukla Liberec – Aero Odolena Voda</nombre>
     <deporte>Voleibol</deporte>
     <competicion>República Checa. Extraliga</competicion>
@@ -7881,12 +7905,12 @@
     <url>https://livetv.sx/es/eventinfo/352441651__/</url>
   </evento>
   <evento>
-    <nombre>Aktobe (M) –  Turan (M)</nombre>
+    <nombre>Lokomotiv Ns – Belogorie</nombre>
     <deporte>Voleibol</deporte>
-    <competicion>Kazajistán. Mujeres. Liga Nacional</competicion>
-    <fecha>23 de marzo</fecha>
-    <hora>10:30</hora>
-    <url>https://livetv.sx/es/eventinfo/360344057__/</url>
+    <competicion>Rusia. Superliga</competicion>
+    <fecha>24 de marzo</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360397633_lokomotiv_ns_belogorie/</url>
   </evento>
   <evento>
     <nombre>Lvi Praha – Brno</nombre>
@@ -8025,6 +8049,14 @@
     <url>https://livetv.sx/es/eventinfo/354327215__/</url>
   </evento>
   <evento>
+    <nombre>Scandicci (M) –  Vero Volley Milán (M)</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>Italia. Mujeres. Serie A</competicion>
+    <fecha>25 de marzo</fecha>
+    <hora>21:30</hora>
+    <url>https://livetv.sx/es/eventinfo/360386808__/</url>
+  </evento>
+  <evento>
     <nombre>Aero Odolena Voda – Dukla Liberec</nombre>
     <deporte>Voleibol</deporte>
     <competicion>República Checa. Extraliga</competicion>
@@ -8063,6 +8095,14 @@
     <fecha>27 de marzo</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/354940089__/</url>
+  </evento>
+  <evento>
+    <nombre>Pribram – Karlovarsko</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>República Checa. Extraliga</competicion>
+    <fecha>27 de marzo</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360383931__/</url>
   </evento>
   <evento>
     <nombre>Mladi Radnik – Karadjordje</nombre>
@@ -8657,14 +8697,6 @@
     <url>https://livetv.sx/es/eventinfo/355370255__/</url>
   </evento>
   <evento>
-    <nombre>Campeonato Mundial</nombre>
-    <deporte>Deporte_18</deporte>
-    <competicion>Patinaje artístico</competicion>
-    <fecha>23 de marzo</fecha>
-    <hora>12:30</hora>
-    <url>https://livetv.sx/es/eventinfo/360356177_world_championships/</url>
-  </evento>
-  <evento>
     <nombre>Russian Championship</nombre>
     <deporte>Deporte_18</deporte>
     <competicion>Bobsleigh</competicion>
@@ -8681,12 +8713,12 @@
     <url>https://livetv.sx/es/eventinfo/360299570_russian_championship/</url>
   </evento>
   <evento>
-    <nombre>Campeonato Mundial</nombre>
+    <nombre>Russian Championship</nombre>
     <deporte>Deporte_18</deporte>
-    <competicion>Patinaje artístico</competicion>
-    <fecha>23 de marzo</fecha>
-    <hora>15:30</hora>
-    <url>https://livetv.sx/es/eventinfo/360356178_world_championships/</url>
+    <competicion>Skeleton</competicion>
+    <fecha>24 de marzo</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360397634_russian_championship/</url>
   </evento>
   <evento>
     <nombre>Copa del Mundo, Lillehammer</nombre>
@@ -8695,6 +8727,14 @@
     <fecha>24 de marzo</fecha>
     <hora>11:15</hora>
     <url>https://livetv.sx/es/eventinfo/360356176_world_cup_lillehammer/</url>
+  </evento>
+  <evento>
+    <nombre>Russian Championship</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Skeleton</competicion>
+    <fecha>24 de marzo</fecha>
+    <hora>11:20</hora>
+    <url>https://livetv.sx/es/eventinfo/360397635_russian_championship/</url>
   </evento>
   <evento>
     <nombre>Copa del Mundo, Lillehammer</nombre>
@@ -8713,12 +8753,52 @@
     <url>https://livetv.sx/es/eventinfo/359804600_world_cup_lillehammer/</url>
   </evento>
   <evento>
+    <nombre>Russian Championship</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Bobsleigh</competicion>
+    <fecha>24 de marzo</fecha>
+    <hora>13:25</hora>
+    <url>https://livetv.sx/es/eventinfo/360397602_russian_championship/</url>
+  </evento>
+  <evento>
+    <nombre>Russian Championship</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Bobsleigh</competicion>
+    <fecha>24 de marzo</fecha>
+    <hora>13:25</hora>
+    <url>https://livetv.sx/es/eventinfo/360397636_russian_championship/</url>
+  </evento>
+  <evento>
+    <nombre>Russian Championship</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Bobsleigh</competicion>
+    <fecha>24 de marzo</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/360397603_russian_championship/</url>
+  </evento>
+  <evento>
+    <nombre>Russian Championship</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Bobsleigh</competicion>
+    <fecha>24 de marzo</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/360397651_russian_championship/</url>
+  </evento>
+  <evento>
     <nombre>Copa del Mundo, Lillehammer</nombre>
     <deporte>Deporte_18</deporte>
     <competicion>Esquí alpino</competicion>
     <fecha>24 de marzo</fecha>
     <hora>14:30</hora>
     <url>https://livetv.sx/es/eventinfo/359804602_world_cup_lillehammer/</url>
+  </evento>
+  <evento>
+    <nombre>World Cup, Puy-Saint-Vincent</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Esquí de travesía</competicion>
+    <fecha>25 de marzo</fecha>
+    <hora>10:05</hora>
+    <url>https://livetv.sx/es/eventinfo/360397700_world_cup_puy_saint_vincent/</url>
   </evento>
   <evento>
     <nombre>Copa del Mundo, Lillehammer</nombre>
@@ -8729,12 +8809,36 @@
     <url>https://livetv.sx/es/eventinfo/359804881_world_cup_lillehammer/</url>
   </evento>
   <evento>
+    <nombre>Russian Championship</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Skeleton</competicion>
+    <fecha>25 de marzo</fecha>
+    <hora>10:45</hora>
+    <url>https://livetv.sx/es/eventinfo/360397604_russian_championship/</url>
+  </evento>
+  <evento>
     <nombre>Copa del Mundo, Lillehammer</nombre>
     <deporte>Deporte_18</deporte>
     <competicion>Esquí alpino</competicion>
     <fecha>25 de marzo</fecha>
     <hora>11:30</hora>
     <url>https://livetv.sx/es/eventinfo/359805162_world_cup_lillehammer/</url>
+  </evento>
+  <evento>
+    <nombre>World Cup, Puy-Saint-Vincent</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Esquí de travesía</competicion>
+    <fecha>25 de marzo</fecha>
+    <hora>11:35</hora>
+    <url>https://livetv.sx/es/eventinfo/360397701_world_cup_puy_saint_vincent/</url>
+  </evento>
+  <evento>
+    <nombre>Campeonato Mundial</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Patinaje artístico</competicion>
+    <fecha>25 de marzo</fecha>
+    <hora>12:30</hora>
+    <url>https://livetv.sx/es/eventinfo/360356177_world_championships/</url>
   </evento>
   <evento>
     <nombre>Copa del Mundo, Lillehammer</nombre>
@@ -8745,12 +8849,52 @@
     <url>https://livetv.sx/es/eventinfo/359804882_world_cup_lillehammer/</url>
   </evento>
   <evento>
+    <nombre>Russian Championship</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Bobsleigh</competicion>
+    <fecha>25 de marzo</fecha>
+    <hora>13:25</hora>
+    <url>https://livetv.sx/es/eventinfo/360397654_russian_championship/</url>
+  </evento>
+  <evento>
+    <nombre>Russian Championship</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Bobsleigh</competicion>
+    <fecha>25 de marzo</fecha>
+    <hora>14:30</hora>
+    <url>https://livetv.sx/es/eventinfo/360397662_russian_championship/</url>
+  </evento>
+  <evento>
     <nombre>Copa del Mundo, Lillehammer</nombre>
     <deporte>Deporte_18</deporte>
     <competicion>Esquí alpino</competicion>
     <fecha>25 de marzo</fecha>
     <hora>14:30</hora>
     <url>https://livetv.sx/es/eventinfo/359804883_world_cup_lillehammer/</url>
+  </evento>
+  <evento>
+    <nombre>Campeonato Mundial</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Patinaje artístico</competicion>
+    <fecha>25 de marzo</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/360356178_world_championships/</url>
+  </evento>
+  <evento>
+    <nombre>Russian Championship</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Bobsleigh</competicion>
+    <fecha>25 de marzo</fecha>
+    <hora>15:35</hora>
+    <url>https://livetv.sx/es/eventinfo/360397670_russian_championship/</url>
+  </evento>
+  <evento>
+    <nombre>Russian Championship</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Bobsleigh</competicion>
+    <fecha>25 de marzo</fecha>
+    <hora>16:45</hora>
+    <url>https://livetv.sx/es/eventinfo/360397671_russian_championship/</url>
   </evento>
   <evento>
     <nombre>Campeonato Mundial</nombre>
@@ -8807,6 +8951,14 @@
     <fecha>28 de marzo</fecha>
     <hora>10:15</hora>
     <url>https://livetv.sx/es/eventinfo/359812677_world_cup_planica/</url>
+  </evento>
+  <evento>
+    <nombre>Copa del Mundo, Gallivare</nombre>
+    <deporte>Deporte_18</deporte>
+    <competicion>Esquí acrobático</competicion>
+    <fecha>28 de marzo</fecha>
+    <hora>12:20</hora>
+    <url>https://livetv.sx/es/eventinfo/359812678_world_cup_gallivare/</url>
   </evento>
   <evento>
     <nombre>Oakland – Chi White Sox</nombre>
