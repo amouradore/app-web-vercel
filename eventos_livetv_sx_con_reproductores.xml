@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2026-03-23 04:40:46" total="209">
+<eventos generado="2026-03-23 06:07:20" total="209">
   <evento id="1">
     <nombre>ATP Challenger. Yokkaichi</nombre>
     <deporte>Fútbol</deporte>
@@ -8,7 +8,7 @@
     <hora>03:10</hora>
     <url>https://livetv.sx/es/eventinfo/359337767_atp_challenger_yokkaichi/</url>
     <datetime_iso>2026-03-23T03:10:00</datetime_iso>
-    <streams total="4">
+    <streams total="2">
       <stream id="1">
         <url>https://viewembed.ru/channel/bet12408110</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
@@ -16,22 +16,10 @@
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2981539&amp;lang=es&amp;eid=359337767&amp;lid=2981539&amp;ci=6567&amp;si=4</enlace_original>
       </stream>
       <stream id="2">
-        <url>https://viewembed.ru/channel/bet12407429</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2981537&amp;lang=es&amp;eid=359337767&amp;lid=2981537&amp;ci=6567&amp;si=4</enlace_original>
-      </stream>
-      <stream id="3">
         <url>https://viewembed.ru/channel/bet12408562</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2981540&amp;lang=es&amp;eid=359337767&amp;lid=2981540&amp;ci=6567&amp;si=4</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://viewembed.ru/channel/bet12407418</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2981538&amp;lang=es&amp;eid=359337767&amp;lid=2981538&amp;ci=6567&amp;si=4</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -63,14 +51,7 @@
     <hora>04:00</hora>
     <url>https://livetv.sx/es/eventinfo/359678733_jie_cui_alec_deckers/</url>
     <datetime_iso>2026-03-23T04:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://viewembed.ru/channel/bet12407418</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2981538&amp;lang=es&amp;eid=359678733&amp;lid=2981538&amp;ci=6570&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="5">
     <nombre>Omar Jasika –  Masamichi Imamura</nombre>
@@ -80,14 +61,7 @@
     <hora>04:00</hora>
     <url>https://livetv.sx/es/eventinfo/359678734_omar_jasika_masamichi_imamura/</url>
     <datetime_iso>2026-03-23T04:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://viewembed.ru/channel/bet12407429</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2981537&amp;lang=es&amp;eid=359678734&amp;lid=2981537&amp;ci=6570&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="6">
     <nombre>Sun Fajing –  Takuya Kumasaka</nombre>
@@ -97,14 +71,7 @@
     <hora>04:00</hora>
     <url>https://livetv.sx/es/eventinfo/359678735_sun_fajing_takuya_kumasaka/</url>
     <datetime_iso>2026-03-23T04:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://viewembed.ru/channel/bet12407337</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2981536&amp;lang=es&amp;eid=359678735&amp;lid=2981536&amp;ci=6570&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="7">
     <nombre>Tacoma Defiance –  Austin II</nombre>
@@ -195,7 +162,14 @@
     <hora>07:30</hora>
     <url>https://livetv.sx/es/eventinfo/359389255_hayato_matsuoka_ognjen_milic/</url>
     <datetime_iso>2026-03-23T07:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://viewembed.ru/channel/bet12400507</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2981544&amp;lang=es&amp;eid=359389255&amp;lid=2981544&amp;ci=6567&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="14">
     <nombre>Kokoro Isomura –  Dan Added</nombre>
@@ -205,7 +179,14 @@
     <hora>07:30</hora>
     <url>https://livetv.sx/es/eventinfo/359389257_kokoro_isomura_dan_added/</url>
     <datetime_iso>2026-03-23T07:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://viewembed.ru/channel/bet12400509</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2981543&amp;lang=es&amp;eid=359389257&amp;lid=2981543&amp;ci=6567&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="15">
     <nombre>Renta Tokuda –  August Holmgren</nombre>
@@ -215,7 +196,14 @@
     <hora>07:30</hora>
     <url>https://livetv.sx/es/eventinfo/359389263_renta_tokuda_august_holmgren/</url>
     <datetime_iso>2026-03-23T07:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://viewembed.ru/channel/bet12400505</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2981542&amp;lang=es&amp;eid=359389263&amp;lid=2981542&amp;ci=6567&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="16">
     <nombre>Hayato Matsuoka – Ognjen Milic</nombre>
@@ -225,7 +213,14 @@
     <hora>07:30</hora>
     <url>https://livetv.sx/es/eventinfo/359389255__/</url>
     <datetime_iso>2026-03-23T07:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://viewembed.ru/channel/bet12400507</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2981544&amp;lang=es&amp;eid=359389255&amp;lid=2981544&amp;ci=6567&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="17">
     <nombre>Kokoro Isomura – Dan Added</nombre>
@@ -252,7 +247,14 @@
     <hora>07:30</hora>
     <url>https://livetv.sx/es/eventinfo/359389263__/</url>
     <datetime_iso>2026-03-23T07:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://viewembed.ru/channel/bet12400505</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2981542&amp;lang=es&amp;eid=359389263&amp;lid=2981542&amp;ci=6567&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="19">
     <nombre>Astana (M) –   Alma Ata (M)</nombre>
@@ -262,7 +264,14 @@
     <hora>08:00</hora>
     <url>https://livetv.sx/es/eventinfo/360239799__astana_m__alma_ata_m/</url>
     <datetime_iso>2026-03-23T08:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/pJ8Rh-KZaZ0?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer2.php?t=youtube&amp;c=pJ8Rh-KZaZ0&amp;lang=es&amp;eid=360239799&amp;lid=2981547&amp;ci=3439&amp;si=5</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="20">
     <nombre>Astana (M) –  Alma Ata (M)</nombre>
@@ -272,7 +281,14 @@
     <hora>08:00</hora>
     <url>https://livetv.sx/es/eventinfo/360239799__/</url>
     <datetime_iso>2026-03-23T08:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/pJ8Rh-KZaZ0?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer2.php?t=youtube&amp;c=pJ8Rh-KZaZ0&amp;lang=es&amp;eid=360239799&amp;lid=2981547&amp;ci=3439&amp;si=5</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="21">
     <nombre>David Jorda Sanchis –  Enrico Dalla Valle</nombre>
