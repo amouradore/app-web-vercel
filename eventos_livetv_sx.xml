@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-03-26 05:12:44" total="1637">
+<eventos generado="2026-03-26 07:20:10" total="1637">
   <evento>
     <nombre>ATP Challenger. Yokkaichi</nombre>
     <deporte>Fútbol</deporte>
@@ -25,35 +25,11 @@
     <url>https://livetv.sx/es/eventinfo/360715225_sun_fajing_masamichi_imamura/</url>
   </evento>
   <evento>
-    <nombre>Lammons / Withrow –  Mena / Pacheco Mendez</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Dobles</competicion>
-    <fecha>26 de marzo</fecha>
-    <hora>04:50</hora>
-    <url>https://livetv.sx/es/eventinfo/360075759_lammons__withrow_mena__pacheco_mendez/</url>
-  </evento>
-  <evento>
-    <nombre>Li  Tu –  Rio Noguchi</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Yokkaichi</competicion>
-    <fecha>26 de marzo</fecha>
-    <hora>05:55</hora>
-    <url>https://livetv.sx/es/eventinfo/360764281_li__tu_rio_noguchi/</url>
-  </evento>
-  <evento>
-    <nombre>Yu Hsiou Hsu –  Yuta Shimizu</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP Challenger. Yokkaichi</competicion>
-    <fecha>26 de marzo</fecha>
-    <hora>05:55</hora>
-    <url>https://livetv.sx/es/eventinfo/360779668_yu_hsiou_hsu_yuta_shimizu/</url>
-  </evento>
-  <evento>
     <nombre>Taiyuan (M) –   Taipower (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Taiwán. Mujeres. WSBL</competicion>
     <fecha>26 de marzo</fecha>
-    <hora>17:11</hora>
+    <hora>07:00</hora>
     <url>https://livetv.sx/es/eventinfo/361269299__taiyuan_m__taipower_m/</url>
   </evento>
   <evento>
@@ -63,6 +39,22 @@
     <fecha>26 de marzo</fecha>
     <hora>07:00</hora>
     <url>https://livetv.sx/es/eventinfo/360810455_james_mccabe_hayato_matsuoka/</url>
+  </evento>
+  <evento>
+    <nombre>Yu Hsiou Hsu –  Yuta Shimizu</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Yokkaichi</competicion>
+    <fecha>26 de marzo</fecha>
+    <hora>07:15</hora>
+    <url>https://livetv.sx/es/eventinfo/360779668_yu_hsiou_hsu_yuta_shimizu/</url>
+  </evento>
+  <evento>
+    <nombre>Li  Tu –  Rio Noguchi</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP Challenger. Yokkaichi</competicion>
+    <fecha>26 de marzo</fecha>
+    <hora>07:50</hora>
+    <url>https://livetv.sx/es/eventinfo/360764281_li__tu_rio_noguchi/</url>
   </evento>
   <evento>
     <nombre>Niklas-Salminen / Boulais –  Added / Tajima</nombre>
@@ -159,6 +151,14 @@
     <fecha>26 de marzo</fecha>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/359805442_copa_del_mundo_planica/</url>
+  </evento>
+  <evento>
+    <nombre>Taiwan Beer –  Yulon Dinos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Taiwán. SBL</competicion>
+    <fecha>26 de marzo</fecha>
+    <hora>11:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360784871_taiwan_beer_yulon_dinos/</url>
   </evento>
   <evento>
     <nombre>Malta – Luxemburgo</nombre>
@@ -581,7 +581,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Brasil. Copa do Nordeste</competicion>
     <fecha>27 de marzo</fecha>
-    <hora>00:30</hora>
+    <hora>00:00</hora>
     <url>https://livetv.sx/es/eventinfo/355577243__/</url>
   </evento>
   <evento>
@@ -751,6 +751,14 @@
     <fecha>27 de marzo</fecha>
     <hora>11:10</hora>
     <url>https://livetv.sx/es/eventinfo/354792998__/</url>
+  </evento>
+  <evento>
+    <nombre>Spring Hills (M) –  South Melbourne (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Mujeres. NPL Victoria</competicion>
+    <fecha>27 de marzo</fecha>
+    <hora>11:30</hora>
+    <url>https://livetv.sx/es/eventinfo/361425936__/</url>
   </evento>
   <evento>
     <nombre>Eastern Suburbs (M) –  Capalaba (M)</nombre>
@@ -1729,6 +1737,14 @@
     <url>https://livetv.sx/es/eventinfo/345561401__/</url>
   </evento>
   <evento>
+    <nombre>Peninsula Power (M) –  Virginia Utd (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Mujeres. NPL Queensland</competicion>
+    <fecha>28 de marzo</fecha>
+    <hora>08:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361416843__/</url>
+  </evento>
+  <evento>
     <nombre>Sídney (M) –  Melbourne Victory (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Australia. Mujeres. A-League</competicion>
@@ -1743,6 +1759,14 @@
     <fecha>28 de marzo</fecha>
     <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/359698214_thailand_u23_vietnam_u23/</url>
+  </evento>
+  <evento>
+    <nombre>Mitchelton – Grange Thistle</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Queensland Premier League 2</competicion>
+    <fecha>28 de marzo</fecha>
+    <hora>09:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361425976__/</url>
   </evento>
   <evento>
     <nombre>China U20 – Australia U20</nombre>
@@ -1839,6 +1863,14 @@
     <fecha>28 de marzo</fecha>
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/355349104__/</url>
+  </evento>
+  <evento>
+    <nombre>Southside Eagles – Moreton City II</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Queensland Premier League 2</competicion>
+    <fecha>28 de marzo</fecha>
+    <hora>10:30</hora>
+    <url>https://livetv.sx/es/eventinfo/361430397__/</url>
   </evento>
   <evento>
     <nombre>Logan Lightning – Brisbane Strikers</nombre>
@@ -3393,6 +3425,22 @@
     <url>https://livetv.sx/es/eventinfo/356061152__/</url>
   </evento>
   <evento>
+    <nombre>Taringa Rovers – Virginia Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Queensland Premier League 2</competicion>
+    <fecha>29 de marzo</fecha>
+    <hora>09:50</hora>
+    <url>https://livetv.sx/es/eventinfo/361425977__/</url>
+  </evento>
+  <evento>
+    <nombre>Souths Utd – Pine Hills</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Australia. Queensland Premier League 2</competicion>
+    <fecha>29 de marzo</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361425978__/</url>
+  </evento>
+  <evento>
     <nombre>Jablonec B – Slovan Liberec B</nombre>
     <deporte>Fútbol</deporte>
     <competicion>República Checa. 3. Liga</competicion>
@@ -3551,6 +3599,14 @@
     <fecha>29 de marzo</fecha>
     <hora>15:00</hora>
     <url>https://livetv.sx/es/eventinfo/356201272__/</url>
+  </evento>
+  <evento>
+    <nombre>Crystal Palace (M) –  Charlton Athletic (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Mujeres. Championship</competicion>
+    <fecha>29 de marzo</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361421643__/</url>
   </evento>
   <evento>
     <nombre>Pitea (M) –  Kristianstad (M)</nombre>
@@ -3937,14 +3993,6 @@
     <url>https://livetv.sx/es/eventinfo/360767490__/</url>
   </evento>
   <evento>
-    <nombre>Jacuipense – América de Natal</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Copa do Nordeste</competicion>
-    <fecha>29 de marzo</fecha>
-    <hora>22:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356426005__/</url>
-  </evento>
-  <evento>
     <nombre>San Martín Burzaco – Dock Sud</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Argentina. Primera B Metropolitana</competicion>
@@ -3967,6 +4015,14 @@
     <fecha>29 de marzo</fecha>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/355772973__/</url>
+  </evento>
+  <evento>
+    <nombre>Juazeirense – Itabaiana</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Brasil. Copa do Nordeste</competicion>
+    <fecha>29 de marzo</fecha>
+    <hora>22:00</hora>
+    <url>https://livetv.sx/es/eventinfo/356954690__/</url>
   </evento>
   <evento>
     <nombre>Almería – Real Sociedad B</nombre>
@@ -4103,62 +4159,6 @@
     <fecha>30 de marzo</fecha>
     <hora>00:00</hora>
     <url>https://livetv.sx/es/eventinfo/356495138__/</url>
-  </evento>
-  <evento>
-    <nombre>Deportivo Mictlán – Coban Imperial</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Guatemala. Liga Nacional</competicion>
-    <fecha>30 de marzo</fecha>
-    <hora>00:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356495478__/</url>
-  </evento>
-  <evento>
-    <nombre>Inter de Bogotá – Atlético Junior</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Colombia. Primera A</competicion>
-    <fecha>30 de marzo</fecha>
-    <hora>00:10</hora>
-    <url>https://livetv.sx/es/eventinfo/356512321__/</url>
-  </evento>
-  <evento>
-    <nombre>Athletico-PR – Botafogo-RJ</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Serie A</competicion>
-    <fecha>30 de marzo</fecha>
-    <hora>00:30</hora>
-    <url>https://livetv.sx/es/eventinfo/347157801__/</url>
-  </evento>
-  <evento>
-    <nombre>Botafogo-PB – ASA</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Brasil. Copa do Nordeste</competicion>
-    <fecha>30 de marzo</fecha>
-    <hora>00:30</hora>
-    <url>https://livetv.sx/es/eventinfo/356510402__/</url>
-  </evento>
-  <evento>
-    <nombre>Guaraní As – Sportivo Trinidense</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Paraguay. Primera División</competicion>
-    <fecha>30 de marzo</fecha>
-    <hora>01:00</hora>
-    <url>https://livetv.sx/es/eventinfo/360098874__/</url>
-  </evento>
-  <evento>
-    <nombre>Peñarol – Racing de Montevideo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Uruguay. Primera División</competicion>
-    <fecha>30 de marzo</fecha>
-    <hora>01:30</hora>
-    <url>https://livetv.sx/es/eventinfo/356544870__/</url>
-  </evento>
-  <evento>
-    <nombre>Mineros – Tapatío</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>México. Liga de Expansion</competicion>
-    <fecha>30 de marzo</fecha>
-    <hora>02:00</hora>
-    <url>https://livetv.sx/es/eventinfo/356556574__/</url>
   </evento>
   <evento>
     <nombre>Florida – Minnesota</nombre>
@@ -6305,12 +6305,12 @@
     <url>https://livetv.sx/es/eventinfo/357043765__/</url>
   </evento>
   <evento>
-    <nombre>LA Clippers – Toronto</nombre>
+    <nombre>Dabrowa Gornicza – Gornik Walbrzych</nombre>
     <deporte>Baloncesto</deporte>
-    <competicion>No especificado</competicion>
+    <competicion>Polonia. PLK</competicion>
     <fecha>26 de marzo</fecha>
-    <hora>04:30</hora>
-    <url>https://livetv.sx/es/eventinfo/354150832__/</url>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/354407038__/</url>
   </evento>
   <evento>
     <nombre>Gornik Walbrzych – Dabrowa Gornicza</nombre>
@@ -6527,14 +6527,6 @@
     <fecha>26 de marzo</fecha>
     <hora>18:00</hora>
     <url>https://livetv.sx/es/eventinfo/360535111_podgorica_jedinstvo/</url>
-  </evento>
-  <evento>
-    <nombre>Dabrowa Gornicza – Gornik Walbrzych</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Polonia. PLK</competicion>
-    <fecha>26 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/354407038__/</url>
   </evento>
   <evento>
     <nombre>Oulu – HBA Marsky</nombre>
@@ -9633,30 +9625,6 @@
     <url>https://livetv.sx/es/eventinfo/360715225__/</url>
   </evento>
   <evento>
-    <nombre>Lammons / Withrow – Mena / Pacheco Mendez</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Morelia. Dobles</competicion>
-    <fecha>26 de marzo</fecha>
-    <hora>04:50</hora>
-    <url>https://livetv.sx/es/eventinfo/360075759__/</url>
-  </evento>
-  <evento>
-    <nombre>Li  Tu – Rio Noguchi</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Yokkaichi</competicion>
-    <fecha>26 de marzo</fecha>
-    <hora>05:55</hora>
-    <url>https://livetv.sx/es/eventinfo/360764281__/</url>
-  </evento>
-  <evento>
-    <nombre>Yu Hsiou Hsu – Yuta Shimizu</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Yokkaichi</competicion>
-    <fecha>26 de marzo</fecha>
-    <hora>05:55</hora>
-    <url>https://livetv.sx/es/eventinfo/360779668__/</url>
-  </evento>
-  <evento>
     <nombre>James McCabe – Hayato Matsuoka</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Yokkaichi</competicion>
@@ -9665,12 +9633,20 @@
     <url>https://livetv.sx/es/eventinfo/360810455__/</url>
   </evento>
   <evento>
-    <nombre>Hsiou Hsu / Huang – Shimizu / Trotter</nombre>
+    <nombre>Yu Hsiou Hsu – Yuta Shimizu</nombre>
     <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Yokkaichi. Doubles</competicion>
+    <competicion>ATP Challenger. Yokkaichi</competicion>
     <fecha>26 de marzo</fecha>
-    <hora>07:25</hora>
-    <url>https://livetv.sx/es/eventinfo/359718944__/</url>
+    <hora>07:15</hora>
+    <url>https://livetv.sx/es/eventinfo/360779668__/</url>
+  </evento>
+  <evento>
+    <nombre>Li  Tu – Rio Noguchi</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokkaichi</competicion>
+    <fecha>26 de marzo</fecha>
+    <hora>07:50</hora>
+    <url>https://livetv.sx/es/eventinfo/360764281__/</url>
   </evento>
   <evento>
     <nombre>Niklas-Salminen / Boulais – Added / Tajima</nombre>
@@ -9695,6 +9671,14 @@
     <fecha>26 de marzo</fecha>
     <hora>09:30</hora>
     <url>https://livetv.sx/es/eventinfo/359718937__/</url>
+  </evento>
+  <evento>
+    <nombre>Hsiou Hsu / Huang – Shimizu / Trotter</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokkaichi. Doubles</competicion>
+    <fecha>26 de marzo</fecha>
+    <hora>10:30</hora>
+    <url>https://livetv.sx/es/eventinfo/359718944__/</url>
   </evento>
   <evento>
     <nombre>Carlo Caniato – Alexandre Muller</nombre>
@@ -9727,14 +9711,6 @@
     <fecha>26 de marzo</fecha>
     <hora>11:10</hora>
     <url>https://livetv.sx/es/eventinfo/359681180_atp_challenger_naples/</url>
-  </evento>
-  <evento>
-    <nombre>ATP Challenger. Split</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Split</competicion>
-    <fecha>26 de marzo</fecha>
-    <hora>11:10</hora>
-    <url>https://livetv.sx/es/eventinfo/359336680_atp_challenger_split/</url>
   </evento>
   <evento>
     <nombre>Eliakim Coulibaly – Alexander Vasilev</nombre>
@@ -9775,6 +9751,14 @@
     <fecha>26 de marzo</fecha>
     <hora>11:30</hora>
     <url>https://livetv.sx/es/eventinfo/360842969__/</url>
+  </evento>
+  <evento>
+    <nombre>ATP Challenger. Split</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Split</competicion>
+    <fecha>26 de marzo</fecha>
+    <hora>11:40</hora>
+    <url>https://livetv.sx/es/eventinfo/359336680_atp_challenger_split/</url>
   </evento>
   <evento>
     <nombre>Vrbensky / Paulson – Barrientos / Behar</nombre>
@@ -10193,6 +10177,22 @@
     <url>https://livetv.sx/es/eventinfo/359337771_atp_challenger_yokkaichi/</url>
   </evento>
   <evento>
+    <nombre>Lammons / Withrow – Zeballos / Reyes Varela</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Morelia. Dobles</competicion>
+    <fecha>27 de marzo</fecha>
+    <hora>03:30</hora>
+    <url>https://livetv.sx/es/eventinfo/361407413__/</url>
+  </evento>
+  <evento>
+    <nombre>Sun Fajing – Yasutaka Uchiyama</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Yokkaichi</competicion>
+    <fecha>27 de marzo</fecha>
+    <hora>04:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361416736__/</url>
+  </evento>
+  <evento>
     <nombre>Sascha Gueymard Wayenburg – Andrej Nedic</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Split</competicion>
@@ -10337,14 +10337,6 @@
     <url>https://livetv.sx/es/eventinfo/360748086_atp_challenger_bucaramanga/</url>
   </evento>
   <evento>
-    <nombre>Lammons / Withrow – Zeballos / Reyes Varela</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Morelia. Dobles</competicion>
-    <fecha>27 de marzo</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/361407413__/</url>
-  </evento>
-  <evento>
     <nombre>Jiri Lehecka – Arthur Fils</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Miami</competicion>
@@ -10377,12 +10369,20 @@
     <url>https://livetv.sx/es/eventinfo/360763458_zhytychi_zhytomyr_podillya_khmelnytskyi/</url>
   </evento>
   <evento>
-    <nombre>Jiangsu (M) –  Pekín (M)</nombre>
+    <nombre>Jiangsu – Pekín</nombre>
     <deporte>Voleibol</deporte>
-    <competicion>China. Mujeres. CVL</competicion>
+    <competicion>China. CVL</competicion>
     <fecha>26 de marzo</fecha>
     <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/361273012__/</url>
+    <url>https://livetv.sx/es/eventinfo/361413510__/</url>
+  </evento>
+  <evento>
+    <nombre>Shandong – Shanghai</nombre>
+    <deporte>Voleibol</deporte>
+    <competicion>China. CVL</competicion>
+    <fecha>26 de marzo</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361418146__/</url>
   </evento>
   <evento>
     <nombre>Security Police-ZUNU-Dynamo – Burevesnik</nombre>
@@ -10433,12 +10433,12 @@
     <url>https://livetv.sx/es/eventinfo/361308430__/</url>
   </evento>
   <evento>
-    <nombre>Jiangsu – Pekín</nombre>
+    <nombre>Jiangsu (M) –  Pekín (M)</nombre>
     <deporte>Voleibol</deporte>
-    <competicion>China. CVL</competicion>
+    <competicion>China. Mujeres. CVL</competicion>
     <fecha>26 de marzo</fecha>
     <hora>13:00</hora>
-    <url>https://livetv.sx/es/eventinfo/361413510__/</url>
+    <url>https://livetv.sx/es/eventinfo/361273012__/</url>
   </evento>
   <evento>
     <nombre>Podillya Khmelnytskyi – Burevesnik</nombre>
