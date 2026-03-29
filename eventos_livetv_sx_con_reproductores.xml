@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2026-03-29 22:37:00" total="72">
+<eventos generado="2026-03-29 23:07:38" total="72">
   <evento id="1">
     <nombre>Indiana –  Miami</nombre>
     <deporte>Fútbol</deporte>
@@ -10,16 +10,16 @@
     <datetime_iso>2026-03-29T00:00:00</datetime_iso>
     <streams total="5">
       <stream id="1">
-        <url>https://flixxlive.pro/live/nba2_english.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2661171&amp;lang=es&amp;eid=356498069&amp;lid=2661171&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="2">
         <url>https://flixxlive.pro/live/ch2_english.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2661170&amp;lang=es&amp;eid=356498069&amp;lid=2661170&amp;ci=3&amp;si=3</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://flixxlive.pro/live/nba2_english.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2661171&amp;lang=es&amp;eid=356498069&amp;lid=2661171&amp;ci=3&amp;si=3</enlace_original>
       </stream>
       <stream id="3">
         <url>https://shd247.xyz/frame022.html</url>
@@ -28,16 +28,16 @@
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2984319&amp;lang=es&amp;eid=356498069&amp;lid=2984319&amp;ci=3&amp;si=3</enlace_original>
       </stream>
       <stream id="4">
-        <url>https://thebrowns.site/channel.html?id=2</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2978782&amp;lang=es&amp;eid=356498069&amp;lid=2978782&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="5">
         <url>https://thebrowns.site/channel.html?id=7</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/8.png</idioma>
         <idioma_nombre>Portugués (Portugal)</idioma_nombre>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2978787&amp;lang=es&amp;eid=356498069&amp;lid=2978787&amp;ci=3&amp;si=3</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://thebrowns.site/channel.html?id=2</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2978782&amp;lang=es&amp;eid=356498069&amp;lid=2978782&amp;ci=3&amp;si=3</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -366,15 +366,7 @@ player/live.php?id=242757&amp;w=700&amp;h=480</url>
     <hora>15:00</hora>
     <url>https://livetv.sx/es/eventinfo/360844922_mumbai_indians_kolkata_knight_riders/</url>
     <datetime_iso>2026-03-29T15:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://emb.apl396.me/
-player/live.php?id=250370&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer2.php?t=alieztv&amp;c=250370&amp;lang=es&amp;eid=360844922&amp;lid=2970427&amp;ci=460&amp;si=41</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="16">
     <nombre>ATP Challenger. Sao Leopoldo</nombre>
@@ -494,14 +486,7 @@ player/live.php?id=250370&amp;w=700&amp;h=480</url>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/356466113_chicago_wolves_milwaukee/</url>
     <datetime_iso>2026-03-29T22:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://olimp-video.com/api/broadcast/sportboomcom/14383730</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985868&amp;lang=es&amp;eid=356466113&amp;lid=2985868&amp;ci=328&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="24">
     <nombre>RS Berkan –  Maghreb de Fès</nombre>
@@ -581,14 +566,7 @@ player/live.php?id=250370&amp;w=700&amp;h=480</url>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/361510644_tibo_colson_alan_sau_franco/</url>
     <datetime_iso>2026-03-29T22:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://viewembed.ru/channel/bet12479236</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985832&amp;lang=es&amp;eid=361510644&amp;lid=2985832&amp;ci=5732&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="32">
     <nombre>Ivan Marrero Curbelo –  Pranav Kumar</nombre>
@@ -598,14 +576,7 @@ player/live.php?id=250370&amp;w=700&amp;h=480</url>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/361510645_ivan_marrero_curbelo_pranav_kumar/</url>
     <datetime_iso>2026-03-29T22:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://viewembed.ru/channel/bet12479243</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985831&amp;lang=es&amp;eid=361510645&amp;lid=2985831&amp;ci=5732&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="33">
     <nombre>Orsomarso (M) –  Fortaleza CEIF (M)</nombre>
@@ -635,14 +606,7 @@ player/live.php?id=250370&amp;w=700&amp;h=480</url>
     <hora>22:00</hora>
     <url>https://livetv.sx/es/eventinfo/356466113__/</url>
     <datetime_iso>2026-03-29T22:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://olimp-video.com/api/broadcast/sportboomcom/14383730</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985868&amp;lang=es&amp;eid=356466113&amp;lid=2985868&amp;ci=328&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="36">
     <nombre>Stade Francais –  Clermont</nombre>
@@ -672,14 +636,7 @@ player/live.php?id=250370&amp;w=700&amp;h=480</url>
     <hora>22:30</hora>
     <url>https://livetv.sx/es/eventinfo/361510665_lucio_ratti_arklon_huertas_del_pino_cordova/</url>
     <datetime_iso>2026-03-29T22:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://viewembed.ru/channel/bet12477719</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985792&amp;lang=es&amp;eid=361510665&amp;lid=2985792&amp;ci=6549&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="39">
     <nombre>Nicolas Zanellato –  Jose Pereira</nombre>
@@ -689,14 +646,7 @@ player/live.php?id=250370&amp;w=700&amp;h=480</url>
     <hora>22:30</hora>
     <url>https://livetv.sx/es/eventinfo/361510666_nicolas_zanellato_jose_pereira/</url>
     <datetime_iso>2026-03-29T22:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://viewembed.ru/channel/bet12477721</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
-        <idioma_nombre>Polaco</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985793&amp;lang=es&amp;eid=361510666&amp;lid=2985793&amp;ci=6549&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="40">
     <nombre>Carolina –  Montreal</nombre>
@@ -846,34 +796,34 @@ player/live.php?id=250551&amp;w=700&amp;h=480</url>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2848066&amp;lang=es&amp;eid=356498401&amp;lid=2848066&amp;ci=2&amp;si=2</enlace_original>
       </stream>
       <stream id="4">
-        <url>https://shd247.xyz/frame011.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/16.png</idioma>
-        <idioma_nombre>Japonés</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2984309&amp;lang=es&amp;eid=356498401&amp;lid=2984309&amp;ci=2&amp;si=2</enlace_original>
+        <url>https://wikisport.club/strm/t13.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2982543&amp;lang=es&amp;eid=356498401&amp;lid=2982543&amp;ci=2&amp;si=2</enlace_original>
       </stream>
       <stream id="5">
+        <url>https://viewembed.ru/event/tampa-bay-lightning_nashville-predators_1774818000?channel=ViaplaySports1%5BUK%5D</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985700&amp;lang=es&amp;eid=356498401&amp;lid=2985700&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+      <stream id="6">
         <url>https://lovecdn.ru/player/PREMIERSPORTS1</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2982540&amp;lang=es&amp;eid=356498401&amp;lid=2982540&amp;ci=2&amp;si=2</enlace_original>
       </stream>
-      <stream id="6">
-        <url>https://embedsports.top/embed/admin/ppv-nashville-predators-vs-tampa-bay-lightning/1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985870&amp;lang=es&amp;eid=356498401&amp;lid=2985870&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
       <stream id="7">
+        <url>https://viewembed.ru/event/tampa-bay-lightning_nashville-predators_1774818000?channel=bet12136764</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985699&amp;lang=es&amp;eid=356498401&amp;lid=2985699&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+      <stream id="8">
         <url>https://dlstreams.top/stream/stream-451.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985873&amp;lang=es&amp;eid=356498401&amp;lid=2985873&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="8">
-        <url>https://wikisport.club/court/102.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2981993&amp;lang=es&amp;eid=356498401&amp;lid=2981993&amp;ci=2&amp;si=2</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -925,14 +875,7 @@ player/live.php?id=250551&amp;w=700&amp;h=480</url>
     <hora>23:00</hora>
     <url>https://livetv.sx/es/eventinfo/356461617_confianca_ec_fluminense_pi/</url>
     <datetime_iso>2026-03-29T23:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/M0UZ1WNyywI?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer2.php?t=youtube&amp;c=M0UZ1WNyywI&amp;lang=es&amp;eid=356461617&amp;lid=2985884&amp;ci=1023&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="48">
     <nombre>San Antonio –  Lexington</nombre>
@@ -942,14 +885,7 @@ player/live.php?id=250551&amp;w=700&amp;h=480</url>
     <hora>23:00</hora>
     <url>https://livetv.sx/es/eventinfo/356465892_san_antonio_lexington/</url>
     <datetime_iso>2026-03-29T23:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/0kSX8qNxZtE?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer2.php?t=youtube&amp;c=0kSX8qNxZtE&amp;lang=es&amp;eid=356465892&amp;lid=2985890&amp;ci=1084&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="49">
     <nombre>Jiri Lehecka –  Jannik Sinner</nombre>
@@ -1064,14 +1000,7 @@ player/live.php?id=251274&amp;w=700&amp;h=480</url>
     <hora>23:00</hora>
     <url>https://livetv.sx/es/eventinfo/356461617__/</url>
     <datetime_iso>2026-03-29T23:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/M0UZ1WNyywI?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer2.php?t=youtube&amp;c=M0UZ1WNyywI&amp;lang=es&amp;eid=356461617&amp;lid=2985884&amp;ci=1023&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="55">
     <nombre>Deportivo Maipú – Godoy Cruz</nombre>
@@ -1101,14 +1030,7 @@ player/live.php?id=251274&amp;w=700&amp;h=480</url>
     <hora>23:00</hora>
     <url>https://livetv.sx/es/eventinfo/356465892__/</url>
     <datetime_iso>2026-03-29T23:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/0kSX8qNxZtE?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer2.php?t=youtube&amp;c=0kSX8qNxZtE&amp;lang=es&amp;eid=356465892&amp;lid=2985890&amp;ci=1084&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="58">
     <nombre>Carolina – Montreal</nombre>
@@ -1126,46 +1048,46 @@ player/live.php?id=251274&amp;w=700&amp;h=480</url>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2848064&amp;lang=es&amp;eid=356498397&amp;lid=2848064&amp;ci=2&amp;si=2</enlace_original>
       </stream>
       <stream id="2">
-        <url>https://wikisport.club/court/104.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2984639&amp;lang=es&amp;eid=356498397&amp;lid=2984639&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://lovecdn.ru/player/SPORT5LIVE</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985880&amp;lang=es&amp;eid=356498397&amp;lid=2985880&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://upstor.link/ch.php?id=32</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2984467&amp;lang=es&amp;eid=356498397&amp;lid=2984467&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://cdn-live.tv/api/v1/channels/player/?name=sport+5+live%26code=il%26user=cdnlivetv%26plan=free</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985879&amp;lang=es&amp;eid=356498397&amp;lid=2985879&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="6">
         <url>https://shd247.xyz/frame024.html</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2984322&amp;lang=es&amp;eid=356498397&amp;lid=2984322&amp;ci=2&amp;si=2</enlace_original>
       </stream>
-      <stream id="7">
+      <stream id="3">
+        <url>https://dlstreams.top/cast/stream-809.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/20.png</idioma>
+        <idioma_nombre>Húngaro</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985818&amp;lang=es&amp;eid=356498397&amp;lid=2985818&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://upstor.link/ch.php?id=78</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
+        <idioma_nombre>Sueco</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2983726&amp;lang=es&amp;eid=356498397&amp;lid=2983726&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://wikisport.club/0nhl/4.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2984640&amp;lang=es&amp;eid=356498397&amp;lid=2984640&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+      <stream id="6">
         <url>https://embedsports.top/embed/admin/ppv-montreal-canadiens-vs-carolina-hurricanes/1</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985878&amp;lang=es&amp;eid=356498397&amp;lid=2985878&amp;ci=2&amp;si=2</enlace_original>
       </stream>
+      <stream id="7">
+        <url>https://dlstreams.top/stream/stream-146.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985881&amp;lang=es&amp;eid=356498397&amp;lid=2985881&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
       <stream id="8">
-        <url>https://upstor.link/ch.php?id=78</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/22.png</idioma>
-        <idioma_nombre>Sueco</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2983726&amp;lang=es&amp;eid=356498397&amp;lid=2983726&amp;ci=2&amp;si=2</enlace_original>
+        <url>https://cdn-live.tv/api/v1/channels/player/?name=sport+5+live%26code=il%26user=cdnlivetv%26plan=free</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985879&amp;lang=es&amp;eid=356498397&amp;lid=2985879&amp;ci=2&amp;si=2</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -1185,46 +1107,46 @@ player/live.php?id=251274&amp;w=700&amp;h=480</url>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2848065&amp;lang=es&amp;eid=356498399&amp;lid=2848065&amp;ci=2&amp;si=2</enlace_original>
       </stream>
       <stream id="2">
-        <url>https://shd247.xyz/frame028.html</url>
+        <url>https://wikisport.club/0nhl/6.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2984325&amp;lang=es&amp;eid=356498399&amp;lid=2984325&amp;ci=2&amp;si=2</enlace_original>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985312&amp;lang=es&amp;eid=356498399&amp;lid=2985312&amp;ci=2&amp;si=2</enlace_original>
       </stream>
       <stream id="3">
-        <url>https://wikisport.club/0nhl/5.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985296&amp;lang=es&amp;eid=356498399&amp;lid=2985296&amp;ci=2&amp;si=2</enlace_original>
+        <url>https://streams.center/embed/ch53.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985876&amp;lang=es&amp;eid=356498399&amp;lid=2985876&amp;ci=2&amp;si=2</enlace_original>
       </stream>
       <stream id="4">
-        <url>https://viewembed.ru/event/columbus-blue-jackets_boston-bruins_1774818000?channel=NESN%5BUSA%5D</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985702&amp;lang=es&amp;eid=356498399&amp;lid=2985702&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="5">
         <url>https://wikisport.club/court/105.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985297&amp;lang=es&amp;eid=356498399&amp;lid=2985297&amp;ci=2&amp;si=2</enlace_original>
       </stream>
-      <stream id="6">
-        <url>https://upstor.link/ch.php?id=31</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2984466&amp;lang=es&amp;eid=356498399&amp;lid=2984466&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="7">
-        <url>https://embedsports.top/embed/delta/live_nhl_blue-jackets-bruins-live-streaming-1223941833/1</url>
+      <stream id="5">
+        <url>https://embedsports.top/embed/echo/columbus-blue-jackets-vs-boston-bruins-hockey-416786/1</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985877&amp;lang=es&amp;eid=356498399&amp;lid=2985877&amp;ci=2&amp;si=2</enlace_original>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985875&amp;lang=es&amp;eid=356498399&amp;lid=2985875&amp;ci=2&amp;si=2</enlace_original>
       </stream>
-      <stream id="8">
+      <stream id="6">
+        <url>https://wikisport.club/0nhl/5.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985296&amp;lang=es&amp;eid=356498399&amp;lid=2985296&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+      <stream id="7">
         <url>https://embedsports.top/embed/admin/ppv-boston-bruins-vs-columbus-blue-jackets/1</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985874&amp;lang=es&amp;eid=356498399&amp;lid=2985874&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+      <stream id="8">
+        <url>https://upstor.link/ch.php?id=31</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2984466&amp;lang=es&amp;eid=356498399&amp;lid=2984466&amp;ci=2&amp;si=2</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -1258,34 +1180,34 @@ player/live.php?id=250551&amp;w=700&amp;h=480</url>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2848066&amp;lang=es&amp;eid=356498401&amp;lid=2848066&amp;ci=2&amp;si=2</enlace_original>
       </stream>
       <stream id="4">
-        <url>https://shd247.xyz/frame011.html</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/16.png</idioma>
-        <idioma_nombre>Japonés</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2984309&amp;lang=es&amp;eid=356498401&amp;lid=2984309&amp;ci=2&amp;si=2</enlace_original>
+        <url>https://wikisport.club/strm/t13.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2982543&amp;lang=es&amp;eid=356498401&amp;lid=2982543&amp;ci=2&amp;si=2</enlace_original>
       </stream>
       <stream id="5">
+        <url>https://viewembed.ru/event/tampa-bay-lightning_nashville-predators_1774818000?channel=ViaplaySports1%5BUK%5D</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985700&amp;lang=es&amp;eid=356498401&amp;lid=2985700&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+      <stream id="6">
         <url>https://lovecdn.ru/player/PREMIERSPORTS1</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2982540&amp;lang=es&amp;eid=356498401&amp;lid=2982540&amp;ci=2&amp;si=2</enlace_original>
       </stream>
-      <stream id="6">
-        <url>https://embedsports.top/embed/admin/ppv-nashville-predators-vs-tampa-bay-lightning/1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985870&amp;lang=es&amp;eid=356498401&amp;lid=2985870&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
       <stream id="7">
+        <url>https://viewembed.ru/event/tampa-bay-lightning_nashville-predators_1774818000?channel=bet12136764</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985699&amp;lang=es&amp;eid=356498401&amp;lid=2985699&amp;ci=2&amp;si=2</enlace_original>
+      </stream>
+      <stream id="8">
         <url>https://dlstreams.top/stream/stream-451.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
         <idioma_nombre>Bandera #0</idioma_nombre>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2985873&amp;lang=es&amp;eid=356498401&amp;lid=2985873&amp;ci=2&amp;si=2</enlace_original>
-      </stream>
-      <stream id="8">
-        <url>https://wikisport.club/court/102.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2981993&amp;lang=es&amp;eid=356498401&amp;lid=2981993&amp;ci=2&amp;si=2</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -1299,16 +1221,16 @@ player/live.php?id=250551&amp;w=700&amp;h=480</url>
     <datetime_iso>2026-03-29T23:00:00</datetime_iso>
     <streams total="5">
       <stream id="1">
-        <url>https://flixxlive.pro/live/nba2_english.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2661171&amp;lang=es&amp;eid=356498069&amp;lid=2661171&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="2">
         <url>https://flixxlive.pro/live/ch2_english.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2661170&amp;lang=es&amp;eid=356498069&amp;lid=2661170&amp;ci=3&amp;si=3</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://flixxlive.pro/live/nba2_english.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2661171&amp;lang=es&amp;eid=356498069&amp;lid=2661171&amp;ci=3&amp;si=3</enlace_original>
       </stream>
       <stream id="3">
         <url>https://shd247.xyz/frame022.html</url>
@@ -1317,16 +1239,16 @@ player/live.php?id=250551&amp;w=700&amp;h=480</url>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2984319&amp;lang=es&amp;eid=356498069&amp;lid=2984319&amp;ci=3&amp;si=3</enlace_original>
       </stream>
       <stream id="4">
-        <url>https://thebrowns.site/channel.html?id=2</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2978782&amp;lang=es&amp;eid=356498069&amp;lid=2978782&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="5">
         <url>https://thebrowns.site/channel.html?id=7</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/8.png</idioma>
         <idioma_nombre>Portugués (Portugal)</idioma_nombre>
         <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2978787&amp;lang=es&amp;eid=356498069&amp;lid=2978787&amp;ci=3&amp;si=3</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://thebrowns.site/channel.html?id=2</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://livetv.sx/webplayer.php?t=ifr&amp;c=2978782&amp;lang=es&amp;eid=356498069&amp;lid=2978782&amp;ci=3&amp;si=3</enlace_original>
       </stream>
     </streams>
   </evento>
