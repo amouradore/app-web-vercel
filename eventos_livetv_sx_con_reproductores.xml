@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2026-04-02 04:44:35" total="261">
+<eventos generado="2026-04-02 06:12:21" total="261">
   <evento id="1">
     <nombre>La Unión – Ferro Carril Oeste</nombre>
     <deporte>Baloncesto</deporte>
@@ -38,14 +38,7 @@
     <hora>04:00</hora>
     <url>https://livetv.sx/es/eventinfo/359162627__/</url>
     <datetime_iso>2026-04-02T04:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://wikisport.club/0nhl/61.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2987065&amp;lang=es&amp;eid=359162627&amp;lid=2987065&amp;ci=385&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="5">
     <nombre>Deportivo Marquense – Xelajú MC</nombre>
@@ -65,14 +58,7 @@
     <hora>04:00</hora>
     <url>https://livetv.sx/es/eventinfo/357985348__/</url>
     <datetime_iso>2026-04-02T04:00:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://olimp-video.com/api/broadcast/sportboomcom/14400788</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2987821&amp;lang=es&amp;eid=357985348&amp;lid=2987821&amp;ci=328&amp;si=2</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="7">
     <nombre>Golden State – San Antonio</nombre>
@@ -82,60 +68,7 @@
     <hora>04:00</hora>
     <url>https://livetv.sx/es/eventinfo/357984098__/</url>
     <datetime_iso>2026-04-02T04:00:00</datetime_iso>
-    <streams total="8">
-      <stream id="1">
-        <url>https://upstor.link/ch.php?id=86</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/7.png</idioma>
-        <idioma_nombre>Francés</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2986089&amp;lang=es&amp;eid=357984098&amp;lid=2986089&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://emb.apl397.me/
-player/live.php?id=242914&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=alieztv&amp;c=242914&amp;lang=es&amp;eid=357984098&amp;lid=2828767&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="3">
-        <url>https://emb.apl397.me/
-player/live.php?id=250408&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
-        <idioma_nombre>Coreano</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=alieztv&amp;c=250408&amp;lang=es&amp;eid=357984098&amp;lid=2975721&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://emb.apl397.me/
-player/live.php?id=242285&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=alieztv&amp;c=242285&amp;lang=es&amp;eid=357984098&amp;lid=2956099&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://emb.apl397.me/
-player/live.php?id=242757&amp;w=700&amp;h=480</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/1.png</idioma>
-        <idioma_nombre>Inglés</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=alieztv&amp;c=242757&amp;lang=es&amp;eid=357984098&amp;lid=2956100&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="6">
-        <url>https://flixxlive.pro/live/nba9_english.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2661184&amp;lang=es&amp;eid=357984098&amp;lid=2661184&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="7">
-        <url>https://flixxlive.pro/live/ch9_english.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2661185&amp;lang=es&amp;eid=357984098&amp;lid=2661185&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-      <stream id="8">
-        <url>https://wikisport.club/strm/nba9.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2987750&amp;lang=es&amp;eid=357984098&amp;lid=2987750&amp;ci=3&amp;si=3</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="8">
     <nombre>Hiroki Moriya – James Kent Trotter</nombre>
@@ -189,14 +122,7 @@ player/live.php?id=242757&amp;w=700&amp;h=480</url>
     <hora>04:45</hora>
     <url>https://livetv.sx/es/eventinfo/361510701__/</url>
     <datetime_iso>2026-04-02T04:45:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://viewembed.ru/channel/bet12475809</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2987820&amp;lang=es&amp;eid=361510701&amp;lid=2987820&amp;ci=5733&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="12">
     <nombre>Monterrey (M) –  Pumas (M)</nombre>
@@ -206,20 +132,7 @@ player/live.php?id=242757&amp;w=700&amp;h=480</url>
     <hora>05:00</hora>
     <url>https://livetv.sx/es/eventinfo/358003655__/</url>
     <datetime_iso>2026-04-02T05:00:00</datetime_iso>
-    <streams total="2">
-      <stream id="1">
-        <url>https://www.youtube.com/embed/FfxD9xVFbUQ?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=youtube&amp;c=FfxD9xVFbUQ&amp;lang=es&amp;eid=358003655&amp;lid=2987822&amp;ci=2334&amp;si=1</enlace_original>
-      </stream>
-      <stream id="2">
-        <url>https://wikisport.club/strm/6.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2987073&amp;lang=es&amp;eid=358003655&amp;lid=2987073&amp;ci=2334&amp;si=1</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="13">
     <nombre>Hayato Matsuoka – Liam Broady</nombre>
@@ -307,7 +220,14 @@ player/live.php?id=242757&amp;w=700&amp;h=480</url>
     <hora>07:45</hora>
     <url>https://livetv.sx/es/eventinfo/361753428__/</url>
     <datetime_iso>2026-04-02T07:45:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://viewembed.ru/event/blake-ellis_maximus-jones_1775103600</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2987825&amp;lang=es&amp;eid=361753428&amp;lid=2987825&amp;ci=8822&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="19">
     <nombre>Ji-sung / Niklas-Salminen – Sach / Cook</nombre>
@@ -317,7 +237,14 @@ player/live.php?id=242757&amp;w=700&amp;h=480</url>
     <hora>07:55</hora>
     <url>https://livetv.sx/es/eventinfo/362167946__/</url>
     <datetime_iso>2026-04-02T07:55:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://viewembed.ru/event/j-nam-p-n-salminen_e-cook-t-l-sach_1775103600</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2987824&amp;lang=es&amp;eid=362167946&amp;lid=2987824&amp;ci=8823&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="20">
     <nombre>Kusuhara / Nakagawa – Hsu / Ilagan</nombre>
@@ -357,7 +284,20 @@ player/live.php?id=242757&amp;w=700&amp;h=480</url>
     <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/361597198_asian_cup/</url>
     <datetime_iso>2026-04-02T09:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="2">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/2aC_GzN6AbQ?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=youtube&amp;c=2aC_GzN6AbQ&amp;lang=es&amp;eid=361597198&amp;lid=2986289&amp;ci=1395&amp;si=3</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://www.youtube.com/embed/bgbchjpM3vY?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=youtube&amp;c=bgbchjpM3vY&amp;lang=es&amp;eid=361597198&amp;lid=2986300&amp;ci=1395&amp;si=3</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="24">
     <nombre>Atyrau-2 – Aktobe</nombre>
@@ -367,7 +307,14 @@ player/live.php?id=242757&amp;w=700&amp;h=480</url>
     <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/362340314_atyrau_2_aktobe/</url>
     <datetime_iso>2026-04-02T09:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/-z1qdo_GB4A?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=youtube&amp;c=-z1qdo_GB4A&amp;lang=es&amp;eid=362340314&amp;lid=2987585&amp;ci=1482&amp;si=3</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="25">
     <nombre>Alexander Shevchenko – Botic Van de Zandschulp</nombre>
