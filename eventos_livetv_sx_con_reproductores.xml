@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<eventos generado="2026-04-03 06:37:56" total="464">
+<eventos generado="2026-04-03 08:14:36" total="464">
   <evento id="1">
     <nombre>Los Ángeles – Nashville</nombre>
     <deporte>Hockey</deporte>
@@ -38,14 +38,7 @@
     <hora>06:05</hora>
     <url>https://livetv.sx/es/eventinfo/362596040__/</url>
     <datetime_iso>2026-04-03T06:05:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://wikisport.club/fsl/fsl.php?id=bet12527059</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988307&amp;lang=es&amp;eid=362596040&amp;lid=2988307&amp;ci=5733&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="5">
     <nombre>Andre Ilagan – Liam Broady</nombre>
@@ -55,14 +48,7 @@
     <hora>06:15</hora>
     <url>https://livetv.sx/es/eventinfo/362676221__/</url>
     <datetime_iso>2026-04-03T06:15:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://wikisport.club/fsl/fsl.php?id=bet12529554</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988310&amp;lang=es&amp;eid=362676221&amp;lid=2988310&amp;ci=8822&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="6">
     <nombre>Bélgica (M) – Nueva Zelanda (M)</nombre>
@@ -90,16 +76,16 @@
         <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2969715&amp;lang=es&amp;eid=358477235&amp;lid=2969715&amp;ci=183&amp;si=17</enlace_original>
       </stream>
       <stream id="2">
-        <url>https://wikisport.club/wik/nrl.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988494&amp;lang=es&amp;eid=358477235&amp;lid=2988494&amp;ci=183&amp;si=17</enlace_original>
+        <url>https://embedsports.me/streams/fox-nrl-tv-stream-1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988495&amp;lang=es&amp;eid=358477235&amp;lid=2988495&amp;ci=183&amp;si=17</enlace_original>
       </stream>
       <stream id="3">
-        <url>https://embedsports.me/streams/fox-nrl-tv-stream-1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988495&amp;lang=es&amp;eid=358477235&amp;lid=2988495&amp;ci=183&amp;si=17</enlace_original>
+        <url>https://wikisport.club/wik/nrl.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988494&amp;lang=es&amp;eid=358477235&amp;lid=2988494&amp;ci=183&amp;si=17</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -111,14 +97,7 @@
     <hora>07:30</hora>
     <url>https://livetv.sx/es/eventinfo/362744290__/</url>
     <datetime_iso>2026-04-03T07:30:00</datetime_iso>
-    <streams total="1">
-      <stream id="1">
-        <url>https://wikisport.club/fsl/fsl.php?id=bet12531055</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988493&amp;lang=es&amp;eid=362744290&amp;lid=2988493&amp;ci=8823&amp;si=4</enlace_original>
-      </stream>
-    </streams>
+    <streams total="0" />
   </evento>
   <evento id="9">
     <nombre>Adelaide United (M) –  Wellington Phoenix (M)</nombre>
@@ -162,8 +141,8 @@ player/live.php?id=251262&amp;w=700&amp;h=480</url>
       </stream>
       <stream id="6">
         <url>https://popcdn.day/FSL.php?stream=SkyNZ3</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988497&amp;lang=es&amp;eid=358485177&amp;lid=2988497&amp;ci=2025&amp;si=1</enlace_original>
       </stream>
       <stream id="7">
@@ -184,10 +163,10 @@ player/live.php?id=251262&amp;w=700&amp;h=480</url>
     <datetime_iso>2026-04-03T08:25:00</datetime_iso>
     <streams total="1">
       <stream id="1">
-        <url>https://viewembed.ru/event/y-shimizu-j-trotter_l-broady-h-wendelken_1775194800</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988496&amp;lang=es&amp;eid=362744292&amp;lid=2988496&amp;ci=8823&amp;si=4</enlace_original>
+        <url>https://wikisport.club/fsl/fsl.php?id=bet12531004</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988531&amp;lang=es&amp;eid=362744292&amp;lid=2988531&amp;ci=8823&amp;si=4</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -202,14 +181,14 @@ player/live.php?id=251262&amp;w=700&amp;h=480</url>
     <streams total="2">
       <stream id="1">
         <url>https://www.youtube.com/embed/9Vs5y7TtYFU?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=youtube&amp;c=9Vs5y7TtYFU&amp;lang=es&amp;eid=361597201&amp;lid=2986302&amp;ci=1395&amp;si=3</enlace_original>
       </stream>
       <stream id="2">
         <url>https://www.youtube.com/embed/ToQrps6bljE?autoplay=1</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=youtube&amp;c=ToQrps6bljE&amp;lang=es&amp;eid=361597201&amp;lid=2986292&amp;ci=1395&amp;si=3</enlace_original>
       </stream>
     </streams>
@@ -222,25 +201,39 @@ player/live.php?id=251262&amp;w=700&amp;h=480</url>
     <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/361875456__/</url>
     <datetime_iso>2026-04-03T09:00:00</datetime_iso>
-    <streams total="3">
+    <streams total="5">
       <stream id="1">
+        <url>https://emb.apl397.me/
+player/live.php?id=250415&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/12.png</idioma>
+        <idioma_nombre>Turco</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=alieztv&amp;c=250415&amp;lang=es&amp;eid=361875456&amp;lid=2969548&amp;ci=7475&amp;si=4</enlace_original>
+      </stream>
+      <stream id="2">
         <url>https://emb.apl397.me/
 player/live.php?id=251158&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
         <idioma_nombre>Coreano</idioma_nombre>
         <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=alieztv&amp;c=251158&amp;lang=es&amp;eid=361875456&amp;lid=2975180&amp;ci=7475&amp;si=4</enlace_original>
       </stream>
-      <stream id="2">
-        <url>https://wikisport.club/court/wik9.php</url>
+      <stream id="3">
+        <url>https://emb.apl397.me/
+player/live.php?id=251268&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2986527&amp;lang=es&amp;eid=361875456&amp;lid=2986527&amp;ci=7475&amp;si=4</enlace_original>
+        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=alieztv&amp;c=251268&amp;lang=es&amp;eid=361875456&amp;lid=2977116&amp;ci=7475&amp;si=4</enlace_original>
       </stream>
-      <stream id="3">
+      <stream id="4">
         <url>https://wikisport.club/court/t9.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2986494&amp;lang=es&amp;eid=361875456&amp;lid=2986494&amp;ci=7475&amp;si=4</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://wikisport.club/court/wik9.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2986527&amp;lang=es&amp;eid=361875456&amp;lid=2986527&amp;ci=7475&amp;si=4</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -252,17 +245,17 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>09:00</hora>
     <url>https://livetv.sx/es/eventinfo/361903483__/</url>
     <datetime_iso>2026-04-03T09:00:00</datetime_iso>
-    <streams total="5">
+    <streams total="3">
       <stream id="1">
-        <url>https://viewembed.ru./channel/bet12511044</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988145&amp;lang=es&amp;eid=361903483&amp;lid=2988145&amp;ci=7475&amp;si=4</enlace_original>
+        <url>https://wikisport.club/court/wik9.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2986527&amp;lang=es&amp;eid=361903483&amp;lid=2986527&amp;ci=7475&amp;si=4</enlace_original>
       </stream>
       <stream id="2">
         <url>https://wikisport.club/fsl/fsl.php?id=bet12511044</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988501&amp;lang=es&amp;eid=361903483&amp;lid=2988501&amp;ci=7475&amp;si=4</enlace_original>
       </stream>
       <stream id="3">
@@ -270,18 +263,6 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2986494&amp;lang=es&amp;eid=361903483&amp;lid=2986494&amp;ci=7475&amp;si=4</enlace_original>
-      </stream>
-      <stream id="4">
-        <url>https://wikisport.club/court/wik9.php</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
-        <idioma_nombre>Francés (Francia)</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2986527&amp;lang=es&amp;eid=361903483&amp;lid=2986527&amp;ci=7475&amp;si=4</enlace_original>
-      </stream>
-      <stream id="5">
-        <url>https://viewembed.ru/event/daniel-merida-aguilar_adrian-mannarino_1775124000</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/14.png</idioma>
-        <idioma_nombre>Árabe</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2987909&amp;lang=es&amp;eid=361903483&amp;lid=2987909&amp;ci=7475&amp;si=4</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -293,31 +274,51 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>09:10</hora>
     <url>https://livetv.sx/es/eventinfo/361510500_atp_bucharest/</url>
     <datetime_iso>2026-04-03T09:10:00</datetime_iso>
-    <streams total="4">
+    <streams total="7">
       <stream id="1">
+        <url>https://emb.apl397.me/
+player/live.php?id=250415&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/12.png</idioma>
+        <idioma_nombre>Turco</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=alieztv&amp;c=250415&amp;lang=es&amp;eid=361510500&amp;lid=2969548&amp;ci=7475&amp;si=4</enlace_original>
+      </stream>
+      <stream id="2">
         <url>https://emb.apl397.me/
 player/live.php?id=251158&amp;w=700&amp;h=480</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
         <idioma_nombre>Coreano</idioma_nombre>
         <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=alieztv&amp;c=251158&amp;lang=es&amp;eid=361510500&amp;lid=2975180&amp;ci=7475&amp;si=4</enlace_original>
       </stream>
-      <stream id="2">
-        <url>https://wikisport.club/fsl/fsl.php?id=bet12511044</url>
-        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
-        <idioma_nombre>Bandera #0</idioma_nombre>
-        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988501&amp;lang=es&amp;eid=361510500&amp;lid=2988501&amp;ci=7475&amp;si=4</enlace_original>
-      </stream>
       <stream id="3">
+        <url>https://emb.apl397.me/
+player/live.php?id=251268&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=alieztv&amp;c=251268&amp;lang=es&amp;eid=361510500&amp;lid=2977116&amp;ci=7475&amp;si=4</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://wikisport.club/fsl/fsl.php?id=bet12511857</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/14.png</idioma>
+        <idioma_nombre>Árabe</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2987900&amp;lang=es&amp;eid=361510500&amp;lid=2987900&amp;ci=7475&amp;si=4</enlace_original>
+      </stream>
+      <stream id="5">
         <url>https://wikisport.club/court/wik9.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2986527&amp;lang=es&amp;eid=361510500&amp;lid=2986527&amp;ci=7475&amp;si=4</enlace_original>
       </stream>
-      <stream id="4">
+      <stream id="6">
         <url>https://wikisport.club/court/t9.php</url>
         <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
         <idioma_nombre>Francés (Francia)</idioma_nombre>
         <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2986494&amp;lang=es&amp;eid=361510500&amp;lid=2986494&amp;ci=7475&amp;si=4</enlace_original>
+      </stream>
+      <stream id="7">
+        <url>https://wikisport.club/fsl/fsl.php?id=bet12511044</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988501&amp;lang=es&amp;eid=361510500&amp;lid=2988501&amp;ci=7475&amp;si=4</enlace_original>
       </stream>
     </streams>
   </evento>
@@ -329,7 +330,51 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/358515243__/</url>
     <datetime_iso>2026-04-03T10:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="7">
+      <stream id="1">
+        <url>https://emb.apl397.me/
+player/live.php?id=250371&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=alieztv&amp;c=250371&amp;lang=es&amp;eid=358515243&amp;lid=2969571&amp;ci=2025&amp;si=1</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://www.youtube.com/embed/zYlkwvocZFQ?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=youtube&amp;c=zYlkwvocZFQ&amp;lang=es&amp;eid=358515243&amp;lid=2988532&amp;ci=2025&amp;si=1</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://wikisport.club/strm/t1.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988516&amp;lang=es&amp;eid=358515243&amp;lid=2988516&amp;ci=2025&amp;si=1</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://wikisport.club/embed/bt3.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2970753&amp;lang=es&amp;eid=358515243&amp;lid=2970753&amp;ci=2025&amp;si=1</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://popcdn.day/go.php?stream=tntsports3</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2915907&amp;lang=es&amp;eid=358515243&amp;lid=2915907&amp;ci=2025&amp;si=1</enlace_original>
+      </stream>
+      <stream id="6">
+        <url>https://wikisport.club/wik/bt3.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2970751&amp;lang=es&amp;eid=358515243&amp;lid=2970751&amp;ci=2025&amp;si=1</enlace_original>
+      </stream>
+      <stream id="7">
+        <url>https://popcdn.day/FSL.php?stream=SkyNZ3</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988497&amp;lang=es&amp;eid=358515243&amp;lid=2988497&amp;ci=2025&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="16">
     <nombre>Lituania (M) – México (M)</nombre>
@@ -349,7 +394,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/362794759__/</url>
     <datetime_iso>2026-04-03T10:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://wikisport.club/fsl/fsl.php?id=bet12532798</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988515&amp;lang=es&amp;eid=362794759&amp;lid=2988515&amp;ci=8210&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="18">
     <nombre>Mili Poljicak – Lorenzo Giustino</nombre>
@@ -379,7 +431,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/362238336__/</url>
     <datetime_iso>2026-04-03T10:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://wikisport.club/fsl/fsl.php?id=bet12519204</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2987834&amp;lang=es&amp;eid=362238336&amp;lid=2987834&amp;ci=7479&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="21">
     <nombre>Balaji / Oberleitner – Miedler / Erler</nombre>
@@ -429,7 +488,26 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:10</hora>
     <url>https://livetv.sx/es/eventinfo/361510530_atp_challenger_menorca/</url>
     <datetime_iso>2026-04-03T10:10:00</datetime_iso>
-    <streams total="0" />
+    <streams total="3">
+      <stream id="1">
+        <url>https://wikisport.club/fsl/fsl.php?id=bet12532798</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988515&amp;lang=es&amp;eid=361510530&amp;lid=2988515&amp;ci=8210&amp;si=4</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://wikisport.club/fsl/fsl.php?id=bet12522069</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988535&amp;lang=es&amp;eid=361510530&amp;lid=2988535&amp;ci=8210&amp;si=4</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://wikisport.club/fsl/fsl.php?id=bet12523194</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988534&amp;lang=es&amp;eid=361510530&amp;lid=2988534&amp;ci=8210&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="26">
     <nombre>Admira Praga – Loko Praha</nombre>
@@ -439,7 +517,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:15</hora>
     <url>https://livetv.sx/es/eventinfo/362603024__/</url>
     <datetime_iso>2026-04-03T10:15:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://embed.tvcom.cz/5e7904f2-e89e-4509-b233-b1ba1c90eb0a/</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
+        <idioma_nombre>Danés</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988522&amp;lang=es&amp;eid=362603024&amp;lid=2988522&amp;ci=1828&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="27">
     <nombre>Aritma Praga – Petrin Pilsen</nombre>
@@ -449,7 +534,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:15</hora>
     <url>https://livetv.sx/es/eventinfo/362603026__/</url>
     <datetime_iso>2026-04-03T10:15:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://embed.tvcom.cz/5b8b58f7-37d5-41c0-bf7b-7b4c8a5b2686/</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/25.png</idioma>
+        <idioma_nombre>Danés</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988521&amp;lang=es&amp;eid=362603026&amp;lid=2988521&amp;ci=1828&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="28">
     <nombre>Slovan Liberec B – Mladá-Boleslav B</nombre>
@@ -459,7 +551,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:15</hora>
     <url>https://livetv.sx/es/eventinfo/362644551__/</url>
     <datetime_iso>2026-04-03T10:15:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://embed.tvcom.cz/a7499ccf-0b35-447f-b537-25419e2e013c/</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988518&amp;lang=es&amp;eid=362644551&amp;lid=2988518&amp;ci=1828&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="29">
     <nombre>Pardubice B – Usti nad Orlici</nombre>
@@ -469,7 +568,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:15</hora>
     <url>https://livetv.sx/es/eventinfo/362634349__/</url>
     <datetime_iso>2026-04-03T10:15:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://embed.tvcom.cz/bddb1a40-7c6b-4510-8c45-d3ac73f7e3e7/</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988520&amp;lang=es&amp;eid=362634349&amp;lid=2988520&amp;ci=1828&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="30">
     <nombre>Neratovice-Byskovice – Slovan Velvary</nombre>
@@ -479,7 +585,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:15</hora>
     <url>https://livetv.sx/es/eventinfo/362634351__/</url>
     <datetime_iso>2026-04-03T10:15:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://embed.tvcom.cz/a4672600-358d-4d7b-9a08-5992ef305783/</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988519&amp;lang=es&amp;eid=362634351&amp;lid=2988519&amp;ci=1828&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="31">
     <nombre>Steti – Chomutov</nombre>
@@ -489,7 +602,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:15</hora>
     <url>https://livetv.sx/es/eventinfo/362793119__/</url>
     <datetime_iso>2026-04-03T10:15:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://embed.tvcom.cz/7e27a4a3-693e-45cb-8dfd-1d7786cac910/</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988517&amp;lang=es&amp;eid=362793119&amp;lid=2988517&amp;ci=1829&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="32">
     <nombre>Chlumec NC – Kosmonosy</nombre>
@@ -499,7 +619,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:15</hora>
     <url>https://livetv.sx/es/eventinfo/362308283__/</url>
     <datetime_iso>2026-04-03T10:15:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://embed.tvcom.cz/a707e607-5c9b-4cc9-a66c-fe00d119bbc0/</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988528&amp;lang=es&amp;eid=362308283&amp;lid=2988528&amp;ci=1829&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="33">
     <nombre>Viktoria ML – Ostrov</nombre>
@@ -509,7 +636,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:15</hora>
     <url>https://livetv.sx/es/eventinfo/362308285__/</url>
     <datetime_iso>2026-04-03T10:15:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://embed.tvcom.cz/1d348daf-9c93-4ea1-92f4-6c7cfd64af15/</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988527&amp;lang=es&amp;eid=362308285&amp;lid=2988527&amp;ci=1829&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="34">
     <nombre>Brandys nad Labem – Caslav</nombre>
@@ -519,7 +653,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:15</hora>
     <url>https://livetv.sx/es/eventinfo/362308287__/</url>
     <datetime_iso>2026-04-03T10:15:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://embed.tvcom.cz/144b2fcc-e654-443a-863e-83746d9fbe14/</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988526&amp;lang=es&amp;eid=362308287&amp;lid=2988526&amp;ci=1829&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="35">
     <nombre>Ujezd Praha 4 – Tempo</nombre>
@@ -529,7 +670,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:15</hora>
     <url>https://livetv.sx/es/eventinfo/362308289__/</url>
     <datetime_iso>2026-04-03T10:15:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://embed.tvcom.cz/503a2cc5-942f-48e2-907d-22457c159277/</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988525&amp;lang=es&amp;eid=362308289&amp;lid=2988525&amp;ci=1829&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="36">
     <nombre>Meteor – Slany</nombre>
@@ -539,7 +687,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:15</hora>
     <url>https://livetv.sx/es/eventinfo/362308291__/</url>
     <datetime_iso>2026-04-03T10:15:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://embed.tvcom.cz/5a8b0a7d-79a2-4abf-b513-68dff3b847aa/</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988524&amp;lang=es&amp;eid=362308291&amp;lid=2988524&amp;ci=1829&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="37">
     <nombre>Kurim – Dalnice Sperice</nombre>
@@ -549,7 +704,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:15</hora>
     <url>https://livetv.sx/es/eventinfo/362308293__/</url>
     <datetime_iso>2026-04-03T10:15:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://embed.tvcom.cz/cfa87ee4-7821-46d4-a504-08911af3617d/</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988523&amp;lang=es&amp;eid=362308293&amp;lid=2988523&amp;ci=1829&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="38">
     <nombre>Predni Kopanina – SEKO Louny</nombre>
@@ -559,7 +721,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:30</hora>
     <url>https://livetv.sx/es/eventinfo/362308295__/</url>
     <datetime_iso>2026-04-03T10:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://embed.tvcom.cz/91e19063-fcc1-4caf-ae99-4de29c9946cd/</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988537&amp;lang=es&amp;eid=362308295&amp;lid=2988537&amp;ci=1829&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="39">
     <nombre>Hlinsko – Nachod</nombre>
@@ -569,7 +738,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:30</hora>
     <url>https://livetv.sx/es/eventinfo/362308297__/</url>
     <datetime_iso>2026-04-03T10:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://embed.tvcom.cz/7e5efdee-38aa-4dc9-8d8b-95f45fe5c8ef/</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988536&amp;lang=es&amp;eid=362308297&amp;lid=2988536&amp;ci=1829&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="40">
     <nombre>Stefanos Sakellaridis – Fabian Marozsan</nombre>
@@ -579,7 +755,27 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:30</hora>
     <url>https://livetv.sx/es/eventinfo/362841717__/</url>
     <datetime_iso>2026-04-03T10:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="3">
+      <stream id="1">
+        <url>https://emb.apl397.me/
+player/live.php?id=251158&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/17.png</idioma>
+        <idioma_nombre>Coreano</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=alieztv&amp;c=251158&amp;lang=es&amp;eid=362841717&amp;lid=2975180&amp;ci=7475&amp;si=4</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://wikisport.club/court/t9.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2986494&amp;lang=es&amp;eid=362841717&amp;lid=2986494&amp;ci=7475&amp;si=4</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://wikisport.club/court/wik9.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2986527&amp;lang=es&amp;eid=362841717&amp;lid=2986527&amp;ci=7475&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="41">
     <nombre>Daniel Altmaier – Dino Prizmic</nombre>
@@ -589,7 +785,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:30</hora>
     <url>https://livetv.sx/es/eventinfo/362841719__/</url>
     <datetime_iso>2026-04-03T10:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://wikisport.club/fsl/fsl.php?id=bet12511857</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/14.png</idioma>
+        <idioma_nombre>Árabe</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2987900&amp;lang=es&amp;eid=362841719&amp;lid=2987900&amp;ci=7475&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="42">
     <nombre>Nerman Fatic – Vitaliy Sachko</nombre>
@@ -599,7 +802,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:30</hora>
     <url>https://livetv.sx/es/eventinfo/362812437__/</url>
     <datetime_iso>2026-04-03T10:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://wikisport.club/fsl/fsl.php?id=bet12534294</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988533&amp;lang=es&amp;eid=362812437&amp;lid=2988533&amp;ci=4198&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="43">
     <nombre>Miguel Damas – Daniel Rincón</nombre>
@@ -609,7 +819,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:30</hora>
     <url>https://livetv.sx/es/eventinfo/362378803__/</url>
     <datetime_iso>2026-04-03T10:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://wikisport.club/fsl/fsl.php?id=bet12523194</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988534&amp;lang=es&amp;eid=362378803&amp;lid=2988534&amp;ci=8210&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="44">
     <nombre>Pol Martin Tiffon – Ivan Gakhov</nombre>
@@ -619,7 +836,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:30</hora>
     <url>https://livetv.sx/es/eventinfo/362332026__/</url>
     <datetime_iso>2026-04-03T10:30:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://wikisport.club/fsl/fsl.php?id=bet12522069</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988535&amp;lang=es&amp;eid=362332026&amp;lid=2988535&amp;ci=8210&amp;si=4</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="45">
     <nombre>Marco Cecchinato – Felix Gill</nombre>
@@ -649,7 +873,59 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>10:35</hora>
     <url>https://livetv.sx/es/eventinfo/358529671__/</url>
     <datetime_iso>2026-04-03T10:35:00</datetime_iso>
-    <streams total="0" />
+    <streams total="8">
+      <stream id="1">
+        <url>https://emb.apl397.me/
+player/live.php?id=250466&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=alieztv&amp;c=250466&amp;lang=es&amp;eid=358529671&amp;lid=2988504&amp;ci=150&amp;si=1</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://emb.apl397.me/
+player/live.php?id=250480&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=alieztv&amp;c=250480&amp;lang=es&amp;eid=358529671&amp;lid=2970078&amp;ci=150&amp;si=1</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://emb.apl397.me/
+player/live.php?id=251262&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=alieztv&amp;c=251262&amp;lang=es&amp;eid=358529671&amp;lid=2977111&amp;ci=150&amp;si=1</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://flixxlive.pro/live/bt1_english.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2661214&amp;lang=es&amp;eid=358529671&amp;lid=2661214&amp;ci=150&amp;si=1</enlace_original>
+      </stream>
+      <stream id="5">
+        <url>https://shd247.live/frame023.html</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/18.png</idioma>
+        <idioma_nombre>Polaco</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988015&amp;lang=es&amp;eid=358529671&amp;lid=2988015&amp;ci=150&amp;si=1</enlace_original>
+      </stream>
+      <stream id="6">
+        <url>https://abcsport.top/abc/ch.php?id=71</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988035&amp;lang=es&amp;eid=358529671&amp;lid=2988035&amp;ci=150&amp;si=1</enlace_original>
+      </stream>
+      <stream id="7">
+        <url>https://upstor.link/ch.php?id=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2983679&amp;lang=es&amp;eid=358529671&amp;lid=2983679&amp;ci=150&amp;si=1</enlace_original>
+      </stream>
+      <stream id="8">
+        <url>https://upstor.link/ch.php?id=19</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/13.png</idioma>
+        <idioma_nombre>Italiano</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2984995&amp;lang=es&amp;eid=358529671&amp;lid=2984995&amp;ci=150&amp;si=1</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="48">
     <nombre>Chernihiv – Bukovyna</nombre>
@@ -669,7 +945,14 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/362210307__/</url>
     <datetime_iso>2026-04-03T11:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="1">
+      <stream id="1">
+        <url>https://www.youtube.com/embed/a1DQOpW3NXE?autoplay=1</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=youtube&amp;c=a1DQOpW3NXE&amp;lang=es&amp;eid=362210307&amp;lid=2987528&amp;ci=1005&amp;si=3</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="50">
     <nombre>Valentin Royer – Alex Martinez</nombre>
@@ -689,7 +972,33 @@ player/live.php?id=251158&amp;w=700&amp;h=480</url>
     <hora>11:00</hora>
     <url>https://livetv.sx/es/eventinfo/358529821__/</url>
     <datetime_iso>2026-04-03T11:00:00</datetime_iso>
-    <streams total="0" />
+    <streams total="4">
+      <stream id="1">
+        <url>https://emb.apl397.me/
+player/live.php?id=250357&amp;w=700&amp;h=480</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer2.php?t=alieztv&amp;c=250357&amp;lang=es&amp;eid=358529821&amp;lid=2969735&amp;ci=183&amp;si=17</enlace_original>
+      </stream>
+      <stream id="2">
+        <url>https://daddylive5.top/my/stream-37.php</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/0.png</idioma>
+        <idioma_nombre>Bandera #0</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988615&amp;lang=es&amp;eid=358529821&amp;lid=2988615&amp;ci=183&amp;si=17</enlace_original>
+      </stream>
+      <stream id="3">
+        <url>https://shd247.live/frame021.html</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2988013&amp;lang=es&amp;eid=358529821&amp;lid=2988013&amp;ci=183&amp;si=17</enlace_original>
+      </stream>
+      <stream id="4">
+        <url>https://upstor.link/ch.php?id=82</url>
+        <idioma>https://cdn.livetv860.me/img/linkflag/2.png</idioma>
+        <idioma_nombre>Francés (Francia)</idioma_nombre>
+        <enlace_original>https://cdn.livetv873.me/webplayer.php?t=ifr&amp;c=2985022&amp;lang=es&amp;eid=358529821&amp;lid=2985022&amp;ci=183&amp;si=17</enlace_original>
+      </stream>
+    </streams>
   </evento>
   <evento id="52">
     <nombre>Maardu – Tallinna Kalev</nombre>
