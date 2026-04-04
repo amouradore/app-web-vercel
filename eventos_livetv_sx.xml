@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<eventos generado="2026-04-04 16:45:19" total="1634">
-  <evento>
-    <nombre>Estrasburgo –  Niza</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Ligue 1</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359210598_estrasburgo_niza/</url>
-  </evento>
-  <evento>
-    <nombre>Toulouse –  Poitiers</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Ligue A</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363753116_toulouse_poitiers/</url>
-  </evento>
+<eventos generado="2026-04-04 17:39:32" total="1622">
   <evento>
     <nombre>Hellas Verona –  Fiorentina</nombre>
     <deporte>Fútbol</deporte>
@@ -29,16 +13,8 @@
     <deporte>Fútbol</deporte>
     <competicion>España. Liga ACB</competicion>
     <fecha>4 de abril</fecha>
-    <hora>37:37</hora>
+    <hora>78:65</hora>
     <url>https://livetv.sx/es/eventinfo/359242220_bilbao_m__laga/</url>
-  </evento>
-  <evento>
-    <nombre>Power Volley –  Latina</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Italia. Serie A</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>18:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363774361_power_volley_latina/</url>
   </evento>
   <evento>
     <nombre>Chelsea –  Port Vale</nombre>
@@ -81,36 +57,12 @@
     <url>https://livetv.sx/es/eventinfo/359261513_stuttgart_dortmund/</url>
   </evento>
   <evento>
-    <nombre>Mitteldeutscher –  Bayern de Múnich</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. Bundesliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>19:12</hora>
-    <url>https://livetv.sx/es/eventinfo/359261517_mitteldeutscher_bayern_de_m__nich/</url>
-  </evento>
-  <evento>
-    <nombre>Le Mans –  Cholet</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. LNB Pro A</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>12:20</hora>
-    <url>https://livetv.sx/es/eventinfo/359266146_le_mans_cholet/</url>
-  </evento>
-  <evento>
     <nombre>Puente Genil –  Barcelona</nombre>
     <deporte>Fútbol</deporte>
     <competicion>España. Liga ASOBAL</competicion>
     <fecha>4 de abril</fecha>
-    <hora>18:30</hora>
+    <hora>15:28</hora>
     <url>https://livetv.sx/es/eventinfo/359242408_puente_genil_barcelona/</url>
-  </evento>
-  <evento>
-    <nombre>Fredericia –  Aalborg</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Dinamarca. Handboldligaen</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/361558335_fredericia_aalborg/</url>
   </evento>
   <evento>
     <nombre>Telstar –  Groninga</nombre>
@@ -125,8 +77,56 @@
     <deporte>Fútbol</deporte>
     <competicion>Países Bajos. Eredivisie</competicion>
     <fecha>4 de abril</fecha>
-    <hora>18:45</hora>
+    <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/359284327_az_fortuna_sittard/</url>
+  </evento>
+  <evento>
+    <nombre>Moreirense –  Braga</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Primeira Liga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/359284883_moreirense_braga/</url>
+  </evento>
+  <evento>
+    <nombre>Rio Ave –  Alverca</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Primeira Liga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/359284889_rio_ave_alverca/</url>
+  </evento>
+  <evento>
+    <nombre>Brest –  Rennes</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. Ligue 1</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/359286413_brest_rennes/</url>
+  </evento>
+  <evento>
+    <nombre>Toronto –  Colorado Rapids</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>EUA. MLS</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/359285485_toronto_colorado_rapids/</url>
+  </evento>
+  <evento>
+    <nombre>Granada –  Gerona</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Liga ACB</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>22:28</hora>
+    <url>https://livetv.sx/es/eventinfo/359282503_granada_gerona/</url>
+  </evento>
+  <evento>
+    <nombre>Lemgo –  Melsungen</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>14:13</hora>
+    <url>https://livetv.sx/es/eventinfo/359281877_lemgo_melsungen/</url>
   </evento>
   <evento>
     <nombre>ATP. Montecarlo</nombre>
@@ -169,14 +169,6 @@
     <url>https://livetv.sx/es/eventinfo/362290953_somerset_nottinghamshire/</url>
   </evento>
   <evento>
-    <nombre>Warwickshire –  Surrey</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>County Championship One</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>12:00</hora>
-    <url>https://livetv.sx/es/eventinfo/362290954_warwickshire_surrey/</url>
-  </evento>
-  <evento>
     <nombre>Derbyshire –  Worcestershire</nombre>
     <deporte>Fútbol</deporte>
     <competicion>County Championship Two</competicion>
@@ -201,116 +193,12 @@
     <url>https://livetv.sx/es/eventinfo/362290971_middlesex_gloucestershire/</url>
   </evento>
   <evento>
-    <nombre>Northamptonshire –  Lancashire</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>County Championship Two</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>12:00</hora>
-    <url>https://livetv.sx/es/eventinfo/362290972_northamptonshire_lancashire/</url>
-  </evento>
-  <evento>
-    <nombre>HPK –  Tappara</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Finlandia. Liiga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/361510086_hpk_tappara/</url>
-  </evento>
-  <evento>
     <nombre>Gujarat Titans –  Rajasthan Royals</nombre>
     <deporte>Fútbol</deporte>
     <competicion>India. Premier League</competicion>
     <fecha>4 de abril</fecha>
     <hora>16:00</hora>
     <url>https://livetv.sx/es/eventinfo/361515084_gujarat_titans_rajasthan_royals/</url>
-  </evento>
-  <evento>
-    <nombre>Braga (M) –   Sporting (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Portugal. Mujeres. A1</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363784458__braga_m__sporting_m/</url>
-  </evento>
-  <evento>
-    <nombre>Albacete –  Burgos</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Segunda División</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:15</hora>
-    <url>https://livetv.sx/es/eventinfo/359190211_albacete_burgos/</url>
-  </evento>
-  <evento>
-    <nombre>Mallorca –  Real Madrid</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Primera División</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:15</hora>
-    <url>https://livetv.sx/es/eventinfo/359190143_mallorca_real_madrid/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Khaldiya –  Al Riffa</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bahréin. Liga Premier</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:15</hora>
-    <url>https://livetv.sx/es/eventinfo/361566926_al_khaldiya_al_riffa/</url>
-  </evento>
-  <evento>
-    <nombre>Surkhon Termez –  Buxoro</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Uzbekistán. Superliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:15</hora>
-    <url>https://livetv.sx/es/eventinfo/359193585_surkhon_termez_buxoro/</url>
-  </evento>
-  <evento>
-    <nombre>Sokol/Post (M) –   Eisenerz/Trofaich (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Mujeres. Bundesliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:25</hora>
-    <url>https://livetv.sx/es/eventinfo/363755614__sokolpost_m__eisenerztrofaich_m/</url>
-  </evento>
-  <evento>
-    <nombre>PSV –  Utrecht</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Países Bajos. Eredivisie</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/359191835_psv_utrecht/</url>
-  </evento>
-  <evento>
-    <nombre>Nacional –  Estrela</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Portugal. Primeira Liga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/359284891_nacional_estrela/</url>
-  </evento>
-  <evento>
-    <nombre>Dinamo M –  Oremburgo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rusia. Premier Liga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/359192621_dinamo_m_oremburgo/</url>
-  </evento>
-  <evento>
-    <nombre>Stuttgart II –  Ratisbona</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 3 Bundesliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/359189339_stuttgart_ii_ratisbona/</url>
-  </evento>
-  <evento>
-    <nombre>RW Essen –  Duisburgo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 3 Bundesliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/359189341_rw_essen_duisburgo/</url>
   </evento>
   <evento>
     <nombre>Eisbaeren Berlín –  Straubing Tigers</nombre>
@@ -321,252 +209,12 @@
     <url>https://livetv.sx/es/eventinfo/363130700_eisbaeren_berl__n_straubing_tigers/</url>
   </evento>
   <evento>
-    <nombre>Caserío –  Guadalajara</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Liga ASOBAL</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/359242404_caser__o_guadalajara/</url>
-  </evento>
-  <evento>
-    <nombre>Levski –  Shumen</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bulgaria. NBL</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/359205568_levski_shumen/</url>
-  </evento>
-  <evento>
-    <nombre>San Lorenzo –  Boca Juniors</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Argentina. LNB</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>73:72</hora>
-    <url>https://livetv.sx/es/eventinfo/362694883_san_lorenzo_boca_juniors/</url>
-  </evento>
-  <evento>
-    <nombre>Joventut (M) –   Avenida (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Liga Femenina</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/362806302__joventut_m__avenida_m/</url>
-  </evento>
-  <evento>
-    <nombre>Montpellier (M) –  Landerneau Bretagne (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Francia. Mujeres. LFB</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/361510726_montpellier_m_landerneau_bretagne_w/</url>
-  </evento>
-  <evento>
-    <nombre>Kolos 2 –  Lokomotiv Kyiv</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Ucrania. 2 liha</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/362839384_kolos_2_lokomotiv_kyiv/</url>
-  </evento>
-  <evento>
-    <nombre>Albatro –  Trieste</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Italia. Serie A</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/361580969_albatro_trieste/</url>
-  </evento>
-  <evento>
-    <nombre>Benatky Nad Jizerou –  Hradec Kralove B</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>República Checa. 3. Liga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/362634375_benatky_nad_jizerou_hradec_kralove_b/</url>
-  </evento>
-  <evento>
-    <nombre>Slovan Hradek Nad Nisou –  Chrudim B</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>República Checa. 4. Liga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/363107769_slovan_hradek_nad_nisou_chrudim_b/</url>
-  </evento>
-  <evento>
-    <nombre>Lions Gibraltar –  Europa</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Gibraltar. Primera División</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/359189507_lions_gibraltar_europa/</url>
-  </evento>
-  <evento>
-    <nombre>Abdish-Ata –  Toktogul</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Kirguistán. Liga Premier</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/363201296_abdish_ata_toktogul/</url>
-  </evento>
-  <evento>
-    <nombre>Talant –  Muras United</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Kirguistán. Liga Premier</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/363201301_talant_muras_united/</url>
-  </evento>
-  <evento>
-    <nombre>Rafael Jodar –  Camilo Ugo Carabelli</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP. Marrakech</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:35</hora>
-    <url>https://livetv.sx/es/eventinfo/363360972_rafael_jodar_camilo_ugo_carabelli/</url>
-  </evento>
-  <evento>
-    <nombre>Kaliyanda Poonacha / Isaro –  Donski / Siddhant</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Dobles</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:40</hora>
-    <url>https://livetv.sx/es/eventinfo/363806036_kaliyanda_poonacha__isaro_donski__siddhant/</url>
-  </evento>
-  <evento>
-    <nombre>Asteras –  AEL</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Grecia. Super League</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/360897266_asteras_ael/</url>
-  </evento>
-  <evento>
-    <nombre>Dinamo de Kiev –  Karpaty</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Ucrania. Liga Premier</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359210390_dinamo_de_kiev_karpaty/</url>
-  </evento>
-  <evento>
-    <nombre>Paksi –  Kazincbarcika</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Hungría. NB I</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359172874_paksi_kazincbarcika/</url>
-  </evento>
-  <evento>
-    <nombre>Gómel –  Minsk</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bielorrusia. Vysheyshaya Liga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359205484_g__mel_minsk/</url>
-  </evento>
-  <evento>
-    <nombre>Dinamo Minsk –  Belshyna</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bielorrusia. Vysheyshaya Liga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359205490_dinamo_minsk_belshyna/</url>
-  </evento>
-  <evento>
-    <nombre>Grazer AK –  BW Linz</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Bundesliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359204866_grazer_ak_bw_linz/</url>
-  </evento>
-  <evento>
-    <nombre>Swarovski Tirol –  WAC</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Bundesliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359204868_swarovski_tirol_wac/</url>
-  </evento>
-  <evento>
-    <nombre>Simulcast</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Bundesliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363208287_simulcast/</url>
-  </evento>
-  <evento>
-    <nombre>Pharco –  Ghazl El Mehalla</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Egipto. Premier League</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359206524_pharco_ghazl_el_mehalla/</url>
-  </evento>
-  <evento>
     <nombre>Dynamo Pardubice –  Sparta Praga</nombre>
     <deporte>Fútbol</deporte>
     <competicion>República Checa. Extraliga</competicion>
     <fecha>4 de abril</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/361910849_dynamo_pardubice_sparta_praga/</url>
-  </evento>
-  <evento>
-    <nombre>Tofas –  Trabzonspor</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Turquía. BSL</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>71:91</hora>
-    <url>https://livetv.sx/es/eventinfo/359210342_tofas_trabzonspor/</url>
-  </evento>
-  <evento>
-    <nombre>Botev Vratsa –  Spartak Pleven</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bulgaria. NBL</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>81:72</hora>
-    <url>https://livetv.sx/es/eventinfo/359205570_botev_vratsa_spartak_pleven/</url>
-  </evento>
-  <evento>
-    <nombre>Ovarense –  Porto</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Portugal. LPB</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>71:48</hora>
-    <url>https://livetv.sx/es/eventinfo/363152035_ovarense_porto/</url>
-  </evento>
-  <evento>
-    <nombre>Ararat –  Van</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Armenia. Premier League</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359205466_ararat_van/</url>
-  </evento>
-  <evento>
-    <nombre>Buzau –  Celje</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EHF Eurocup</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359206434_buzau_celje/</url>
-  </evento>
-  <evento>
-    <nombre>Nilufer –  Tatabanya</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>EHF Eurocup</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359206436_nilufer_tatabanya/</url>
-  </evento>
-  <evento>
-    <nombre>UYBA (M) –   Chieri (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Italia. Mujeres. Serie A</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363335328__uyba_m__chieri_m/</url>
   </evento>
   <evento>
     <nombre>Bydgoszcz (M) –   Chemik Police (M)</nombre>
@@ -577,179 +225,11 @@
     <url>https://livetv.sx/es/eventinfo/362209162__bydgoszcz_m__chemik_police_m/</url>
   </evento>
   <evento>
-    <nombre>Prostejov (M) –   UP Olomouc (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Extraliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363693281__prostejov_m__up_olomouc_m/</url>
-  </evento>
-  <evento>
-    <nombre>Brixen –  Fasano</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Italia. Serie A</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/361580970_brixen_fasano/</url>
-  </evento>
-  <evento>
-    <nombre>Basket Zivinice –  Zrinjski</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Premijer liga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363784451_basket_zivinice_zrinjski/</url>
-  </evento>
-  <evento>
-    <nombre>Epicentr-Podoliany –  Ucrania U20</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Ucrania. Superliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/362831299_epicentr_podoliany_ucrania_u20/</url>
-  </evento>
-  <evento>
-    <nombre>Uniao Sportiva (M) –   GDESSA Barreiro (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Portugal. Mujeres. LFB</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>69:59</hora>
-    <url>https://livetv.sx/es/eventinfo/362817632__uniao_sportiva_m__gdessa_barreiro_m/</url>
-  </evento>
-  <evento>
-    <nombre>Vilkaviskio Perlas –  Silute</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Lituania. NKL</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>83:73</hora>
-    <url>https://livetv.sx/es/eventinfo/362191034_vilkaviskio_perlas_silute/</url>
-  </evento>
-  <evento>
-    <nombre>Sepsi (M) –  Targoviste (M)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rumania. Mujeres. Divizia A1</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/362237617_sepsi_m_targoviste_m/</url>
-  </evento>
-  <evento>
-    <nombre>Zhetysu –  Shymkent</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Kazajistán. Campeonato</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363782687_zhetysu_shymkent/</url>
-  </evento>
-  <evento>
-    <nombre>Atyrau –  Semey</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Kazajistán. Campeonato</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363782688_atyrau_semey/</url>
-  </evento>
-  <evento>
-    <nombre>Tulpar –  Astana</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Kazajistán. Campeonato</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363782689_tulpar_astana/</url>
-  </evento>
-  <evento>
-    <nombre>Ayat –  Kaspiy</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Kazajistán. Campeonato</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363782690_ayat_kaspiy/</url>
-  </evento>
-  <evento>
-    <nombre>Kecioren Baglum –  High Touch</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Turquía. TB2L</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/361580625_kecioren_baglum_high_touch/</url>
-  </evento>
-  <evento>
-    <nombre>Damir Dzumhur –  Nicolai Budkov Kjaer</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP. Montecarlo</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363474276_damir_dzumhur_nicolai_budkov_kjaer/</url>
-  </evento>
-  <evento>
-    <nombre>Jan Choinski –  Alexandre Muller</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>ATP. Montecarlo</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363474278_jan_choinski_alexandre_muller/</url>
-  </evento>
-  <evento>
-    <nombre>Iskra Danilovgrad –  Kotor</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Montenegro. Primera División</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363255547_iskra_danilovgrad_kotor/</url>
-  </evento>
-  <evento>
-    <nombre>Decic –  Ibar Rozaje</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Montenegro. Primera División</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363255548_decic_ibar_rozaje/</url>
-  </evento>
-  <evento>
-    <nombre>Primorje –  Vukovi Zeta</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Montenegro. Primera División</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363255549_primorje_vukovi_zeta/</url>
-  </evento>
-  <evento>
-    <nombre>Manisa (W) –  Afyon Bld. Yuntas (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Turquía. Mujeres. 1. Lig</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363256306_manisa_w_afyon_bld_yuntas_w/</url>
-  </evento>
-  <evento>
-    <nombre>Vardar (M) –  Kriva Palanka (W)</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Prva Liga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/361848292_vardar_m_kriva_palanka_w/</url>
-  </evento>
-  <evento>
-    <nombre>Alverca II –  Alcochetense</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Campeonato de Portugal</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363792864_alverca_ii_alcochetense/</url>
-  </evento>
-  <evento>
-    <nombre>Andorra –  Malta</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rugby Europa. Conferencia</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/362291192_andorra_malta/</url>
-  </evento>
-  <evento>
     <nombre>PAOK –  Karditsas</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Grecia. GBL</competicion>
     <fecha>4 de abril</fecha>
-    <hora>64:70</hora>
+    <hora>17:15</hora>
     <url>https://livetv.sx/es/eventinfo/359223676_paok_karditsas/</url>
   </evento>
   <evento>
@@ -757,7 +237,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Grecia. GBL</competicion>
     <fecha>4 de abril</fecha>
-    <hora>44:83</hora>
+    <hora>17:15</hora>
     <url>https://livetv.sx/es/eventinfo/359854387_promitheas_panathinaikos/</url>
   </evento>
   <evento>
@@ -813,7 +293,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Polonia. PLK</competicion>
     <fecha>4 de abril</fecha>
-    <hora>48:35</hora>
+    <hora>97:76</hora>
     <url>https://livetv.sx/es/eventinfo/359244437_gornik_walbrzych_wilki_morskie/</url>
   </evento>
   <evento>
@@ -821,7 +301,7 @@
     <deporte>Fútbol</deporte>
     <competicion>República Checa. NBL</competicion>
     <fecha>4 de abril</fecha>
-    <hora>45:74</hora>
+    <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/359228718_nh_ostrava_brno/</url>
   </evento>
   <evento>
@@ -829,7 +309,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Croacia. Premier League</competicion>
     <fecha>4 de abril</fecha>
-    <hora>38:52</hora>
+    <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/359246349_alkar_zadar/</url>
   </evento>
   <evento>
@@ -837,7 +317,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Eslovenia. Liga Nova KBM</competicion>
     <fecha>4 de abril</fecha>
-    <hora>45:43</hora>
+    <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/359226968_triglav_kranj_sencur/</url>
   </evento>
   <evento>
@@ -845,7 +325,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Suiza. SB League</competicion>
     <fecha>4 de abril</fecha>
-    <hora>74:61</hora>
+    <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/362498162_spinelli_massagno_lugano_tigers/</url>
   </evento>
   <evento>
@@ -853,7 +333,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Suiza. SB League</competicion>
     <fecha>4 de abril</fecha>
-    <hora>60:56</hora>
+    <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/362828979_nyon_starwings_basilea/</url>
   </evento>
   <evento>
@@ -861,7 +341,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Suiza. SB League</competicion>
     <fecha>4 de abril</fecha>
-    <hora>42:59</hora>
+    <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/362828981_monthey_chablais_pully_lausana_foxes/</url>
   </evento>
   <evento>
@@ -909,7 +389,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Austria. Superliga</competicion>
     <fecha>4 de abril</fecha>
-    <hora>63:57</hora>
+    <hora>17:30</hora>
     <url>https://livetv.sx/es/eventinfo/359157675_swans_gmunden_st_poelten/</url>
   </evento>
   <evento>
@@ -1061,8 +541,16 @@
     <deporte>Fútbol</deporte>
     <competicion>Francia. LNB Pro A</competicion>
     <fecha>4 de abril</fecha>
-    <hora>32:37</hora>
+    <hora>72:66</hora>
     <url>https://livetv.sx/es/eventinfo/359246193_san_quint__n_boulazac/</url>
+  </evento>
+  <evento>
+    <nombre>Power Volley –  Latina</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie A</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>18:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363774361_power_volley_latina/</url>
   </evento>
   <evento>
     <nombre>Studentski Centar –  Viena</nombre>
@@ -1077,7 +565,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Liga del Adriático</competicion>
     <fecha>4 de abril</fecha>
-    <hora>36:39</hora>
+    <hora>78:69</hora>
     <url>https://livetv.sx/es/eventinfo/359911239_dubai_cedevita_olimpija/</url>
   </evento>
   <evento>
@@ -1085,7 +573,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Bulgaria. NBL</competicion>
     <fecha>4 de abril</fecha>
-    <hora>40:36</hora>
+    <hora>69:72</hora>
     <url>https://livetv.sx/es/eventinfo/359240948_minyor_pernik_beroe/</url>
   </evento>
   <evento>
@@ -1093,7 +581,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Portugal. LPB</competicion>
     <fecha>4 de abril</fecha>
-    <hora>37:34</hora>
+    <hora>60:58</hora>
     <url>https://livetv.sx/es/eventinfo/363152037_esgueira_imortal/</url>
   </evento>
   <evento>
@@ -1125,7 +613,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Serbia. Superliga</competicion>
     <fecha>4 de abril</fecha>
-    <hora>21:10</hora>
+    <hora>35:26</hora>
     <url>https://livetv.sx/es/eventinfo/363861650_dinamo_pancevo_radnicki/</url>
   </evento>
   <evento>
@@ -1165,7 +653,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Dinamarca. Handboldligaen</competicion>
     <fecha>4 de abril</fecha>
-    <hora>14:20</hora>
+    <hora>31:36</hora>
     <url>https://livetv.sx/es/eventinfo/361558334_bjerringbro_silkeborg_skanderborg_aarhus/</url>
   </evento>
   <evento>
@@ -1173,7 +661,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Eslovaquia. Extraliga</competicion>
     <fecha>4 de abril</fecha>
-    <hora>44:27</hora>
+    <hora>75:64</hora>
     <url>https://livetv.sx/es/eventinfo/359245059_patrioti_levice_prievidza/</url>
   </evento>
   <evento>
@@ -1181,7 +669,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Eslovaquia. Extraliga</competicion>
     <fecha>4 de abril</fecha>
-    <hora>41:29</hora>
+    <hora>68:64</hora>
     <url>https://livetv.sx/es/eventinfo/359245061_handlova_lucenec/</url>
   </evento>
   <evento>
@@ -1189,7 +677,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Eslovaquia. Extraliga</competicion>
     <fecha>4 de abril</fecha>
-    <hora>37:29</hora>
+    <hora>67:68</hora>
     <url>https://livetv.sx/es/eventinfo/359245063_iskra_svit_nitra_blue_wings/</url>
   </evento>
   <evento>
@@ -1197,7 +685,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Eslovaquia. Extraliga</competicion>
     <fecha>4 de abril</fecha>
-    <hora>54:42</hora>
+    <hora>94:65</hora>
     <url>https://livetv.sx/es/eventinfo/359245065_slovan_bratislava_komarno/</url>
   </evento>
   <evento>
@@ -1213,7 +701,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Polonia. Superliga</competicion>
     <fecha>4 de abril</fecha>
-    <hora>18:16</hora>
+    <hora>32:34</hora>
     <url>https://livetv.sx/es/eventinfo/359244473_azoty_pulawy_chrobry_glogovia/</url>
   </evento>
   <evento>
@@ -1221,7 +709,7 @@
     <deporte>Fútbol</deporte>
     <competicion>República Checa. Extraliga</competicion>
     <fecha>4 de abril</fecha>
-    <hora>11:11</hora>
+    <hora>28:24</hora>
     <url>https://livetv.sx/es/eventinfo/359246931_lovosice_zubri/</url>
   </evento>
   <evento>
@@ -1229,7 +717,7 @@
     <deporte>Fútbol</deporte>
     <competicion>República Checa. NBL</competicion>
     <fecha>4 de abril</fecha>
-    <hora>50:33</hora>
+    <hora>95:65</hora>
     <url>https://livetv.sx/es/eventinfo/359246847_olomoucko_usk_praga/</url>
   </evento>
   <evento>
@@ -1237,7 +725,7 @@
     <deporte>Fútbol</deporte>
     <competicion>República Checa. NBL</competicion>
     <fecha>4 de abril</fecha>
-    <hora>46:48</hora>
+    <hora>79:86</hora>
     <url>https://livetv.sx/es/eventinfo/359246849_slavia_praga_kralovsti_sokoli/</url>
   </evento>
   <evento>
@@ -1253,7 +741,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Liga Femenina</competicion>
     <fecha>4 de abril</fecha>
-    <hora>24:35</hora>
+    <hora>56:59</hora>
     <url>https://livetv.sx/es/eventinfo/362834378__ensino_m__legan__s_m/</url>
   </evento>
   <evento>
@@ -1277,7 +765,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Chipre. 1 División</competicion>
     <fecha>4 de abril</fecha>
-    <hora>46:32</hora>
+    <hora>92:53</hora>
     <url>https://livetv.sx/es/eventinfo/359242830_keravnos_ael/</url>
   </evento>
   <evento>
@@ -1293,7 +781,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Suiza. SB League</competicion>
     <fecha>4 de abril</fecha>
-    <hora>29:44</hora>
+    <hora>62:81</hora>
     <url>https://livetv.sx/es/eventinfo/362838872_union_neuchatel_friburgo_olympic/</url>
   </evento>
   <evento>
@@ -1301,7 +789,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Alemania. 2 Bundesliga</competicion>
     <fecha>4 de abril</fecha>
-    <hora>14:17</hora>
+    <hora>30:30</hora>
     <url>https://livetv.sx/es/eventinfo/362695849_potsdam_ferndorf/</url>
   </evento>
   <evento>
@@ -1349,7 +837,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Hungría. Mujeres. NB I</competicion>
     <fecha>4 de abril</fecha>
-    <hora>11:13</hora>
+    <hora>23:28</hora>
     <url>https://livetv.sx/es/eventinfo/359241338__szombathelyi_m__schaeffler_m/</url>
   </evento>
   <evento>
@@ -1357,7 +845,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Hungría. Mujeres. NB I</competicion>
     <fecha>4 de abril</fecha>
-    <hora>09:14</hora>
+    <hora>18:23</hora>
     <url>https://livetv.sx/es/eventinfo/359241340__vasas_m__vac_m/</url>
   </evento>
   <evento>
@@ -1365,7 +853,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Bahréin. Liga Premier</competicion>
     <fecha>4 de abril</fecha>
-    <hora>46:43</hora>
+    <hora>71:73</hora>
     <url>https://livetv.sx/es/eventinfo/362842695_al_najma_al_manama/</url>
   </evento>
   <evento>
@@ -1373,7 +861,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Hungría. NB I</competicion>
     <fecha>4 de abril</fecha>
-    <hora>08:18</hora>
+    <hora>20:32</hora>
     <url>https://livetv.sx/es/eventinfo/359241386_balatonfured_veszprem/</url>
   </evento>
   <evento>
@@ -1381,7 +869,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Hungría. NB I</competicion>
     <fecha>4 de abril</fecha>
-    <hora>21:11</hora>
+    <hora>37:28</hora>
     <url>https://livetv.sx/es/eventinfo/359241388_pick_szeged_komlo/</url>
   </evento>
   <evento>
@@ -1389,7 +877,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Hungría. NB I</competicion>
     <fecha>4 de abril</fecha>
-    <hora>15:10</hora>
+    <hora>32:23</hora>
     <url>https://livetv.sx/es/eventinfo/359241390_gyongyos_budakalasz/</url>
   </evento>
   <evento>
@@ -1397,7 +885,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Islandia. Mujeres. Urvalsdeild</competicion>
     <fecha>4 de abril</fecha>
-    <hora>41:30</hora>
+    <hora>68:67</hora>
     <url>https://livetv.sx/es/eventinfo/362844375__grindavik_m__valur_m/</url>
   </evento>
   <evento>
@@ -1461,7 +949,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Austria. 2. Liga</competicion>
     <fecha>4 de abril</fecha>
-    <hora>38:31</hora>
+    <hora>67:66</hora>
     <url>https://livetv.sx/es/eventinfo/362831942_woerthersee_piraten_vienna_united/</url>
   </evento>
   <evento>
@@ -1485,7 +973,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Lituania. LKL</competicion>
     <fecha>4 de abril</fecha>
-    <hora>34:32</hora>
+    <hora>75:61</hora>
     <url>https://livetv.sx/es/eventinfo/360488307_rytas_vilna_nevezis/</url>
   </evento>
   <evento>
@@ -1525,7 +1013,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Italia. Lega Basket</competicion>
     <fecha>4 de abril</fecha>
-    <hora>23:24</hora>
+    <hora>61:55</hora>
     <url>https://livetv.sx/es/eventinfo/359325331_brescia_napoli/</url>
   </evento>
   <evento>
@@ -1581,8 +1069,16 @@
     <deporte>Fútbol</deporte>
     <competicion>Alemania. Bundesliga</competicion>
     <fecha>4 de abril</fecha>
-    <hora>18:30</hora>
+    <hora>38:40</hora>
     <url>https://livetv.sx/es/eventinfo/359261515_brunswick_ulm/</url>
+  </evento>
+  <evento>
+    <nombre>Mitteldeutscher –  Bayern de Múnich</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>52:44</hora>
+    <url>https://livetv.sx/es/eventinfo/359261517_mitteldeutscher_bayern_de_m__nich/</url>
   </evento>
   <evento>
     <nombre>Posusje –  Borac Bania Luka</nombre>
@@ -1597,8 +1093,16 @@
     <deporte>Fútbol</deporte>
     <competicion>European Challenge Cup</competicion>
     <fecha>4 de abril</fecha>
-    <hora>18:30</hora>
+    <hora>38:21</hora>
     <url>https://livetv.sx/es/eventinfo/359261839_benetton_cardiff_blues/</url>
+  </evento>
+  <evento>
+    <nombre>Le Mans –  Cholet</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Francia. LNB Pro A</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>57:56</hora>
+    <url>https://livetv.sx/es/eventinfo/359266146_le_mans_cholet/</url>
   </evento>
   <evento>
     <nombre>Metaloplastika –  Dubocica</nombre>
@@ -1625,6 +1129,14 @@
     <url>https://livetv.sx/es/eventinfo/361289860_al_wehdat_al_faisaly_am__n/</url>
   </evento>
   <evento>
+    <nombre>Fredericia –  Aalborg</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dinamarca. Handboldligaen</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>25:24</hora>
+    <url>https://livetv.sx/es/eventinfo/361558335_fredericia_aalborg/</url>
+  </evento>
+  <evento>
     <nombre>Al-Ahli Manama –  Malkiya</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Bahréin. Liga Premier</competicion>
@@ -1637,7 +1149,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Copa de Campeones Europea</competicion>
     <fecha>4 de abril</fecha>
-    <hora>18:30</hora>
+    <hora>45:12</hora>
     <url>https://livetv.sx/es/eventinfo/359263113_toulouse_bristol_bears/</url>
   </evento>
   <evento>
@@ -1645,7 +1157,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Copa de Campeones Europea</competicion>
     <fecha>4 de abril</fecha>
-    <hora>18:30</hora>
+    <hora>12:14</hora>
     <url>https://livetv.sx/es/eventinfo/359263115_glasgow_warriors_bulls/</url>
   </evento>
   <evento>
@@ -1653,7 +1165,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Liga Femenina</competicion>
     <fecha>4 de abril</fecha>
-    <hora>18:30</hora>
+    <hora>40:34</hora>
     <url>https://livetv.sx/es/eventinfo/362844432__jairis_m__cadi_la_seu_m/</url>
   </evento>
   <evento>
@@ -1685,7 +1197,7 @@
     <deporte>Fútbol</deporte>
     <competicion>Portugal. Mujeres. LFB</competicion>
     <fecha>4 de abril</fecha>
-    <hora>18:30</hora>
+    <hora>34:34</hora>
     <url>https://livetv.sx/es/eventinfo/362846842__barcelos_m__imortal_m/</url>
   </evento>
   <evento>
@@ -1737,12 +1249,636 @@
     <url>https://livetv.sx/es/eventinfo/361510727_chartres_w_landas_m/</url>
   </evento>
   <evento>
-    <nombre>Estrasburgo – Niza</nombre>
+    <nombre>Skierniewice –  Podbeskidzie</nombre>
     <deporte>Fútbol</deporte>
-    <competicion>Francia. Ligue 1</competicion>
+    <competicion>Polonia. II Liga</competicion>
     <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359210598__/</url>
+    <hora>18:45</hora>
+    <url>https://livetv.sx/es/eventinfo/363745180_skierniewice_podbeskidzie/</url>
+  </evento>
+  <evento>
+    <nombre>Ottawa –  Minnesota</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/359284609_ottawa_minnesota/</url>
+  </evento>
+  <evento>
+    <nombre>Panetolikos –  Atromitos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Grecia. Super League</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360897262_panetolikos_atromitos/</url>
+  </evento>
+  <evento>
+    <nombre>Kiryat Shemona –  Bnei Sajnin</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Israel. Liga Premier</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361567629_kiryat_shemona_bnei_sajnin/</url>
+  </evento>
+  <evento>
+    <nombre>Trabzonspor –  Galatasaray</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Turquía. Superliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/359286161_trabzonspor_galatasaray/</url>
+  </evento>
+  <evento>
+    <nombre>Viseu –  Felgueiras</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. Segunda Liga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/359284917_viseu_felgueiras/</url>
+  </evento>
+  <evento>
+    <nombre>Valero Texas Open</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>PGA Tour</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361548065_valero_texas_open/</url>
+  </evento>
+  <evento>
+    <nombre>Aurora –  Antigua GFC</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Guatemala. Liga Nacional</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/359281717_aurora_antigua_gfc/</url>
+  </evento>
+  <evento>
+    <nombre>Mornar –  Jezero</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Montenegro. Primera División</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/359211188_mornar_jezero/</url>
+  </evento>
+  <evento>
+    <nombre>Igokea –  Estrella Roja</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga del Adriático</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>26:33</hora>
+    <url>https://livetv.sx/es/eventinfo/359911236_igokea_estrella_roja/</url>
+  </evento>
+  <evento>
+    <nombre>Jugovic –  Estrella Roja</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Superliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361580985_jugovic_estrella_roja/</url>
+  </evento>
+  <evento>
+    <nombre>Proleter –  Vranje</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Superliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361580986_proleter_vranje/</url>
+  </evento>
+  <evento>
+    <nombre>Samot –  Kikinda</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Superliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361580987_samot_kikinda/</url>
+  </evento>
+  <evento>
+    <nombre>Proleter –  Vranje</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Superliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363959476_proleter_vranje/</url>
+  </evento>
+  <evento>
+    <nombre>Jugovic –  Estrella Roja</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Superliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>14:14</hora>
+    <url>https://livetv.sx/es/eventinfo/363959478_jugovic_estrella_roja/</url>
+  </evento>
+  <evento>
+    <nombre>Samot 65 –  Kikinda</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Superliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363959480_samot_65_kikinda/</url>
+  </evento>
+  <evento>
+    <nombre>Trieste –  Varese</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Lega Basket</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>36:39</hora>
+    <url>https://livetv.sx/es/eventinfo/359325327_trieste_varese/</url>
+  </evento>
+  <evento>
+    <nombre>Giesen –  Dueren</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/362777530_giesen_dueren/</url>
+  </evento>
+  <evento>
+    <nombre>Talleres de Remedios –  Arsenal de Sarandí</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Primera B Metropolitana</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/359412055_talleres_de_remedios_arsenal_de_sarand__/</url>
+  </evento>
+  <evento>
+    <nombre>Defensores Unidos –  Villa San Carlos</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Primera B Metropolitana</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/359412069_defensores_unidos_villa_san_carlos/</url>
+  </evento>
+  <evento>
+    <nombre>Argentino de Quilmes –  Deportivo Liniers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Primera B Metropolitana</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/359412075_argentino_de_quilmes_deportivo_liniers/</url>
+  </evento>
+  <evento>
+    <nombre>Brno –  Dukla Praga</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>República Checa. Extraliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>20:15</hora>
+    <url>https://livetv.sx/es/eventinfo/359287239_brno_dukla_praga/</url>
+  </evento>
+  <evento>
+    <nombre>Zabok –  Sibenik</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Croacia. Premier League</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>34:41</hora>
+    <url>https://livetv.sx/es/eventinfo/359246339_zabok_sibenik/</url>
+  </evento>
+  <evento>
+    <nombre>Dinamo Zagreb –  Cedevita Junior</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Croacia. Premier League</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>25:29</hora>
+    <url>https://livetv.sx/es/eventinfo/359246347_dinamo_zagreb_cedevita_junior/</url>
+  </evento>
+  <evento>
+    <nombre>Araski (M) –   Zaragoza (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga Femenina</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>26:29</hora>
+    <url>https://livetv.sx/es/eventinfo/362854830__araski_m__zaragoza_m/</url>
+  </evento>
+  <evento>
+    <nombre>Estepona (M) –   IDK Guipúzcoa (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga Femenina</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>27:19</hora>
+    <url>https://livetv.sx/es/eventinfo/362854832__estepona_m__idk_guip__zcoa_m/</url>
+  </evento>
+  <evento>
+    <nombre>Ferrol (M) –   Spar Girona (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga Femenina</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>40:29</hora>
+    <url>https://livetv.sx/es/eventinfo/362854834__ferrol_m__spar_girona_m/</url>
+  </evento>
+  <evento>
+    <nombre>Elche (M) –   Lanzarote Zonzamas (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>División de Honor</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>11:10</hora>
+    <url>https://livetv.sx/es/eventinfo/363202903__elche_m__lanzarote_zonzamas_m/</url>
+  </evento>
+  <evento>
+    <nombre>Alimentos de Valladolid (M) –   Logrono La Rioja (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>División de Honor</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>11:10</hora>
+    <url>https://livetv.sx/es/eventinfo/363202905__alimentos_de_valladolid_m__logrono_la_rioja_m/</url>
+  </evento>
+  <evento>
+    <nombre>Porriño (M) –   Granollers (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>División de Honor</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363202907__porri__o_m__granollers_m/</url>
+  </evento>
+  <evento>
+    <nombre>Atlético Guardés (M) –   Elda Prestigio (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>División de Honor</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363202909__atl__tico_guard__s_m__elda_prestigio_m/</url>
+  </evento>
+  <evento>
+    <nombre>Gran Canaria (M) –   Bm Morvedre (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>División de Honor</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363260658__gran_canaria_m__bm_morvedre_m/</url>
+  </evento>
+  <evento>
+    <nombre>Conversano –  Cingoli</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie A</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361580887_conversano_cingoli/</url>
+  </evento>
+  <evento>
+    <nombre>Eppan –  Cologne</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie A</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361580980_eppan_cologne/</url>
+  </evento>
+  <evento>
+    <nombre>Conversano –  Cingoli</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Serie A</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>18:11</hora>
+    <url>https://livetv.sx/es/eventinfo/363920920_conversano_cingoli/</url>
+  </evento>
+  <evento>
+    <nombre>Bresanona (M) –  Teramo (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Mujeres. Serie A</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361580974_bresanona_m_teramo_w/</url>
+  </evento>
+  <evento>
+    <nombre>Cassano (M) –  Padova (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Mujeres. Serie A</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361580975_cassano_m_padova_w/</url>
+  </evento>
+  <evento>
+    <nombre>Mezzocorona (W) –  Casalgrande (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Mujeres. Serie A</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361580976_mezzocorona_w_casalgrande_m/</url>
+  </evento>
+  <evento>
+    <nombre>Leno (M) –  Nuoro (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Mujeres. Serie A</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361580977_leno_m_nuoro_w/</url>
+  </evento>
+  <evento>
+    <nombre>Erice (W) –  Ferrara (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Mujeres. Serie A</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361580978_erice_w_ferrara_m/</url>
+  </evento>
+  <evento>
+    <nombre>Mestrino (W) –  Salerno (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Mujeres. Serie A</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361580979_mestrino_w_salerno_m/</url>
+  </evento>
+  <evento>
+    <nombre>Jahorina –  Donji Vakuf</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Premijer liga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363784452_jahorina_donji_vakuf/</url>
+  </evento>
+  <evento>
+    <nombre>Jahorina –  Promo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Premijer liga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363886475_jahorina_promo/</url>
+  </evento>
+  <evento>
+    <nombre>Gotha –  Giesen II</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/362340764_gotha_giesen_ii/</url>
+  </evento>
+  <evento>
+    <nombre>La Chaux-de-Fonds –  Sierre</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. Swiss League</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361510842_la_chaux_de_fonds_sierre/</url>
+  </evento>
+  <evento>
+    <nombre>Gran Premio de Alemania</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363208562_gran_premio_de_alemania/</url>
+  </evento>
+  <evento>
+    <nombre>Catalans Dragons –  Toulouse Olympique</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Super League</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/359280843_catalans_dragons_toulouse_olympique/</url>
+  </evento>
+  <evento>
+    <nombre>Oberwart Gunners –  Flyers Wels</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Austria. Superliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>32:37</hora>
+    <url>https://livetv.sx/es/eventinfo/359204896_oberwart_gunners_flyers_wels/</url>
+  </evento>
+  <evento>
+    <nombre>Fuerstenfeld Panthers –  Traiskirchen</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Austria. Superliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/359204899_fuerstenfeld_panthers_traiskirchen/</url>
+  </evento>
+  <evento>
+    <nombre>Andrade / Shelton –  Hijikata / Seggerman</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP. Houston. Doubles</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/362503687_andrade__shelton_hijikata__seggerman/</url>
+  </evento>
+  <evento>
+    <nombre>Detroit –  San Luis</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:10</hora>
+    <url>https://livetv.sx/es/eventinfo/359305179_detroit_san_luis/</url>
+  </evento>
+  <evento>
+    <nombre>Jessica Pegula (M) –   Iva Jovic (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>WTA. Charleston</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:10</hora>
+    <url>https://livetv.sx/es/eventinfo/363520631__jessica_pegula_m__iva_jovic_m/</url>
+  </evento>
+  <evento>
+    <nombre>Beitar Jerusalén –  Ironi Tiberíades</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Israel. Liga Premier</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/361567630_beitar_jerusal__n_ironi_tiber__ades/</url>
+  </evento>
+  <evento>
+    <nombre>Ujpest –  MTK</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Hungría. NB I</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/359172876_ujpest_mtk/</url>
+  </evento>
+  <evento>
+    <nombre>Al-Duhail –  Al-Gharafa</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Qatar. Stars League</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/359304270_al_duhail_al_gharafa/</url>
+  </evento>
+  <evento>
+    <nombre>Baylor –  Oklahoma Sooners</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>NCAA</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/363745037_baylor_oklahoma_sooners/</url>
+  </evento>
+  <evento>
+    <nombre>GKS Tychy –  Znicz Pruszkow</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. I Liga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/359305873_gks_tychy_znicz_pruszkow/</url>
+  </evento>
+  <evento>
+    <nombre>Slask –  Pogon Siedlce</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. I Liga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/359305875_slask_pogon_siedlce/</url>
+  </evento>
+  <evento>
+    <nombre>Wieczysta –  LKS Lodz</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Polonia. I Liga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/359305877_wieczysta_lks_lodz/</url>
+  </evento>
+  <evento>
+    <nombre>Vasco de Gama –  Sporting</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. LPB</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>14:11</hora>
+    <url>https://livetv.sx/es/eventinfo/362867945_vasco_de_gama_sporting/</url>
+  </evento>
+  <evento>
+    <nombre>Universo Treviso –  Derthona</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Italia. Lega Basket</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/359325325_universo_treviso_derthona/</url>
+  </evento>
+  <evento>
+    <nombre>B68 Toftir –  NSI Runavik</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Islas Feroe. Liga Premier</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/359307474_b68_toftir_nsi_runavik/</url>
+  </evento>
+  <evento>
+    <nombre>Zamora –  Fuenlabrada</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Primera FEB</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/361597008_zamora_fuenlabrada/</url>
+  </evento>
+  <evento>
+    <nombre>Estudiantes (M) –   Gernika Bizkaia (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Liga Femenina</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/362865499__estudiantes_m__gernika_bizkaia_m/</url>
+  </evento>
+  <evento>
+    <nombre>Podcetrtek –  Sentjur</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Eslovenia. Liga Nova KBM</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/359306613_podcetrtek_sentjur/</url>
+  </evento>
+  <evento>
+    <nombre>Mondorf –  Dresde</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/362340765_mondorf_dresde/</url>
+  </evento>
+  <evento>
+    <nombre>Estrella Roja –  VGSK</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Superliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/358652611_estrella_roja_vgsk/</url>
+  </evento>
+  <evento>
+    <nombre>Grosswallstadt –  Bayer Dormagen</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alemania. 2 Bundesliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/362695851_grosswallstadt_bayer_dormagen/</url>
+  </evento>
+  <evento>
+    <nombre>Zeller Eisbaren –  Gherdeina</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alps Hockey League</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/361511426_zeller_eisbaren_gherdeina/</url>
+  </evento>
+  <evento>
+    <nombre>Sisak –  Merano</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Alps Hockey League</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/361511427_sisak_merano/</url>
+  </evento>
+  <evento>
+    <nombre>St Josephs –  Lynx</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Gibraltar. Primera División</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/359189505_st_josephs_lynx/</url>
+  </evento>
+  <evento>
+    <nombre>Jumpers Zenica (W) –  Celik Zenica (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Prvenstvo</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/363784453_jumpers_zenica_w_celik_zenica_w/</url>
+  </evento>
+  <evento>
+    <nombre>Lavovi (W) –  Orlovi (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Prvenstvo</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/363784454_lavovi_w_orlovi_w/</url>
+  </evento>
+  <evento>
+    <nombre>Pelister (W) –  Spartak (W)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Superliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/362830842_pelister_w_spartak_w/</url>
+  </evento>
+  <evento>
+    <nombre>Duda / Latinovic –  Sachko / Karol</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Doubles</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/363360907_duda__latinovic_sachko__karol/</url>
+  </evento>
+  <evento>
+    <nombre>Panna Udvardy (M) –   Emiliana Arango (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>WTA. Bogotá</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:40</hora>
+    <url>https://livetv.sx/es/eventinfo/363576726__panna_udvardy_m__emiliana_arango_m/</url>
+  </evento>
+  <evento>
+    <nombre>Tommy Paul –  Francis Tiafoe</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>ATP. Houston</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:40</hora>
+    <url>https://livetv.sx/es/eventinfo/363646576_tommy_paul_francis_tiafoe/</url>
+  </evento>
+  <evento>
+    <nombre>Atletico Queluz –  Oliveirense</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. LPB</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:45</hora>
+    <url>https://livetv.sx/es/eventinfo/363152041_atletico_queluz_oliveirense/</url>
+  </evento>
+  <evento>
+    <nombre>Braga –  Vitoria</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Portugal. LPB</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:45</hora>
+    <url>https://livetv.sx/es/eventinfo/363152043_braga_vitoria/</url>
   </evento>
   <evento>
     <nombre>Hellas Verona – Fiorentina</nombre>
@@ -1775,6 +1911,14 @@
     <fecha>4 de abril</fecha>
     <hora>18:30</hora>
     <url>https://livetv.sx/es/eventinfo/359262311__/</url>
+  </evento>
+  <evento>
+    <nombre>Deportivo – Málaga</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>España. Segunda División</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/359262313__/</url>
   </evento>
   <evento>
     <nombre>Brest – Rennes</nombre>
@@ -1815,158 +1959,6 @@
     <fecha>4 de abril</fecha>
     <hora>21:05</hora>
     <url>https://livetv.sx/es/eventinfo/359395498__/</url>
-  </evento>
-  <evento>
-    <nombre>Al-Khaldiya – Al Riffa</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bahréin. Liga Premier</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:15</hora>
-    <url>https://livetv.sx/es/eventinfo/361566926__/</url>
-  </evento>
-  <evento>
-    <nombre>Lions Gibraltar – Europa</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Gibraltar. Primera División</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/359189507__/</url>
-  </evento>
-  <evento>
-    <nombre>PSV – Utrecht</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Países Bajos. Eredivisie</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/359191835__/</url>
-  </evento>
-  <evento>
-    <nombre>Dinamo M – Oremburgo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Rusia. Premier Liga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/359192621__/</url>
-  </evento>
-  <evento>
-    <nombre>Stuttgart II – Ratisbona</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 3 Bundesliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/359189339__/</url>
-  </evento>
-  <evento>
-    <nombre>RW Essen – Duisburgo</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Alemania. 3 Bundesliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/359189341__/</url>
-  </evento>
-  <evento>
-    <nombre>Benatky Nad Jizerou – Hradec Kralove B</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>República Checa. 3. Liga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/362634375__/</url>
-  </evento>
-  <evento>
-    <nombre>Nacional – Estrela</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Portugal. Primeira Liga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/359284891__/</url>
-  </evento>
-  <evento>
-    <nombre>Slovan Hradek Nad Nisou – Chrudim B</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>República Checa. 4. Liga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/363107769__/</url>
-  </evento>
-  <evento>
-    <nombre>Grazer AK – BW Linz</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Bundesliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359204866__/</url>
-  </evento>
-  <evento>
-    <nombre>Swarovski Tirol – WAC</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Austria. Bundesliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359204868__/</url>
-  </evento>
-  <evento>
-    <nombre>Paksi – Kazincbarcika</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Hungría. NB I</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359172874__/</url>
-  </evento>
-  <evento>
-    <nombre>Ararat – Van</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Armenia. Premier League</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359205466__/</url>
-  </evento>
-  <evento>
-    <nombre>Dinamo Minsk – Belshyna</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Bielorrusia. Vysheyshaya Liga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359205490__/</url>
-  </evento>
-  <evento>
-    <nombre>Pharco – Ghazl El Mehalla</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Egipto. Premier League</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359206524__/</url>
-  </evento>
-  <evento>
-    <nombre>Domzale – Primorje</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Eslovenia. PrvaLiga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359209615__/</url>
-  </evento>
-  <evento>
-    <nombre>Dinamo de Kiev – Karpaty</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Ucrania. Liga Premier</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359210390__/</url>
-  </evento>
-  <evento>
-    <nombre>Alverca II – Alcochetense</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Portugal. Campeonato de Portugal</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363792864__/</url>
-  </evento>
-  <evento>
-    <nombre>Asteras – AEL</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Grecia. Super League</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/360897266__/</url>
   </evento>
   <evento>
     <nombre>Trento – Alcione</nombre>
@@ -2225,14 +2217,6 @@
     <url>https://livetv.sx/es/eventinfo/361577577__/</url>
   </evento>
   <evento>
-    <nombre>Deportivo – Málaga</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>España. Segunda División</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/359262313__/</url>
-  </evento>
-  <evento>
     <nombre>Al-Wehdat – Al-Faisaly Amán</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Jordania. Premier League</competicion>
@@ -2297,14 +2281,6 @@
     <url>https://livetv.sx/es/eventinfo/359284325__/</url>
   </evento>
   <evento>
-    <nombre>AZ – Fortuna Sittard</nombre>
-    <deporte>Fútbol</deporte>
-    <competicion>Países Bajos. Eredivisie</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>18:45</hora>
-    <url>https://livetv.sx/es/eventinfo/359284327__/</url>
-  </evento>
-  <evento>
     <nombre>Maccabi Bnei Raina – Hapoel Jerusalem</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Israel. Liga Premier</competicion>
@@ -2351,6 +2327,14 @@
     <fecha>4 de abril</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/359412069__/</url>
+  </evento>
+  <evento>
+    <nombre>AZ – Fortuna Sittard</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Países Bajos. Eredivisie</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/359284327__/</url>
   </evento>
   <evento>
     <nombre>Argentino de Quilmes – Deportivo Liniers</nombre>
@@ -3513,6 +3497,14 @@
     <url>https://livetv.sx/es/eventinfo/359675492__/</url>
   </evento>
   <evento>
+    <nombre>Okayama Yunogo Belle (M) –  Ehime (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Japón. Mujeres. Nadeshiko League</competicion>
+    <fecha>5 de abril</fecha>
+    <hora>06:00</hora>
+    <url>https://livetv.sx/es/eventinfo/364001721__/</url>
+  </evento>
+  <evento>
     <nombre>Yokohama (M) –  Sfida Setagaya (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Japón. Mujeres. Nadeshiko League</competicion>
@@ -4289,12 +4281,44 @@
     <url>https://livetv.sx/es/eventinfo/362634377__/</url>
   </evento>
   <evento>
+    <nombre>Borac Cacak – Loznica</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Prva Liga</competicion>
+    <fecha>5 de abril</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363978902__/</url>
+  </evento>
+  <evento>
+    <nombre>Tekstilac Odzaci – Graficar</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Prva Liga</competicion>
+    <fecha>5 de abril</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363978904__/</url>
+  </evento>
+  <evento>
+    <nombre>Kabel – Trayal</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Prva Liga</competicion>
+    <fecha>5 de abril</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363978906__/</url>
+  </evento>
+  <evento>
     <nombre>Newcastle United (M) –  Nottingham Forest (M)</nombre>
     <deporte>Fútbol</deporte>
     <competicion>Inglaterra. Mujeres. Championship</competicion>
     <fecha>5 de abril</fecha>
     <hora>15:00</hora>
     <url>https://livetv.sx/es/eventinfo/363870364__/</url>
+  </evento>
+  <evento>
+    <nombre>Macva – Ušće</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Prva Liga</competicion>
+    <fecha>5 de abril</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363978910__/</url>
   </evento>
   <evento>
     <nombre>Zemun – FAP Priboj</nombre>
@@ -4335,6 +4359,22 @@
     <fecha>5 de abril</fecha>
     <hora>15:00</hora>
     <url>https://livetv.sx/es/eventinfo/359855828__/</url>
+  </evento>
+  <evento>
+    <nombre>Jedinstvo Ub – Dubocica</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Prva Liga</competicion>
+    <fecha>5 de abril</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363999463__/</url>
+  </evento>
+  <evento>
+    <nombre>Vozdovac – Dinamo Jug</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Serbia. Prva Liga</competicion>
+    <fecha>5 de abril</fecha>
+    <hora>15:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363999465__/</url>
   </evento>
   <evento>
     <nombre>Livingston – Heart</nombre>
@@ -5729,6 +5769,118 @@
     <url>https://livetv.sx/es/eventinfo/360417352__/</url>
   </evento>
   <evento>
+    <nombre>Falkenberg – Ljungskile</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Superettan</competicion>
+    <fecha>6 de abril</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360417364__/</url>
+  </evento>
+  <evento>
+    <nombre>Portsmouth – Oxford Utd</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Championship</competicion>
+    <fecha>6 de abril</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/360418756__/</url>
+  </evento>
+  <evento>
+    <nombre>Brujas – Anderlecht</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Bélgica. Pro League</competicion>
+    <fecha>6 de abril</fecha>
+    <hora>13:30</hora>
+    <url>https://livetv.sx/es/eventinfo/360896496__/</url>
+  </evento>
+  <evento>
+    <nombre>Grasshopper – Sion</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. Superliga</competicion>
+    <fecha>6 de abril</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360431170__/</url>
+  </evento>
+  <evento>
+    <nombre>Stade Nyonnais – Yverdon</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suiza. Challenge League</competicion>
+    <fecha>6 de abril</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360431182__/</url>
+  </evento>
+  <evento>
+    <nombre>Elfsborg – Goeteborg</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Allsvenskan</competicion>
+    <fecha>6 de abril</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360431230__/</url>
+  </evento>
+  <evento>
+    <nombre>Haecken – Brommapojkarna</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Allsvenskan</competicion>
+    <fecha>6 de abril</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360431232__/</url>
+  </evento>
+  <evento>
+    <nombre>Brommapojkarna (M) –  Hammarby (M)</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Suecia. Mujeres. Damallsvenskan</competicion>
+    <fecha>6 de abril</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360431266__/</url>
+  </evento>
+  <evento>
+    <nombre>Liefering – Amstetten</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Austria. 2. Liga</competicion>
+    <fecha>6 de abril</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360425420__/</url>
+  </evento>
+  <evento>
+    <nombre>KSV 1919 – Rapid de Viena II</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Austria. 2. Liga</competicion>
+    <fecha>6 de abril</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360425422__/</url>
+  </evento>
+  <evento>
+    <nombre>Hertha Wels – Austria Salzburgo</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Austria. 2. Liga</competicion>
+    <fecha>6 de abril</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360425424__/</url>
+  </evento>
+  <evento>
+    <nombre>Austria de Viena II – Austria Lustenau</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Austria. 2. Liga</competicion>
+    <fecha>6 de abril</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360425426__/</url>
+  </evento>
+  <evento>
+    <nombre>Millwall – Norwich City</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Inglaterra. Championship</competicion>
+    <fecha>6 de abril</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360425700__/</url>
+  </evento>
+  <evento>
+    <nombre>Vejle – Randers</nombre>
+    <deporte>Fútbol</deporte>
+    <competicion>Dinamarca. Superliga</competicion>
+    <fecha>6 de abril</fecha>
+    <hora>14:00</hora>
+    <url>https://livetv.sx/es/eventinfo/360426748__/</url>
+  </evento>
+  <evento>
     <nombre>Rangers – Detroit</nombre>
     <deporte>Hockey</deporte>
     <competicion>No especificado</competicion>
@@ -5807,46 +5959,6 @@
     <fecha>5 de abril</fecha>
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/359537258__/</url>
-  </evento>
-  <evento>
-    <nombre>Zemgale – Liepaja</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Letonia. LHL</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363309111__/</url>
-  </evento>
-  <evento>
-    <nombre>Tappara Sub-20 –  HPK Sub-20</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Finlandia. Nuorten SM-liiga Sub-20</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363570083__/</url>
-  </evento>
-  <evento>
-    <nombre>Pelicans – KooKoo</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Finlandia. Liiga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/361510085__/</url>
-  </evento>
-  <evento>
-    <nombre>HPK – Tappara</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Finlandia. Liiga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/361510086__/</url>
-  </evento>
-  <evento>
-    <nombre>Storhamar – Frisk Asker</nombre>
-    <deporte>Hockey</deporte>
-    <competicion>Noruega. Eliteserien</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/361513448__/</url>
   </evento>
   <evento>
     <nombre>Eisbaeren Berlín – Straubing Tigers</nombre>
@@ -6599,6 +6711,14 @@
     <fecha>6 de abril</fecha>
     <hora>15:00</hora>
     <url>https://livetv.sx/es/eventinfo/361510849__/</url>
+  </evento>
+  <evento>
+    <nombre>Gornyak Uchaly – Molot</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>6 de abril</fecha>
+    <hora>15:30</hora>
+    <url>https://livetv.sx/es/eventinfo/363999191__/</url>
   </evento>
   <evento>
     <nombre>Australia U18 – China Taipéi U18</nombre>
@@ -7369,6 +7489,14 @@
     <url>https://livetv.sx/es/eventinfo/362291087_mexico_u18_netherlands_u18/</url>
   </evento>
   <evento>
+    <nombre>Neftyanik – Ryazan</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Rusia. VHL</competicion>
+    <fecha>9 de abril</fecha>
+    <hora>17:30</hora>
+    <url>https://livetv.sx/es/eventinfo/363999193__/</url>
+  </evento>
+  <evento>
     <nombre>Kosice – Slovan</nombre>
     <deporte>Hockey</deporte>
     <competicion>Eslovaquia. Extraliga</competicion>
@@ -7385,12 +7513,28 @@
     <url>https://livetv.sx/es/eventinfo/362731525__/</url>
   </evento>
   <evento>
-    <nombre>Tofas – Trabzonspor</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Turquía. BSL</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359210342__/</url>
+    <nombre>Karlskoga – MODO</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Suecia. Allsvenskan</competicion>
+    <fecha>9 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363713757__/</url>
+  </evento>
+  <evento>
+    <nombre>Storhamar – Frisk Asker</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Noruega. Eliteserien</competicion>
+    <fecha>9 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361513450__/</url>
+  </evento>
+  <evento>
+    <nombre>Serbia U18 – China Taipéi U18</nombre>
+    <deporte>Hockey</deporte>
+    <competicion>Campeonato mundial Sub-18. Div II. Grupo B</competicion>
+    <fecha>9 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/362291088_serbia_u18_chinese_taipei_u18/</url>
   </evento>
   <evento>
     <nombre>Bilbao – Málaga</nombre>
@@ -7409,6 +7553,14 @@
     <url>https://livetv.sx/es/eventinfo/359261515__/</url>
   </evento>
   <evento>
+    <nombre>Mitteldeutscher – Bayern de Múnich</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>4 de abril</fecha>
+    <hora>18:30</hora>
+    <url>https://livetv.sx/es/eventinfo/359261517__/</url>
+  </evento>
+  <evento>
     <nombre>Granada – Gerona</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>España. Liga ACB</competicion>
@@ -7425,12 +7577,12 @@
     <url>https://livetv.sx/es/eventinfo/359325027__/</url>
   </evento>
   <evento>
-    <nombre>Wurzburgo – Rasta Vechta</nombre>
+    <nombre>Chemnitz – Bonn</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Alemania. Bundesliga</competicion>
     <fecha>4 de abril</fecha>
     <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359324387__/</url>
+    <url>https://livetv.sx/es/eventinfo/359324389__/</url>
   </evento>
   <evento>
     <nombre>Joventut – Murcia</nombre>
@@ -7463,94 +7615,6 @@
     <fecha>5 de abril</fecha>
     <hora>01:00</hora>
     <url>https://livetv.sx/es/eventinfo/359536946__/</url>
-  </evento>
-  <evento>
-    <nombre>Joventut (M) –  Avenida (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>España. Mujeres. Liga Femenina</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/362806302__/</url>
-  </evento>
-  <evento>
-    <nombre>Montpellier (M) – Landerneau Bretagne (W)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Francia. Mujeres. LFB</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/361510726_montpellier_w_landerneau_bretagne_w/</url>
-  </evento>
-  <evento>
-    <nombre>Levski – Shumen</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Bulgaria. NBL</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/359205568__/</url>
-  </evento>
-  <evento>
-    <nombre>San Lorenzo – Boca Juniors</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Argentina. LNB</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:30</hora>
-    <url>https://livetv.sx/es/eventinfo/362694883__/</url>
-  </evento>
-  <evento>
-    <nombre>Uniao Sportiva (M) –  GDESSA Barreiro (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Portugal. Mujeres. LFB</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/362817632__/</url>
-  </evento>
-  <evento>
-    <nombre>Ovarense – Porto</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Portugal. LPB</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363152035__/</url>
-  </evento>
-  <evento>
-    <nombre>Sepsi (M) – Targoviste (M)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Rumania. Mujeres. Divizia A1</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/362237617_sepsi_w_targoviste_w/</url>
-  </evento>
-  <evento>
-    <nombre>Vilkaviskio Perlas – Silute</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Lituania. NKL</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/362191034__/</url>
-  </evento>
-  <evento>
-    <nombre>Botev Vratsa – Spartak Pleven</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Bulgaria. NBL</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359205570__/</url>
-  </evento>
-  <evento>
-    <nombre>Vardar (M) – Kriva Palanka (W)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Macedonia del Norte. Mujeres. Prva Liga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/361848292_vardar_w_kriva_palanka_w/</url>
-  </evento>
-  <evento>
-    <nombre>Promitheas – Panathinaikos</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Grecia. GBL</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:15</hora>
-    <url>https://livetv.sx/es/eventinfo/359854387__/</url>
   </evento>
   <evento>
     <nombre>PAOK – Karditsas</nombre>
@@ -7801,14 +7865,6 @@
     <url>https://livetv.sx/es/eventinfo/362844432__/</url>
   </evento>
   <evento>
-    <nombre>Mitteldeutscher – Bayern de Múnich</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Alemania. Bundesliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>18:30</hora>
-    <url>https://livetv.sx/es/eventinfo/359261517__/</url>
-  </evento>
-  <evento>
     <nombre>Le Mans – Cholet</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Francia. LNB Pro A</competicion>
@@ -7839,14 +7895,6 @@
     <fecha>4 de abril</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/359246339__/</url>
-  </evento>
-  <evento>
-    <nombre>Jahorina – Donji Vakuf</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Bosnia y Herzegovina. Premijer liga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363784452_jahorina_donji_vakuf/</url>
   </evento>
   <evento>
     <nombre>Dinamo Zagreb – Cedevita Junior</nombre>
@@ -7919,30 +7967,6 @@
     <fecha>4 de abril</fecha>
     <hora>19:00</hora>
     <url>https://livetv.sx/es/eventinfo/362854834__/</url>
-  </evento>
-  <evento>
-    <nombre>Jumpers Zenica (W) – Celik Zenica (W)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Bosnia y Herzegovina. Mujeres. Prvenstvo</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/363784453_jumpers_zenica_w_celik_zenica_w/</url>
-  </evento>
-  <evento>
-    <nombre>Lavovi (W) – Orlovi (W)</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>Bosnia y Herzegovina. Mujeres. Prvenstvo</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/363784454_lavovi_w_orlovi_w/</url>
-  </evento>
-  <evento>
-    <nombre>Baylor – Oklahoma Sooners</nombre>
-    <deporte>Baloncesto</deporte>
-    <competicion>NCAA</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/363745037_baylor_oklahoma_sooners/</url>
   </evento>
   <evento>
     <nombre>Zamora – Fuenlabrada</nombre>
@@ -8049,12 +8073,12 @@
     <url>https://livetv.sx/es/eventinfo/362876608__/</url>
   </evento>
   <evento>
-    <nombre>Chemnitz – Bonn</nombre>
+    <nombre>Wurzburgo – Rasta Vechta</nombre>
     <deporte>Baloncesto</deporte>
     <competicion>Alemania. Bundesliga</competicion>
     <fecha>4 de abril</fecha>
     <hora>20:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359324389__/</url>
+    <url>https://livetv.sx/es/eventinfo/359324387__/</url>
   </evento>
   <evento>
     <nombre>Cividale – Fortitudo Bologna</nombre>
@@ -10273,20 +10297,20 @@
     <url>https://livetv.sx/es/eventinfo/361510116__/</url>
   </evento>
   <evento>
+    <nombre>Slavia Praga – Olomoucko</nombre>
+    <deporte>Baloncesto</deporte>
+    <competicion>República Checa. NBL</competicion>
+    <fecha>9 de abril</fecha>
+    <hora>19:30</hora>
+    <url>https://livetv.sx/es/eventinfo/361510170__/</url>
+  </evento>
+  <evento>
     <nombre>ATP. Montecarlo</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Montecarlo</competicion>
     <fecha>4 de abril</fecha>
     <hora>11:10</hora>
     <url>https://livetv.sx/es/eventinfo/363471875_atp_monte_carlo/</url>
-  </evento>
-  <evento>
-    <nombre>Fabian Marozsan – Daniel Mérida Aguilar</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Bucarest</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>15:55</hora>
-    <url>https://livetv.sx/es/eventinfo/363425498__/</url>
   </evento>
   <evento>
     <nombre>Damir Dzumhur – Nicolai Budkov Kjaer</nombre>
@@ -10317,7 +10341,7 @@
     <deporte>Tenis</deporte>
     <competicion>WTA. Charleston</competicion>
     <fecha>4 de abril</fecha>
-    <hora>19:00</hora>
+    <hora>19:10</hora>
     <url>https://livetv.sx/es/eventinfo/363520631__/</url>
   </evento>
   <evento>
@@ -10325,7 +10349,7 @@
     <deporte>Tenis</deporte>
     <competicion>WTA. Bogotá</competicion>
     <fecha>4 de abril</fecha>
-    <hora>19:35</hora>
+    <hora>19:40</hora>
     <url>https://livetv.sx/es/eventinfo/363576726__/</url>
   </evento>
   <evento>
@@ -10333,40 +10357,8 @@
     <deporte>Tenis</deporte>
     <competicion>WTA. Charleston</competicion>
     <fecha>4 de abril</fecha>
-    <hora>20:30</hora>
+    <hora>20:40</hora>
     <url>https://livetv.sx/es/eventinfo/363576744__/</url>
-  </evento>
-  <evento>
-    <nombre>McNally (M) /  Krawczyk (M) –  Putintseva (M) /  Cocciaretto (M)</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>WTA. Charleston. Doubles</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/362988519__/</url>
-  </evento>
-  <evento>
-    <nombre>Paulo Andre Saraiva Dos Santos – Facundo Diaz Acosta</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Sao Leopoldo</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:10</hora>
-    <url>https://livetv.sx/es/eventinfo/363425479__/</url>
-  </evento>
-  <evento>
-    <nombre>Rafael Jodar – Camilo Ugo Carabelli</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Marrakech</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:35</hora>
-    <url>https://livetv.sx/es/eventinfo/363360972__/</url>
-  </evento>
-  <evento>
-    <nombre>Kaliyanda Poonacha / Isaro – Donski / Siddhant</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP Challenger. Menorca. Dobles</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:40</hora>
-    <url>https://livetv.sx/es/eventinfo/363806036__/</url>
   </evento>
   <evento>
     <nombre>Lukas Neumayer – Felix Gill</nombre>
@@ -10401,19 +10393,11 @@
     <url>https://livetv.sx/es/eventinfo/363520597__/</url>
   </evento>
   <evento>
-    <nombre>Andrade / Shelton – Hijikata / Seggerman</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Houston. Doubles</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/362503687__/</url>
-  </evento>
-  <evento>
     <nombre>Duda / Latinovic – Sachko / Karol</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP Challenger. Barletta. Doubles</competicion>
     <fecha>4 de abril</fecha>
-    <hora>19:10</hora>
+    <hora>19:30</hora>
     <url>https://livetv.sx/es/eventinfo/363360907__/</url>
   </evento>
   <evento>
@@ -10421,7 +10405,7 @@
     <deporte>Tenis</deporte>
     <competicion>ATP. Houston</competicion>
     <fecha>4 de abril</fecha>
-    <hora>19:35</hora>
+    <hora>19:40</hora>
     <url>https://livetv.sx/es/eventinfo/363646576__/</url>
   </evento>
   <evento>
@@ -10437,7 +10421,7 @@
     <deporte>Tenis</deporte>
     <competicion>WTA. Bogota. Doubles</competicion>
     <fecha>4 de abril</fecha>
-    <hora>21:05</hora>
+    <hora>21:10</hora>
     <url>https://livetv.sx/es/eventinfo/363458108__/</url>
   </evento>
   <evento>
@@ -10479,6 +10463,14 @@
     <fecha>5 de abril</fecha>
     <hora>10:00</hora>
     <url>https://livetv.sx/es/eventinfo/363520512__/</url>
+  </evento>
+  <evento>
+    <nombre>Michele Ribecai – Lukas Neumayer</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP Challenger. Barletta</competicion>
+    <fecha>5 de abril</fecha>
+    <hora>10:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363993440__/</url>
   </evento>
   <evento>
     <nombre>Hubert Hurkacz – Luciano Darderi</nombre>
@@ -10609,14 +10601,6 @@
     <url>https://livetv.sx/es/eventinfo/363520586__/</url>
   </evento>
   <evento>
-    <nombre>Mariano Navone – Daniel Mérida Aguilar</nombre>
-    <deporte>Tenis</deporte>
-    <competicion>ATP. Bucarest</competicion>
-    <fecha>5 de abril</fecha>
-    <hora>11:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363953536__/</url>
-  </evento>
-  <evento>
     <nombre>ATP. Montecarlo</nombre>
     <deporte>Tenis</deporte>
     <competicion>ATP. Montecarlo</competicion>
@@ -10647,6 +10631,14 @@
     <fecha>5 de abril</fecha>
     <hora>12:30</hora>
     <url>https://livetv.sx/es/eventinfo/363953701__/</url>
+  </evento>
+  <evento>
+    <nombre>Mariano Navone – Daniel Mérida Aguilar</nombre>
+    <deporte>Tenis</deporte>
+    <competicion>ATP. Bucarest</competicion>
+    <fecha>5 de abril</fecha>
+    <hora>13:00</hora>
+    <url>https://livetv.sx/es/eventinfo/363953536__/</url>
   </evento>
   <evento>
     <nombre>Cameron Norrie – Miomir Kecmanovic</nombre>
@@ -11121,14 +11113,6 @@
     <url>https://livetv.sx/es/eventinfo/363471880_atp_monte_carlo/</url>
   </evento>
   <evento>
-    <nombre>Toulouse – Poitiers</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Francia. Ligue A</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363753116__/</url>
-  </evento>
-  <evento>
     <nombre>Jastrzebski Wegiel – Projekt Warszawa</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Polonia. PlusLiga</competicion>
@@ -11159,14 +11143,6 @@
     <fecha>4 de abril</fecha>
     <hora>18:01</hora>
     <url>https://livetv.sx/es/eventinfo/363944022__/</url>
-  </evento>
-  <evento>
-    <nombre>Gotha – Giesen II</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Alemania. 2 Bundesliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/362340764_gotha_giesen_ii/</url>
   </evento>
   <evento>
     <nombre>Giesen – Dueren</nombre>
@@ -11201,52 +11177,12 @@
     <url>https://livetv.sx/es/eventinfo/361768080__/</url>
   </evento>
   <evento>
-    <nombre>Braga (M) –  Sporting (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Portugal. Mujeres. A1</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363784458__/</url>
-  </evento>
-  <evento>
-    <nombre>Sokol/Post (M) –  Eisenerz/Trofaich (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Austria. Mujeres. Bundesliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>16:25</hora>
-    <url>https://livetv.sx/es/eventinfo/363755614__/</url>
-  </evento>
-  <evento>
     <nombre>Bydgoszcz (M) –  Chemik Police (M)</nombre>
     <deporte>Voleibol</deporte>
     <competicion>Polonia. Mujeres. MP</competicion>
     <fecha>4 de abril</fecha>
     <hora>17:00</hora>
     <url>https://livetv.sx/es/eventinfo/362209162__/</url>
-  </evento>
-  <evento>
-    <nombre>UYBA (M) –  Chieri (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Italia. Mujeres. Serie A</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363335328__/</url>
-  </evento>
-  <evento>
-    <nombre>Epicentr-Podoliany – Ucrania U20</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>Ucrania. Superliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/362831299_epicentr_podoliany_ukraine_u20/</url>
-  </evento>
-  <evento>
-    <nombre>Prostejov (M) –  UP Olomouc (M)</nombre>
-    <deporte>Voleibol</deporte>
-    <competicion>República Checa. Mujeres. Extraliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/363693281__/</url>
   </evento>
   <evento>
     <nombre>Graz (M) –  Linz-Steg (M)</nombre>
@@ -11737,22 +11673,6 @@
     <url>https://livetv.sx/es/eventinfo/358710262__/</url>
   </evento>
   <evento>
-    <nombre>Buzau – Celje</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>EHF Eurocup</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359206434__/</url>
-  </evento>
-  <evento>
-    <nombre>Nilufer – Tatabanya</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>EHF Eurocup</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>17:00</hora>
-    <url>https://livetv.sx/es/eventinfo/359206436__/</url>
-  </evento>
-  <evento>
     <nombre>Vac (M) –  Vasas (M)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Hungría. Mujeres. NB I</competicion>
@@ -11889,14 +11809,6 @@
     <url>https://livetv.sx/es/eventinfo/363202903__/</url>
   </evento>
   <evento>
-    <nombre>Conversano – Cingoli</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Italia. Serie A</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/361580887_conversano_cingoli/</url>
-  </evento>
-  <evento>
     <nombre>Alimentos de Valladolid (M) –  Logrono La Rioja (M)</nombre>
     <deporte>Balonmano</deporte>
     <competicion>España. Mujeres. División de Honor</competicion>
@@ -11969,14 +11881,6 @@
     <url>https://livetv.sx/es/eventinfo/361580979_mestrino_w_salerno_w/</url>
   </evento>
   <evento>
-    <nombre>Eppan – Cologne</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Italia. Serie A</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/361580980_eppan_cologne/</url>
-  </evento>
-  <evento>
     <nombre>Proleter – Vranje</nombre>
     <deporte>Balonmano</deporte>
     <competicion>Serbia. Superliga</competicion>
@@ -12009,22 +11913,6 @@
     <url>https://livetv.sx/es/eventinfo/361580985_jugovic_crvena_zvezda/</url>
   </evento>
   <evento>
-    <nombre>Proleter – Vranje</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Serbia. Superliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/361580986_proleter_vranje/</url>
-  </evento>
-  <evento>
-    <nombre>Samot – Kikinda</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Serbia. Superliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>19:00</hora>
-    <url>https://livetv.sx/es/eventinfo/361580987_samot_kikinda/</url>
-  </evento>
-  <evento>
     <nombre>Brno – Dukla Praga</nombre>
     <deporte>Balonmano</deporte>
     <competicion>República Checa. Extraliga</competicion>
@@ -12047,14 +11935,6 @@
     <fecha>4 de abril</fecha>
     <hora>19:30</hora>
     <url>https://livetv.sx/es/eventinfo/362695851__/</url>
-  </evento>
-  <evento>
-    <nombre>Pelister (W) – Spartak (W)</nombre>
-    <deporte>Balonmano</deporte>
-    <competicion>Macedonia del Norte. Mujeres. Superliga</competicion>
-    <fecha>4 de abril</fecha>
-    <hora>19:30</hora>
-    <url>https://livetv.sx/es/eventinfo/362830842_pelister_w_spartak_w/</url>
   </evento>
   <evento>
     <nombre>Málaga (M) –  Bera Bera (M)</nombre>
@@ -12383,6 +12263,22 @@
     <fecha>9 de abril</fecha>
     <hora>18:40</hora>
     <url>https://livetv.sx/es/eventinfo/361510294__/</url>
+  </evento>
+  <evento>
+    <nombre>Wisla Plock – Sporting</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Liga de Campeones de la EHF</competicion>
+    <fecha>9 de abril</fecha>
+    <hora>18:45</hora>
+    <url>https://livetv.sx/es/eventinfo/361510298__/</url>
+  </evento>
+  <evento>
+    <nombre>Leipzig – Goeppingen</nombre>
+    <deporte>Balonmano</deporte>
+    <competicion>Alemania. Bundesliga</competicion>
+    <fecha>9 de abril</fecha>
+    <hora>19:00</hora>
+    <url>https://livetv.sx/es/eventinfo/361510283__/</url>
   </evento>
   <evento>
     <nombre>Catalans Dragons – Toulouse Olympique</nombre>
@@ -13071,5 +12967,13 @@
     <fecha>9 de abril</fecha>
     <hora>18:10</hora>
     <url>https://livetv.sx/es/eventinfo/361510310__/</url>
+  </evento>
+  <evento>
+    <nombre>NY Yankees – Oakland</nombre>
+    <deporte>Béisbol</deporte>
+    <competicion>No especificado</competicion>
+    <fecha>9 de abril</fecha>
+    <hora>19:35</hora>
+    <url>https://livetv.sx/es/eventinfo/361510311__/</url>
   </evento>
 </eventos>
